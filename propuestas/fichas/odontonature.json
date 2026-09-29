@@ -1,0 +1,136 @@
+{
+  "slug": "odontonature",
+  "numero": 54,
+  "clinica": {
+    "nombre": "Clínica Dental Odontonature",
+    "nombreCorto": "Odontonature",
+    "dominio": "odontonature.com",
+    "web": "https://www.odontonature.com/",
+    "contacto": "https://www.odontonature.com/contacto",
+    "decisor": "Dirección de Odontonature"
+  },
+  "colores": {
+    "acento": "#3f7a55",
+    "tinta": "#1c2a21",
+    "profundo": "#22352a",
+    "suave": "#eff5ef",
+    "borde": "#d6e5d6",
+    "calido": "#b59c72",
+    "calidoSuave": "#f6f1e8"
+  },
+  "fotos": {
+    "principal": "fotos/odontonature.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "MANOLO TABERNER, 25 · VALENCIA",
+    "titulo": [
+      "Hoy, vuestra web avisa de un riesgo.",
+      "Que vuelva a dar la bienvenida."
+    ],
+    "intro": "Una clínica con años de trayectoria en Valencia, de la limpieza dental a la implantología. Hoy quien entra en vuestra web se encuentra un aviso de seguridad. Proponemos una web que funcione y en la que el paciente, además, reserve su cita en el momento.",
+    "hallazgos": [
+      "El certificado de seguridad de www.odontonature.com está caducado: el navegador avisa al paciente de que «la conexión no es privada» antes de enseñarle nada. Y la dirección sin www, odontonature.com, devuelve un error de acceso denegado.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 10:00 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Una web segura, con la cita dentro.",
+      "texto": "Recuperar la web con su certificado en regla y un asistente que enseña los huecos libres y deja la cita reservada, también por WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Sabíais que vuestra web muestra un aviso de seguridad a quien la abre?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "MANOLO TABERNER, 25 · VALENCIA",
+    "telefono": "963 26 16 79",
+    "telefonos": "963 26 16 79",
+    "direccion": "C/ Manolo Taberner, 25 · 46018 Valencia",
+    "marca": "ODONTONATURE",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Cuidamos tu sonrisa,",
+    "heroDestacado": "de forma natural.",
+    "heroTexto": "De la limpieza dental a la ortodoncia, la endodoncia, la periodoncia y los implantes. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Tu clínica dental en Valencia.",
+    "nota": "En la calle Manolo Taberner, 25.",
+    "fotoEtiqueta": "",
+    "fotoTitulo": "",
+    "cifra": "",
+    "cifraEtiqueta": "",
+    "equipoTitulo": "",
+    "equipoTexto": "",
+    "valores": [],
+    "servicios": [
+      "Limpieza dental",
+      "Odontología general",
+      "Ortodoncia",
+      "Endodoncia",
+      "Periodoncia",
+      "Implantología"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Manolo Taberner, 25 (46018 Valencia)."
+      ],
+      [
+        "¿Qué tratamientos hacéis?",
+        "Odontología general, limpieza, ortodoncia, endodoncia, periodoncia e implantes."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
+    "motivos": [
+      "Primera visita",
+      "Limpieza dental",
+      "Revisión",
+      "Ortodoncia",
+      "Implantes"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "Sin acceso a su web para usar sus fotos: verde natural y tipografía limpia, a la espera de las imágenes reales de la clínica."
+  }
+}

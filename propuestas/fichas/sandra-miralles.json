@@ -1,0 +1,159 @@
+{
+  "slug": "sandra-miralles",
+  "numero": 56,
+  "clinica": {
+    "nombre": "Clínica Dental Dra. Sandra Miralles",
+    "nombreCorto": "Dra. Sandra Miralles",
+    "dominio": "clinicadentalsandramiralles.es",
+    "web": "https://clinicadentalsandramiralles.es/",
+    "contacto": "https://clinicadentalsandramiralles.es/contacto",
+    "decisor": "Dra. Sandra Miralles"
+  },
+  "colores": {
+    "acento": "#1a8fa6",
+    "tinta": "#16242b",
+    "profundo": "#173746",
+    "suave": "#edf7f9",
+    "borde": "#cfe8ee",
+    "calido": "#1d4e89",
+    "calidoSuave": "#eef3f9"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalsandramiralles.es/wp-content/uploads/2024/02/Sandra.jpg",
+    "clinica1": "https://clinicadentalsandramiralles.es/wp-content/uploads/2024/02/DSC02060.jpg",
+    "clinica2": "https://clinicadentalsandramiralles.es/wp-content/uploads/2024/02/DSC02131.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "MALILLA · JOAQUÍN BENLLOCH, 19",
+    "titulo": [
+      "No sois franquicia, y se nota en el trato.",
+      "Que se note también al pedir cita."
+    ],
+    "intro": "Una clínica con trato cercano en Malilla y en Pelayo, con tomografía 3D y el mismo dentista en cada visita. Proponemos que el paciente pueda reservar su cita en el momento, desde la web o por WhatsApp.",
+    "hallazgos": [
+      "El botón «Contáctanos» de vuestra portada lleva a un formulario de nombre, correo y comentario: el paciente escribe y espera. Y en la lista de tratamientos de la portada aparece «Invisaling» en lugar de Invisalign.",
+      "Según vuestro horario en Google, del viernes a las 15:00 al lunes a las 9:30 pasan 66 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente contesta al momento, ofrece los huecos libres y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. Miralles y su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes del formulario contestáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "JOAQUÍN BENLLOCH, 19 · MALILLA",
+    "telefono": "962 06 74 54",
+    "telefonos": "Malilla 962 06 74 54 · Pelayo 963 52 45 57",
+    "direccion": "C/ Joaquín Benlloch, 19 · 46006 Valencia",
+    "marca": "SANDRA MIRALLES",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nuestra clínica",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Un resultado",
+    "heroDestacado": "estable y natural.",
+    "heroTexto": "Funcional, estético y biológicamente óptimo, pensado para durar. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "No somos franquicia.",
+    "nota": "En Malilla y en la calle Pelayo.",
+    "fotoEtiqueta": "DRA. SANDRA MIRALLES",
+    "fotoTitulo": "Siempre tu mismo dentista.",
+    "cifra": "",
+    "cifraEtiqueta": "CONÓCENOS",
+    "equipoTitulo": "El dentista que te atendió, cada vez.",
+    "equipoTexto": "No somos franquicia: podemos ofrecerte los mejores precios y garantizarte que, cuando vuelvas, encontrarás de nuevo al dentista que te atendió.",
+    "valores": [
+      [
+        "Tomografía 3D.",
+        "Para planificar cada intervención."
+      ],
+      [
+        "Radiografía digital.",
+        "Menos radiación, más precisión."
+      ],
+      [
+        "Trato cercano.",
+        "Te tratamos como mereces."
+      ]
+    ],
+    "galeriaEtiqueta": "NUESTRAS NUEVAS INSTALACIONES",
+    "galeriaTitulo": "Acércate a conocerlas.",
+    "galeriaDestacado": "En Malilla.",
+    "pies": [
+      "Sala de espera",
+      "Gabinete"
+    ],
+    "servicios": [
+      "Invisalign y ortodoncia",
+      "Implantes dentales",
+      "Carillas de porcelana",
+      "Blanqueamiento",
+      "Periodoncia",
+      "Regeneración ósea"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En Malilla (C/ Joaquín Benlloch, 19) y en la calle Pelayo, 5, pta. 1."
+      ],
+      [
+        "¿Tenéis seguro dental?",
+        "Sí, con limpieza y extracciones gratuitas. Pregúntanos."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar respuesta.",
+    "motivos": [
+      "Primera visita",
+      "Revisión e higiene",
+      "Invisalign",
+      "Implantes",
+      "Estética dental"
+    ],
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
+    },
+    "horario": [],
+    "pieMarca": "Clínica dental en Malilla y Pelayo",
+    "notaDiseno": "Clínica de la Dra. Miralles: el turquesa de sus uniformes, la doctora en primer plano y la cita reservable por WhatsApp."
+  }
+}
