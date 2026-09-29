@@ -2,6 +2,7 @@ import { MRR_PHASE, isWonPhase, phaseLabels, pipelinePhases, type PipelinePhaseV
 import { isFollowUpOverdue, phaseAgeDays, salesPhases } from "./client-process";
 import { pipelineCounts } from "./metrics";
 import type { ProposalEventRow } from "./proposals";
+import type { SitePageviewRow, SiteSessionRow } from "./site-analytics";
 
 export type AnalyticsClient = {
   id: string; name: string; phase: PipelinePhaseValue; city: string | null; leadSource: string | null;
@@ -14,6 +15,8 @@ export type AnalyticsData = {
   tasks: { status: string; createdAt: string; dueAt: string | null }[];
   content: { status: string; createdAt: string }[];
   proposalEvents: ProposalEventRow[];
+  siteSessions: SiteSessionRow[];
+  sitePageviews: SitePageviewRow[];
   now: string;
 };
 

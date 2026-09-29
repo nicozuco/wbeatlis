@@ -6,7 +6,7 @@ with expected(table_name) as (
     ('MindMap'), ('MindMapNode'), ('MindMapEdge'),
     ('Reminder'), ('PushSubscription'), ('UserPreference'),
     ('FormationCourse'), ('FormationLesson'), ('FormationSegment'), ('FormationDocument'),
-    ('ProposalEvent')
+    ('ProposalEvent'), ('SiteSession'), ('SitePageview')
 ), security as (
   select
     e.table_name,

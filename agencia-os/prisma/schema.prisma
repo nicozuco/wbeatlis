@@ -578,3 +578,42 @@ model ProposalEvent {
   @@index([slug, occurredAt])
   @@index([occurredAt])
 }
+
+// Visitas a las webs públicas (atlisclinicas.com y las propuestas). Las envía
+// el script visitas.js de cada web a /api/t. Sin cookies ni IP: el id es un
+// número aleatorio que vive solo mientras la pestaña está abierta.
+model SiteSession {
+  id          String   @id
+  site        String
+  source      String
+  medium      String?
+  campaign    String?
+  referrer    String?
+  landingPath String
+  currentPath String
+  device      String
+  city        String?
+  country     String?
+  pageviews   Int      @default(1)
+  converted   Boolean  @default(false)
+  startedAt   DateTime @default(now())
+  lastSeenAt  DateTime @default(now())
+
+  pageviewRows SitePageview[]
+
+  @@index([lastSeenAt])
+  @@index([startedAt])
+}
+
+model SitePageview {
+  id         String   @id @default(cuid())
+  sessionId  String
+  site       String
+  path       String
+  occurredAt DateTime @default(now())
+
+  session SiteSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  @@index([occurredAt])
+  @@index([sessionId])
+}

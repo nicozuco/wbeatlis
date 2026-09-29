@@ -87,6 +87,8 @@ Cada propuesta te avisa cuando la clínica:
 
 Todo queda en **agencia-os → Analítica → Propuestas**: cuántas clínicas la han abierto, cuántas llegaron a la oferta, cuántas pulsaron la demo, clínica por clínica con la hora, el dispositivo y la ciudad de la última visita. Si tienes activados los avisos de agencia-os en el móvil, te llega uno cuando una clínica la abre, pulsa la demo o la comparte. **Cuando llegue "abierta", llama ese mismo día:** "Os envié una propuesta para la clínica y he visto que la habéis abierto, ¿qué os ha parecido?".
 
+En **Analítica → Web** tienes además las visitas a atlisclinicas.com y a las propuestas: cuánta gente hay ahora mismo, de dónde viene (Instagram, Facebook, Google, email…), qué páginas ve y cuántos pulsan la demo. Para saber con seguridad de dónde viene cada visita, añade una etiqueta a los enlaces que publiques, por ejemplo `atlisclinicas.com/?utm_source=instagram&utm_medium=bio`.
+
 **Tus visitas no deben contar.** Abre una vez cualquier propuesta en cada navegador y dispositivo tuyo con `?yo` al final (por ejemplo `https://propuestas.atlisclinicas.com/deniz/?yo`). Desde ese momento, tus visitas desde ese navegador se ignoran.
 
 La demo la reservan en tu calendario de GoHighLevel (botón "Pedir mi demo gratuita" → atlisclinicas.com/demo.html).

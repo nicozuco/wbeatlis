@@ -1,10 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState, useSyncExternalStore } from "react";
-import { ArrowRight, BarChart3, Download, Filter, MousePointerClick, WalletCards } from "lucide-react";
-import { Bar, BarChart, CartesianGrid, Cell, Legend, Pie, PieChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import { useMemo, useState } from "react";
+import { ArrowRight, BarChart3, Download, Filter, Globe, MousePointerClick, WalletCards } from "lucide-react";
+import { Bar, BarChart, CartesianGrid, Cell, Legend, Pie, PieChart, Tooltip, XAxis, YAxis } from "recharts";
+import { axis, Breakdown, ChartFrame, colors, number, Panel, tooltipStyle } from "@/components/analytics/chart-parts";
 import { ProposalsView } from "@/components/analytics/proposals-view";
+import { WebView } from "@/components/analytics/web-view";
 import { PageHeader } from "@/components/shared/page-header";
 import { KpiCard } from "@/components/shared/kpi-card";
 import { ViewToggle } from "@/components/shared/view-toggle";
@@ -15,28 +17,6 @@ import { isFollowUpOverdue } from "@/lib/client-process";
 import { contentStatusLabels, taskStatusLabels } from "@/lib/domain";
 import { formatCurrency, formatPercent } from "@/lib/format";
 
-// Colores de fase en el orden de pipelinePhases (lib/domain.ts); tokens de app/globals.css.
-const colors = ["var(--phase-uncontacted)", "var(--phase-contacted)", "var(--phase-responded)", "var(--phase-meeting)", "var(--phase-proposal)", "var(--phase-contracted)", "var(--phase-signed)", "var(--phase-first-payment)", "var(--phase-onboarding)", "var(--phase-active)", "var(--phase-discarded)"];
-const tooltipStyle = { background: "var(--surface-raised)", border: "1px solid var(--border)", borderRadius: 8, color: "var(--text)", fontSize: 12 };
-const axis = { fill: "var(--text-muted)", fontSize: 11 };
-const number = (value: number | null, unit = "") => value === null ? "—" : new Intl.NumberFormat("es-ES", { maximumFractionDigits: 1 }).format(value) + unit;
-const subscribe = () => () => {};
-const clientSnapshot = () => true;
-const serverSnapshot = () => false;
-
-function Panel({ title, note, children }: { title: string; note: string; children: React.ReactNode }) {
-  return <section className="min-w-0 rounded-xl border border-border bg-surface p-5"><h2 className="font-heading text-lg font-semibold">{title}</h2><p className="mt-1 text-xs leading-5 text-text-muted">{note}</p><div className="mt-5">{children}</div></section>;
-}
-
-function ChartFrame({ label, children }: { label: string; children: React.ReactNode }) {
-  const mounted = useSyncExternalStore(subscribe, clientSnapshot, serverSnapshot);
-  return <div role="img" aria-label={label} className="h-64 w-full min-w-0">{mounted ? <ResponsiveContainer width="100%" height="100%" minWidth={0} minHeight={0} initialDimension={{ width: 300, height: 256 }}>{children}</ResponsiveContainer> : null}</div>;
-}
-
-function Breakdown({ rows }: { rows: { label: string; count: number; color?: string }[] }) {
-  const total = rows.reduce((sum, row) => sum + row.count, 0);
-  return <div className="space-y-4">{rows.map((row, index) => <div key={row.label}><div className="mb-2 flex items-center justify-between gap-3 text-sm"><span>{row.label}</span><span className="font-mono text-xs text-text-muted">{row.count} · {formatPercent(row.count, total)}</span></div><div className="h-2 overflow-hidden rounded-full bg-border"><div className="h-full rounded-full" style={{ width: `${total ? row.count / total * 100 : 0}%`, background: row.color ?? colors[index % colors.length] }} /></div></div>)}{total === 0 && <p className="text-xs text-text-muted">No hay registros en este periodo.</p>}</div>;
-}
 
 function exportSources(rows: ReturnType<typeof commercialAnalytics>["sources"]) {
   // Neutraliza fórmulas en campos de texto al abrir el CSV en una hoja de cálculo.
@@ -46,7 +26,7 @@ function exportSources(rows: ReturnType<typeof commercialAnalytics>["sources"]) 
   const link = document.createElement("a"); link.href = url; link.download = "analitica-origenes.csv"; link.click(); URL.revokeObjectURL(url);
 }
 
-export function AnalyticsWorkspace({ data, initialView = "commercial" }: { data: AnalyticsData; initialView?: "commercial" | "operations" | "proposals" }) {
+export function AnalyticsWorkspace({ data, initialView = "commercial" }: { data: AnalyticsData; initialView?: "commercial" | "operations" | "proposals" | "web" }) {
   const [view, setView] = useState(initialView);
   const [period, setPeriod] = useState("all");
   const [source, setSource] = useState("ALL");
@@ -59,6 +39,8 @@ export function AnalyticsWorkspace({ data, initialView = "commercial" }: { data:
   const tasks = data.tasks.filter((task) => inPeriod(task.createdAt, start, data.now));
   const content = data.content.filter((item) => inPeriod(item.createdAt, start, data.now));
   const proposalEvents = data.proposalEvents.filter((event) => inPeriod(event.occurredAt, start, data.now));
+  const siteSessions = data.siteSessions.filter((session) => inPeriod(session.startedAt, start, data.now));
+  const sitePageviews = data.sitePageviews.filter((pageview) => inPeriod(pageview.occurredAt, start, data.now));
   const sources = [...new Set(data.clients.map((client) => client.leadSource ?? ""))].sort();
   const cities = [...new Set(data.clients.map((client) => client.city ?? ""))].sort();
   const closed = stats.contracted + stats.discarded;
@@ -68,15 +50,15 @@ export function AnalyticsWorkspace({ data, initialView = "commercial" }: { data:
   return <>
     <PageHeader title="Analítica" description="Datos de la agencia · Entiende qué funciona" actions={<Button variant="outline" asChild><Link href="/clientes">Abrir procesos <ArrowRight className="size-4" /></Link></Button>} />
     <div className="mt-7 flex flex-col justify-between gap-4 rounded-xl border border-border bg-surface p-4 lg:flex-row lg:items-center">
-      <div className="-mx-1 max-w-full overflow-x-auto px-1 [&>div]:w-max"><ViewToggle value={view} onChange={setView} options={[{ value: "commercial", label: "Comercial", icon: BarChart3 }, { value: "operations", label: "Operaciones y finanzas", icon: WalletCards }, { value: "proposals", label: "Propuestas", icon: MousePointerClick }]} /></div>
+      <div className="-mx-1 max-w-full overflow-x-auto px-1 [&>div]:w-max"><ViewToggle value={view} onChange={setView} options={[{ value: "commercial", label: "Comercial", icon: BarChart3 }, { value: "operations", label: "Operaciones y finanzas", icon: WalletCards }, { value: "web", label: "Web", icon: Globe }, { value: "proposals", label: "Propuestas", icon: MousePointerClick }]} /></div>
       <div className="flex flex-wrap items-center gap-2"><Filter className="mr-1 hidden size-4 text-text-muted sm:block" />
         <select aria-label="Periodo de análisis" value={period} onChange={(event) => setPeriod(event.target.value)} className={`${fieldClass} max-w-full rounded-lg border px-3 text-sm`}><option value="all">Todo el historial</option><option value="30">Últimos 30 días</option><option value="90">Últimos 90 días</option><option value="365">Últimos 365 días</option></select>
         {view === "commercial" && <><select aria-label="Filtrar por origen" value={source} onChange={(event) => setSource(event.target.value)} className={`${fieldClass} max-w-full rounded-lg border px-3 text-sm`}><option value="ALL">Todos los orígenes</option>{sources.map((value) => <option key={value} value={value}>{value || "Sin origen"}</option>)}</select><select aria-label="Filtrar por ciudad" value={city} onChange={(event) => setCity(event.target.value)} className={`${fieldClass} max-w-full rounded-lg border px-3 text-sm`}><option value="ALL">Todas las ciudades</option>{cities.map((value) => <option key={value} value={value}>{value || "Sin ciudad"}</option>)}</select></>}
       </div>
     </div>
-    <p className="mt-3 text-xs leading-5 text-text-muted">{view === "proposals" ? "Visitas a las propuestas de propuestas.atlisclinicas.com. El periodo filtra por fecha de la visita." : view === "commercial" ? `${clients.length} de ${data.clients.length} clínicas · El periodo selecciona clínicas por fecha de alta. Las conversiones incluyen su historial completo y las cuotas reflejan su estado actual.` : "Vista global de la agencia. Finanzas se filtra por fecha del movimiento; tareas y contenido, por fecha de creación. Los estados son los actuales."} Fechas en hora de Madrid.</p>
+    <p className="mt-3 text-xs leading-5 text-text-muted">{view === "web" ? "Visitas a atlisclinicas.com y a las propuestas. El periodo filtra por el día de la visita." : view === "proposals" ? "Visitas a las propuestas de propuestas.atlisclinicas.com. El periodo filtra por fecha de la visita." : view === "commercial" ? `${clients.length} de ${data.clients.length} clínicas · El periodo selecciona clínicas por fecha de alta. Las conversiones incluyen su historial completo y las cuotas reflejan su estado actual.` : "Vista global de la agencia. Finanzas se filtra por fecha del movimiento; tareas y contenido, por fecha de creación. Los estados son los actuales."} Fechas en hora de Madrid.</p>
 
-    {view === "proposals" ? <ProposalsView events={proposalEvents} clients={data.clients} /> : view === "commercial" ? <>
+    {view === "web" ? <WebView sessions={siteSessions} pageviews={sitePageviews} now={data.now} from={start} /> : view === "proposals" ? <ProposalsView events={proposalEvents} clients={data.clients} /> : view === "commercial" ? <>
       {clients.length === 0 && <div className="mt-5 rounded-xl border border-dashed border-border p-6 text-center"><p>No hay clínicas para esta selección.</p><p className="mt-2 text-sm text-text-muted">Amplía los filtros o añade una clínica para empezar a medir el proceso.</p></div>}
       <section aria-label="Indicadores comerciales" className="mt-5 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
         <KpiCard label="Tasa de respuesta" value={formatPercent(stats.responded, stats.contacted)} note={`${stats.responded} de ${stats.contacted} contactadas`} />
