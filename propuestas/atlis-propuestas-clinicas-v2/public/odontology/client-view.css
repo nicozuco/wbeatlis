@@ -96,3 +96,41 @@ body.client-sticky-on .client-sticky{transform:translate(-50%,0);pointer-events:
 body.client-sticky-on .client-sticky{transform:translateY(0)}
 body.client-demo-visible .client-sticky{transform:translateY(140%)!important}
 }
+
+/* Edición 03 · experiencia en móvil */
+.client-share{display:inline-flex;align-items:center;gap:8px;margin-top:14px;padding:10px 2px;background:none;border:0;color:#5b7469;font:600 13px Inter,sans-serif;cursor:pointer}
+.client-share:hover{color:var(--client-accent)}
+.client-share-offer{display:flex;margin:12px auto 0;color:#35584c}
+.client-site-more{display:none}
+@media(max-width:600px){
+/* menos recorrido: fuera lo que repite */
+.client-value,.client-cards{display:none!important}
+.client-tour{padding:36px 0 10px!important}
+.client-tour>p{margin:14px 0 6px!important}
+.client-hero figure img{max-height:260px;object-fit:cover;object-position:top}
+/* pestañas fijas y cómodas de pulsar */
+.client-demo .demo-toolbar{position:sticky;top:0;z-index:30;background:#f8f8f4;box-shadow:0 8px 16px -12px #0000002e}
+.client-demo .tab-list button{min-height:52px;font-size:13px!important}
+.client-demo .tab-list button strong{font-size:13px}
+/* textos legibles */
+.client-header span,.client-header strong{font-size:12px!important}
+.client-eyebrow,.client-rec-badge,.client-modes-grid em{font-size:11px!important}
+.client-hero small,.client-findings-note,.client-demo-note,.client-close-contact,.client-modes-note{font-size:13px!important;line-height:1.7}
+.client-footer small{font-size:11px!important}
+.section-kicker{font-size:12px!important}
+#stage-intro,.stage-heading p{font-size:15px!important;line-height:1.6}
+.wa-guided-note,.automation-status,.handoff-foot,.bp-source-note,.bp-design-note p{font-size:12.5px!important;line-height:1.6}
+.wa-bubble{font-size:13.5px!important}
+.handoff-panel li p,.handoff-panel li small,.handoff-panel dd,.handoff-panel dt{font-size:13px!important}
+.wa-scenario-tabs button,[data-wa-scenario]{min-height:44px;font-size:13px!important}
+.wa-replay{min-height:44px;font-size:13px!important}
+/* enlaces con zona táctil suficiente */
+.client-rec-actions{flex-direction:column;gap:0!important}
+.client-rec-link{display:block;padding:12px 0;font-size:15px!important}
+.client-sticky a{padding:13px 18px}
+/* la web propuesta, recogida para no hacer 6.000 px de scroll */
+.bespoke-window.is-collapsed{max-height:1500px;overflow:hidden;position:relative}
+.bespoke-window.is-collapsed::after{content:"";position:absolute;left:0;right:0;bottom:0;height:180px;background:linear-gradient(transparent,#fff 85%);pointer-events:none}
+.client-site-more{display:flex;justify-content:center;align-items:center;width:100%;min-height:52px;margin:-8px 0 8px;border:1px solid var(--client-accent);border-radius:10px;background:#fff;color:var(--client-accent);font:600 15px Inter,sans-serif;position:relative;z-index:2}
+.client-share{min-height:44px;font-size:14px}
+}
