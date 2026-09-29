@@ -1,0 +1,162 @@
+{
+  "slug": "dental-medica",
+  "numero": 26,
+  "clinica": {
+    "nombre": "Dental Médica",
+    "nombreCorto": "Dental Médica",
+    "dominio": "dentalmedica.es",
+    "web": "https://dentalmedica.es/",
+    "contacto": "https://dentalmedica.es/contacto/",
+    "decisor": "Dirección de Dental Médica"
+  },
+  "colores": {
+    "acento": "#e8185a",
+    "tinta": "#1f2433",
+    "profundo": "#1d2a4a",
+    "suave": "#fdf1f4",
+    "borde": "#f6d6df",
+    "calido": "#1e73be",
+    "calidoSuave": "#eef4fb"
+  },
+  "fotos": {
+    "principal": "https://dentalmedica.es/wp-content/uploads/2026/01/160126_DentalMedica_1.webp",
+    "clinica1": "https://dentalmedica.es/wp-content/uploads/2023/01/instalaciones-centro-valencia-dental-medica-box.jpg",
+    "clinica2": "https://dentalmedica.es/wp-content/uploads/2023/10/dental-medica-clinica-consulta.webp"
+  },
+  "propuesta": {
+    "etiqueta": "RUZAFA · CALLE MARTÍ, 13",
+    "titulo": [
+      "Dientes en 24 horas.",
+      "La cita, en 24 segundos."
+    ],
+    "intro": "Más de 30 años diseñando sonrisas en Ruzafa, con implantes de carga inmediata, ortodoncia invisible y una hora de parking gratis. Proponemos que pedir la primera cita sea igual de rápido que vuestros tratamientos.",
+    "hallazgos": [
+      "Para pedir cita, vuestra web ofrece un formulario («responderemos lo antes posible») y el teléfono: el paciente se va sin fecha y queda esperando respuesta.",
+      "Según vuestro horario, el viernes cerráis a las 14:00 y no volvéis a abrir hasta el lunes a las 10:00: 68 horas seguidas sin nadie que pueda dar cita."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Un asistente en la web que reserve la primera cita.",
+      "texto": "Orienta al paciente (dientes en 24 horas, ortodoncia invisible, revisión…), le ofrece los huecos libres y deja la cita reservada. El diagnóstico y los presupuestos siguen siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas consultas sobre «dientes en 24 horas» os llegan fuera de horario?",
+    "tema": "primera cita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "CALLE MARTÍ, 13 · RUZAFA · VALENCIA",
+    "telefono": "963 52 01 52",
+    "telefonos": "963 52 01 52 · hola@dentalmedica.es",
+    "direccion": "C/ de Martí, 13 · 46005 Valencia",
+    "marca": "DENTAL MÉDICA",
+    "submarca": "CLÍNICA DENTAL · VALENCIA",
+    "menuEquipo": "Dientes en 24 h",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Más de 30 años",
+    "heroDestacado": "diseñando sonrisas.",
+    "heroTexto": "Tu salud dental y la de tu familia en manos de un equipo multidisciplinar. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Renueva tu sonrisa",
+    "frase": "Tu sonrisa es nuestra prioridad.",
+    "nota": "1 hora de parking gratis en Empark Reino de Valencia.",
+    "fotoEtiqueta": "DENTAL MÉDICA",
+    "fotoTitulo": "Instalaciones renovadas.",
+    "cifra": "30+",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "Dientes en 24 horas.",
+    "equipoTexto": "Implantes de carga inmediata para transformar tu sonrisa en un día, con escáner intraoral iTero y TAC 3D para un tratamiento totalmente digital.",
+    "valores": [
+      [
+        "Para toda la familia.",
+        "Adultos, niños, bebés, embarazadas y personas con necesidades especiales."
+      ],
+      [
+        "Todo digital.",
+        "Escáner iTero y TAC 3D en la propia clínica."
+      ],
+      [
+        "Financiación.",
+        "Y trabajamos con aseguradoras como DKV o Cosalud."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el corazón de Ruzafa.",
+    "galeriaDestacado": "Totalmente renovada.",
+    "pies": [
+      "Calle Martí, 13 · Valencia",
+      "Gabinete de la clínica"
+    ],
+    "servicios": [
+      "Dientes en 24 horas",
+      "Ortodoncia invisible",
+      "Implantes y prótesis",
+      "Odontología estética",
+      "Odontopediatría",
+      "Sedación consciente"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Qué son los dientes en 24 horas?",
+        "Implantes de carga inmediata para salir con dientes fijos en un día, si tu caso lo permite. Se valora en consulta."
+      ],
+      [
+        "¿Dónde aparco?",
+        "Tienes 1 hora de parking gratis en el Empark Reino de Valencia."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 15:00 a 20:00; los viernes de 10:00 a 14:00."
+      ]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar respuesta.",
+    "motivos": [
+      "Primera cita",
+      "Dientes en 24 horas",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Odontopediatría"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "15:30",
+        "17:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 15:00–20:00",
+      "Viernes: 10:00–14:00"
+    ],
+    "pieMarca": "Más de 30 años diseñando sonrisas en Valencia",
+    "notaDiseno": "Clínica de Ruzafa con su fucsia y azul de marca, fachada propia y los dientes en 24 horas como gancho, con cita al momento."
+  }
+}

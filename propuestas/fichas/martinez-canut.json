@@ -1,0 +1,94 @@
+{
+  "slug": "martinez-canut",
+  "numero": 21,
+  "clinica": {
+    "nombre": "Clínica Dental Martínez Canut",
+    "nombreCorto": "Martínez Canut",
+    "dominio": "martinezcanut.com",
+    "web": "https://www.martinezcanut.com/",
+    "contacto": "https://www.martinezcanut.com/",
+    "decisor": "Dr. Pedro Martínez Canut"
+  },
+  "colores": {
+    "acento": "#4e586e",
+    "tinta": "#262b36",
+    "profundo": "#2b3140",
+    "suave": "#f2f3f6",
+    "borde": "#dde0e7",
+    "calido": "#d8403b",
+    "calidoSuave": "#fbefee"
+  },
+  "fotos": {
+    "principal": "https://59b10bdcb7.clvaw-cdnwnd.com/4b2f3e3e72e83a78abeb0fe4a77d47aa/200000472-cfd8bcfd8d/FOTO%20CORRECTA%20CON%20FONDO.jpeg?ph=59b10bdcb7",
+    "clinica1": "https://59b10bdcb7.clvaw-cdnwnd.com/4b2f3e3e72e83a78abeb0fe4a77d47aa/200000185-49da549da7/700/Screenshot_20250606-092104-0.png",
+    "clinica2": "https://59b10bdcb7.clvaw-cdnwnd.com/4b2f3e3e72e83a78abeb0fe4a77d47aa/200000184-4226e4226f/Screenshot_20250606-091918-3.png"
+  },
+  "propuesta": {
+    "etiqueta": "PERIODONCIA DESDE 1988 · CALLE CHILE, 12",
+    "titulo": ["La primera clínica de periodoncia de Valencia.", "Ahora, también la más fácil para pedir cita."],
+    "intro": "Casi cuatro décadas y más de 10.000 pacientes tratados, con la segunda generación ya al frente. Proponemos que pedir la primera visita sea tan sencillo como elegir un hueco libre, a cualquier hora.",
+    "hallazgos": [
+      "Vuestra web no tiene ninguna forma de pedir cita: solo teléfono, email y WhatsApp. Fuera del horario, el paciente deja un mensaje y espera a que alguien lo lea.",
+      "Según vuestro horario en Google, del viernes a las 15:00 al lunes a las 8:00 pasan 65 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por vuestro WhatsApp.",
+      "texto": "El asistente contesta al 649 303 665 al momento, ofrece los huecos libres y deja la primera visita reservada. El diagnóstico periodontal sigue siendo del Dr. Pedro Martínez Canut, la Dra. Belén y el Dr. Guillermo Martínez Amorós."
+    },
+    "pregunta": "¿Cuántos pacientes nuevos os escriben por WhatsApp fuera de horario?",
+    "tema": "primera visita de periodoncia"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "CALLE CHILE, 12 · VALENCIA",
+    "telefono": "963 51 86 89",
+    "telefonos": "963 51 86 89 · WhatsApp 649 30 36 65",
+    "direccion": "C/ Chile, 12 · Valencia",
+    "marca": "MARTÍNEZ CANUT",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nuestra historia",
+    "heroEtiqueta": "PRIMERA CLÍNICA DE PERIODONCIA EN VALENCIA",
+    "heroTitulo": "Más de 35 años",
+    "heroDestacado": "cuidando tus encías.",
+    "heroTexto": "Periodoncia, implantes y estética dental con una atención cercana y familiar. Elige día y hora y tu primera visita queda reservada.",
+    "ctaHero": "Reservar primera visita",
+    "frase": "Integral y predecible.",
+    "nota": "Calle Chile, 12. De lunes a jueves desde las 8:00.",
+    "fotoEtiqueta": "DR. PEDRO MARTÍNEZ CANUT, DRA. BELÉN Y DR. GUILLERMO MARTÍNEZ AMORÓS",
+    "fotoTitulo": "Al frente de la clínica.",
+    "cifra": "1988",
+    "cifraEtiqueta": "LA PRIMERA CLÍNICA DE PERIODONCIA EN EXCLUSIVA DE VALENCIA",
+    "equipoTitulo": "Una trayectoria que sigue en familia.",
+    "equipoTexto": "El Dr. Pedro Martínez Canut, profesor titular de Periodoncia y fundador del Máster de Periodoncia de la Universidad de Valencia, dirige la clínica junto a la Dra. Belén y el Dr. Guillermo Martínez Amorós.",
+    "valores": [
+      ["Más de 10.000 pacientes.", "Casi cuatro décadas de confianza."],
+      ["Tecnología digital.", "Escáner CBCT 3D, escáner intraoral y CAD-CAM."],
+      ["Facilidades de pago.", "Financiación sin compromiso."]
+    ],
+    "galeriaEtiqueta": "TECNOLOGÍA",
+    "galeriaTitulo": "Diagnóstico en 3D.",
+    "galeriaDestacado": "Tratamientos guiados.",
+    "pies": ["Planificación digital de implantes", "Escáner CBCT e intraoral"],
+    "servicios": ["Periodoncia", "Implantes dentales", "Prótesis dentales", "Ortodoncia", "Estética dental", "Higiene y prevención"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿Necesito que me derive mi dentista?", "No. Puedes reservar directamente tu primera visita de periodoncia."],
+      ["¿Tenéis financiación?", "Sí. Ofrecemos facilidades de pago y financiación."],
+      ["¿Qué horario tenéis?", "De lunes a jueves de 8:00 a 19:00 y los viernes de 8:00 a 15:00."]
+    ],
+    "contactoTitulo": "Reserva tu primera visita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. También por WhatsApp, a cualquier hora.",
+    "motivos": ["Primera visita de periodoncia", "Sangrado de encías", "Implantes dentales", "Revisión e higiene", "Ortodoncia"],
+    "huecos": {
+      "lunes": ["8:30", "10:00", "12:00", "16:00", "17:30"],
+      "martes": ["9:00", "11:30", "13:00", "15:30", "18:00"],
+      "miercoles": ["8:30", "10:30", "12:30", "16:30", "18:00"],
+      "jueves": ["9:30", "11:00", "13:30", "17:00"],
+      "viernes": ["8:30", "10:00", "11:30", "13:00"]
+    },
+    "horario": ["Lunes a jueves: 8:00–19:00", "Viernes: 8:00–15:00"],
+    "pieMarca": "Periodoncia en Valencia desde 1988",
+    "notaDiseno": "Clínica pionera en periodoncia: gris azulado de su marca, los tres doctores en primer plano y la tecnología 3D como aval."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "gallego",
+  "numero": 25,
+  "clinica": {
+    "nombre": "Clínica Dental Gallego",
+    "nombreCorto": "Dental Gallego",
+    "dominio": "clinicagallego.es",
+    "web": "https://clinicagallego.es/",
+    "contacto": "https://clinicagallego.es/contact-us/",
+    "decisor": "Dra. Sandra Gallego"
+  },
+  "colores": {
+    "acento": "#2f5b8f",
+    "tinta": "#1b2433",
+    "profundo": "#1e2d45",
+    "suave": "#eff3f9",
+    "borde": "#d9e2ef",
+    "calido": "#8b8fd0",
+    "calidoSuave": "#f1f1fa"
+  },
+  "fotos": {
+    "principal": "fotos/gallego-0.jpg",
+    "clinica1": "fotos/gallego-3.jpg",
+    "clinica2": "fotos/gallego-8.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PÉREZ GALDÓS, 2 · VALENCIA",
+    "titulo": ["Primera visita y revisiones gratuitas.", "Que reservarlas sea igual de fácil."],
+    "intro": "Una clínica independiente, dirigida por la Dra. Sandra Gallego desde 2008, con horario de mañana a tarde y primera visita gratuita. Proponemos que el paciente pueda reservarla en el momento, también cuando la clínica está cerrada.",
+    "hallazgos": [
+      "Vuestra web no tiene forma de pedir cita: solo teléfono, email y WhatsApp. Además, el enlace del teléfono fijo está mal escrito («tel:t.963 41 62 46»), así que desde el móvil puede no llamar.",
+      "La web dice que los viernes abrís hasta las 16:00; en Google Maps, que cerráis a las 15:00. Según Google, del viernes a las 15:00 al lunes a las 9:30 pasan 66 horas sin atención."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por vuestro WhatsApp.",
+      "texto": "El asistente contesta al 680 915 098 al momento, ofrece los huecos libres y deja reservada la primera visita gratuita. Las emergencias de pacientes en tratamiento pasan directamente al equipo de la Dra. Gallego."
+    },
+    "pregunta": "¿Cuántas revisiones gratuitas se quedan sin reservar por no poder llamar en horario?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "AVENIDA PÉREZ GALDÓS, 2 · VALENCIA",
+    "telefono": "963 41 62 46",
+    "telefonos": "963 41 62 46 · WhatsApp 680 91 50 98",
+    "direccion": "Avda. Pérez Galdós, 2 · 46007 Valencia",
+    "marca": "DENTAL GALLEGO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nuestra historia",
+    "heroEtiqueta": "LOS DENTISTAS DE TODA LA VIDA",
+    "heroTitulo": "Nuestra filosofía:",
+    "heroDestacado": "la calidad.",
+    "heroTexto": "Trato personalizado, tecnología avanzada y materiales de primera calidad. Primera visita y revisiones gratuitas: elige día y hora.",
+    "ctaHero": "Reservar primera visita gratuita",
+    "frase": "El objetivo: tu sonrisa.",
+    "nota": "Sin franquicias: tratamientos objetivos, sin fines comerciales.",
+    "fotoEtiqueta": "CLÍNICA DENTAL GALLEGO",
+    "fotoTitulo": "Pérez Galdós, 2 · Valencia.",
+    "cifra": "2008",
+    "cifraEtiqueta": "DIRIGIDA POR LA DRA. SANDRA GALLEGO",
+    "equipoTitulo": "Un equipo sólido. Una familia.",
+    "equipoTexto": "La Dra. Sandra Gallego abrió la clínica en 2008 y ha formado un equipo con odontopediatría, endodoncia y anestesiología, apostando desde el inicio por la formación continua y las nuevas tecnologías.",
+    "valores": [
+      ["Primera visita gratuita.", "Y también las revisiones de nuestros pacientes."],
+      ["Sin franquicias.", "Tratamientos planteados de forma objetiva."],
+      ["Financiación a medida.", "Para que el tratamiento se adapte a ti."]
+    ],
+    "galeriaEtiqueta": "INSTALACIONES",
+    "galeriaTitulo": "Tecnología y confort.",
+    "galeriaDestacado": "Con acceso adaptado.",
+    "pies": ["Sala de espera · Pérez Galdós, 2", "Gabinete de la clínica"],
+    "servicios": ["Revisión y odontología restauradora", "Cirugía oral e implantes", "Ortodoncia e invisible", "Estética dental", "Prevención y odontopediatría", "Periodoncia y bruxismo"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿La primera visita es gratuita?", "Sí, y también las revisiones para nuestros pacientes."],
+      ["¿Tenéis urgencias?", "Hay un servicio de emergencias 24/7 exclusivo para pacientes en tratamiento."],
+      ["¿Qué horario tenéis?", "Lunes 9:30–20:00, martes y jueves 8:30–20:00, miércoles 9:30–20:30 y viernes 8:30–16:00."]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. También por WhatsApp, a cualquier hora.",
+    "motivos": ["Primera visita gratuita", "Revisión", "Implantes", "Ortodoncia", "Odontopediatría"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "13:00", "16:30", "18:30"],
+      "martes": ["8:30", "10:30", "12:30", "16:00", "18:00"],
+      "miercoles": ["9:30", "11:30", "13:30", "17:00", "19:30"],
+      "jueves": ["8:30", "10:00", "12:00", "16:30", "18:30"],
+      "viernes": ["8:30", "10:00", "11:30", "13:00"]
+    },
+    "horario": ["Lunes: 9:30–20:00", "Martes y jueves: 8:30–20:00", "Miércoles: 9:30–20:30", "Viernes: 8:30–16:00"],
+    "pieMarca": "Clínica dental en Valencia desde 2008",
+    "notaDiseno": "Clínica independiente de la Dra. Sandra Gallego: azul y lavanda de su marca, instalaciones luminosas y la revisión gratuita reservable."
+  }
+}

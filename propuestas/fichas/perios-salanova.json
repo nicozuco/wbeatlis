@@ -1,0 +1,94 @@
+{
+  "slug": "perios-salanova",
+  "numero": 24,
+  "clinica": {
+    "nombre": "Clínica Dental Perios Salanova",
+    "nombreCorto": "Perios Salanova",
+    "dominio": "perioslaurasalanova.com",
+    "web": "https://perioslaurasalanova.com/",
+    "contacto": "https://perioslaurasalanova.com/contacto/",
+    "decisor": "Dra. Laura Salanova"
+  },
+  "colores": {
+    "acento": "#9c5c55",
+    "tinta": "#2a2020",
+    "profundo": "#3a2826",
+    "suave": "#fbf3f1",
+    "borde": "#efdcd8",
+    "calido": "#c89a8f",
+    "calidoSuave": "#faf1ee"
+  },
+  "fotos": {
+    "principal": "https://perioslaurasalanova.com/wp-content/uploads/2022/05/EQUIPO-CON-CHICOS.jpg",
+    "clinica1": "https://perioslaurasalanova.com/wp-content/uploads/2022/05/ATENCION-PACIENTE.jpg",
+    "clinica2": "https://perioslaurasalanova.com/wp-content/uploads/2022/05/ATENCION-.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PERIODONCIA E IMPLANTES · PIZARRO, 29",
+    "titulo": ["Os gusta escuchar para ver sonreír.", "Que pedir cita también sea escuchar al momento."],
+    "intro": "Una clínica de periodoncia e implantes dirigida por la Dra. Laura Salanova, en práctica privada desde 1997 y miembro de Best Quality Dental Centers. Proponemos que el paciente pueda reservar su primera visita en el momento en que decide hacerlo.",
+    "hallazgos": [
+      "En vuestra página de contacto, el botón «Contactar» lleva a la misma página de contacto: no hay formulario ni forma de pedir cita, solo teléfono, email y WhatsApp.",
+      "Según vuestro horario, del viernes a las 15:00 al lunes a las 9:00 pasan 66 horas con la clínica cerrada. Los WhatsApp al 602 25 90 45 esperan al lunes."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por vuestro WhatsApp.",
+      "texto": "El asistente contesta al momento, ofrece los huecos libres y deja reservada la primera visita. La valoración periodontal y los tratamientos siguen siendo de la Dra. Salanova y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes nuevos os escriben por WhatsApp fuera de horario?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "CALLE PIZARRO, 29 · VALENCIA",
+    "telefono": "963 90 78 16",
+    "telefonos": "963 90 78 16 · WhatsApp 602 25 90 45",
+    "direccion": "C/ Pizarro, 29 · 46004 Valencia",
+    "marca": "SALANOVA",
+    "submarca": "CLÍNICA PERIOS",
+    "menuEquipo": "Cómo trabajamos",
+    "heroEtiqueta": "PERIODONCIA, IMPLANTES Y ESTÉTICA DENTAL",
+    "heroTitulo": "Nos gusta escucharte",
+    "heroDestacado": "para verte sonreír.",
+    "heroTexto": "Un trato cercano, profesional y honesto, con la excelencia clínica como objetivo. Elige día y hora y tu primera visita queda reservada.",
+    "ctaHero": "Reservar primera visita",
+    "frase": "Cada paciente tiene su motivo de visita.",
+    "nota": "En Pizarro, 29, en pleno Ensanche.",
+    "fotoEtiqueta": "EQUIPO PERIOS SALANOVA",
+    "fotoTitulo": "Trato cercano y honesto.",
+    "cifra": "1997",
+    "cifraEtiqueta": "PRÁCTICA PRIVADA DE LA DRA. LAURA SALANOVA",
+    "equipoTitulo": "Periodoncia e implantes, con nombre propio.",
+    "equipoTexto": "La Dra. Laura Salanova, máster en Periodoncia e Implantes por la Universidad de Valencia y autora de publicaciones nacionales e internacionales, dirige un equipo con prótesis, estética y ortodoncia.",
+    "valores": [
+      ["Te escuchamos.", "Toda nuestra atención para entender tu motivo de visita."],
+      ["Encías sanas.", "Periodoncia e implantes como especialidad."],
+      ["Clínica de confianza.", "Miembros de Best Quality Dental Centers."]
+    ],
+    "galeriaEtiqueta": "NUESTRO ESPACIO",
+    "galeriaTitulo": "Cerca de ti.",
+    "galeriaDestacado": "En cada visita.",
+    "pies": ["Pizarro, 29 · Valencia", "Atención personalizada"],
+    "servicios": ["Periodoncia o salud de las encías", "Implantes dentales", "Prótesis y rehabilitación", "Estética dental", "Ortodoncia", "Odontología conservadora"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿Me sangran las encías, debo venir?", "Sí. Es uno de los motivos más habituales de una primera visita de periodoncia."],
+      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos al 602 25 90 45 y deja la cita reservada en la misma conversación."],
+      ["¿Qué horario tenéis?", "De lunes a jueves de 9:00 a 19:00 y los viernes de 9:00 a 15:00."]
+    ],
+    "contactoTitulo": "Reserva tu primera visita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
+    "motivos": ["Primera visita", "Encías y periodoncia", "Implantes", "Estética dental", "Revisión"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "13:00", "16:00", "17:30"],
+      "martes": ["10:00", "12:00", "15:30", "17:00", "18:30"],
+      "miercoles": ["9:00", "11:30", "13:30", "16:30", "18:00"],
+      "jueves": ["10:30", "12:30", "15:00", "17:30"],
+      "viernes": ["9:30", "11:00", "12:30", "14:00"]
+    },
+    "horario": ["Lunes a jueves: 9:00–19:00", "Viernes: 9:00–15:00"],
+    "pieMarca": "Periodoncia e implantes en Valencia",
+    "notaDiseno": "Clínica de la Dra. Laura Salanova: su rosa empolvado, el equipo en primer plano y WhatsApp como entrada."
+  }
+}

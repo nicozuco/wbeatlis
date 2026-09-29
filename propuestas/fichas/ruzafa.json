@@ -1,0 +1,163 @@
+{
+  "slug": "ruzafa",
+  "numero": 19,
+  "clinica": {
+    "nombre": "Clínica Dental Ruzafa",
+    "nombreCorto": "Clínica Dental Ruzafa",
+    "dominio": "clinicadentalruzafa.es",
+    "web": "https://clinicadentalruzafa.es/",
+    "contacto": "https://clinicadentalruzafa.es/",
+    "decisor": "Dra. Karina Temes"
+  },
+  "colores": {
+    "acento": "#e8431f",
+    "tinta": "#1c1c1c",
+    "profundo": "#1a1a1a",
+    "suave": "#fdf2ef",
+    "borde": "#f6dcd5",
+    "calido": "#2bb3a3",
+    "calidoSuave": "#ecf8f6"
+  },
+  "fotos": {
+    "principal": "https://imagecdn.123inventatuweb.com/80/08/8008c38f-2a0d-4026-972b-1830133e1876.jpg",
+    "clinica1": "https://imagecdn.123inventatuweb.com/e2/39/e2394107-27a2-45b8-9548-449a4d7252d4.jpg",
+    "clinica2": "https://imagecdn.123inventatuweb.com/84/3e/843e1722-cd9c-4662-a641-94068b7c7253.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "RUZAFA · PEDRO III EL GRANDE, 8",
+    "titulo": [
+      "Más de 10.000 pacientes atendidos.",
+      "El siguiente puede reservar solo."
+    ],
+    "intro": "Una clínica de odontología integral en Ruzafa desde 2016, con urgencias dentales y financiación sin intereses. Proponemos que pedir cita no dependa de pillar a alguien al teléfono o de esperar respuesta en WhatsApp.",
+    "hallazgos": [
+      "Vuestra web no permite reservar: para pedir cita hay que llamar al 622 485 781 o escribir por WhatsApp y esperar a que alguien conteste. El único formulario está en la página de urgencias.",
+      "Según vuestro horario, el viernes cerráis a las 18:00 y no volvéis a abrir hasta el lunes a las 10:00: 64 horas en las que una urgencia o una petición de cita espera."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por vuestro WhatsApp.",
+      "texto": "El asistente contesta al momento, distingue si es una urgencia para avisar al equipo y, si es una cita, ofrece los huecos libres y la deja reservada. Lo clínico sigue siendo cosa de la Dra. Temes y su equipo."
+    },
+    "pregunta": "¿Cuántas urgencias os escriben durante el fin de semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "PEDRO III EL GRANDE, 8 · RUZAFA",
+    "telefono": "622 48 57 81",
+    "telefonos": "622 48 57 81 · WhatsApp",
+    "direccion": "C/ Pedro III El Grande, 8, bajo dcha. · 46005 Valencia",
+    "marca": "CLÍNICA DENTAL RUZAFA",
+    "submarca": "ODONTOLOGÍA INTEGRAL",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "ODONTOLOGÍA INTEGRAL EN VALENCIA",
+    "heroTitulo": "Tu sonrisa,",
+    "heroDestacado": "nuestra prioridad.",
+    "heroTexto": "Un equipo de especialistas con un servicio de calidad, cercano y adaptado a ti. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reservar mi cita",
+    "frase": "Profesional, honesta y conservadora.",
+    "nota": "En Ruzafa, con urgencias dentales.",
+    "fotoEtiqueta": "CLÍNICA DENTAL RUZAFA",
+    "fotoTitulo": "Odontología integral.",
+    "cifra": "2016",
+    "cifraEtiqueta": "MÁS DE 10.000 PACIENTES ATENDIDOS",
+    "equipoTitulo": "Odontólogos valencianos y venezolanos.",
+    "equipoTexto": "Un equipo dirigido por la Dra. Karina Temes, con especialistas con formación de cuarto nivel y más de 19 años de experiencia clínica en cada área.",
+    "valores": [
+      [
+        "Todas las especialidades.",
+        "Atención integral en un solo lugar."
+      ],
+      [
+        "Urgencias dentales.",
+        "Respuesta rápida para el dolor y los imprevistos."
+      ],
+      [
+        "Financiación sin intereses.",
+        "Alineadores invisibles en 12, 24 o 36 cuotas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Cerca de ti.",
+    "galeriaDestacado": "En el corazón de Ruzafa.",
+    "pies": [
+      "Pedro III El Grande, 8 · Valencia",
+      "Tratamientos adaptados a ti"
+    ],
+    "servicios": [
+      "Revisión y limpieza",
+      "Ortodoncia invisible ALINEA",
+      "Implantes, coronas y puentes",
+      "Endodoncia",
+      "Diseño de sonrisa",
+      "Urgencias dentales"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Atendéis urgencias?",
+        "Sí. Indícalo al reservar y te damos prioridad."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí, para alineadores invisibles en 12, 24 o 36 cuotas sin intereses."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 16:00 a 20:00; los viernes de 9:30 a 18:00."
+      ]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. Si es una urgencia, indícalo y te atendemos antes.",
+    "motivos": [
+      "Primera visita",
+      "Urgencia dental",
+      "Ortodoncia invisible",
+      "Limpieza",
+      "Implantes"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "15:30",
+        "17:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 16:00–20:00",
+      "Viernes: 9:30–18:00"
+    ],
+    "pieMarca": "Odontología integral en Ruzafa desde 2016",
+    "notaDiseno": "Clínica de Ruzafa: su naranja de marca, tono cercano y un WhatsApp que distingue urgencias de citas."
+  }
+}

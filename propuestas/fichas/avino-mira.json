@@ -1,0 +1,94 @@
+{
+  "slug": "avino-mira",
+  "numero": 20,
+  "clinica": {
+    "nombre": "Clínica Aviñó Mira",
+    "nombreCorto": "Aviñó Mira",
+    "dominio": "aviñomira.com",
+    "web": "https://www.xn--aviomira-f3a.com/",
+    "contacto": "https://www.xn--aviomira-f3a.com/contacto/",
+    "decisor": "Dr. Carlos Aviñó Mira"
+  },
+  "colores": {
+    "acento": "#3c4a57",
+    "tinta": "#1f262d",
+    "profundo": "#1f262d",
+    "suave": "#f3f3f1",
+    "borde": "#e2e2dc",
+    "calido": "#a88a63",
+    "calidoSuave": "#f6f1e9"
+  },
+  "fotos": {
+    "principal": "https://www.xn--aviomira-f3a.com/wp-content/uploads/elementor/thumbs/euipo-3-copia-qlu32bon3jujzf1uyfgbe7kwic7qvrp13zpqqvno8g.jpg",
+    "clinica1": "https://www.xn--aviomira-f3a.com/wp-content/uploads/1.CLINICA-1.jpg",
+    "clinica2": "https://www.xn--aviomira-f3a.com/wp-content/uploads/8.CLINICA.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ODONTOLOGÍA AVANZADA · PIZARRO, 27",
+    "titulo": ["Referentes en implantología inmediata.", "Que la primera cita también sea inmediata."],
+    "intro": "Una clínica de casos complejos, liderada por el Dr. Carlos Aviñó Mira, con atención de urgencias en el mismo día. Proponemos que la primera visita se reserve igual de rápido: el paciente elige su hueco y la cita queda hecha.",
+    "hallazgos": [
+      "Vuestro formulario de «Contacto y citas» pide nueve datos y termina en «para que podamos responder a tu solicitud»: el paciente se va sin cita y esperando respuesta. En la etiqueta del email, además, pone «Emial».",
+      "Ofrecéis atención de urgencias en el mismo día, pero según vuestro horario, del viernes a las 14:00 al lunes a las 9:00 pasan 67 horas con la clínica cerrada: una urgencia del viernes por la tarde no tiene a quién escribir."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro «WhatsApp cita» reserve al momento.",
+      "texto": "Ya lo tenéis en la web (608 970 079). El asistente contesta al momento, distingue urgencias para avisar al equipo y reserva la primera visita en los huecos libres. Lo clínico sigue siendo del Dr. Aviñó y su equipo."
+    },
+    "pregunta": "¿Cuántas urgencias os escriben entre el viernes a mediodía y el lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "PIZARRO, 27 · VALENCIA",
+    "telefono": "963 94 07 70",
+    "telefonos": "963 94 07 70 · WhatsApp cita 608 97 00 79",
+    "direccion": "C/ Pizarro, 27, bajo · 46004 Valencia",
+    "marca": "AVIÑÓ MIRA",
+    "submarca": "ODONTOLOGÍA AVANZADA",
+    "menuEquipo": "¿Por qué elegirnos?",
+    "heroEtiqueta": "IMPLANTOLOGÍA INMEDIATA · ORTODONCIA INVISIBLE · ESTÉTICA",
+    "heroTitulo": "Siente la tranquilidad",
+    "heroDestacado": "de estar en las mejores manos.",
+    "heroTexto": "Especialistas en implantología inmediata, ortodoncia invisible y estética dental. Elige día y hora y tu primera visita queda reservada.",
+    "ctaHero": "Reservar primera visita",
+    "frase": "Nos rodeamos del mejor talento.",
+    "nota": "Parking en Pizarro, 12 y Pizarro, 28.",
+    "fotoEtiqueta": "EQUIPO AVIÑÓ MIRA",
+    "fotoTitulo": "Liderados por el Dr. Carlos Aviñó.",
+    "cifra": "",
+    "cifraEtiqueta": "SOMOS DIFERENTES",
+    "equipoTitulo": "Expertos en casos complejos.",
+    "equipoTexto": "Fundada hace más de una década y liderada por el Dr. Carlos Aviñó Mira, con especialistas en cirugía oral, estética, periodoncia y odontopediatría, y tecnología digital en cada paso.",
+    "valores": [
+      ["Implantología inmediata.", "Soluciones fijas cuando otros no las ven."],
+      ["Atención en el mismo día.", "Servicio de urgencias odontológicas."],
+      ["Un equipo especializado.", "Cada área, con su especialista."]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Un espacio único.",
+    "galeriaDestacado": "En pleno Ensanche.",
+    "pies": ["Recepción · Pizarro, 27", "Sala de espera"],
+    "servicios": ["Implantología inmediata", "Ortodoncia invisible", "Estética dental y carillas", "Cirugía oral y periodoncia", "Odontopediatría", "Sedación consciente"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿Atendéis urgencias?", "Sí. Tenemos atención de urgencias en el mismo día. Indícalo al reservar."],
+      ["¿Dónde puedo aparcar?", "Hay parking en Pizarro, 12 y en Pizarro, 28."],
+      ["¿Qué horario tenéis?", "De lunes a jueves de 9:00 a 19:00 y los viernes de 9:00 a 14:00."]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. Si es una urgencia, te damos prioridad.",
+    "motivos": ["1ª visita", "Urgencia", "Implantología", "Ortodoncia", "Estética dental", "Higiene"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "13:00", "16:00", "17:30"],
+      "martes": ["10:00", "12:00", "15:30", "17:00", "18:30"],
+      "miercoles": ["9:00", "11:30", "13:30", "16:30", "18:00"],
+      "jueves": ["10:30", "12:30", "15:00", "17:30"],
+      "viernes": ["9:30", "11:00", "12:30", "13:30"]
+    },
+    "horario": ["Lunes a jueves: 9:00–19:00", "Viernes: 9:00–14:00"],
+    "pieMarca": "Odontología avanzada en Valencia",
+    "notaDiseno": "Clínica de casos complejos: tono sobrio de su marca, equipo en primer plano y urgencias bien distinguidas de las citas."
+  }
+}

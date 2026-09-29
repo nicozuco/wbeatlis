@@ -1,0 +1,94 @@
+{
+  "slug": "llobell-cortell",
+  "numero": 16,
+  "clinica": {
+    "nombre": "Clínica Llobell Cortell",
+    "nombreCorto": "Llobell Cortell",
+    "dominio": "clinicallobell.com",
+    "web": "https://www.clinicallobell.com/",
+    "contacto": "https://www.clinicallobell.com/pedir-cita/",
+    "decisor": "Dr. Enrique Llobell y Dr. Arturo Llobell"
+  },
+  "colores": {
+    "acento": "#1a3d6b",
+    "tinta": "#0f1d33",
+    "profundo": "#091a34",
+    "suave": "#f3f2ee",
+    "borde": "#e2ddd0",
+    "calido": "#a0915f",
+    "calidoSuave": "#f6f2e7"
+  },
+  "fotos": {
+    "principal": "https://www.clinicallobell.com/wp-content/uploads/2017/08/instalaciones-clinica-llobell6.jpg",
+    "clinica1": "https://www.clinicallobell.com/wp-content/uploads/2017/08/instalaciones-clinica-llobell4.jpg",
+    "clinica2": "https://www.clinicallobell.com/wp-content/uploads/2017/08/instalaciones-clinica-llobell16.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CUATRO GENERACIONES · CIRILO AMORÓS, 44",
+    "titulo": ["Un centro de referencia internacional.", "Con una cita que aún espera una llamada."],
+    "intro": "Más de 80 años de odontología, un Premio Dentista del Año y pacientes que llegan con casos complejos. Proponemos que ese primer contacto esté a la altura: el paciente elige su hueco y la visita queda concertada en el momento.",
+    "hallazgos": [
+      "Vuestra página «Pedir cita» dice «Déjenos sus datos y nos pondremos en contacto con usted para concertar su visita»: el paciente elige solo mañana o tarde y se queda sin fecha hasta que le llaman.",
+      "La web no ofrece WhatsApp: fuera del horario de atención, la única vía es ese formulario. Según Google, del viernes a las 21:00 al lunes a las 9:00 pasan 60 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Una primera cita concertada, no solicitada.",
+      "texto": "Un asistente en la web que orienta al paciente hacia el especialista adecuado (implantes, estética, ortodoncia, odontopediatría…) y deja la primera visita concertada en vuestra agenda. El diagnóstico y el plan siguen siendo de los Dres. Llobell y su equipo."
+    },
+    "pregunta": "¿Qué parte de vuestros pacientes nuevos llega por la web con un caso complejo?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "CIRILO AMORÓS, 44 · VALENCIA",
+    "telefono": "963 81 04 55",
+    "telefonos": "963 81 04 55 · info@clinicallobellcortell.es",
+    "direccion": "C/ Cirilo Amorós, 44, pta. 1 · Valencia",
+    "marca": "LLOBELL CORTELL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Por una clínica diferente",
+    "heroEtiqueta": "POR UNA ODONTOLOGÍA DIFERENTE",
+    "heroTitulo": "Casos complejos,",
+    "heroDestacado": "resultados predecibles.",
+    "heroTexto": "Un equipo de especialistas en cada área de la odontología, con un enfoque personalizado y multidisciplinar. Concierta tu primera visita en el momento.",
+    "ctaHero": "Concertar primera visita",
+    "frase": "Por una clínica diferente.",
+    "nota": "Centro de referencia nacional e internacional.",
+    "fotoEtiqueta": "CLÍNICA LLOBELL CORTELL",
+    "fotoTitulo": "Cirilo Amorós, 44 · Valencia.",
+    "cifra": "1934",
+    "cifraEtiqueta": "CUATRO GENERACIONES DE ODONTÓLOGOS",
+    "equipoTitulo": "Experiencia, innovación y formación.",
+    "equipoTexto": "Una consulta familiar liderada por los Dres. Enrique y Arturo Llobell, con más de 30 años en implantología. El Dr. Enrique Llobell Lleó fue elegido Dentista del Año en España en 2019.",
+    "valores": [
+      ["Especialistas exclusivos.", "Ortodoncia, prostodoncia, odontopediatría y endodoncia con especialistas dedicados."],
+      ["Casos complejos.", "Alta demanda estética y rehabilitaciones con resultados a largo plazo."],
+      ["Reconocimiento internacional.", "Formación y acreditaciones de referencia en implantología."]
+    ],
+    "galeriaEtiqueta": "INSTALACIONES",
+    "galeriaTitulo": "Un espacio pensado para ti.",
+    "galeriaDestacado": "Hasta el último detalle.",
+    "pies": ["Sala de espera · Cirilo Amorós, 44", "Gabinete de la clínica"],
+    "servicios": ["Implantes y carga inmediata", "Estética dental", "Prostodoncia", "Ortodoncia", "Periodoncia", "Odontopediatría"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿Con qué especialista me veré?", "Cuéntanos el motivo al reservar y te asignamos el especialista adecuado para tu primera visita."],
+      ["¿Tratáis casos complejos?", "Sí. Somos centro de referencia para casos complejos y de alta demanda estética."],
+      ["¿Qué horario tenéis?", "De lunes a viernes de 9:00 a 14:00 y de 15:00 a 20:00."]
+    ],
+    "contactoTitulo": "Concierte su primera visita.",
+    "contactoTexto": "Elija el motivo, el día y la hora y la visita queda concertada al momento. También puede llamarnos al 963 81 04 55.",
+    "motivos": ["Primera visita", "Implantes", "Estética dental", "Ortodoncia", "Odontopediatría", "Segunda opinión"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "12:30", "16:00", "18:30"],
+      "martes": ["10:00", "12:00", "15:30", "17:30", "19:00"],
+      "miercoles": ["9:00", "11:30", "13:00", "16:30", "18:00"],
+      "jueves": ["10:30", "12:30", "15:30", "17:00", "19:00"],
+      "viernes": ["9:30", "11:00", "13:00", "16:30", "18:30"]
+    },
+    "horario": ["Lunes a viernes: 9:00–14:00 y 15:00–20:00"],
+    "pieMarca": "Por una odontología diferente · desde 1934",
+    "notaDiseno": "Clínica de referencia: azul noche y dorado de su marca, instalaciones de diseño y una primera visita concertada al momento."
+  }
+}
