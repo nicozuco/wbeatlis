@@ -21,6 +21,17 @@
 .demo-badge>span { width: 7px; height: 7px; flex-shrink: 0; border-radius: 50%; background: var(--warm); box-shadow: 0 0 0 3px #e39a2d4d; }
 .demo-badge strong { font-weight: 600; letter-spacing: .06em; white-space: nowrap; }
 
+/* Booking card: the GoHighLevel calendar sits on the FAQ surface. form_embed.js sets the iframe height. */
+.demo-booking { max-width: 760px; margin: 40px auto 0; padding: 32px 32px 28px; border-radius: var(--radius-xl); background: #e4eaf1; box-shadow: inset 0 1px 0 #ffffffb3; }
+.booking-title { font-family: var(--font-title); font-size: 20px; line-height: 1.3; letter-spacing: -.03em; font-weight: 650; color: var(--ink); text-align: center; }
+.booking-intro { margin-top: 6px; font-size: 14px; line-height: 1.6; color: var(--muted); text-align: center; }
+.demo-booking .form-calc-note { margin: 18px 0 0; }
+.booking-frame { margin-top: 20px; overflow: hidden; border-radius: var(--radius-lg); background: #fff; }
+.booking-frame iframe { display: block; width: 100%; min-height: 640px; border: 0; }
+.booking-fallback { margin-top: 14px; font-size: 13px; line-height: 1.6; color: var(--muted); text-align: center; }
+.booking-fallback a,.demo-booking .privacy-copy a { font-weight: 600; color: var(--teal-dark); text-decoration: underline; text-underline-offset: 3px; }
+.demo-booking .privacy-copy { margin-top: 6px; font-size: 12px; line-height: 1.6; color: var(--muted); text-align: center; }
+
 /* The form card reuses the FAQ surface: tinted panel, white fields. */
 .demo-page .demo-form { max-width: 576px; margin: 40px auto 0; padding: 32px 40px 36px; border: 0; border-radius: var(--radius-xl); background: #e4eaf1; box-shadow: inset 0 1px 0 #ffffffb3; }
 .demo-form .form-intro { margin: 0; font-size: 12px; }
@@ -61,6 +72,8 @@
   .demo-host { margin-top: 22px; }
   .demo-badge { flex-wrap: wrap; justify-content: center; gap: 2px 8px; padding: 8px 16px; border-radius: var(--radius-md); }
   .demo-page .demo-form { margin-top: 32px; padding: 24px 18px 26px; border-radius: var(--radius-lg); }
+  .demo-booking { margin-top: 32px; padding: 22px 10px 20px; border-radius: var(--radius-lg); }
+  .booking-title,.booking-intro,.booking-fallback,.demo-booking .privacy-copy { padding-inline: 8px; }
   .demo-agenda { margin-top: 48px; }
   .demo-agenda ol { grid-template-columns: 1fr; }
 }

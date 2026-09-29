@@ -69,13 +69,14 @@ test('las cifras de la calculadora llegan a la solicitud dentro de sus límites'
   assert.equal(readCalculation(() => { throw new Error('bloqueado'); }), null);
   assert.ok(describeCalculation(defaults).summary.startsWith('4800 € al mes con 80 primeras visitas'));
 });
-test('los botones de demo llevan a la página independiente del formulario', async () => {
+test('los botones de demo llevan a la página independiente con el calendario', async () => {
   const read = file => readFile(new URL(`../${file}`, import.meta.url), 'utf8');
   const index = await read('index.html');
   const demo = await read('demo.html');
   assert.ok(!index.includes('id="demo-form"'));
   assert.ok(index.includes('href="./demo.html"'));
-  assert.ok(demo.includes('id="demo-form"'));
+  assert.ok(!demo.includes('id="demo-form"'));
+  assert.ok(demo.includes('src="https://api.leadconnectorhq.com/widget/booking/LFnngfSNEFfJTJnJSIYb"'));
   assert.equal((demo.match(/<h1[\s>]/g) || []).length, 1);
   for (const target of [...demo.matchAll(/href="#([^"\s]+)"/g)].map(m => m[1])) assert.ok(demo.includes(`id="${target}"`), `Falta ${target}`);
   for (const html of [index, demo, await read('privacidad.html'), await read('aviso-legal.html')]) {

@@ -9,7 +9,7 @@ La landing se puede revisar y utilizar en local. Estos puntos requieren informac
 - Configurar el endpoint en `js/config.js` después de validar la privacidad.
 - Comprobar que el receptor confirma con `accepted: true` y un `receiptId` real.
 
-**Estado actual:** desactivado. La web avisa de que no envía datos. No se simula una recepción correcta.
+**Estado actual:** `demo.html` ya no muestra el formulario. En su lugar incrusta el calendario «Captacion lead web» de GoHighLevel (Id `LFnngfSNEFfJTJnJSIYb`), así que las reservas llegan al CRM de GoHighLevel. El código del formulario (`js/form.js`, `js/config.js`) se conserva por si se recupera. Queda pendiente completar en `privacidad.html` los datos del responsable y el tratamiento de las reservas.
 
 ## 2. Identidad y contacto
 

@@ -33,8 +33,8 @@ El servidor solo escucha en la máquina local. La vista previa iniciada durante 
 - Sección «Caso de éxito» con cifras, antes y después y cita del cliente, con un caso ilustrativo (clínica y cifras ficticias, etiquetadas) hasta tener uno real.
 - Método presentado en pasos editoriales; control humano e indicadores unidos en un bloque oscuro con llamada a la acción; preguntas frecuentes desplegables.
 - Color: el verde intenso se reserva para botones y datos; etiquetas e iconos decorativos van en gris verdoso (`--label`) y un acento ámbar (`--warm`) marca solo 3 puntos de atención.
-- Página independiente de solicitud de demo (`demo.html`), a la que llevan todos los botones de la landing, con los tres puntos que se revisarán durante la demo.
-- Formulario validado y estado explícito de conexión pendiente. Si se ha ajustado la calculadora, la solicitud incluye esas cifras.
+- Página independiente de reserva de demo (`demo.html`), a la que llevan todos los botones de la landing, con los tres puntos que se revisarán durante la demo.
+- Calendario de reservas de GoHighLevel incrustado en `demo.html` (calendario «Captacion lead web»). Si se ha ajustado la calculadora, la página muestra esas cifras para comentarlas en la demo.
 - Páginas de revisión del aviso legal y de privacidad, enlazadas desde la landing.
 - Movimiento reducido, foco visible, enlaces de salto y metadatos en español.
 
@@ -53,7 +53,7 @@ El servidor solo escucha en la máquina local. La vista previa iniciada durante 
 | `js/experience.js` | Recepción, soluciones y casos interactivos |
 | `js/experience-model.js` | Estados y transiciones de los tres casos |
 | `js/main.js` | Navegación y calculadora |
-| `js/demo.js` | Envío del formulario de la página de demo |
+| `js/demo.js` | Página de demo: año del pie y cifras de la calculadora |
 | `js/calculation-handoff.js` | Traslado de las cifras de la calculadora a la solicitud |
 | `js/final-cta.js` | Animación del cursor en la llamada final |
 | `js/calculator.js` | Fórmulas y límites de entradas |
