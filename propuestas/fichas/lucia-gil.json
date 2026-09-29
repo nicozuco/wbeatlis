@@ -1,0 +1,94 @@
+{
+  "slug": "lucia-gil",
+  "numero": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Lucía Gil Raga",
+    "nombreCorto": "Lucía Gil",
+    "dominio": "luciagilclinicadental.com",
+    "web": "https://luciagilclinicadental.com/",
+    "contacto": "https://luciagilclinicadental.com/contacto-clinica-dental-valencia/",
+    "decisor": "Dra. Lucía Gil"
+  },
+  "colores": {
+    "acento": "#b06f79",
+    "tinta": "#27301f",
+    "profundo": "#2c3524",
+    "suave": "#fbf2f3",
+    "borde": "#efdadd",
+    "calido": "#b8905f",
+    "calidoSuave": "#f8f1e8"
+  },
+  "fotos": {
+    "principal": "https://luciagilclinicadental.com/wp-content/uploads/2025/07/luciagil-clinica-dental-valencia-estetica-dental-dra-lucia-gil-raga.jpg",
+    "clinica1": "https://luciagilclinicadental.com/wp-content/uploads/2021/05/7P8A2131.jpg",
+    "clinica2": "https://luciagilclinicadental.com/wp-content/uploads/2021/05/7P8A1864-2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ESTÉTICA DENTAL · GRAN VÍA MARQUÉS DEL TURIA",
+    "titulo": ["Diseñáis sonrisas con todo detalle.", "La primera cita puede estar a su altura."],
+    "intro": "Una clínica cuidada hasta el último detalle, dirigida por la Dra. Lucía Gil. Proponemos que pedir cita sea igual de cuidado: ver los huecos libres y dejar la visita reservada al momento, también cuando la clínica está cerrada.",
+    "hallazgos": [
+      "Vuestro formulario «Reserva tu cita online» pide un día y una franja (mañana o tarde), pero no enseña huecos libres: la cita no queda reservada hasta que la clínica llama para confirmarla.",
+      "La web indica que abrís de lunes a viernes de 15:00 a 20:00 por la tarde; en Google Maps, el viernes cerráis a las 19:00. Según Google, del viernes a las 19:00 al lunes a las 10:00 pasan 63 horas sin nadie que pueda dar cita."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por el WhatsApp que ya tenéis en la web.",
+      "texto": "El asistente contesta en vuestro WhatsApp, enseña los huecos libres y deja la cita reservada, a cualquier hora. Las dudas sobre tratamientos y presupuestos pasan a la Dra. Gil y a su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario tenéis que confirmar por teléfono cada semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "GRAN VÍA MARQUÉS DEL TURIA, 40 · VALENCIA",
+    "telefono": "96 333 12 88",
+    "telefonos": "96 333 12 88 · 671 98 94 30",
+    "direccion": "Gran Vía Marqués del Turia, 40 · 46005 Valencia",
+    "marca": "LUCÍA GIL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La Dra. Gil",
+    "heroEtiqueta": "ESTÉTICA DENTAL Y DISEÑO DE SONRISA",
+    "heroTitulo": "Cuidamos tu boca.",
+    "heroDestacado": "Diseñamos tu sonrisa.",
+    "heroTexto": "Atención personalizada y ética en el centro de Valencia. Elige día y hora para tu primera visita y queda reservada al momento.",
+    "ctaHero": "Reservar mi primera visita",
+    "frase": "Queremos conocerte.",
+    "nota": "En la Gran Vía, en pleno Ensanche de Valencia.",
+    "fotoEtiqueta": "DRA. LUCÍA GIL RAGA",
+    "fotoTitulo": "Más de 20 años de experiencia.",
+    "cifra": "20+",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA DE LA DRA. LUCÍA GIL",
+    "equipoTitulo": "Salud, estética y bienestar en un mismo plan.",
+    "equipoTexto": "Un equipo de especialistas en estética dental, ortodoncia, implantología, periodoncia y odontopediatría, bajo la dirección de la Dra. Lucía Gil.",
+    "valores": [
+      ["Atención personalizada.", "Cada paciente, con su tiempo y su plan."],
+      ["Todo en una clínica.", "Especialistas de cada área para tratamientos integrales."],
+      ["Pago a tu medida.", "Opciones de financiación y cobertura de seguros dentales."]
+    ],
+    "galeriaEtiqueta": "ASÍ ES NUESTRA CLÍNICA",
+    "galeriaTitulo": "Un espacio acogedor.",
+    "galeriaDestacado": "Cuidado hasta el último detalle.",
+    "pies": ["Recepción · Gran Vía Marqués del Turia, 40", "Un lugar para sentirte a gusto"],
+    "servicios": ["Diseño de sonrisa y carillas", "Ortodoncia invisible", "Implantología", "Blanqueamiento dental", "Periodoncia", "Odontopediatría"],
+    "faqTitulo": "Antes de tu primera visita.",
+    "faq": [
+      ["¿Puedo elegir el horario?", "Sí. Ves los huecos libres de mañana y de tarde y reservas el que mejor te venga."],
+      ["¿Trabajáis con seguros dentales?", "Sí. La clínica tiene cobertura con seguros dentales y opciones de pago a medida."],
+      ["¿Dónde estáis?", "En la Gran Vía Marqués del Turia, 40, 46005 Valencia."]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige el tratamiento, el día y la hora y queda reservada. Si prefieres hablar con nosotros, llámanos al 96 333 12 88.",
+    "motivos": ["Primera visita o revisión", "Estética dental y carillas", "Ortodoncia invisible", "Implantes dentales", "Odontopediatría"],
+    "huecos": {
+      "lunes": ["10:00", "11:30", "13:00", "16:00", "18:30"],
+      "martes": ["10:30", "12:00", "15:30", "17:00", "19:00"],
+      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
+      "jueves": ["11:00", "12:30", "15:00", "17:30", "19:00"],
+      "viernes": ["10:00", "11:30", "13:00", "16:00", "17:30"]
+    },
+    "horario": ["Lunes a viernes: 10:00–14:00 y 15:00–20:00"],
+    "pieMarca": "Estética dental y diseño de sonrisa · Valencia",
+    "notaDiseno": "Marca personal de la Dra. Lucía Gil: tonos rosa y oliva, interiores cálidos y una cita que se reserva al momento."
+  }
+}

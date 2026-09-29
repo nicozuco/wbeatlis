@@ -1,0 +1,160 @@
+{
+  "slug": "peydro",
+  "numero": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Peydro Herrero",
+    "nombreCorto": "Clínica Peydro",
+    "dominio": "clinicapeydro.es",
+    "web": "https://www.clinicapeydro.es/",
+    "contacto": "https://www.clinicapeydro.es/",
+    "decisor": "Dr. Diego Peydro y Dra. Marta Peydro"
+  },
+  "colores": {
+    "acento": "#8a6a3f",
+    "tinta": "#1b1b1b",
+    "profundo": "#161616",
+    "suave": "#f4f1ec",
+    "borde": "#e4ddd2",
+    "calido": "#a8834f",
+    "calidoSuave": "#f6f0e6"
+  },
+  "fotos": {
+    "principal": "https://www.clinicapeydro.es/wp-content/uploads/2026/08/cp-equipo-diego-peydro.png",
+    "clinica1": "https://www.clinicapeydro.es/wp-content/uploads/2026/08/cta-final-fondo4-scaled.jpg",
+    "clinica2": "https://www.clinicapeydro.es/wp-content/uploads/2026/07/cp-9895f46b57e8-scaled.png.webp"
+  },
+  "propuesta": {
+    "etiqueta": "CASOS COMPLEJOS · SAN VICENTE, 139",
+    "titulo": [
+      "Os gustan los casos difíciles.",
+      "Pedir cita debería ser lo más fácil."
+    ],
+    "intro": "Una clínica que estudia cada caso con calma y lo explica todo. Proponemos que el primer paso, pedir la cita, sea inmediato: el paciente elige un hueco real y la cita queda reservada, sin esperar confirmación.",
+    "hallazgos": [
+      "El formulario de vuestra portada deja elegir fecha y hora, pero las horas son una lista fija de 9:00 a 20:00, igual para cualquier día: no consulta vuestra agenda, así que la cita queda pendiente de que recepción la confirme.",
+      "Según vuestro horario en Google, del viernes a las 15:00 al lunes a las 10:00 pasan 67 horas con la clínica cerrada. Los mensajes que lleguen a vuestro WhatsApp en ese tiempo esperan al lunes."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que el formulario de la portada reserve de verdad.",
+      "texto": "Mismo recorrido que ya tenéis (qué te preocupa, día y hora), pero con los huecos reales de vuestra agenda y la cita confirmada al momento. La valoración de cada caso sigue siendo del Dr. Diego Peydro, la Dra. Marta Peydro y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario acaban cambiando de hora al llamar para confirmar?",
+    "tema": "primera valoración"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "SAN VICENTE, 139 · VALENCIA",
+    "telefono": "963 16 36 27",
+    "telefonos": "963 16 36 27 · WhatsApp 637 67 21 15",
+    "direccion": "C/ San Vicente, 139 · 46007 Valencia",
+    "marca": "PEYDRO HERRERO",
+    "submarca": "ODONTOLOGÍA AVANZADA",
+    "menuEquipo": "Nuestra forma de trabajar",
+    "heroEtiqueta": "CLÍNICA DENTAL VALENCIA",
+    "heroTitulo": "Nos gustan",
+    "heroDestacado": "los casos difíciles.",
+    "heroTexto": "Estudiamos tu caso con calma, te explicamos todas las opciones y te ofrecemos el mejor tratamiento para tu sonrisa. Empieza eligiendo día y hora.",
+    "ctaHero": "Reservar mi valoración",
+    "frase": "«Me dijeron que no tenía solución.»",
+    "nota": "Así empiezan muchas de nuestras mejores historias.",
+    "fotoEtiqueta": "DR. DIEGO PEYDRO",
+    "fotoTitulo": "Director clínico.",
+    "cifra": "25+",
+    "cifraEtiqueta": "AÑOS CREANDO SONRISAS EN EL CORAZÓN DE VALENCIA",
+    "equipoTitulo": "La clínica que nos habría gustado encontrar como pacientes.",
+    "equipoTexto": "Dirigida por la Dra. Marta Peydro y el Dr. Diego Peydro, que forma cada año a más de 1.500 ortodoncistas. Ortodoncia, implantología y estética con la formación continua como parte del ADN.",
+    "valores": [
+      [
+        "Tu caso, con calma.",
+        "Estudiamos cada caso y te explicamos todas las opciones posibles."
+      ],
+      [
+        "Especialistas en casos complejos.",
+        "Ortodoncia, cirugía ortognática e implantes cuando otros no ven solución."
+      ],
+      [
+        "Formación continua.",
+        "Un equipo que se forma y forma a otros profesionales."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Cuando vienes, vienes a casa.",
+    "galeriaDestacado": "Y en casa, solo lo mejor.",
+    "pies": [
+      "Sala de espera · San Vicente, 139",
+      "Cada caso, estudiado con calma"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Implantes y carga inmediata",
+      "Estética dental y carillas",
+      "Ortodoncia infantil y adolescentes",
+      "Cirugía ortognática",
+      "Revisión y odontología general"
+    ],
+    "faqTitulo": "Antes de tu valoración.",
+    "faq": [
+      [
+        "¿Y si ya me han dicho que no tiene solución?",
+        "Pide una valoración: estudiamos tu caso con calma y te explicamos las opciones posibles."
+      ],
+      [
+        "¿Puedo pedir una segunda opinión?",
+        "Sí. Elige «Necesito una segunda opinión» al reservar."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle San Vicente, 139, 46007 Valencia."
+      ]
+    ],
+    "contactoTitulo": "Cuéntanos qué te preocupa.",
+    "contactoTexto": "Elige el motivo y un hueco libre de la agenda: la cita queda reservada al momento. También puedes llamarnos al 963 16 36 27.",
+    "motivos": [
+      "Ortodoncia invisible",
+      "Implantes dentales",
+      "Estética dental",
+      "Revisión",
+      "Necesito una segunda opinión",
+      "No lo sé, quiero una valoración"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "15:30",
+        "17:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:00"
+      ]
+    },
+    "horario": [],
+    "pieMarca": "Más de 25 años creando sonrisas en Valencia",
+    "notaDiseno": "Clínica de casos complejos: tono sobrio negro y bronce, equipo en primer plano y un formulario que reserva huecos reales."
+  }
+}

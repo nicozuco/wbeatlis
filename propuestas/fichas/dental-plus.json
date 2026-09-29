@@ -1,0 +1,94 @@
+{
+  "slug": "dental-plus",
+  "numero": 6,
+  "clinica": {
+    "nombre": "Asistencia Dental Plus",
+    "nombreCorto": "Dental Plus",
+    "dominio": "asistenciadentalplus.com",
+    "web": "https://asistenciadentalplus.com/",
+    "contacto": "https://asistenciadentalplus.com/contacto-clinica-asistencia-dental-plus-valencia/",
+    "decisor": "Dr. Paolo Collalti"
+  },
+  "colores": {
+    "acento": "#8e3157",
+    "tinta": "#2a1c22",
+    "profundo": "#3a1a28",
+    "suave": "#f9f0f3",
+    "borde": "#ecd6de",
+    "calido": "#b5875a",
+    "calidoSuave": "#f8f1e9"
+  },
+  "fotos": {
+    "principal": "https://asistenciadentalplus.com/wp-content/uploads/2025/11/nueva-158.jpg",
+    "clinica1": "https://asistenciadentalplus.com/wp-content/uploads/2025/10/nueva-143.jpg",
+    "clinica2": "https://asistenciadentalplus.com/wp-content/uploads/2025/10/nueva-20.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ENSANCHE · CALLE SALAMANCA, 35",
+    "titulo": ["Más de 25 años acompañando familias.", "Pedir cita no debería costar diez campos."],
+    "intro": "Una clínica cercana en el corazón del Ensanche, con primera consulta gratis. Proponemos que el paciente elija un hueco real y su cita quede reservada, sin formularios largos ni esperar a que le respondan.",
+    "hallazgos": [
+      "Vuestro formulario de contacto pide nombre, apellidos, teléfono, email, motivo, tipo de cita, fecha, hora, mensaje y un captcha, y termina con «te responderemos lo antes posible»: la cita no queda reservada.",
+      "La web indica que abrís de lunes a viernes de 16:00 a 20:00 por la tarde; en Google Maps, el viernes cerráis a las 15:00. Según Google, del viernes a las 15:00 al lunes a las 9:00 pasan 66 horas sin nadie que pueda dar cita."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por el WhatsApp de «pedir una cita».",
+      "texto": "Vuestro botón de WhatsApp ya abre con «Me gustaría pedir una cita». El asistente contesta a ese mensaje al momento, ofrece los huecos libres y deja la cita reservada. Lo clínico sigue siendo cosa del Dr. Collalti y su equipo."
+    },
+    "pregunta": "¿Cuántos formularios y WhatsApp tenéis que contestar a primera hora del lunes?",
+    "tema": "primera consulta gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "C/ SALAMANCA, 35 · ENSANCHE · VALENCIA",
+    "telefono": "963 16 26 56",
+    "telefonos": "963 16 26 56 · WhatsApp 658 78 87 59",
+    "direccion": "C/ Salamanca, 35, bajo izq. · 46005 Valencia",
+    "marca": "DENTAL PLUS",
+    "submarca": "ASISTENCIA DENTAL",
+    "menuEquipo": "Nuestra historia",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Sonrisas cuidadas,",
+    "heroDestacado": "generación tras generación.",
+    "heroTexto": "Trato cercano, atención personalizada y primera consulta gratis en el Ensanche. Elige día y hora y queda reservada.",
+    "ctaHero": "Reservar primera consulta",
+    "frase": "Lo más importante eres tú.",
+    "nota": "En el corazón del Ensanche de Valencia.",
+    "fotoEtiqueta": "ASISTENCIA DENTAL PLUS",
+    "fotoTitulo": "Nuestro equipo en la clínica.",
+    "cifra": "25+",
+    "cifraEtiqueta": "AÑOS CUIDANDO SONRISAS",
+    "equipoTitulo": "Experiencia de siempre, tecnología de hoy.",
+    "equipoTexto": "Bajo la dirección del Dr. Paolo Collalti, especialista en estética e implantología, con diagnóstico digital 3D y certificación DentalQuality.",
+    "valores": [
+      ["Primera consulta gratis.", "Conoce tu caso y tus opciones sin compromiso."],
+      ["Trato cercano.", "Atención personalizada para ti y para los tuyos."],
+      ["Diagnóstico digital.", "Tecnología 3D para diagnósticos más precisos."]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Un espacio moderno.",
+    "galeriaDestacado": "Y acogedor.",
+    "pies": ["Recepción · C/ Salamanca, 35", "Gabinetes digitalizados"],
+    "servicios": ["Odontología estética y blanqueamiento", "Implantología", "Ortodoncia", "Odontopediatría", "Periodoncia", "Revisión y odontología conservadora"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿La primera consulta es gratis?", "Sí. La primera consulta no tiene coste."],
+      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos al 658 78 87 59 y deja tu cita reservada en la misma conversación."],
+      ["¿Dónde estáis?", "En la calle Salamanca, 35, bajo izquierda, en el Ensanche de Valencia."]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Tres pasos: motivo, día y hora. La cita queda reservada al momento.",
+    "motivos": ["Primera consulta gratuita", "Revisión", "Estética dental", "Implantes", "Ortodoncia"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "13:00", "16:30", "18:30"],
+      "martes": ["9:00", "10:30", "12:30", "17:00", "19:00"],
+      "miercoles": ["10:00", "12:00", "16:00", "18:00"],
+      "jueves": ["9:30", "11:30", "13:00", "17:30", "19:00"],
+      "viernes": ["9:00", "10:30", "12:00", "13:30"]
+    },
+    "horario": ["Lunes a viernes: 9:00–14:00 y 16:00–20:00"],
+    "pieMarca": "Más de 25 años cuidando sonrisas en el Ensanche",
+    "notaDiseno": "Clínica familiar del Ensanche: color burdeos de su marca, equipo en primer plano y el WhatsApp de «pedir una cita» como eje."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "cots",
+  "numero": 10,
+  "clinica": {
+    "nombre": "Clínica Dental Cots",
+    "nombreCorto": "Clínica Cots",
+    "dominio": "clinicadentalcots.es",
+    "web": "https://www.clinicadentalcots.es/",
+    "contacto": "https://www.clinicadentalcots.es/contacto/",
+    "decisor": "Dr. Vicente Cots"
+  },
+  "colores": {
+    "acento": "#1b74d1",
+    "tinta": "#1b2633",
+    "profundo": "#172b40",
+    "suave": "#eef4fb",
+    "borde": "#d6e3f2",
+    "calido": "#8a5b20",
+    "calidoSuave": "#f7f0e6"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalcots.es/wp-content/uploads/2023/11/DOCTOR-VICENTE-COTS-valencia2.jpg",
+    "clinica1": "https://www.clinicadentalcots.es/wp-content/uploads/2024/06/clinica-dental-cots-valencia.jpg",
+    "clinica2": "https://www.clinicadentalcots.es/wp-content/uploads/2023/11/IMG_7501-2048x1536-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "RUZAFA · CARLOS CERVERA, 12",
+    "titulo": [
+      "Vuestra web dice «contacta ya».",
+      "Que contactar termine en una cita."
+    ],
+    "intro": "Más de 300 m² en el corazón de Ruzafa y odontología digital dirigida por el Dr. Vicente Cots. Proponemos que el paciente reserve su cita en el momento, sin tener que llamar ni esperar respuesta.",
+    "hallazgos": [
+      "Al enviar vuestro formulario de contacto, la respuesta automática dice que para coger cita hay que llamar o escribir por WhatsApp, porque por email no podéis dar citas. Quien lo ha rellenado tiene que empezar de nuevo por otro canal.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 9:30 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que el WhatsApp que ya recomendáis dé la cita.",
+      "texto": "Si el formulario manda al paciente a WhatsApp, que en WhatsApp le contesten al momento: el asistente ofrece los huecos libres y deja la cita reservada. Las dudas clínicas pasan al Dr. Cots y a su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes de WhatsApp os esperan cada lunes a primera hora?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "CARLOS CERVERA, 12 · RUZAFA · VALENCIA",
+    "telefono": "963 73 68 53",
+    "telefonos": "963 73 68 53 · WhatsApp 688 90 68 56",
+    "direccion": "C/ Carlos Cervera, 12, bajo · 46006 Valencia",
+    "marca": "COTS",
+    "submarca": "CLÍNICA DENTAL · RUZAFA",
+    "menuEquipo": "El Dr. Cots",
+    "heroEtiqueta": "ODONTOLOGÍA DIGITAL EN RUZAFA",
+    "heroTitulo": "Te mereces",
+    "heroDestacado": "una sonrisa perfecta.",
+    "heroTexto": "Implantes, ortodoncia y estética dental con tecnología digital. Elige día y hora y tu cita queda reservada, sin llamadas.",
+    "ctaHero": "Reservar mi cita",
+    "frase": "Como en casa.",
+    "nota": "A pocos pasos del Mercado de Ruzafa y a 5 minutos de la Estación del Norte.",
+    "fotoEtiqueta": "DR. VICENTE COTS ALCAYDE",
+    "fotoTitulo": "Director y coordinador.",
+    "cifra": "1993",
+    "cifraEtiqueta": "LICENCIADO EN ODONTOLOGÍA POR LA UNIVERSIDAD DE VALENCIA",
+    "equipoTitulo": "Especialistas en odontología digital.",
+    "equipoTexto": "El Dr. Vicente Cots dirige la clínica y coordina la cirugía oral e implantología, la estética dental digital CAD/CAM y la ortodoncia infantil y de adultos.",
+    "valores": [
+      [
+        "Tecnología.",
+        "Odontología digital en cada fase del tratamiento."
+      ],
+      [
+        "Confianza.",
+        "Una experiencia avalada por nuestros pacientes."
+      ],
+      [
+        "Calidad y garantía.",
+        "Las mejores marcas y total garantía."
+      ]
+    ],
+    "galeriaEtiqueta": "INSTALACIONES",
+    "galeriaTitulo": "Más de 300 m² en Ruzafa.",
+    "galeriaDestacado": "Para sentirte como en casa.",
+    "pies": [
+      "Carlos Cervera, 12 · Ruzafa",
+      "Instalaciones amplias y confortables"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Brackets",
+      "Prótesis dentales 3D",
+      "Estética dental",
+      "Endodoncia"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Elige el hueco que prefieras y la cita queda reservada; también por WhatsApp, a cualquier hora."
+      ],
+      [
+        "¿Cómo llego?",
+        "Estamos en Carlos Cervera, 12, en Ruzafa, cerca del mercado y a 5 minutos andando de la Estación del Norte."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 16:00 a 20:00; los viernes de 10:00 a 14:00."
+      ]
+    ],
+    "contactoTitulo": "Concierta tu cita hoy.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. Sin formularios que esperan respuesta.",
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Revisión"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 16:00–20:00",
+      "Viernes: 10:00–14:00"
+    ],
+    "pieMarca": "Odontología digital en Ruzafa",
+    "notaDiseno": "Clínica del Dr. Cots en Ruzafa: su retrato, instalaciones amplias y odontología digital, con la cita reservada sin llamar."
+  }
+}

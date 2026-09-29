@@ -79,3 +79,26 @@
 .pl-specialties button span{font-size:11px}
 .bp-plantilla .bp-contact{background:var(--bp-deep)}
 .bp-plantilla .bp-demo-form{border-radius:14px}
+
+/* Adaptación a pantallas pequeñas: las mismas reglas que Déniz (bespoke.css y refinement.css), con los nombres de la plantilla. */
+@container (max-width:850px){.pl-hero-copy h2{font-size:43px}.pl-hero{gap:28px}.pl-pilar,.pl-specialties{gap:35px}.pl-portrait>img{height:340px}.pl-handwritten{font-size:20px}}
+@container (max-width:600px){.pl-hero{grid-template-columns:1fr;gap:25px;padding:32px 7% 38px}.pl-hero-copy{grid-row:1}.pl-hero-copy h2{font-size:49px}.pl-hero-copy p{font-size:12px}.pl-handwritten{font-size:21px}.pl-hero-note{margin-top:22px}.pl-portrait{width:100%;max-width:355px;margin:auto}.pl-portrait>img{height:320px}.pl-pilar{grid-template-columns:1fr;padding:42px 7%;gap:20px}.pl-big-number{font-size:62px}.pl-pilar h3{font-size:30px}.pl-values{grid-template-columns:1fr;padding:0 7% 42px;gap:20px}.pl-values span{float:left;margin-right:18px}.pl-values h4{font-size:20px}.pl-values p{margin-top:9px}.pl-gallery{grid-template-columns:1fr;padding:42px 7%;gap:23px}.pl-gallery>div{display:block;grid-column:auto}.pl-gallery h3{font-size:32px}.pl-gallery figure img{height:240px}.pl-specialties{grid-template-columns:1fr;padding:42px 7%;gap:22px}.pl-specialties h3{font-size:34px}.pl-specialties button{font-size:12px}.bp-plantilla .bp-contact h3{font-size:41px}}
+@container(max-width:900px){.pl-hero{gap:28px;min-height:auto}.pl-hero-copy h2{font-size:52px}.pl-portrait>img{height:370px}.pl-specialties{gap:35px}}
+@container(max-width:650px){.pl-hero{grid-template-columns:1fr;padding:42px 26px 50px;gap:36px}.pl-pilar,.pl-gallery,.pl-specialties{padding:58px 26px}.pl-pilar,.pl-specialties{display:grid;grid-template-columns:1fr;gap:28px}.pl-hero-copy{grid-row:1}.pl-hero-copy h2{font-size:57px}.pl-hero-note{margin-top:24px}.pl-hero-note p{font-size:12px}.pl-portrait{max-width:390px;width:100%;border-radius:140px 140px 12px 12px}.pl-portrait>img{height:370px}.pl-big-number{font-size:86px}.pl-values{grid-template-columns:1fr;padding:0 26px 58px;gap:27px}.pl-values h4{font-size:23px}.pl-gallery{grid-template-columns:1fr}.pl-gallery>div{display:block}.pl-gallery figure img{height:280px}.pl-specialties button{font-size:16px}.bp-plantilla .bp-contact h3{font-size:44px}}
+@container(max-width:380px){.pl-hero-copy h2{font-size:50px}}
+
+/* Portada panorámica: para clínicas cuya mejor foto es horizontal (equipo, recepción, gabinete). */
+.pl-hero.pl-hero-wide{grid-template-columns:.95fr 1.15fr;gap:64px}
+.pl-hero-wide .pl-hero-copy{grid-column:1;grid-row:1}
+.pl-wide-photo{grid-column:2;grid-row:1;position:relative;margin:0}
+.pl-wide-photo>img{width:100%;height:470px;object-fit:cover;border-radius:18px;display:block;box-shadow:0 30px 60px -34px color-mix(in srgb,var(--bp-deep) 55%,transparent)}
+.pl-wide-photo figcaption{position:absolute;left:22px;bottom:22px;max-width:75%;background:var(--bp-deep);color:#fff;padding:16px 20px;border-radius:10px}
+.pl-wide-photo figcaption span{display:block;font-size:10px;letter-spacing:.11em;margin-bottom:5px;opacity:.85}
+.pl-wide-photo figcaption strong{font-size:15px;font-weight:500}
+.pl-wide-photo::before{content:"";position:absolute;inset:-14px 26px 26px -14px;border:1px solid color-mix(in srgb,var(--bp-accent) 35%,transparent);border-radius:22px;z-index:-1}
+.pl-hero-wide{position:relative;isolation:isolate}
+/* Sin cifra: el bloque de trayectoria ocupa todo el ancho. */
+.pl-pilar.pl-sin-cifra{grid-template-columns:1fr;max-width:900px}
+@container(max-width:900px){.pl-wide-photo>img{height:400px}}
+@container(max-width:650px){.pl-hero.pl-hero-wide{grid-template-columns:1fr;gap:30px}.pl-wide-photo{grid-column:1;grid-row:2}.pl-wide-photo>img{height:300px;border-radius:14px}.pl-wide-photo figcaption{left:14px;bottom:14px;padding:12px 15px}.pl-wide-photo::before{display:none}}
+.pl-hero-wide .pl-hero-copy h2{font-size:clamp(44px,4.4vw,64px)}

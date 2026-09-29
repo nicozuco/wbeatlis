@@ -4,5 +4,20 @@
   "odontology": "https://propuestas.atlisclinicas.com/odontology/",
   "carmen-domingo": "https://propuestas.atlisclinicas.com/carmen-domingo/",
   "deniz": "https://propuestas.atlisclinicas.com/deniz/",
-  "_respaldo_vercel": "https://atlis-propuestas-clinicas-v2.vercel.app/<clinica>/ (mismo contenido; usar solo si el dominio corto no responde)"
+  "_respaldo_vercel": "https://atlis-propuestas-clinicas-v2.vercel.app/<clinica>/ (mismo contenido; usar solo si el dominio corto no responde)",
+  "raga-ortodoncia": "https://propuestas.atlisclinicas.com/raga-ortodoncia/",
+  "asensio": "https://propuestas.atlisclinicas.com/asensio/",
+  "lucia-gil": "https://propuestas.atlisclinicas.com/lucia-gil/",
+  "peydro": "https://propuestas.atlisclinicas.com/peydro/",
+  "sonrie": "https://propuestas.atlisclinicas.com/sonrie/",
+  "dental-plus": "https://propuestas.atlisclinicas.com/dental-plus/",
+  "ilzarbe": "https://propuestas.atlisclinicas.com/ilzarbe/",
+  "estrela-ramirez": "https://propuestas.atlisclinicas.com/estrela-ramirez/",
+  "amedent": "https://propuestas.atlisclinicas.com/amedent/",
+  "cots": "https://propuestas.atlisclinicas.com/cots/",
+  "apradental": "https://propuestas.atlisclinicas.com/apradental/",
+  "lorente": "https://propuestas.atlisclinicas.com/lorente/",
+  "centro-periodontal": "https://propuestas.atlisclinicas.com/centro-periodontal/",
+  "primitivo-roig": "https://propuestas.atlisclinicas.com/primitivo-roig/",
+  "marta-paradis": "https://propuestas.atlisclinicas.com/marta-paradis/"
 }

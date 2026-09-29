@@ -1,0 +1,154 @@
+{
+  "slug": "marta-paradis",
+  "numero": 15,
+  "clinica": {
+    "nombre": "Clínica Dental Marta Paradís",
+    "nombreCorto": "Marta Paradís",
+    "dominio": "clinicamartaparadis.com",
+    "web": "https://clinicamartaparadis.com/",
+    "contacto": "https://clinicamartaparadis.com/contacto/",
+    "decisor": "Dra. Marta Paradís"
+  },
+  "colores": {
+    "acento": "#6b5b4e",
+    "tinta": "#1f1c1a",
+    "profundo": "#1f1c1a",
+    "suave": "#f5f2ee",
+    "borde": "#e5ded6",
+    "calido": "#b0875a",
+    "calidoSuave": "#f7f0e7"
+  },
+  "fotos": {
+    "principal": "https://clinicamartaparadis.com/wp-content/uploads/2025/04/Dra-Marta-Paradis_Directora-y-Odontologa.jpg",
+    "clinica1": "https://clinicamartaparadis.com/wp-content/uploads/2021/09/clinica-dental-marta-paradis03.jpg",
+    "clinica2": "https://clinicamartaparadis.com/wp-content/uploads/2021/09/clinica-dental-marta-paradis04.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "JUNTO AL MERCADO DE COLÓN · CONDE DE SALVATIERRA, 35",
+    "titulo": [
+      "Si tienes unos minutos para conocernos…",
+      "que te basten para reservar tu cita."
+    ],
+    "intro": "Más de 25 años como centro integral de especialidades, con atención cercana y en varios idiomas. Proponemos que el paciente pueda reservar su primera visita en el momento, también cuando la clínica está cerrada.",
+    "hallazgos": [
+      "En vuestra página de contacto, la forma de pedir cita es «Déjanos tus datos y nos pondremos en contacto contigo»: la cita no queda reservada hasta que alguien llama.",
+      "La web dice que abrís de lunes a viernes de 10:00 a 19:00; en Google Maps, el jueves cerráis a las 19:00 y no abrís hasta el lunes a las 10:00. Quien consulte Google ve 87 horas seguidas sin atención."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por el WhatsApp que ya tenéis en la web.",
+      "texto": "El asistente responde al 661 435 733 al momento, en el idioma del paciente, enseña los huecos libres y deja la cita reservada. Las dudas clínicas pasan a la Dra. Paradís y a su equipo."
+    },
+    "pregunta": "¿El horario de los viernes es el de la web o el de Google?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "CONDE DE SALVATIERRA, 35 · VALENCIA",
+    "telefono": "963 51 14 40",
+    "telefonos": "963 51 14 40 · WhatsApp 661 43 57 33",
+    "direccion": "C/ Conde de Salvatierra de Álava, 35, 1.º, 4.ª · 46004 Valencia",
+    "marca": "MARTA PARADÍS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "TU DENTISTA EN VALENCIA PARA TODA LA VIDA",
+    "heroTitulo": "Personas",
+    "heroDestacado": "cuidando de personas.",
+    "heroTexto": "Calidad, cercanía y una odontología centrada en tu experiencia y tu bienestar. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Quiero mejorar mi sonrisa",
+    "frase": "Cómplices de tus sueños.",
+    "nota": "Junto al Mercado de Colón. Atención en varios idiomas.",
+    "fotoEtiqueta": "DRA. MARTA PARADÍS",
+    "fotoTitulo": "Directora y odontóloga.",
+    "cifra": "25+",
+    "cifraEtiqueta": "AÑOS COMO CENTRO INTEGRAL DE ESPECIALIDADES",
+    "equipoTitulo": "Formación de alto nivel, trato de siempre.",
+    "equipoTexto": "Anteriormente Clínica Dental Salvatierra: un equipo con gran experiencia que forma y comparte conocimiento con otros profesionales, con salud y estética integral en un mismo plan.",
+    "valores": [
+      [
+        "Experiencia y formación.",
+        "Un equipo altamente preparado y comprometido con la formación."
+      ],
+      [
+        "Multilingüe.",
+        "Te atendemos en tu idioma."
+      ],
+      [
+        "Calidad accesible.",
+        "Plan W de prevención y una app para gestionar tus citas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Como en casa.",
+    "galeriaDestacado": "Junto al Mercado de Colón.",
+    "pies": [
+      "Conde de Salvatierra, 35 · Valencia",
+      "Instalaciones de la clínica"
+    ],
+    "servicios": [
+      "Revisión y odontología general",
+      "Ortodoncia",
+      "Estética dental",
+      "Implantes dentales",
+      "Odontopediatría",
+      "Periodoncia y endodoncia"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Me podéis atender en otro idioma?",
+        "Sí. Somos una clínica multilingüe."
+      ],
+      [
+        "¿Qué es el Plan W?",
+        "Un plan de prevención bucodental personalizado para cuidar tu sonrisa todo el año."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle Conde de Salvatierra de Álava, 35, junto al Mercado de Colón."
+      ]
+    ],
+    "contactoTitulo": "¿Empezamos el cambio?",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar a que te llamemos.",
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Estética dental",
+      "Ortodoncia",
+      "Implantes"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "18:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "15:00",
+        "17:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–19:00"
+    ],
+    "pieMarca": "Tu dentista en Valencia para toda la vida",
+    "notaDiseno": "Marca personal de la Dra. Marta Paradís: tonos cálidos, su retrato y el equipo, con reserva en el idioma del paciente."
+  }
+}

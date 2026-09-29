@@ -83,6 +83,25 @@ def traer_foto(origen, destino, base):
         if not ruta.is_file():
             fallo(f'No encuentro la foto {origen}')
         shutil.copyfile(ruta, destino)
+    reducir(destino)
+
+
+def reducir(ruta, lado=1600):
+    """Deja la foto a un tamaño de web (máximo 1600 px de lado) para que la propuesta cargue rápido en el móvil."""
+    try:
+        from PIL import Image
+    except ImportError:
+        return
+    with Image.open(ruta) as im:
+        if max(im.size) <= lado and ruta.stat().st_size < 700_000:
+            return
+        im.thumbnail((lado, lado))
+        if ruta.suffix.lower() in ('.jpg', '.jpeg'):
+            im.convert('RGB').save(ruta, quality=84, optimize=True)
+        elif ruta.suffix.lower() == '.webp':
+            im.save(ruta, quality=84)
+        else:
+            im.save(ruta, optimize=True)
 
 
 def main():

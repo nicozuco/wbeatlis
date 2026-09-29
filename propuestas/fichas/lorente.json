@@ -1,0 +1,170 @@
+{
+  "slug": "lorente",
+  "numero": 12,
+  "clinica": {
+    "nombre": "Centre Mèdic i Dental Dr. Lorente",
+    "nombreCorto": "Dr. Lorente",
+    "dominio": "dentallorente.com",
+    "web": "https://dentallorente.com/",
+    "contacto": "https://dentallorente.com/contacto/",
+    "decisor": "Dr. Juan José Lorente"
+  },
+  "colores": {
+    "acento": "#900044",
+    "tinta": "#2a1620",
+    "profundo": "#3c0f24",
+    "suave": "#fbf2f5",
+    "borde": "#efd6df",
+    "calido": "#b88e6a",
+    "calidoSuave": "#f8f0e8"
+  },
+  "fotos": {
+    "principal": "https://dentallorente.com/wp-content/uploads/2023/05/Centre-medic-i-dental-Dr-Lorente-Valencia.jpg",
+    "clinica1": "https://dentallorente.com/wp-content/uploads/2023/05/Clinica-dental-Eduardo-Bosca-33-Valencia-1.jpg",
+    "clinica2": "https://dentallorente.com/wp-content/uploads/2023/05/Clinica-dental-Eduardo-Bosca-33-Valencia-10.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "TRES CLÍNICAS · VALENCIA Y SILLA",
+    "titulo": [
+      "Tres clínicas, seis números de contacto.",
+      "Una sola conversación para pedir cita."
+    ],
+    "intro": "Av. Francia, Paseo de la Alameda y Silla, con presupuesto y financiación en el mismo momento. Proponemos que el paciente pida cita en un único sitio, elija clínica y hueco, y reciba la confirmación al instante.",
+    "hallazgos": [
+      "Vuestra web muestra tres teléfonos fijos y tres WhatsApp distintos, uno por clínica: antes de pedir cita, el paciente tiene que averiguar a cuál le toca escribir.",
+      "El formulario de cita avisa de que la confirmación llega por correo y de que, si no aparece, hay que buscarla en la carpeta de spam. La cita depende de que ese email llegue y se lea.",
+      "Según vuestro horario en Google, en Av. Francia del sábado a las 14:00 al lunes a las 9:00 pasan 43 horas con la clínica cerrada; Paseo de la Alameda no abre los sábados."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Un único asistente de WhatsApp para las tres clínicas.",
+      "texto": "Pregunta qué clínica le queda mejor al paciente, consulta esa agenda y deja la cita reservada con la confirmación en la misma conversación. Urgencias, presupuestos y lo clínico pasan al equipo del Dr. Lorente."
+    },
+    "pregunta": "¿Cuántas confirmaciones de cita se pierden en la carpeta de spam de los pacientes?",
+    "tema": "primera cita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "AV. FRANCIA · PASEO ALAMEDA · SILLA",
+    "telefono": "963 31 27 71",
+    "telefonos": "Av. Francia 963 31 27 71 · Po. Alameda 961 14 39 57 · Silla 961 21 34 29",
+    "direccion": "Av. de França, 20 · Eduard Boscà, 33 · Lluís Vives, 9 (Silla)",
+    "marca": "DR. LORENTE",
+    "submarca": "CENTRE MÈDIC I DENTAL",
+    "menuEquipo": "El Dr. Lorente",
+    "heroEtiqueta": "TUS DENTISTAS EN VALENCIA Y SILLA",
+    "heroTitulo": "Tu salud dental",
+    "heroDestacado": "merece lo mejor.",
+    "heroTexto": "Especialistas en implantes dentales y ortodoncia invisible, con presupuesto y financiación en el mismo momento. Elige clínica, día y hora.",
+    "ctaHero": "Reservar mi cita",
+    "frase": "Descubre una odontología diferente.",
+    "nota": "Tres clínicas: Av. Francia, Paseo de la Alameda y Silla.",
+    "fotoEtiqueta": "EQUIPO DR. LORENTE",
+    "fotoTitulo": "Atención personalizada y cercana.",
+    "cifra": "3",
+    "cifraEtiqueta": "CLÍNICAS CERCA DE TI",
+    "equipoTitulo": "Dentista por vocación.",
+    "equipoTexto": "El Dr. Juan José Lorente dirige el centro con un equipo de dentistas y auxiliares y tecnología digital de vanguardia, para una atención de alta calidad en Valencia y Silla.",
+    "valores": [
+      [
+        "Presupuesto al momento.",
+        "Presupuesto y financiación en la misma visita."
+      ],
+      [
+        "Tratamientos en un día.",
+        "Soluciones como carillas o implantes de carga inmediata."
+      ],
+      [
+        "Financiación hasta 4 años.",
+        "Empieza hoy a cuidar tu sonrisa."
+      ]
+    ],
+    "galeriaEtiqueta": "NUESTRAS CLÍNICAS",
+    "galeriaTitulo": "Cerca de ti.",
+    "galeriaDestacado": "En Valencia y en Silla.",
+    "pies": [
+      "Paseo de la Alameda · Eduard Boscà, 33",
+      "Recepción de la clínica"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Invisalign y ortodoncia",
+      "Carillas dentales",
+      "Odontopediatría",
+      "Prótesis dental",
+      "Limpieza y periodoncia"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿En qué clínica me atendéis?",
+        "En la que prefieras: Av. de França, 20; Eduard Boscà, 33 (Paseo de la Alameda) o Av. Lluís Vives, 9, en Silla."
+      ],
+      [
+        "¿Me dais presupuesto en la primera visita?",
+        "Sí. Te damos presupuesto y opciones de financiación en el mismo momento."
+      ],
+      [
+        "¿Abrís los sábados?",
+        "Av. Francia y Silla abren los sábados de 10:00 a 14:00; Paseo de la Alameda, de lunes a viernes."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige clínica, motivo, día y hora. La cita queda reservada y la confirmación te llega al momento.",
+    "motivos": [
+      "Primera cita · Av. Francia",
+      "Primera cita · Paseo Alameda",
+      "Primera cita · Silla",
+      "Implantes",
+      "Invisalign",
+      "Urgencia dental"
+    ],
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ],
+      "sabado": [
+        "10:00",
+        "11:30",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00–20:00",
+      "Sábados (Av. Francia y Silla): 10:00–14:00"
+    ],
+    "pieMarca": "Tus dentistas en Valencia y Silla",
+    "notaDiseno": "Tres clínicas con una sola entrada: burdeos de su marca, equipo en primer plano y reserva por clínica en un único recorrido."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "raga-ortodoncia",
+  "numero": 1,
+  "clinica": {
+    "nombre": "Raga Ortodoncia",
+    "nombreCorto": "Raga",
+    "dominio": "ortodonciavalencia.com",
+    "web": "https://ortodonciavalencia.com/",
+    "contacto": "https://ortodonciavalencia.com/contacto",
+    "decisor": "Dr. Javier B. Raga"
+  },
+  "colores": {
+    "acento": "#d9431a",
+    "tinta": "#2b2522",
+    "profundo": "#2b2522",
+    "suave": "#fbf1ec",
+    "borde": "#f0dcd2",
+    "calido": "#e8811f",
+    "calidoSuave": "#fdf4ea"
+  },
+  "fotos": {
+    "principal": "https://ortodonciavalencia.com/wp-content/uploads/diagnostico-digital-3d-ortodoncia-raga-valencia-scaled.webp",
+    "clinica1": "https://ortodonciavalencia.com/wp-content/uploads/nuestra-clinica-instalaciones-en-valencia.webp",
+    "clinica2": "https://ortodonciavalencia.com/wp-content/uploads/ortodoncia-con-invisalign-en-valencia.webp"
+  },
+  "propuesta": {
+    "etiqueta": "ORTODONCIA · JORGE JUAN, 20",
+    "titulo": ["Más de mil pacientes os recomiendan.", "Que pedir la primera visita sea igual de fácil."],
+    "intro": "Vuestra web ya convence: medio siglo de ortodoncia, primera visita gratuita y presupuesto cerrado. Proponemos que ese interés termine en una cita reservada en el momento, sin quedar a la espera de una llamada.",
+    "hallazgos": [
+      "En vuestra web, pedir la primera visita gratuita termina en un formulario que dice «Escríbenos y te llamamos»: el paciente se va sin cita y queda esperando a que recepción le devuelva la llamada. La web no ofrece WhatsApp.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 10:00 pasan 63 horas con la clínica cerrada. Quien decide pedir cita un sábado tiene que esperar al lunes."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Empezar por un asistente en la web que reserve la primera visita.",
+      "texto": "Resuelve las dudas prácticas (dónde estáis, si la primera visita es gratuita, qué huecos hay) y deja la cita reservada en vuestra agenda. El diagnóstico y el plan de tratamiento siguen siendo cosa del Dr. Raga y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes de primera visita os llegan por el formulario fuera de horario?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "ORTODONCIA · CENTRO DE VALENCIA",
+    "telefono": "96 352 93 91",
+    "telefonos": "96 352 93 91 · valencia@ragaortodoncia.com",
+    "direccion": "Jorge Juan, 20, bajo · 46004 Valencia",
+    "marca": "RAGA",
+    "submarca": "ORTODONCIA · VALENCIA",
+    "menuEquipo": "Nuestra trayectoria",
+    "heroEtiqueta": "ORTODONCIA EN VALENCIA",
+    "heroTitulo": "Tu primera visita,",
+    "heroDestacado": "sin esperas.",
+    "heroTexto": "Ortodoncia para niños, adolescentes y adultos en el centro de Valencia. Primera visita gratuita y presupuesto cerrado: elige día y hora y queda reservada.",
+    "ctaHero": "Reservar primera visita gratuita",
+    "frase": "Medio siglo alineando sonrisas.",
+    "nota": "Jorge Juan, 20. En pleno centro de Valencia.",
+    "fotoEtiqueta": "DR. JAVIER B. RAGA",
+    "fotoTitulo": "Diagnóstico digital en 3D.",
+    "cifra": "50",
+    "cifraEtiqueta": "AÑOS CUIDANDO SONRISAS EN VALENCIA",
+    "equipoTitulo": "La experiencia de décadas, con tecnología de hoy.",
+    "equipoTexto": "Ortodoncistas para niños, adolescentes y adultos, con escáner intraoral 3D, diseño digital de la sonrisa, TAC dental y seguimiento con Dental Monitoring.",
+    "valores": [
+      ["Primera visita gratuita.", "Una valoración sin coste para conocer tu caso y tus opciones."],
+      ["Presupuesto cerrado.", "Sabes lo que cuesta tu tratamiento antes de empezar, sin sorpresas."],
+      ["Seguimiento digital.", "Escáner 3D y Dental Monitoring para planificar y seguir cada caso."]
+    ],
+    "galeriaEtiqueta": "NUESTRA CLÍNICA",
+    "galeriaTitulo": "Pensada para toda la familia.",
+    "galeriaDestacado": "También para los más pequeños.",
+    "pies": ["Áreas infantiles para esperar sin miedo al dentista", "Jorge Juan, 20 · Valencia"],
+    "servicios": ["Ortodoncia invisible · Invisalign", "Ortodoncia infantil", "Ortodoncia para adolescentes", "Ortodoncia para adultos", "Brackets autoligados y estéticos", "Ortodoncia con minitornillos"],
+    "faqTitulo": "Antes de tu primera visita.",
+    "faq": [
+      ["¿La primera visita es gratuita?", "Sí. La primera visita de valoración no tiene coste y sales con un presupuesto cerrado."],
+      ["¿Tratáis a pacientes de todas las edades?", "Sí. Ortodoncia infantil, para adolescentes y para adultos."],
+      ["¿Dónde estáis?", "En la calle Jorge Juan, 20, bajo, en el centro de Valencia (46004)."]
+    ],
+    "contactoTitulo": "Reserva tu primera visita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. Si prefieres hablar con nosotros, llámanos al 96 352 93 91.",
+    "motivos": ["Primera visita gratuita", "Ortodoncia invisible", "Ortodoncia infantil", "Ya soy paciente"],
+    "huecos": {
+      "lunes": ["10:00", "11:30", "13:00", "16:00", "18:30"],
+      "martes": ["10:30", "12:00", "15:30", "17:00", "19:00"],
+      "miercoles": ["10:00", "12:30", "15:00", "16:30", "18:30"],
+      "jueves": ["10:00", "12:00", "14:30", "16:30", "18:30"],
+      "viernes": ["10:00", "11:30", "15:30", "17:30"]
+    },
+    "horario": ["Lunes a miércoles: 10:00–14:00 y 15:00–19:30", "Jueves: 10:00–19:30", "Viernes: 10:00–13:30 y 15:00–19:00"],
+    "pieMarca": "Ortodoncia en Valencia desde hace más de 50 años",
+    "notaDiseno": "Ortodoncia con medio siglo de trayectoria: tecnología digital, primera visita gratuita y reserva directa como eje."
+  }
+}

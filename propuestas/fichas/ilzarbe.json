@@ -1,0 +1,161 @@
+{
+  "slug": "ilzarbe",
+  "numero": 7,
+  "clinica": {
+    "nombre": "Clínica Dental Ilzarbe",
+    "nombreCorto": "Ilzarbe",
+    "dominio": "clinicailzarbe.es",
+    "web": "https://www.clinicailzarbe.es/",
+    "contacto": "https://www.clinicailzarbe.es/pide-cita/",
+    "decisor": "Dr. Luis María Ilzarbe"
+  },
+  "colores": {
+    "acento": "#1e62a8",
+    "tinta": "#15233a",
+    "profundo": "#14223a",
+    "suave": "#eef4fa",
+    "borde": "#d5e2f0",
+    "calido": "#5e9a3a",
+    "calidoSuave": "#f1f6ec"
+  },
+  "fotos": {
+    "principal": "https://www.clinicailzarbe.es/wp-content/uploads/2024/08/clinica-dental-ilzarbe-valencia-avdadelcid.jpg",
+    "clinica1": "https://www.clinicailzarbe.es/wp-content/uploads/2024/05/equipo-ilzarbe-la-fe-malilla1.jpg",
+    "clinica2": "https://www.clinicailzarbe.es/wp-content/uploads/2024/05/equipo-ilzarbe-la-fe-malilla2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "DOS CLÍNICAS · AV. DEL CID Y LA FE",
+    "titulo": [
+      "Más de 40 años, dos clínicas.",
+      "Una sola forma de pedir cita."
+    ],
+    "intro": "Desde 1982 en la Avenida del Cid y ahora también frente al nuevo Hospital La Fe. Proponemos que el paciente elija clínica, día y hora en un único sitio y salga con la cita reservada.",
+    "hallazgos": [
+      "Vuestra página «Pide cita» termina en «¡Rellena el formulario y nosotros te llamamos!»: el paciente se va sin cita y queda esperando vuestra llamada.",
+      "Para escribir por WhatsApp hay dos números distintos, uno para Av. del Cid y otro para La Fe: el paciente tiene que saber a cuál escribir antes de empezar.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 9:00 pasan 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Un asistente de WhatsApp para las dos clínicas.",
+      "texto": "Pregunta en qué clínica prefiere el paciente, enseña los huecos libres de esa agenda y deja la cita reservada. Urgencias y dudas clínicas pasan directamente a vuestro equipo."
+    },
+    "pregunta": "¿Cuántas llamadas devolvéis cada día por el formulario de «Pide cita»?",
+    "tema": "revisión dental"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "AV. DEL CID, 40 · FERNANDO ABRIL MARTORELL, 22",
+    "telefono": "963 82 67 27",
+    "telefonos": "963 82 67 27 · Cid 645 99 15 03 · La Fe 621 15 10 02",
+    "direccion": "Avda. del Cid, 40 · Avda. Fernando Abril Martorell, 22",
+    "marca": "ILZARBE",
+    "submarca": "CLÍNICAS ODONTOLÓGICAS",
+    "menuEquipo": "Nuestra historia",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Avanzamos",
+    "heroDestacado": "contigo.",
+    "heroTexto": "Más de 40 años cuidando la salud bucodental de toda la familia, ahora en dos clínicas. Elige la que te quede más cerca, el día y la hora.",
+    "ctaHero": "Reservar mi cita",
+    "frase": "Cuidar tu sonrisa también es mirar al futuro.",
+    "nota": "Av. del Cid, 40 (Nou Moles) y frente al Hospital La Fe (Malilla).",
+    "fotoEtiqueta": "CLÍNICA DENTAL ILZARBE",
+    "fotoTitulo": "El mismo equipo de confianza.",
+    "cifra": "1982",
+    "cifraEtiqueta": "FUNDADA POR EL DR. LUIS MARÍA ILZARBE",
+    "equipoTitulo": "Una historia que empezó en la Avenida del Cid.",
+    "equipoTexto": "El Dr. Luis María Ilzarbe Querol abrió la clínica en 1982. Hoy, con el mismo equipo de confianza, atiende también en Malilla, frente al nuevo Hospital La Fe.",
+    "valores": [
+      [
+        "Dos clínicas, un equipo.",
+        "Av. del Cid y La Fe, con la misma forma de trabajar."
+      ],
+      [
+        "Toda la familia.",
+        "Odontopediatría, ortodoncia, implantes y estética."
+      ],
+      [
+        "Financiación sin intereses.",
+        "Hasta 48 meses para organizar tu tratamiento."
+      ]
+    ],
+    "galeriaEtiqueta": "CLÍNICA ILZARBE LA FE",
+    "galeriaTitulo": "Nuestra segunda casa.",
+    "galeriaDestacado": "Frente al nuevo Hospital La Fe.",
+    "pies": [
+      "Avda. Fernando Abril Martorell, 22 · Malilla",
+      "Mismo equipo, mismos cuidados"
+    ],
+    "servicios": [
+      "Revisión dental",
+      "Implantes y prótesis",
+      "Ortodoncia",
+      "Estética dental y carillas",
+      "Odontopediatría",
+      "Plasma rico en plaquetas (PRP)"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿En qué clínica me atendéis?",
+        "En la que prefieras: Avda. del Cid, 40 (Nou Moles) o Avda. Fernando Abril Martorell, 22, frente al Hospital La Fe."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí, sin intereses hasta 48 meses (consulta condiciones en la clínica)."
+      ],
+      [
+        "¿Y si es una urgencia?",
+        "Indícalo al reservar y el equipo te dará prioridad."
+      ]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige clínica, motivo, día y hora. La cita queda reservada al momento, sin esperar a que te llamen.",
+    "motivos": [
+      "Revisión dental · Av. del Cid",
+      "Revisión dental · La Fe",
+      "Primera visita",
+      "Segunda opinión",
+      "Urgencia"
+    ],
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ]
+    },
+    "horario": [],
+    "pieMarca": "Clínica dental en Valencia desde 1982",
+    "notaDiseno": "Clínica familiar con dos sedes: historia desde 1982, equipo en primer plano y una única entrada para reservar en cualquiera de las dos."
+  }
+}

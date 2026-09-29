@@ -1,0 +1,168 @@
+{
+  "slug": "amedent",
+  "numero": 9,
+  "clinica": {
+    "nombre": "Clínica Dental Amedent",
+    "nombreCorto": "Amedent",
+    "dominio": "amedent.es",
+    "web": "https://amedent.es/",
+    "contacto": "https://amedent.es/contacto/",
+    "decisor": "Dra. Amelia Pérez Utrilla"
+  },
+  "colores": {
+    "acento": "#3d3a36",
+    "tinta": "#1e1d1b",
+    "profundo": "#1e1d1b",
+    "suave": "#f3f1ee",
+    "borde": "#e2ded8",
+    "calido": "#9a7b55",
+    "calidoSuave": "#f5efe6"
+  },
+  "fotos": {
+    "principal": "https://amedent.es/wp-content/uploads/elementor/thumbs/doctora-rkamclduhkx8jaosd7kbgzrvv6fvva7krqudb84zkg.png",
+    "clinica1": "https://amedent.es/wp-content/uploads/2026/02/foto3.jpg",
+    "clinica2": "https://amedent.es/wp-content/uploads/2026/02/foto4.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "DESDE 1931 · HISTORIADOR SANCHIS SIVERA, 18",
+    "titulo": [
+      "Tres generaciones cuidando sonrisas.",
+      "Que reservar la cita sea de esta."
+    ],
+    "intro": "Una clínica familiar en el centro de Valencia desde 1931, con horario hasta las 21:00. Proponemos que el paciente elija su hueco y salga con la cita reservada, también cuando la clínica está cerrada.",
+    "hallazgos": [
+      "En el pie de vuestra portada, el botón que muestra info@amedent.es abre en realidad un correo a booking@domain.com, una dirección de plantilla, con el asunto «Book a Appoitment». Esos mensajes no os llegan.",
+      "Según vuestro horario en Google, del sábado a las 14:00 al lunes a las 9:00 pasan 43 horas con la clínica cerrada. Lo que llegue en ese tiempo espera al lunes."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Corregir el enlace y empezar por WhatsApp.",
+      "texto": "El asistente atiende vuestro WhatsApp, enseña los huecos libres y deja la cita reservada a cualquier hora. Lo clínico, las urgencias y los presupuestos pasan a la Dra. Amelia y a su equipo."
+    },
+    "pregunta": "¿Cuántas peticiones de cita os llegan por email o WhatsApp el fin de semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "HISTORIADOR SANCHIS SIVERA, 18 · VALENCIA",
+    "telefono": "963 41 04 17",
+    "telefonos": "963 41 04 17 · 647 38 82 99",
+    "direccion": "C/ Historiador Sanchis Sivera, 18, bajo · 46008 Valencia",
+    "marca": "AMEDENT",
+    "submarca": "CLÍNICA DENTAL · DESDE 1931",
+    "menuEquipo": "Nuestra historia",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Bienestar que empieza",
+    "heroDestacado": "en tu boca.",
+    "heroTexto": "Odontología, ortodoncia, estética dental e implantología con una mirada integral del paciente. Elige día y hora y queda reservada.",
+    "ctaHero": "Reservar cita",
+    "frase": "Tu salud, tu tiempo y tu tranquilidad.",
+    "nota": "En el centro de Valencia. De lunes a jueves, hasta las 21:00.",
+    "fotoEtiqueta": "DRA. AMELIA PÉREZ UTRILLA",
+    "fotoTitulo": "Directora de Amedent.",
+    "cifra": "1931",
+    "cifraEtiqueta": "UNA CLÍNICA FAMILIAR EN VALENCIA",
+    "equipoTitulo": "Tres generaciones, formación continua.",
+    "equipoTexto": "Tratamientos completos con mirada integral del paciente, atención infantil con calma y urgencias con respuesta rápida, con la tecnología al servicio de tu salud.",
+    "valores": [
+      [
+        "Sonrisas naturales.",
+        "Experiencia y actualización constante en cada tratamiento."
+      ],
+      [
+        "Atención infantil con calma.",
+        "Visitas pensadas para que los más pequeños estén tranquilos."
+      ],
+      [
+        "Urgencias con respuesta rápida.",
+        "Te atendemos cuando más lo necesitas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Cuidamos lo importante.",
+    "galeriaDestacado": "Desde hace tres generaciones.",
+    "pies": [
+      "Historiador Sanchis Sivera, 18 · Valencia",
+      "El equipo de Amedent"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible y brackets",
+      "Estética: carillas y blanqueamiento",
+      "Odontopediatría",
+      "Endodoncia y periodoncia",
+      "Armonización orofacial"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 21:00; viernes y sábado de 9:00 a 14:00."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tenemos atención infantil con calma, pensada para los más pequeños."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle Historiador Sanchis Sivera, 18, bajo, 46008 Valencia."
+      ]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada. Si es una urgencia, indícalo y te damos prioridad.",
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia",
+      "Visita infantil",
+      "Urgencia"
+    ],
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "17:00",
+        "19:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:30",
+        "18:30",
+        "20:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "15:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00",
+        "20:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ],
+      "sabado": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–21:00",
+      "Viernes y sábado: 9:00–14:00"
+    ],
+    "pieMarca": "Clínica dental en Valencia desde 1931",
+    "notaDiseno": "Clínica familiar desde 1931: fotografía en blanco y negro, tono sobrio y cálido, y la directora en primer plano."
+  }
+}

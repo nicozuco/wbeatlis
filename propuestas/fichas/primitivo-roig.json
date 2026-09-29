@@ -1,0 +1,94 @@
+{
+  "slug": "primitivo-roig",
+  "numero": 14,
+  "clinica": {
+    "nombre": "Clínica Dental Primitivo Roig",
+    "nombreCorto": "Primitivo Roig",
+    "dominio": "clinicaprimitivoroig.com",
+    "web": "https://clinicaprimitivoroig.com/",
+    "contacto": "https://clinicaprimitivoroig.com/contacto/",
+    "decisor": "Dr. Primitivo Roig"
+  },
+  "colores": {
+    "acento": "#1f5f8f",
+    "tinta": "#1b2530",
+    "profundo": "#161c24",
+    "suave": "#f1f5f8",
+    "borde": "#dae3ea",
+    "calido": "#b89560",
+    "calidoSuave": "#f7f1e7"
+  },
+  "fotos": {
+    "principal": "https://clinicaprimitivoroig.com/wp-content/uploads/2024/06/mejores-dentistas-en-valencia-1.jpg",
+    "clinica1": "https://clinicaprimitivoroig.com/wp-content/uploads/2021/05/Clinica-dentalDoctors-24.jpg",
+    "clinica2": "https://clinicaprimitivoroig.com/wp-content/uploads/2021/05/Clinica-dentalDoctors-13.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ODONTOLOGÍA SLOW · DON JUAN DE AUSTRIA, 4",
+    "titulo": ["«Sin esperas» en la consulta.", "Que tampoco las haya para pedir cita."],
+    "intro": "Una clínica que planifica las citas para que nadie espere en la sala. Proponemos llevar esa misma idea a la reserva: el paciente elige su hueco y la primera visita queda hecha, sin esperar a que le llamen.",
+    "hallazgos": [
+      "El formulario «Pide cita ahora» dice «Facilítanos tus datos y te llamaremos para concertar tu primera visita»: el paciente se va sin cita y pendiente de una llamada.",
+      "Según vuestro horario en Google, del viernes a las 16:00 al lunes a las 9:00 pasan 65 horas con la clínica cerrada. Los WhatsApp al 623 250 828 esperan al lunes."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pide cita ahora» dé la cita ahora.",
+      "texto": "Un asistente en la web, y el mismo en vuestro WhatsApp, que enseña los huecos libres y deja reservada la primera visita. Lo clínico sigue siendo cosa del Dr. Primitivo Roig y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas hacéis cada día para concertar las solicitudes del formulario?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "DON JUAN DE AUSTRIA, 4 · VALENCIA CENTRO",
+    "telefono": "963 52 90 52",
+    "telefonos": "963 52 90 52 · WhatsApp 623 25 08 28",
+    "direccion": "C/ Don Juan de Austria, 4, 1.º · 46002 Valencia",
+    "marca": "PRIMITIVO ROIG",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Odontología slow",
+    "heroEtiqueta": "TU DENTISTA EN VALENCIA PARA TODA LA VIDA",
+    "heroTitulo": "Una odontología",
+    "heroDestacado": "en calma y más humana.",
+    "heroTexto": "Cambiamos la experiencia en el dentista desde la primera visita. Elige día y hora y tu cita queda reservada al momento.",
+    "ctaHero": "Pedir cita ahora",
+    "frase": "Todo gira alrededor de ti.",
+    "nota": "En pleno centro: calle Don Juan de Austria, 4.",
+    "fotoEtiqueta": "CLÍNICA DENTAL PRIMITIVO ROIG",
+    "fotoTitulo": "El equipo que cuidará de tu sonrisa.",
+    "cifra": "",
+    "cifraEtiqueta": "4 RAZONES POR LAS QUE NOS ELIGEN",
+    "equipoTitulo": "Sin esperas, con respeto por el diente.",
+    "equipoTexto": "Planificación digital para organizar las citas sin superposiciones, tratamientos conservadores y un método slow donde todo gira alrededor del paciente.",
+    "valores": [
+      ["Sin esperas.", "Citas planificadas para que no tengas que esperar en la sala."],
+      ["Respeto por el diente.", "Tratamientos conservadores: no hay nada como tus propios dientes."],
+      ["Accesible.", "Odontología de calidad, amable, segura y asequible."]
+    ],
+    "galeriaEtiqueta": "LAS INSTALACIONES",
+    "galeriaTitulo": "Las instalaciones que te mereces.",
+    "galeriaDestacado": "En Valencia centro.",
+    "pies": ["Don Juan de Austria, 4 · Valencia", "Equipamiento tecnológico excepcional"],
+    "servicios": ["Revisión y odontología general", "Estética dental y diseño de sonrisa", "Ortodoncia invisible", "Implantes dentales", "Odontopediatría", "Periodoncia"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿Qué es la odontología slow?", "Una forma de trabajar con tiempo, planificación digital y tratamientos conservadores, centrada en ti."],
+      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos al 623 250 828 y deja tu cita reservada en la misma conversación."],
+      ["¿Qué horario tenéis?", "De lunes a jueves de 9:00 a 19:00 y los viernes de 9:00 a 16:00."]
+    ],
+    "contactoTitulo": "Pide tu cita ahora.",
+    "contactoTexto": "Elige el motivo, el día y la hora. La cita queda reservada al momento, sin esperar a que te llamemos.",
+    "motivos": ["Primera visita", "Revisión", "Estética dental", "Ortodoncia invisible", "Implantes", "Odontopediatría"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "13:00", "16:00", "18:00"],
+      "martes": ["10:00", "12:00", "15:30", "17:00", "18:30"],
+      "miercoles": ["9:00", "11:30", "13:30", "16:30", "18:00"],
+      "jueves": ["10:30", "12:30", "15:00", "17:30"],
+      "viernes": ["9:30", "11:00", "13:00", "15:00"]
+    },
+    "horario": ["Lunes a jueves: 9:00–19:00", "Viernes: 9:00–16:00"],
+    "pieMarca": "Odontología slow en Valencia centro",
+    "notaDiseno": "Odontología slow: tono sereno, equipo en primer plano y una reserva igual de «sin esperas» que su consulta."
+  }
+}
