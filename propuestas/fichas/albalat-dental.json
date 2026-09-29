@@ -1,0 +1,94 @@
+{
+  "slug": "albalat-dental",
+  "numero": 36,
+  "clinica": {
+    "nombre": "Clínica Albalat Dental",
+    "nombreCorto": "Albalat Dental",
+    "dominio": "albalatdental.com",
+    "web": "https://albalatdental.com/",
+    "contacto": "https://albalatdental.com/contacto/",
+    "decisor": "Dr. Javier Albalat"
+  },
+  "colores": {
+    "acento": "#d97a00",
+    "tinta": "#262320",
+    "profundo": "#2e2a26",
+    "suave": "#fdf5ea",
+    "borde": "#f3e2c9",
+    "calido": "#9a8a78",
+    "calidoSuave": "#f5f2ee"
+  },
+  "fotos": {
+    "principal": "https://albalatdental.com/wp-content/uploads/2026/08/clinica-albalat-dental-valencia.jpg",
+    "clinica1": "https://albalatdental.com/wp-content/uploads/2021/04/albalat-equipo.jpg",
+    "clinica2": "https://albalatdental.com/wp-content/uploads/2026/09/revision-dental-albalat-dental.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "VALENCIA Y PUERTO DE SAGUNTO · CIRILO AMORÓS, 21",
+    "titulo": ["Más de 67 años cuidando generaciones.", "Una primera valoración que se reserve sola."],
+    "intro": "Dos clínicas, en Valencia y en Puerto de Sagunto, con Invisalign, implantes y periodoncia. Proponemos que el paciente elija clínica, día y hora de su primera valoración y la tenga reservada en el momento.",
+    "hallazgos": [
+      "Vuestra página «Solicita tu primera valoración» es un formulario que termina en «nuestro equipo se pondrá en contacto contigo» y «respuesta lo antes posible»: el paciente se va sin cita.",
+      "Según vuestro horario en Google, del viernes a las 15:00 al lunes a las 9:30 pasan 66 horas con la clínica de Valencia cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que la valoración se reserve en la web.",
+      "texto": "Un asistente que pregunta la clínica (Valencia o Puerto de Sagunto), enseña los huecos libres y deja la primera valoración reservada. El diagnóstico sigue siendo del equipo de los doctores Albalat."
+    },
+    "pregunta": "¿Cuántas solicitudes de valoración os llegan por la web cada semana?",
+    "tema": "primera valoración"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "CIRILO AMORÓS, 21 · VALENCIA · PUERTO DE SAGUNTO",
+    "telefono": "963 52 81 19",
+    "telefonos": "Valencia 963 52 81 19 · Sagunto 962 67 12 02 · WhatsApp 722 56 10 85",
+    "direccion": "C/ Cirilo Amorós, 21 · 46004 Valencia",
+    "marca": "ALBALAT DENTAL",
+    "submarca": "CENTRO DE ESPECIALIDADES",
+    "menuEquipo": "Nuestro equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN VALENCIA Y PUERTO DE SAGUNTO",
+    "heroTitulo": "Tu sonrisa merece",
+    "heroDestacado": "un diagnóstico personalizado.",
+    "heroTexto": "Valoramos tu caso de forma individual, explicándote cada paso con claridad y sin prisas. Elige clínica, día y hora.",
+    "ctaHero": "Reservar primera valoración",
+    "frase": "Personas que cuidan de personas.",
+    "nota": "En pleno centro de Valencia y en Puerto de Sagunto.",
+    "fotoEtiqueta": "ALBALAT DENTAL VALENCIA",
+    "fotoTitulo": "Cirilo Amorós, 21.",
+    "cifra": "67+",
+    "cifraEtiqueta": "AÑOS CUIDANDO GENERACIONES DE PACIENTES",
+    "equipoTitulo": "La experiencia de siempre, la odontología más avanzada.",
+    "equipoTexto": "Un equipo familiar con los doctores Javier, Salvador y Fernando Albalat, especializado en implantología, Invisalign, estética dental y periodoncia.",
+    "valores": [
+      ["Diagnóstico personalizado.", "Cada paciente es diferente."],
+      ["Sin compromiso.", "La primera valoración es informativa."],
+      ["Financiación.", "Opciones para organizar tu tratamiento."]
+    ],
+    "galeriaEtiqueta": "NUESTRO EQUIPO",
+    "galeriaTitulo": "La confianza de nuestros pacientes",
+    "galeriaDestacado": "es nuestro mayor aval.",
+    "pies": ["El equipo de Albalat Dental", "Revisión dental en la clínica"],
+    "servicios": ["Invisalign", "Implantes dentales", "Periodoncia", "Estética dental", "Ortodoncia", "Odontopediatría"],
+    "faqTitulo": "Preguntas frecuentes.",
+    "faq": [
+      ["¿La primera visita es informativa?", "Sí. Es una valoración personalizada y sin compromiso."],
+      ["¿En qué clínica me atendéis?", "En Valencia (Cirilo Amorós, 21) o en Puerto de Sagunto: elígela al reservar."],
+      ["¿Tratáis a niños y adultos?", "Sí. Atendemos a toda la familia."]
+    ],
+    "contactoTitulo": "Solicita tu valoración.",
+    "contactoTexto": "Elige clínica, motivo, día y hora y queda reservada al momento.",
+    "motivos": ["Primera valoración · Valencia", "Primera valoración · Puerto de Sagunto", "Invisalign", "Implantes", "Periodoncia"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "13:00", "16:30", "18:30"],
+      "martes": ["10:00", "12:00", "16:00", "17:30", "19:00"],
+      "miercoles": ["9:30", "11:30", "13:00", "17:00", "19:00"],
+      "jueves": ["10:30", "12:30", "16:00", "18:00"],
+      "viernes": ["9:30", "11:00", "12:30", "14:00"]
+    },
+    "horario": [],
+    "pieMarca": "Clínicas dentales en Valencia y Puerto de Sagunto",
+    "notaDiseno": "Clínica familiar con dos sedes: naranja de su marca, fachada y equipo, y una valoración reservable por clínica."
+  }
+}
