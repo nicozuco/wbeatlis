@@ -1,0 +1,7 @@
+# Version de revision: la web sigue cerrada a buscadores.
+# ANTES DE PUBLICAR: borrar el "Disallow: /", descomentar el Sitemap
+# y quitar el noindex de las cuatro paginas HTML.
+User-agent: *
+Disallow: /
+
+# Sitemap: https://atlisclinicas.com/sitemap.xml

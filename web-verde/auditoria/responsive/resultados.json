@@ -1,0 +1,56 @@
+[
+  {
+    "engine": "Chrome",
+    "pages": 4,
+    "widths": [
+      320,
+      360,
+      375,
+      390,
+      430,
+      600,
+      700,
+      768,
+      800,
+      820,
+      1000,
+      1024,
+      1440
+    ],
+    "interactionWidths": [
+      320,
+      390,
+      768
+    ],
+    "landscape": "844 × 390",
+    "status": "passed",
+    "errors": []
+  },
+  {
+    "engine": "WebKit",
+    "pages": 4,
+    "widths": [
+      320,
+      360,
+      375,
+      390,
+      430,
+      600,
+      700,
+      768,
+      800,
+      820,
+      1000,
+      1024,
+      1440
+    ],
+    "interactionWidths": [
+      320,
+      390,
+      768
+    ],
+    "landscape": "844 × 390",
+    "status": "passed",
+    "errors": []
+  }
+]

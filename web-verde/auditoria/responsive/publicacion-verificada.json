@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-17",
+  "url": "https://atlisclinicas.com",
+  "deployment": "https://atlis-preview-y2gf25yeh-nicozucos-projects.vercel.app",
+  "checks": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "file": "demo.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "file": "privacidad.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "file": "aviso-legal.html",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "file": "styles.css",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "file": "responsive.css",
+      "status": 200,
+      "matchesBuild": true
+    },
+    {
+      "file": "js/main.js",
+      "status": 200,
+      "matchesBuild": true
+    }
+  ],
+  "browser": "Chrome",
+  "viewportWidths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "menu": "passed",
+  "faq": "passed",
+  "demoLink": "passed",
+  "errors": []
+}
