@@ -1,3 +1,4 @@
+import './visitas.js';
 import './benefits-motion.js';
 import './final-cta.js';
 import './experience.js';
