@@ -1,0 +1,162 @@
+{
+  "slug": "esencia-dental",
+  "numero": 60,
+  "clinica": {
+    "nombre": "Esencia Dental",
+    "nombreCorto": "Esencia Dental",
+    "dominio": "esenciadental.es",
+    "web": "http://www.esenciadental.es/",
+    "contacto": "http://www.esenciadental.es/contacto",
+    "decisor": "Dra. Yolanda Magdaleno"
+  },
+  "colores": {
+    "acento": "#8a6a45",
+    "tinta": "#1f1c19",
+    "profundo": "#2a2521",
+    "suave": "#f7f3ee",
+    "borde": "#e8ddd0",
+    "calido": "#5f7f8f",
+    "calidoSuave": "#eef3f5"
+  },
+  "fotos": {
+    "principal": "http://www.esenciadental.es/img/3d65a51291870f9a59668d4ebbe1636b-home-background1.jpg",
+    "clinica1": "http://www.esenciadental.es/img/bbb110861c71eb7022ebefa644b75f02-home-background3.jpg",
+    "clinica2": "http://www.esenciadental.es/img/6774b88943fc35d2b2a628a1f14f90fc-home-background2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "EXPLORADOR ANDRÉS, 32 · VALENCIA",
+    "titulo": [
+      "Todas las especialidades, coordinadas.",
+      "Que la cita también lo esté."
+    ],
+    "intro": "Un centro de especialidades con más de 10 años de odontología multidisciplinar y laboratorio de prótesis propio. Proponemos que el paciente pueda reservar su cita en el momento, desde la web o desde vuestro WhatsApp.",
+    "hallazgos": [
+      "En Google y en la pestaña del navegador, vuestra web se presenta como «Bienvenidos a EscenciaDental», con el nombre mal escrito. Y para pedir cita solo hay un formulario de nombre, correo y mensaje: los teléfonos no se pueden pulsar para llamar desde el móvil.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 9:00 pasan 67 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el 690 38 55 42 en la web. El asistente contesta al momento, pregunta el motivo, ofrece los huecos de la especialista adecuada y deja la cita reservada. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Sabíais que Google muestra vuestra web como «EscenciaDental»?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "EXPLORADOR ANDRÉS, 32 · VALENCIA",
+    "telefono": "963 71 43 72",
+    "telefonos": "963 71 43 72 · WhatsApp 690 38 55 42",
+    "direccion": "C/ Explorador Andrés, 32 bajo · 46022 Valencia",
+    "marca": "ESENCIA DENTAL",
+    "submarca": "YOLANDA MAGDALENO",
+    "menuEquipo": "Nuestro equipo",
+    "heroEtiqueta": "CENTRO DE ESPECIALIDADES ODONTOLÓGICAS",
+    "heroTitulo": "Todas las especialidades,",
+    "heroDestacado": "coordinadas.",
+    "heroTexto": "Odontólogos, cirujano maxilofacial, anestesista, laboratorio e higienistas trabajando juntos por el mejor resultado. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "La excelencia en el trato personal.",
+    "nota": "En Explorador Andrés, 32.",
+    "fotoEtiqueta": "ESENCIA DENTAL",
+    "fotoTitulo": "Nuestro equipo.",
+    "cifra": "10+",
+    "cifraEtiqueta": "AÑOS DE ODONTOLOGÍA MULTIDISCIPLINAR",
+    "equipoTitulo": "Especialistas en cada área.",
+    "equipoTexto": "La Dra. Yolanda Magdaleno (implantología, periodoncia y estética), la Dra. Laura Fernández (endodoncia), la Dra. Clara Guinot (ortodoncia e Invisalign) y la Dra. Lydia Castro (odontopediatría), con laboratorio de prótesis propio.",
+    "valores": [
+      [
+        "Multidisciplinar.",
+        "Todas las especialidades, coordinadas."
+      ],
+      [
+        "Laboratorio propio.",
+        "Prótesis dental Valdentia."
+      ],
+      [
+        "Toda la familia.",
+        "De la odontopediatría a los implantes."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Un espacio luminoso",
+    "galeriaDestacado": "y acogedor.",
+    "pies": [
+      "Sala de espera",
+      "Explorador Andrés, 32"
+    ],
+    "servicios": [
+      "Implantología y cirugía oral",
+      "Periodoncia",
+      "Estética y prótesis",
+      "Endodoncia",
+      "Ortodoncia e Invisalign",
+      "Odontopediatría"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 14:00 y de 15:00 a 20:00; los viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. La Dra. Lydia Castro es nuestra odontopediatra."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 690 38 55 42 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia e Invisalign",
+      "Odontopediatría",
+      "Revisión e higiene"
+    ],
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:30",
+        "15:30",
+        "18:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "15:30",
+        "17:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–14:00 y 15:00–20:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "pieMarca": "Centro de especialidades odontológicas en Valencia",
+    "notaDiseno": "Clínica multidisciplinar: bronce y gris de su rótulo, el equipo frente a la clínica y la cita reservable por WhatsApp."
+  }
+}
