@@ -147,3 +147,6 @@ body.client-site-open .client-demo .demo-toolbar{position:static;box-shadow:none
 .client-hero h1>span{display:block}
 .client-hero h1 .client-hero-sub{margin-top:.18em;font-weight:500}
 }
+/* La barra fija no convive con la demo ni con el chat: se oculta mientras la demo está en pantalla */
+body.client-demo-visible .client-sticky{transform:translate(-50%,140%)!important;pointer-events:none}
+@media(max-width:600px){body.client-demo-visible .client-sticky{transform:translateY(140%)!important}}
