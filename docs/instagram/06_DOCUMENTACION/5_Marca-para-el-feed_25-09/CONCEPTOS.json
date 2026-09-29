@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01_personas_procesos_cuidado",
+    "headline": "Personas. Procesos. Cuidado.",
+    "vertical": "Neutra",
+    "intent": "Manifiesto de marca",
+    "palette": "Petróleo y turquesa",
+    "visual": "Tríptico editorial de trato humano, arquitectura clínica y detalle de servicio; una composición única de tres ritmos.",
+    "caption": "La forma de trabajar importa tanto como la herramienta. En ATLIS pensamos los procesos alrededor de las personas que atienden y de quienes llegan a la clínica. Así entendemos el cuidado."
+  },
+  {
+    "id": "02_criterio_humano",
+    "headline": "El criterio es humano.",
+    "vertical": "Neutra",
+    "intent": "Valor y confianza",
+    "palette": "Marfil y carbón",
+    "visual": "Mano de una profesional revisando un documento antes de compartirlo; composición de bodegón editorial.",
+    "caption": "Hay decisiones que necesitan a una persona. Por eso definimos con cada clínica qué información puede compartirse y cuándo toma el relevo el equipo. El criterio profesional guía el proceso."
+  },
+  {
+    "id": "03_primero_escuchar",
+    "headline": "Primero escuchamos. Después diseñamos.",
+    "vertical": "Neutra",
+    "intent": "Método de ATLIS",
+    "palette": "Petróleo y piedra",
+    "visual": "Reunión documental real entre la clínica y una persona de ATLIS, sin pantallas ni pose comercial.",
+    "caption": "Cada clínica tiene su propio ritmo, sus herramientas y su forma de atender. Escuchamos cómo trabajáis antes de dibujar un proceso. Las buenas soluciones parten de entender el día a día."
+  },
+  {
+    "id": "04_cada_clinica",
+    "headline": "Cada clínica tiene su manera.",
+    "vertical": "Dental y estética",
+    "intent": "Adaptación",
+    "palette": "Turquesa, blanco y gris piedra",
+    "visual": "Dos interiores clínicos diferentes unidos por una composición editorial cuidada, sin parecer una comparación comercial.",
+    "caption": "No hay una única forma correcta de organizar una clínica. Hay un equipo, un tono, unos horarios y unas prioridades propias. Nuestro trabajo empieza por respetar esa manera de hacer las cosas."
+  },
+  {
+    "id": "05_segundo_plano",
+    "headline": "La tecnología, en segundo plano.",
+    "vertical": "Neutra",
+    "intent": "Filosofía de servicio",
+    "palette": "Azul ATLIS, blanco y carbón",
+    "visual": "La atención humana enfoca; una herramienta discreta queda desenfocada al fondo, en un encuadre cinematográfico.",
+    "caption": "La tecnología funciona mejor cuando ayuda sin reclamar protagonismo. El paciente percibe una atención clara y el equipo conserva su espacio para intervenir. Ese equilibrio nos importa."
+  },
+  {
+    "id": "06_continuidad",
+    "headline": "Todo tiene un siguiente paso.",
+    "vertical": "Neutra",
+    "intent": "Continuidad",
+    "palette": "Turquesa y petróleo",
+    "visual": "Tres gestos cotidianos en una sola composición: recibir, ordenar y continuar; fotografía y diseño gráfico sin burbujas de chat.",
+    "caption": "Una buena experiencia no depende de un único mensaje. Depende de que cada conversación tenga continuidad y de que el equipo sepa qué ocurre después. En ATLIS diseñamos ese hilo con cuidado."
+  },
+  {
+    "id": "07_detalles",
+    "headline": "Los detalles también cuidan.",
+    "vertical": "Dental",
+    "intent": "Precisión y experiencia",
+    "palette": "Blanco, piedra y azul",
+    "visual": "Detalle fotográfico del espacio preparado para una primera visita; materiales reales y composición serena.",
+    "caption": "Una hora clara, una indicación útil, un mensaje que llega a tiempo. Los detalles pequeños cambian cómo se vive una visita. Nos gusta pensar también en ellos."
+  },
+  {
+    "id": "08_hacemos_equipo",
+    "headline": "Trabajamos como parte del equipo.",
+    "vertical": "Estética",
+    "intent": "Acompañamiento",
+    "palette": "Marfil y verde petróleo",
+    "visual": "Revisión conjunta entre personas de la clínica y consultoría; escena amplia y natural, sin pose.",
+    "caption": "Diseñar un proceso es sólo el comienzo. Lo probamos con quienes lo van a usar y lo ajustamos al trabajo real de la clínica. Nos gusta estar cerca del equipo que lo hace posible."
+  },
+  {
+    "id": "09_simple",
+    "headline": "Sencillo por fuera. Pensado por dentro.",
+    "vertical": "Neutra",
+    "intent": "Diseño y claridad",
+    "palette": "Blanco y turquesa",
+    "visual": "Objeto editorial de papel plegado: superficie limpia por fuera, estructura ordenada en el corte; metáfora material precisa.",
+    "caption": "La sencillez se construye. Detrás de una interacción fácil hay decisiones sobre el tono, los límites, los tiempos y el siguiente paso. Nos ocupamos de que todo encaje sin complicar la experiencia."
+  },
+  {
+    "id": "10_siguiente_paso",
+    "headline": "Cada consulta merece un siguiente paso.",
+    "vertical": "Neutra",
+    "intent": "Cierre de manifiesto",
+    "palette": "Petróleo, turquesa y blanco",
+    "visual": "Póster tipográfico de gran impacto con una línea continua mínima; frase de marca presente en la web de ATLIS.",
+    "caption": "Cada consulta empieza con una persona. Que tenga una respuesta clara y un siguiente paso es la idea que guía nuestro trabajo. Ese es el tipo de experiencia que queremos ayudar a construir."
+  }
+]

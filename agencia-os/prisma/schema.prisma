@@ -1,0 +1,563 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+enum PipelinePhase {
+  UNCONTACTED
+  CONTACTED
+  RESPONDED
+  MEETING_SCHEDULED
+  PROPOSAL_SENT
+  CONTRACTED
+  CONTRACT_SIGNED
+  FIRST_PAYMENT
+  ONBOARDING
+  ACTIVE
+  DISCARDED
+}
+
+enum ThreatLevel {
+  LEVEL_1
+  LEVEL_2
+  LEVEL_3
+  LEVEL_4
+  LEVEL_5
+  INTERNATIONAL
+}
+
+enum CompetitorCategory {
+  AI
+  MARKETING
+  MIXED
+}
+
+enum TaskStatus {
+  TODO
+  IN_PROGRESS
+  DONE
+}
+
+enum TaskPriority {
+  URGENT
+  IMPORTANT
+}
+
+enum ContentFormat {
+  IMAGE
+  CAROUSEL
+  REEL
+}
+
+enum ContentStatus {
+  IDEA
+  SCRIPT
+  DESIGN
+  SCHEDULED
+  PUBLISHED
+}
+
+enum FinanceEntryType {
+  INCOME
+  EXPENSE
+}
+
+enum ExpenseFrequency {
+  ONE_TIME
+  SUBSCRIPTION
+}
+
+enum ExpensePayer {
+  NICO
+  JOEL
+  SHARED
+}
+
+enum MindMapNodeKind {
+  SHAPE
+  CLIENT
+  COMPETITOR
+  CONTENT_IDEA
+  GROUP
+  STICKY
+  DRAWING
+  IMAGE
+  LINK
+  TABLE
+}
+
+enum MindMapEdgeStyle {
+  SOLID
+  DASHED
+  ARROW
+}
+
+model Clinic {
+  id                String        @id @default(cuid())
+  name              String
+  city              String?
+  contactName       String?
+  phone             String?
+  email             String?
+  instagram         String?
+  website           String?
+  phase             PipelinePhase @default(UNCONTACTED)
+  leadSource        String?
+  firstContactAt    DateTime?
+  lastInteractionAt DateTime?
+  nextFollowUpAt    DateTime?
+  monthlyFeeCents   Int           @default(0)
+  createdAt         DateTime      @default(now())
+  updatedAt         DateTime      @updatedAt
+
+  interactions   Interaction[]
+  stageEvents    ClinicStageEvent[]
+  processSteps   ClinicProcessStep[]
+  tasks          Task[]
+  financeEntries FinanceEntry[]
+  mapNodes       MindMapNode[]
+
+  @@index([phase])
+  @@index([city])
+  @@index([leadSource])
+  @@index([nextFollowUpAt])
+}
+
+model ClinicProcessStep {
+  id          String        @id @default(cuid())
+  clinicId    String
+  phase       PipelinePhase
+  stepKey     String
+  completedAt DateTime?
+  clinic      Clinic        @relation(fields: [clinicId], references: [id], onDelete: Cascade)
+
+  @@unique([clinicId, phase, stepKey])
+}
+
+model Interaction {
+  id         String   @id @default(cuid())
+  clinicId   String
+  occurredAt DateTime @default(now())
+  note       String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  clinic Clinic @relation(fields: [clinicId], references: [id], onDelete: Cascade)
+
+  @@index([clinicId, occurredAt])
+  @@index([occurredAt])
+}
+
+model ClinicStageEvent {
+  id        String         @id @default(cuid())
+  clinicId  String
+  fromPhase PipelinePhase?
+  toPhase   PipelinePhase
+  changedAt DateTime       @default(now())
+
+  clinic Clinic @relation(fields: [clinicId], references: [id], onDelete: Cascade)
+
+  @@index([clinicId, changedAt])
+  @@index([changedAt])
+}
+
+model Competitor {
+  id             String             @id @default(cuid())
+  threatLevel    ThreatLevel
+  ranking        Int?
+  company        String
+  agencyType     String?
+  category       CompetitorCategory
+  niche          String?
+  instagram      String?
+  followersCount Int?
+  postCount      Int?
+  website        String?
+  location       String?
+  trackRecord    String?
+  publicPrice    String?
+  ownNotes       String?
+  followed       Boolean            @default(false)
+  lastReviewedAt DateTime?
+  createdAt      DateTime           @default(now())
+  updatedAt      DateTime           @updatedAt
+
+  mapNodes MindMapNode[]
+
+  @@index([threatLevel])
+  @@index([category])
+  @@index([ranking])
+}
+
+model Task {
+  id          String         @id @default(cuid())
+  title       String
+  description String?
+  category    String?
+  priority    TaskPriority?
+  status      TaskStatus     @default(TODO)
+  dueAt       DateTime?
+  completedAt DateTime?
+  position    Int            @default(0)
+  clinicId    String?
+  // Fase de la clínica vinculada de la que no se puede avanzar hasta completar la tarea.
+  blocksPhase PipelinePhase?
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  clinic Clinic? @relation(fields: [clinicId], references: [id], onDelete: SetNull)
+
+  @@index([status, position])
+  @@index([dueAt])
+  @@index([clinicId])
+  @@index([clinicId, blocksPhase])
+}
+
+// Objetivos operativos de la agencia. Cada objetivo se divide en secciones
+// (fases/subcategorías) y pasos marcables para mostrar progreso real.
+model Goal {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  title       String
+  description String?
+  position    Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  sections GoalSection[]
+
+  @@index([position])
+}
+
+model GoalSection {
+  id          String   @id @default(cuid())
+  goalId      String
+  title       String
+  description String?
+  position    Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  goal  Goal       @relation(fields: [goalId], references: [id], onDelete: Cascade)
+  steps GoalStep[]
+
+  @@index([goalId, position])
+}
+
+model GoalStep {
+  id           String    @id @default(cuid())
+  sectionId    String
+  title        String
+  description  String?
+  answer       String?
+  referenceUrl String?
+  position     Int       @default(0)
+  completedAt  DateTime?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  section GoalSection @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  attachments GoalStepAttachment[]
+
+  @@index([sectionId, position])
+  @@index([completedAt])
+}
+
+model GoalStepAttachment {
+  id          String   @id @default(cuid())
+  stepId      String
+  name        String
+  contentType String
+  size        Int
+  storagePath String   @unique
+  createdAt   DateTime @default(now())
+
+  step GoalStep @relation(fields: [stepId], references: [id], onDelete: Cascade)
+
+  @@index([stepId, createdAt])
+}
+
+model ContentItem {
+  id           String        @id @default(cuid())
+  title        String
+  format       ContentFormat
+  status       ContentStatus @default(IDEA)
+  scheduledFor DateTime?
+  script       String?
+  position     Int           @default(0)
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+
+  mapNodes MindMapNode[]
+
+  @@index([status, position])
+  @@index([scheduledFor])
+}
+
+model FinanceEntry {
+  id               String            @id @default(cuid())
+  type             FinanceEntryType
+  description      String
+  amountCents      Int
+  occurredAt       DateTime
+  clinicId         String?
+  expenseFrequency ExpenseFrequency?
+  expensePayer     ExpensePayer?
+  createdAt        DateTime          @default(now())
+  updatedAt        DateTime          @updatedAt
+
+  clinic Clinic? @relation(fields: [clinicId], references: [id], onDelete: SetNull)
+
+  @@index([type, occurredAt])
+  @@index([clinicId])
+  @@index([expenseFrequency, expensePayer])
+}
+
+model MrrSnapshot {
+  id          String   @id @default(cuid())
+  month       DateTime @unique
+  amountCents Int
+  capturedAt  DateTime @default(now())
+}
+
+// El servidor cifra las cuentas con VAULT_SERVER_KEY; la sesión de la app
+// controla el acceso y ya no se necesita una clave maestra adicional.
+model VaultItem {
+  id          String   @id @default(cuid())
+  title       String
+  url         String?
+  category    String
+  description String?
+  // Usuario, contraseña y notas cifrados por el servidor; null si es solo enlace.
+  secret      String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([category])
+}
+
+model Note {
+  id        String   @id @default(cuid())
+  title     String
+  body      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  tags      Tag[]
+}
+
+model Tag {
+  id    String @id @default(cuid())
+  name  String @unique
+  notes Note[]
+}
+
+// Un lienzo infinito de nodos y conexiones. `updatedAt` se toca a mano en cada
+// escritura de un nodo o conexión propios (no solo cuando cambia el propio
+// MindMap) para que el cliente pueda detectar "este mapa cambió en otra
+// sesión" sin necesidad de colaboración en tiempo real.
+model MindMap {
+  id        String   @id @default(cuid())
+  name      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  nodes MindMapNode[]
+  edges MindMapEdge[]
+}
+
+// Los nodos CLIENT/COMPETITOR/CONTENT_IDEA no copian datos del registro
+// original: solo guardan su id (clinicId/competitorId/contentItemId) y la
+// UI lee el registro real en cada render. Si el registro se borra, la
+// referencia queda a NULL (ON DELETE SET NULL) pero el nodo conserva su
+// `kind` — así la UI puede distinguir "nodo Cliente huérfano" de "nodo Nota".
+// Un CHECK en la migración impide que un nodo rellene la columna de
+// referencia que no le corresponde a su kind.
+model MindMapNode {
+  id            String          @id @default(cuid())
+  mapId         String
+  kind          MindMapNodeKind
+  x             Float
+  y             Float
+  width         Float?
+  height        Float?
+  parentId      String?
+  text          String?
+  color         String?
+  clinicId      String?
+  competitorId  String?
+  contentItemId String?
+  // Forma, borde y tipografía (SHAPE/STICKY) o herramienta y grosor (DRAWING).
+  style         Json?
+  // Puntos [x, y] de un trazo DRAWING, relativos al propio nodo.
+  points        Json?
+  // Imagen (url, ruta en Storage, tamaño original) o vista previa de un enlace (LINK).
+  media         Json?
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+
+  map           MindMap       @relation(fields: [mapId], references: [id], onDelete: Cascade)
+  parent        MindMapNode?  @relation("MindMapNodeParent", fields: [parentId], references: [id], onDelete: SetNull)
+  children      MindMapNode[] @relation("MindMapNodeParent")
+  clinic        Clinic?       @relation(fields: [clinicId], references: [id], onDelete: SetNull)
+  competitor    Competitor?   @relation(fields: [competitorId], references: [id], onDelete: SetNull)
+  contentItem   ContentItem?  @relation(fields: [contentItemId], references: [id], onDelete: SetNull)
+  outgoingEdges MindMapEdge[] @relation("MindMapEdgeSource")
+  incomingEdges MindMapEdge[] @relation("MindMapEdgeTarget")
+
+  @@index([mapId])
+  @@index([parentId])
+  @@index([clinicId])
+  @@index([competitorId])
+  @@index([contentItemId])
+}
+
+model MindMapEdge {
+  id           String           @id @default(cuid())
+  mapId        String
+  sourceId     String
+  targetId     String
+  sourceHandle String?
+  targetHandle String?
+  label        String?
+  style        MindMapEdgeStyle @default(SOLID)
+  // Trazado, extremos, color, grosor y discontinuo de la conexión.
+  options      Json?
+  createdAt    DateTime         @default(now())
+  updatedAt    DateTime         @updatedAt
+
+  map    MindMap     @relation(fields: [mapId], references: [id], onDelete: Cascade)
+  source MindMapNode @relation("MindMapEdgeSource", fields: [sourceId], references: [id], onDelete: Cascade)
+  target MindMapNode @relation("MindMapEdgeTarget", fields: [targetId], references: [id], onDelete: Cascade)
+
+  @@index([mapId])
+  @@index([sourceId])
+  @@index([targetId])
+}
+
+// Recordatorio de la Agenda. pg_cron llama a /api/reminders/dispatch cuando hay
+// alguno vencido con sentAt a null y la app envía el aviso push.
+model Reminder {
+  id        String    @id @default(cuid())
+  title     String
+  notes     String?
+  remindAt  DateTime
+  sentAt    DateTime?
+  doneAt    DateTime?
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  @@index([remindAt])
+  @@index([sentAt, remindAt])
+}
+
+// Navegador o dispositivo suscrito a los avisos push.
+model PushSubscription {
+  id            String    @id @default(cuid())
+  userId        String
+  endpoint      String    @unique
+  p256dh        String
+  auth          String
+  userAgent     String?
+  createdAt     DateTime  @default(now())
+  lastSuccessAt DateTime?
+}
+
+// Ajustes de cada usuario de Supabase Auth (ver lib/preferences.ts): perfil,
+// apariencia, página de inicio y orden/apartados ocultos del menú.
+model UserPreference {
+  userId       String   @id
+  displayName  String?
+  theme        String   @default("dark")
+  accent       String   @default("teal")
+  textSize     String   @default("normal")
+  reduceMotion Boolean  @default(false)
+  startPage    String   @default("/hoy")
+  navOrder     Json     @default("[]")
+  hiddenNav    Json     @default("[]")
+  updatedAt    DateTime @updatedAt
+}
+
+// Biblioteca de Formación (ver docs/plan-formacion-conocimiento.md). Copia de
+// solo lectura del archivo Markdown privado; la reescribe scripts/import-formation.ts.
+model FormationCourse {
+  id              String   @id
+  title           String
+  programId       String?
+  mentor          String?
+  campusUrl       String?
+  declaredLessons Int      @default(0)
+  position        Int
+  overviewMd      String?
+  importedAt      DateTime @default(now())
+
+  lessons FormationLesson[]
+}
+
+model FormationLesson {
+  id              String   @id
+  courseId        String
+  slug            String
+  sourcePath      String
+  title           String
+  moduleKey       String
+  moduleTitle     String
+  modulePosition  Int
+  sectionTitle    String?
+  position        Int
+  lessonDate      String?
+  durationSeconds Int?
+  campusUrl       String?
+  status          String
+  notesMd         String?
+  transcriptMd    String?
+  visualsMd       String?
+  statusMd        String?
+  tools           String[] @default([])
+  wordCount       Int      @default(0)
+  importedAt      DateTime @default(now())
+
+  course    FormationCourse     @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  segments  FormationSegment[]
+  documents FormationDocument[]
+
+  @@unique([courseId, slug])
+  @@index([courseId, position])
+}
+
+model FormationSegment {
+  id           String                   @id
+  lessonId     String
+  kind         String
+  position     Int
+  level        Int                      @default(0)
+  heading      String?
+  anchor       String?
+  timestamp    String?
+  text         String
+  searchHead   String
+  searchBody   String
+  searchVector Unsupported("tsvector")?
+
+  lesson FormationLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId, kind, position])
+}
+
+model FormationDocument {
+  id          String @id
+  lessonId    String
+  name        String
+  contentType String
+  size        Int
+  position    Int
+  data        Bytes
+
+  lesson FormationLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId, position])
+}

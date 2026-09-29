@@ -1,0 +1,8 @@
+_originales
+auditoria
+tests
+dist
+.claude
+.DS_Store
+*.md
+.env.local

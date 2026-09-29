@@ -1,0 +1,110 @@
+/* Familiar channel interfaces, scoped to the hero demonstration. */
+.channel-showcase { grid-template-columns: 1.08fr 1fr; align-items: stretch; background: #fff; }
+.conversation-preview { padding: 20px; border-right: 1px solid var(--border); min-width: 0; }
+.channel-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 17px; }
+.channel-tabs { display: inline-flex; align-items: center; gap: 3px; padding: 4px; background: #f2f3f5; border: 1px solid #e6e9ec; border-radius:var(--radius-sm); }
+.channel-tab { display: flex; justify-content: center; align-items: center; gap: 7px; padding: 9px 12px; min-height: 40px; border: 1px solid transparent; background: transparent; border-radius:var(--radius-xs); font-size:13px; font-weight: 550; color: var(--muted); white-space: nowrap; transition: background .2s, box-shadow .2s; }
+.channel-tab[aria-selected="true"] { background: #fff; border-color: #e1e5ea; color: #103769; box-shadow: 0 2px 5px #0f1e3308; }
+.channel-tab:hover { background: #ffffffb3; }
+.channel-tab img, .channel-tab .icon { width: 17px; height: 17px; }
+.channel-demo-label { color: var(--muted); font-size:11px; letter-spacing: .09em; text-align: right; }
+.messaging-window { border: 1px solid #dbe0e6; border-radius:var(--radius-md); overflow: hidden; background: #efeae2; }
+.messaging-header { display: flex; align-items: center; gap: 11px; padding: 15px 18px; background: #f8f9fa; border-bottom: 1px solid #e3e6e9; }
+.clinic-avatar { display: grid; place-items: center; width: 38px; height: 38px; flex-shrink: 0; border-radius: 50%; background: #dae3ef; color: #113e78; }
+.clinic-avatar .icon { width: 20px; height: 20px; }
+.messaging-title { min-width: 0; }
+.messaging-title strong { display: block; font-size:14px; font-weight: 600; color: #1c2531; }
+.messaging-title>span { display: block; font-size:12px; color: #5f6874; margin-top: 2px; }
+.messaging-header-detail { margin-left: auto; font-size:22px; line-height: 1; letter-spacing: 2px; color: var(--muted); transform: rotate(90deg); }
+/* WhatsApp-style chat wallpaper: our own line doodles on the familiar beige. */
+.messaging-body { display: flex; flex-direction: column; gap: 10px; padding: 17px 18px 18px; background-color: var(--wa-bg); background-image: var(--wa-wallpaper); background-size: 240px 240px; }
+.message { position: relative; padding: 10px 12px 7px; border-radius:var(--radius-sm); max-width: 88%; width: fit-content; font-size:14px; line-height: 1.65; color: #242c37; box-shadow: 0 1px 1px #1b293b19; }
+.message-in { align-self: flex-start; background: #fff; border-top-left-radius: 2px; }
+.message-out { align-self: flex-end; background: #d9fdd3; border-top-right-radius: 2px; }
+.message-in:before, .message-out:before { content: ''; position: absolute; top: 0; width: 7px; height: 9px; }
+.message-in:before { left: -6px; background: #fff; clip-path: polygon(0 0,100% 0,100% 100%); }
+.message-out:before { right: -6px; background: #d9fdd3; clip-path: polygon(0 0,100% 0,0 100%); }
+.message-meta { display: flex; align-items: center; justify-content: flex-end; gap: 6px; font-size:11px; color: #626973; line-height: 1.4; margin-top: 4px; }
+.message-meta .icon { width: 13px; height: 13px; color: #3d5c84; }
+.message-brief { display: flex; align-items: center; gap: 18px; padding-block: 8px; }
+.message-brief .message-meta { margin-top: 0; }
+.messaging-footer { padding: 11px 14px; background: #f7f8f9; border-top: 1px solid #dfe3e8; }
+.message-demo-link { display: flex; align-items: center; gap: 10px; padding: 6px 7px 6px 14px; border: 1px solid #dbe0e6; border-radius:var(--radius-xl); background: #fff; color: #556376; font-size:13px; min-height: 44px; transition: border-color .2s; }
+.message-demo-link>.icon { width: 14px; height: 14px; }
+.message-demo-link:hover { border-color: #184887; }
+.message-send { margin-left: auto; display: grid; place-items: center; border-radius: 50%; width: 31px; height: 31px; flex-shrink: 0; background: #0b3e81; color: #fff; transition: transform .2s; }
+.message-send .icon { width: 17px; height: 17px; }
+.message-demo-link:hover .message-send { transform: translateX(2px); }
+.messaging-window[data-channel="web"] { background: #fff; border-color: var(--border); box-shadow: 0 8px 26px #0b1b3305; }
+.messaging-window[data-channel="web"] .messaging-header { background: var(--petrol); border-bottom-color: var(--petrol); }
+.messaging-window[data-channel="web"] .clinic-avatar { background: #203959; color: #76aaed; }
+.messaging-window[data-channel="web"] .messaging-title strong { color: #fff; }
+.messaging-window[data-channel="web"] .messaging-title>span, .messaging-window[data-channel="web"] .messaging-header-detail { color: #b7c5d8; }
+.messaging-window[data-channel="web"] .messaging-body { background: #fff; }
+.messaging-window[data-channel="web"] .message-in { background: var(--mint); border-radius: 11px 11px 11px 3px; box-shadow: none; }
+.messaging-window[data-channel="web"] .message-out { background: #f0f2f4; border-radius: 11px 11px 3px 11px; box-shadow: none; }
+.messaging-window[data-channel="web"] .message:before { display: none; }
+.messaging-window[data-channel="web"] .messaging-footer { background: var(--soft); }
+.messaging-window[data-channel="web"] .message-send { background: var(--teal-dark); }
+/* Google Calendar's colors belong only to this illustrative app window. */
+.google-calendar-preview { --calendar-blue: #1a73e8; padding: 24px 25px 22px; min-width: 0; display: flex; flex-direction: column; }
+.gcal-header { display: flex; align-items: center; gap: 11px; padding-bottom: 20px; border-bottom: 1px solid #e4e8ec; }
+.gcal-header img { width: 30px; height: 30px; }
+.gcal-header strong { font-size:18px; font-weight: 450; letter-spacing: -.025em; color: #3c4043; }
+.gcal-view-label { margin-left: auto; border: 1px solid #dadce0; padding: 5px 10px; border-radius:var(--radius-xs); font-size:12px; color: #5f6368; }
+.gcal-toolbar { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 22px 0 15px; }
+.gcal-toolbar strong { color: #3c4043; font-size:18px; font-weight: 500; }
+.gcal-toolbar>span { font-size:11px; color: #68747b; text-align: right; }
+.gcal-week-grid { display: grid; grid-template-columns: 43px repeat(5,minmax(0,1fr)); grid-template-rows: 70px repeat(3,66px); position: relative; margin: 0 -5px 23px; }
+.gcal-day { grid-row: 1; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.gcal-day span { font-size:11px; color: #5f6368; letter-spacing: .055em; }
+.gcal-day b { display: grid; place-items: center; height: 36px; width: 36px; font-size:22px; font-weight: 400; line-height: 1; color: #3c4043; }
+.gcal-day-mon { grid-column: 2; }.gcal-day-tue { grid-column: 3; }.gcal-day-wed { grid-column: 4; }.gcal-day-thu { grid-column: 5; }.gcal-day-fri { grid-column: 6; }
+.gcal-day-thu span { color: #185abc; }.gcal-day-thu b { color: #fff; background: var(--calendar-blue); border-radius: 50%; }
+.gcal-lines { grid-row: 2/5; grid-column: 2/7; border-right: 1px solid #e6e9ed; border-bottom: 1px solid #e6e9ed; background-image: linear-gradient(to right,#e6e9ed 1px,transparent 1px),linear-gradient(to bottom,#e6e9ed 1px,transparent 1px); background-size: 20% 100%,100% 66px; }
+.gcal-time { grid-column: 1; color: #71767c; font-size:11px; padding: 0 8px 0 0; line-height: 1; text-align: right; transform: translateY(-4px); }
+.gcal-time-16 { grid-row: 2; }.gcal-time-17 { grid-row: 3; }.gcal-time-18 { grid-row: 4; }
+.gcal-event { position: relative; z-index: 1; grid-column: 5; grid-row: 3/5; margin: 2px 4px 36px 2px; padding: 9px 7px; min-width: 0; border: 1px solid #a8c7fa; border-left: 3px solid var(--calendar-blue); border-radius:var(--radius-xs); background: #d3e3fd; color: #174ea6; text-align: left; display: flex; flex-direction: column; align-items: flex-start; gap: 5px; box-shadow: 0 2px 5px #1a73e80b; transition: background .2s,box-shadow .2s; }
+.gcal-event strong { font-size:12px; font-weight: 600; line-height: 1.4; overflow-wrap: anywhere; }
+.gcal-event>span { font-size:11px; }.gcal-event>.icon { width: 13px; height: 13px; margin-top: auto; }
+.gcal-event:hover,.gcal-event[aria-expanded="true"] { background: #c2d8fc; box-shadow: 0 3px 12px #1a73e829; }
+.gcal-event:focus-visible { outline-color: #174ea6; outline-offset: 2px; }
+.gcal-event-details { display: flex; align-items: flex-start; gap: 11px; border: 1px solid #d3dff0; border-radius:var(--radius-sm); padding: 14px; background: #f7faff; margin: -4px 0 18px; }
+.gcal-event-details>.icon { width: 17px; height: 17px; margin-top: 2px; color: #1967d2; }
+.gcal-event-details strong { font-size:13px; color: #174ea6; font-weight: 550; }.gcal-event-details p { font-size:12px; line-height: 1.7; margin-top: 5px; }
+.gcal-status { display: flex; gap: 12px; align-items: center; padding: 17px 15px; border-radius:var(--radius-sm); background: var(--petrol); color: #fff; margin-top: auto; box-shadow: 0 7px 15px #0b1b3314; }
+.gcal-status-icon { display: grid; place-items: center; flex-shrink: 0; width: 31px; height: 31px; border: 1px solid #455a76; border-radius: 50%; color: #a0bfe7; }.gcal-status-icon .icon { width: 16px; height: 16px; }
+.gcal-status strong { display: block; font-size:14px; font-weight: 500; line-height: 1.6; }.gcal-status>div>span { display: block; color: #bbc8da; font-size:12px; margin-top: 2px; }
+.gcal-human-note { display: flex; gap: 10px; align-items: flex-start; margin-top: 17px; }.gcal-human-note>.icon { width: 15px; height: 15px; margin-top: 3px; color: var(--muted); }.gcal-human-note p { font-size:12px; line-height: 1.8; }.gcal-human-note strong { font-weight: 500; }
+.channel-disclaimer { text-align: center; font-size:12px; line-height: 1.7; margin: 16px auto 0; color: var(--muted); max-width: 790px; }
+.channel-showcase+.channel-disclaimer+.trust-strip { margin-top: 23px; }
+@media (max-width:1190px) {
+  .channel-showcase { grid-template-columns: 1.08fr 1fr; }
+  .conversation-preview { padding: 17px; }.google-calendar-preview { padding: 21px 19px; }
+  .channel-demo-label { display: none; }.channel-tabs { width: 100%; }.channel-tab { flex: 1; }
+  .messaging-body { padding-inline: 15px; }.message { max-width: 93%; font-size:13px; }
+  .gcal-header strong { font-size:16px; }.gcal-view-label { padding: 5px 7px; font-size:11px; }
+  .gcal-week-grid { grid-template-columns: 36px repeat(5,minmax(0,1fr)); }.gcal-event { margin-right: 2px; padding-inline: 5px; }}
+@media (max-width:800px) {
+  .channel-showcase { grid-template-columns: 1fr; }
+  .conversation-preview { border-right: 0; border-bottom: 1px solid var(--border); padding: 22px; }
+  .channel-toolbar { justify-content: space-between; }.channel-demo-label { display: block; }.channel-tabs { width: auto; }
+  .messaging-header { padding: 16px 20px; }.messaging-body { padding: 20px; gap: 12px; }.message { font-size:14px; max-width: 82%; }
+  .google-calendar-preview { padding: 25px; }.gcal-header strong { font-size:18px; }.gcal-week-grid { grid-template-columns: 43px repeat(5,minmax(0,1fr)); }.gcal-event { margin-right: 5px; padding-inline: 9px; }.gcal-event strong { font-size:14px; }
+  .gcal-human-note p,.gcal-status>div>span { font-size:13px; }.gcal-human-note { margin-top: 16px; }}
+@media (max-width:500px) {
+  .conversation-preview { padding: 13px; }.channel-toolbar { margin-bottom: 13px; }.channel-demo-label { display: none; }.channel-tabs { width: 100%; }.channel-tab { font-size:13px; min-height: 43px; padding-inline: 8px; }
+  .messaging-header { padding: 13px; gap: 9px; }.clinic-avatar { width: 34px; height: 34px; }.messaging-title strong { font-size:13px; }.messaging-title>span { font-size:11px; }
+  .messaging-body { padding: 15px 13px; gap: 11px; }.message { max-width: 93%; font-size:13px; padding: 10px 11px 7px; }.message-brief { padding-block: 8px; }.message-meta { font-size:11px; }.messaging-footer { padding: 10px; }.message-demo-link { font-size:12px; padding-left: 12px; gap: 7px; }.message-send { width: 29px; height: 29px; }
+  .google-calendar-preview { padding: 20px 15px; }.gcal-header { gap: 8px; padding-bottom: 17px; }.gcal-header img { width: 28px; height: 28px; }.gcal-header strong { font-size:16px; }.gcal-view-label { font-size:11px; }
+  .gcal-toolbar { padding: 18px 0; }.gcal-toolbar strong { font-size:16px; }.gcal-toolbar>span { font-size:11px; }
+  .gcal-week-grid { grid-template-columns: 32px repeat(5,minmax(0,1fr)); grid-template-rows: 65px repeat(3,61px); margin-inline: -3px; margin-bottom: 20px; }.gcal-lines { background-size: 20% 100%,100% 61px; }
+  .gcal-time { font-size:11px; padding-right: 5px; }.gcal-day span { font-size:11px; }.gcal-day b { font-size:20px; width: 32px; height: 32px; }.gcal-event { padding: 7px 4px; margin: 2px 2px 23px 1px; border-left-width: 2px; gap: 6px; }.gcal-event strong { font-size:11px; }.gcal-event>span { font-size:11px; }
+  .gcal-status { padding: 14px 12px; gap: 9px; }.gcal-status strong { font-size:13px; }.gcal-status>div>span { font-size:12px; }.gcal-status-icon { width: 27px; height: 27px; }.gcal-human-note p { font-size:12px; }
+  .channel-disclaimer { font-size:11px; margin-top: 14px; padding-inline: 5px; }}
+@media (max-width:360px) {
+  .gcal-week-grid { grid-template-columns: 33px repeat(3,minmax(0,1fr)); }
+  .gcal-day-mon,.gcal-day-tue { display: none; }.gcal-day-wed { grid-column: 2; }.gcal-day-thu { grid-column: 3; }.gcal-day-fri { grid-column: 4; }
+  .gcal-lines { grid-column: 2/5; background-size: 33.3333% 100%,100% 61px; }.gcal-event { grid-column: 3; padding-inline: 7px; }.gcal-event strong { font-size:12px; }
+  .gcal-header strong { font-size:16px; }.gcal-view-label { display: none; }}
+@media (prefers-reduced-motion:reduce) { .channel-showcase * { transition: none!important; }.message-demo-link:hover .message-send { transform: none; }}

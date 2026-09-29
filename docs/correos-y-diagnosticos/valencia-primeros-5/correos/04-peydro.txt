@@ -1,0 +1,18 @@
+BORRADOR · NO ENVIADO
+Para: recepcion@clinicapeydro.es
+Asunto: Un detalle en el selector de citas de Peydro
+
+Hola, equipo de Peydro Herrero:
+
+He visto un detalle en vuestro formulario: al elegir el domingo 4 de octubre aparecen opciones de hora en el selector, aunque el horario publicado solo detalla lunes a viernes. No he enviado ninguna solicitud, así que no sé si lo validáis después o si atendéis citas especiales ese día.
+
+Soy Nico, de Atlis. He preparado una muestra de cómo bloquear días cerrados y ajustar las horas al horario de cada jornada, para evitar solicitudes que luego haya que corregir.
+
+¿Os envío la imagen para que recepción valore si merece la pena revisarlo?
+
+Un saludo,
+Nico | Atlis
+
+---
+Seguimiento opcional, solo si procede contactar:
+Hola, equipo de Peydro Herrero. ¿Pudisteis comprobar si el domingo del selector es intencionado? Si no lo es, la muestra enseña cómo aclararlo antes de que el paciente envíe la solicitud. Un saludo, Nico.

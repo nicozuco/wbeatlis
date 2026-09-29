@@ -1,0 +1,751 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "../vendor/shadcn-tailwind-4.13.0.css";
+
+:root {
+  --bg: #0b0c0e;
+  --surface: #141619;
+  --surface-raised: #1c1f23;
+  --border: #24282d;
+  --border-strong: #33383f;
+  --text: #e8eaed;
+  --text-muted: #8b9197;
+  --text-faint: #5a6068;
+  /* Acento: versión para fondo oscuro y más intensa para fondo claro (ver Apariencia, más abajo). */
+  --accent-dark: #2dd4bf;
+  --accent-dark-hover: #5eead4;
+  --accent-light: #0f9f90;
+  --accent-light-hover: #0c8a7d;
+  --accent: var(--accent-dark);
+  --accent-hover: var(--accent-dark-hover);
+  --accent-soft: color-mix(in srgb, var(--accent) 12%, transparent);
+  --success: #3fb950;
+  --warning: #f0b429;
+  --danger: #f85149;
+  --info: #58a6ff;
+  --violet: #a78bfa;
+  --phase-uncontacted: #6b7280;
+  --phase-contacted: #58a6ff;
+  --phase-responded: #a78bfa;
+  --phase-meeting: #2dd4bf;
+  --phase-proposal: #f0b429;
+  --phase-contracted: #3fb950;
+  /* Fases de servicio: verdes y turquesas, del contrato al cliente activo. */
+  --phase-signed: #4ac18e;
+  --phase-first-payment: #9bd35a;
+  --phase-onboarding: #5cc8d8;
+  --phase-active: #2fbf71;
+  --phase-discarded: #4b5058;
+  --threat-1: #f85149;
+  --threat-2: #f0b429;
+  --threat-3: #58a6ff;
+  --threat-4: #6b7280;
+  --threat-5: #4b5058;
+  --threat-international: #a78bfa;
+  /* Papel de los pósits del mapa mental y su tinta oscura. */
+  --sticky-yellow: #f6d86b;
+  --sticky-orange: #f5a86e;
+  --sticky-pink: #f29dc0;
+  --sticky-violet: #c5aaf6;
+  --sticky-blue: #95c7f7;
+  --sticky-green: #a2d9a3;
+  --sticky-gray: #cfd3d8;
+  --sticky-white: #ffffff;
+  --sticky-red: #f7a39c;
+  --sticky-teal: #93ddd3;
+  --sticky-ink: #1c1d1f;
+
+  --background: var(--bg);
+  --foreground: var(--text);
+  --card: var(--surface);
+  --card-foreground: var(--text);
+  --popover: var(--surface-raised);
+  --popover-foreground: var(--text);
+  --primary: var(--accent);
+  --primary-foreground: var(--bg);
+  --secondary: var(--surface-raised);
+  --secondary-foreground: var(--text);
+  --muted: var(--surface-raised);
+  --muted-foreground: var(--text-muted);
+  --destructive: var(--danger);
+  --input: var(--border);
+  --ring: var(--accent);
+  --radius: 0.5rem;
+}
+
+/* ── Apariencia elegida en Ajustes ─────────────────────────────────────────
+   Atributos data-* en <html> (lib/preferences.ts). Los data-accent-preview y
+   las clases .appearance-preview-* pintan las vistas previas de Ajustes con
+   un tema o acento distinto del que está activo. */
+
+[data-accent-preview="teal"] { --accent-dark: #2dd4bf; --accent-dark-hover: #5eead4; --accent-light: #0f9f90; --accent-light-hover: #0c8a7d; }
+:root[data-accent="blue"], [data-accent-preview="blue"] { --accent-dark: #58a6ff; --accent-dark-hover: #79b8ff; --accent-light: #2563eb; --accent-light-hover: #1d4ed8; }
+:root[data-accent="violet"], [data-accent-preview="violet"] { --accent-dark: #a78bfa; --accent-dark-hover: #c4b5fd; --accent-light: #7c3aed; --accent-light-hover: #6d28d9; }
+:root[data-accent="green"], [data-accent-preview="green"] { --accent-dark: #3fb950; --accent-dark-hover: #56d364; --accent-light: #15803d; --accent-light-hover: #166534; }
+:root[data-accent="amber"], [data-accent-preview="amber"] { --accent-dark: #f0b429; --accent-dark-hover: #f7c948; --accent-light: #b45309; --accent-light-hover: #92400e; }
+:root[data-accent="rose"], [data-accent-preview="rose"] { --accent-dark: #f472b6; --accent-dark-hover: #f9a8d4; --accent-light: #db2777; --accent-light-hover: #be185d; }
+
+.accent-swatch { background: var(--accent-dark); }
+
+/* Tema claro. "Según el sistema" repite los mismos valores cuando el sistema está en claro. */
+:root[data-theme="light"],
+.appearance-preview-light {
+  --bg: #f5f6f8;
+  --surface: #ffffff;
+  --surface-raised: #eef0f3;
+  --border: #e1e4e8;
+  --border-strong: #c9ced5;
+  --text: #16181c;
+  --text-muted: #5b6169;
+  --text-faint: #939aa2;
+  --accent: var(--accent-light);
+  --accent-hover: var(--accent-light-hover);
+  --accent-soft: color-mix(in srgb, var(--accent) 12%, transparent);
+  --success: #1f9d55;
+  --warning: #c98a00;
+  --danger: #dc3c42;
+  --info: #2f6fe0;
+  --violet: #7c4ddb;
+  color-scheme: light;
+}
+
+:root[data-theme="light"] .accent-swatch { background: var(--accent-light); }
+
+@media (prefers-color-scheme: light) {
+  :root[data-theme="system"] {
+    --bg: #f5f6f8;
+    --surface: #ffffff;
+    --surface-raised: #eef0f3;
+    --border: #e1e4e8;
+    --border-strong: #c9ced5;
+    --text: #16181c;
+    --text-muted: #5b6169;
+    --text-faint: #939aa2;
+    --accent: var(--accent-light);
+    --accent-hover: var(--accent-light-hover);
+    --success: #1f9d55;
+    --warning: #c98a00;
+    --danger: #dc3c42;
+    --info: #2f6fe0;
+    --violet: #7c4ddb;
+    color-scheme: light;
+  }
+
+  :root[data-theme="system"] .accent-swatch { background: var(--accent-light); }
+}
+
+.appearance-preview-dark {
+  --bg: #0b0c0e;
+  --surface: #141619;
+  --surface-raised: #1c1f23;
+  --border: #24282d;
+  --border-strong: #33383f;
+  --text: #e8eaed;
+  --text-muted: #8b9197;
+  --text-faint: #5a6068;
+  --accent: var(--accent-dark);
+  --accent-soft: color-mix(in srgb, var(--accent) 12%, transparent);
+  color-scheme: dark;
+}
+
+/* El logo es blanco: en tema claro se invierte manteniendo el tono del símbolo. */
+:root[data-theme="light"] .brand-logo { filter: invert(1) hue-rotate(180deg); }
+
+@media (prefers-color-scheme: light) {
+  :root[data-theme="system"] .brand-logo { filter: invert(1) hue-rotate(180deg); }
+}
+
+/* Tamaño del texto: escala todo lo que usa rem. */
+:root[data-text-size="small"] { font-size: 93.75%; }
+:root[data-text-size="large"] { font-size: 112.5%; }
+
+/* Reducir animaciones. */
+:root[data-reduce-motion="true"] *,
+:root[data-reduce-motion="true"] *::before,
+:root[data-reduce-motion="true"] *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+  scroll-behavior: auto !important;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-raised: var(--surface-raised);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-text-faint: var(--text-faint);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-soft: var(--accent-soft);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-info: var(--info);
+  --color-violet: var(--violet);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-destructive: var(--destructive);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+  --font-sans: var(--font-inter);
+  --font-heading: var(--font-inter-tight);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  background: var(--bg);
+  color-scheme: dark;
+}
+
+body {
+  min-width: 320px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-inter), sans-serif;
+}
+
+button,
+input,
+textarea,
+select {
+  transition-duration: 150ms;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--text);
+}
+
+.section-label {
+  color: var(--text-muted);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  line-height: 1rem;
+  text-transform: uppercase;
+}
+
+.status-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.5rem;
+  border-radius: 0.375rem;
+  padding-inline: 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.phase-contacted {
+  background: color-mix(in srgb, var(--phase-contacted) 12%, transparent);
+  color: var(--phase-contacted);
+}
+
+.phase-uncontacted {
+  background: color-mix(in srgb, var(--phase-uncontacted) 12%, transparent);
+  color: var(--phase-uncontacted);
+}
+
+.phase-responded {
+  background: color-mix(in srgb, var(--phase-responded) 12%, transparent);
+  color: var(--phase-responded);
+}
+
+.phase-meeting {
+  background: color-mix(in srgb, var(--phase-meeting) 12%, transparent);
+  color: var(--phase-meeting);
+}
+
+.phase-proposal {
+  background: color-mix(in srgb, var(--phase-proposal) 12%, transparent);
+  color: var(--phase-proposal);
+}
+
+.phase-contracted {
+  background: color-mix(in srgb, var(--phase-contracted) 12%, transparent);
+  color: var(--phase-contracted);
+}
+
+.phase-signed {
+  background: color-mix(in srgb, var(--phase-signed) 12%, transparent);
+  color: var(--phase-signed);
+}
+
+.phase-first-payment {
+  background: color-mix(in srgb, var(--phase-first-payment) 12%, transparent);
+  color: var(--phase-first-payment);
+}
+
+.phase-onboarding {
+  background: color-mix(in srgb, var(--phase-onboarding) 12%, transparent);
+  color: var(--phase-onboarding);
+}
+
+.phase-active {
+  background: color-mix(in srgb, var(--phase-active) 16%, transparent);
+  color: var(--phase-active);
+}
+
+.phase-discarded {
+  background: color-mix(in srgb, var(--phase-discarded) 12%, transparent);
+  color: var(--phase-discarded);
+}
+
+.threat-1,
+.threat-2,
+.threat-3,
+.threat-4,
+.threat-5,
+.threat-international,
+.tone-neutral,
+.tone-accent,
+.tone-success,
+.tone-warning,
+.tone-danger,
+.tone-info,
+.tone-violet {
+  background: color-mix(in srgb, var(--chip-color) 12%, transparent);
+  color: var(--chip-color);
+}
+
+.threat-1,
+.tone-danger { --chip-color: var(--threat-1); }
+.threat-2,
+.tone-warning { --chip-color: var(--threat-2); }
+.threat-3,
+.tone-info { --chip-color: var(--threat-3); }
+.threat-4 { --chip-color: var(--threat-4); }
+.threat-5,
+.tone-neutral { --chip-color: var(--threat-5); }
+.threat-international,
+.tone-violet { --chip-color: var(--threat-international); }
+.tone-accent { --chip-color: var(--accent); }
+.tone-success { --chip-color: var(--success); }
+
+.tone-dot-neutral,
+.tone-dot-violet,
+.tone-dot-info,
+.tone-dot-accent,
+.tone-dot-success {
+  background: var(--dot-color);
+}
+
+.tone-dot-neutral { --dot-color: var(--text-faint); }
+.tone-dot-violet { --dot-color: var(--violet); }
+.tone-dot-info { --dot-color: var(--info); }
+.tone-dot-accent { --dot-color: var(--accent); }
+.tone-dot-success { --dot-color: var(--success); }
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) var(--bg);
+}
+
+.scrollbar-none {
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  margin-block: 1.25em 0.5em;
+  color: var(--text);
+  font-family: var(--font-inter-tight), sans-serif;
+  font-weight: 600;
+}
+
+.markdown-body h1 { font-size: 1.5rem; }
+.markdown-body h2 { font-size: 1.25rem; }
+.markdown-body h3 { font-size: 1.05rem; }
+/* Los bloques visuales de Formación (.formation-visual) llevan su propio estilo. */
+.markdown-body :is(p, li):not(.formation-visual *) { color: var(--text-muted); line-height: 1.75; }
+.markdown-body ul:not(.formation-visual *) { list-style: disc; padding-left: 1.25rem; }
+.markdown-body ol:not(.formation-visual *) { list-style: decimal; padding-left: 1.25rem; }
+.markdown-body strong { color: var(--text); font-weight: 600; }
+.markdown-body code { border-radius: 0.25rem; background: var(--surface-raised); padding: 0.125rem 0.25rem; color: var(--accent); font-family: var(--font-jetbrains-mono), monospace; font-size: 0.875em; }
+
+/* Lectura larga de Formación: ancho de línea cómodo, tablas, citas y resaltado de búsqueda. */
+.formation-body { font-size: 0.975rem; }
+.formation-body > * { max-width: 78ch; }
+.formation-body > div:has(> table) { max-width: none; }
+.formation-body :is(h1, h2, h3, h4) { scroll-margin-top: 1.5rem; }
+.formation-body > :first-child { margin-top: 0; }
+.formation-body h4 { margin-block: 1em 0.4em; color: var(--text); font-weight: 600; }
+.formation-body :is(p, ul, ol, blockquote, pre):not(.formation-visual *) { margin-block: 0.75em; }
+.formation-body li:not(.formation-visual *) + li { margin-top: 0.25em; }
+.formation-body li > ul,
+.formation-body li > ol { margin-block: 0.25em; }
+.formation-body a { color: var(--accent); text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--accent) 40%, transparent); text-underline-offset: 3px; }
+.formation-body a:hover { color: var(--accent-hover); }
+.formation-body blockquote { border-left: 2px solid var(--border-strong); padding-left: 1rem; }
+.formation-body blockquote p { color: var(--text-muted); }
+.formation-body hr { margin-block: 1.5rem; border-color: var(--border); }
+.formation-body pre { overflow-x: auto; border-radius: 0.5rem; background: var(--surface-raised); padding: 0.75rem 1rem; }
+.formation-body pre code { background: none; padding: 0; color: var(--text); }
+.formation-body table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+.formation-body th,
+.formation-body td { border-bottom: 1px solid var(--border); padding: 0.5rem 0.75rem; text-align: left; vertical-align: top; color: var(--text-muted); }
+.formation-body th { background: var(--surface-raised); color: var(--text); font-weight: 600; }
+.formation-body tr:last-child td { border-bottom: 0; }
+.formation-body input[type="checkbox"] { margin-right: 0.4rem; accent-color: var(--accent); }
+.formation-body :target { border-radius: 0.25rem; background: var(--accent-soft); box-shadow: 0 0 0 0.35rem var(--accent-soft); }
+.formation-body blockquote.formation-callout { border-width: 1px 1px 1px 3px; border-style: solid; border-radius: 0.5rem; padding: 0.75rem 1rem; }
+.formation-body blockquote.formation-callout p { color: var(--text); }
+.formation-body blockquote.formation-callout > :first-child { margin-top: 0; }
+.formation-body blockquote.formation-callout > :last-child { margin-bottom: 0; }
+.formation-body .formation-visual { max-width: none; }
+.formation-body h1 { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+.formation-body > h1:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+mark { border-radius: 0.2rem; background: color-mix(in srgb, var(--warning) 28%, transparent); padding-inline: 0.1rem; color: var(--text); }
+
+/* Mapa mental — color de formas y trazos: mismos tokens de tono que ToneChip. */
+.mindmap-tone-neutral { --tone: var(--text-faint); }
+.mindmap-tone-accent { --tone: var(--accent); }
+.mindmap-tone-success { --tone: var(--success); }
+.mindmap-tone-warning { --tone: var(--warning); }
+.mindmap-tone-danger { --tone: var(--danger); }
+.mindmap-tone-info { --tone: var(--info); }
+.mindmap-tone-violet { --tone: var(--violet); }
+.mindmap-tone-orange { --tone: #f5883a; }
+.mindmap-tone-pink { --tone: #ec6fae; }
+.mindmap-tone-white { --tone: #ffffff; }
+
+.mindmap-shape {
+  --shape-fill: color-mix(in srgb, var(--tone) 16%, var(--surface));
+  --shape-stroke: color-mix(in srgb, var(--tone) 60%, var(--border));
+  color: var(--text);
+}
+
+/* Forma blanca: papel blanco con tinta oscura en cualquier tema, como en FigJam. */
+.mindmap-shape.mindmap-tone-white {
+  --shape-fill: #ffffff;
+  --shape-stroke: #737373;
+  color: var(--sticky-ink);
+}
+
+.mindmap-shape.mindmap-tone-white .mindmap-richtext a { color: inherit; }
+.mindmap-shape.mindmap-tone-white .mindmap-richtext[contenteditable]:empty::before { color: color-mix(in srgb, var(--sticky-ink) 45%, transparent); }
+
+.mindmap-shape-fill { fill: var(--shape-fill); stroke: var(--shape-stroke); }
+.mindmap-shape-detail { stroke: var(--shape-stroke); }
+
+/* Un trazo neutro se dibuja con el color del texto, no en gris apagado. */
+.mindmap-drawing-stroke { --drawing-color: var(--tone); }
+.mindmap-drawing-stroke.mindmap-tone-neutral { --drawing-color: var(--text); }
+
+/* Pósits: papel de color con tinta oscura. El lienzo es la única excepción a
+   la regla de no usar sombras. */
+.mindmap-sticky-yellow { --sticky: var(--sticky-yellow); }
+.mindmap-sticky-orange { --sticky: var(--sticky-orange); }
+.mindmap-sticky-pink { --sticky: var(--sticky-pink); }
+.mindmap-sticky-violet { --sticky: var(--sticky-violet); }
+.mindmap-sticky-blue { --sticky: var(--sticky-blue); }
+.mindmap-sticky-green { --sticky: var(--sticky-green); }
+.mindmap-sticky-gray { --sticky: var(--sticky-gray); }
+.mindmap-sticky-white { --sticky: var(--sticky-white); }
+.mindmap-sticky-red { --sticky: var(--sticky-red); }
+.mindmap-sticky-teal { --sticky: var(--sticky-teal); }
+
+.mindmap-sticky {
+  border-radius: 2px;
+  background: var(--sticky);
+  color: var(--sticky-ink);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 8px 20px rgb(0 0 0 / 0.3);
+}
+
+/* Muestra de color en las barras: sirve para tonos, pósits y trazos. */
+.mindmap-swatch { background: var(--drawing-color, var(--sticky, var(--tone))); }
+
+/* Texto con formato de formas y pósits. */
+.mindmap-richtext { line-height: 1.4; overflow-wrap: anywhere; }
+.mindmap-richtext ul { list-style: disc; padding-left: 1.25em; }
+.mindmap-richtext ol { list-style: decimal; padding-left: 1.25em; }
+.mindmap-richtext b,
+.mindmap-richtext strong { font-weight: 600; }
+.mindmap-richtext a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
+.mindmap-sticky .mindmap-richtext a { color: inherit; }
+.mindmap-richtext[contenteditable]:empty::before { content: attr(data-placeholder); color: var(--text-faint); }
+.mindmap-sticky .mindmap-richtext[contenteditable]:empty::before { color: color-mix(in srgb, var(--sticky-ink) 45%, transparent); }
+
+/* Copia conectada desde un conector, como en FigJam: la flecha aparece al
+   pasar por el conector y la vista previa al pasar por la flecha. Los 80px de
+   la vista previa son CLONE_GAP (components/mind-map/graph-utils.ts). */
+.mindmap-clone-button {
+  position: absolute;
+  z-index: 1;
+  display: grid;
+  width: 28px;
+  height: 28px;
+  place-items: center;
+  opacity: 0;
+  transition: opacity 120ms;
+}
+
+.mindmap-clone-button > span {
+  display: grid;
+  width: 20px;
+  height: 20px;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.mindmap-clone-top { bottom: calc(100% + 10px); left: 50%; transform: translateX(-50%); }
+.mindmap-clone-bottom { top: calc(100% + 10px); left: 50%; transform: translateX(-50%); }
+.mindmap-clone-left { top: 50%; right: calc(100% + 10px); transform: translateY(-50%); }
+.mindmap-clone-right { top: 50%; left: calc(100% + 10px); transform: translateY(-50%); }
+
+.mindmap-node:has(> .react-flow__handle-top:hover) > .mindmap-clone-top,
+.mindmap-node:has(> .react-flow__handle-right:hover) > .mindmap-clone-right,
+.mindmap-node:has(> .react-flow__handle-bottom:hover) > .mindmap-clone-bottom,
+.mindmap-node:has(> .react-flow__handle-left:hover) > .mindmap-clone-left,
+.mindmap-clone-button:hover {
+  opacity: 1;
+}
+
+.mindmap-clone-ghost {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border: 1.5px dashed var(--accent);
+  border-radius: 8px;
+  background: var(--accent-soft);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 120ms;
+}
+
+.mindmap-clone-ghost-top { bottom: calc(100% + 80px); left: 0; }
+.mindmap-clone-ghost-bottom { top: calc(100% + 80px); left: 0; }
+.mindmap-clone-ghost-left { top: 0; right: calc(100% + 80px); }
+.mindmap-clone-ghost-right { top: 0; left: calc(100% + 80px); }
+
+.mindmap-clone-button:hover + .mindmap-clone-ghost { opacity: 1; }
+
+/* Mapea las variables de tema de @xyflow/react a los tokens de la app en vez
+   de usar su paleta clara por defecto (importamos base.css, sin tema). */
+.mindmap-canvas .react-flow {
+  --xy-background-color: var(--bg);
+  --xy-node-border: 1px solid var(--border);
+  --xy-node-border-selected: 1px solid var(--accent);
+  --xy-node-color: var(--text);
+  --xy-handle-background-color: var(--accent);
+  --xy-selection-background-color: var(--accent-soft);
+  --xy-selection-border: 1px dotted var(--accent);
+  --xy-resize-background-color: var(--accent);
+  --xy-edge-stroke: var(--border-strong);
+  --xy-edge-stroke-selected: var(--accent);
+  --xy-connectionline-stroke: var(--accent);
+  --xy-minimap-background-color: var(--surface);
+  --xy-minimap-mask-background-color: color-mix(in srgb, var(--bg) 60%, transparent);
+  --xy-minimap-node-background-color: var(--border-strong);
+  --xy-attribution-background-color: transparent;
+}
+
+.mindmap-canvas .react-flow__attribution {
+  color: var(--text-faint);
+}
+
+.mindmap-canvas .react-flow__attribution a {
+  color: var(--text-muted);
+}
+
+/* Conectores tipo FigJam: puntos fuera del borde, visibles solo con el nodo
+   seleccionado o mientras se arrastra una conexión (ver NodeHandles). */
+.mindmap-canvas .react-flow__handle.mindmap-handle {
+  z-index: 2;
+  width: 10px;
+  height: 10px;
+  border: 2px solid var(--bg);
+  border-radius: 999px;
+  background: var(--accent);
+  transition: opacity 120ms;
+}
+
+.mindmap-canvas .react-flow__handle-top.mindmap-handle { top: -14px; }
+.mindmap-canvas .react-flow__handle-bottom.mindmap-handle { bottom: -14px; }
+.mindmap-canvas .react-flow__handle-left.mindmap-handle { left: -14px; }
+.mindmap-canvas .react-flow__handle-right.mindmap-handle { right: -14px; }
+
+.mindmap-canvas .react-flow__handle.mindmap-handle-hidden {
+  opacity: 0;
+  pointer-events: none !important;
+}
+
+/* Redimensionado tipo Figma: contorno de 1px y cuadrados claros en las esquinas. */
+.mindmap-canvas .react-flow__resize-control.handle {
+  width: 8px;
+  height: 8px;
+  border: 1.5px solid var(--accent);
+  border-radius: 2px;
+  background: var(--text);
+}
+
+.mindmap-canvas .react-flow__resize-control.line {
+  border-color: var(--accent);
+}
+
+/* Figma no superpone un rectángulo sobre una multiselección: cada nodo
+   seleccionado muestra su propio contorno y se arrastran todos juntos. */
+.mindmap-canvas .react-flow__nodesselection-rect {
+  display: none;
+}
+
+/* Con la herramienta Seleccionar el lienzo usa la flecha normal, no la mano. */
+.mindmap-canvas.mindmap-tool-select .react-flow__pane {
+  cursor: default;
+}
+
+.mindmap-canvas.mindmap-tool-select .react-flow__pane.dragging {
+  cursor: grabbing;
+}
+
+/* Con lápiz, subrayador o goma todo el lienzo dibuja. */
+.mindmap-canvas.mindmap-tool-draw .react-flow__pane,
+.mindmap-canvas.mindmap-tool-draw .react-flow__node,
+.mindmap-canvas.mindmap-tool-draw .react-flow__node * {
+  cursor: crosshair;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  border: 3px solid var(--bg);
+  border-radius: 999px;
+  background: var(--border-strong);
+}
+
+/* Conexiones: el color sale del tono (mismos tokens que las formas). Un tono
+   neutro se pinta con el color de texto atenuado para que la flecha se lea bien. */
+.mindmap-edge { --edge-color: var(--tone); }
+.mindmap-edge.mindmap-tone-neutral { --edge-color: var(--text); }
+.mindmap-edge-cap-fill { fill: var(--edge-color); stroke: var(--edge-color); }
+.mindmap-edge-cap-stroke { stroke: var(--edge-color); }
+.mindmap-edge-swatch { background: var(--edge-color); }
+.mindmap-edge-halo { stroke: var(--accent); opacity: 0.25; pointer-events: none; }
+
+/* Grupos como las secciones de Figma: fondo opaco (neutro = superficie) y el
+   título en una etiqueta del color del grupo. */
+.mindmap-group {
+  border-color: color-mix(in srgb, var(--tone) 30%, var(--border));
+  background: color-mix(in srgb, var(--tone) 12%, var(--surface));
+}
+
+.mindmap-group.mindmap-tone-neutral { border-color: var(--border); background: var(--surface); }
+.mindmap-group.mindmap-tone-white { border-color: #e3e5e8; background: #ffffff; }
+
+.mindmap-group-title {
+  background: color-mix(in srgb, var(--tone) 45%, var(--surface));
+  color: var(--text);
+}
+
+.mindmap-group.mindmap-tone-neutral .mindmap-group-title { background: var(--surface-raised); color: var(--text-muted); }
+.mindmap-group.mindmap-tone-white .mindmap-group-title { background: #eef0f2; color: var(--sticky-ink); }
+
+/* Imágenes: sin caja propia, solo el contorno de selección. */
+.mindmap-canvas .react-flow__node-IMAGE.selected .mindmap-image img,
+.mindmap-canvas .react-flow__node-LINK.selected .mindmap-link {
+  outline: 1.5px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* React Flow pinta las etiquetas de las conexiones antes que los nodos: sin
+   esto, la etiqueta y la barra de una conexión seleccionada quedan tapadas. */
+.mindmap-canvas .react-flow__edgelabel-renderer {
+  z-index: 2000;
+}
+
+/* Con la herramienta Pósit el siguiente clic coloca uno. */
+.mindmap-canvas.mindmap-tool-sticky .react-flow__pane {
+  cursor: crosshair;
+}
+
+/* Lienzo claro, como FigJam: gris muy claro con puntos, paneles blancos. Solo
+   redefine los tokens dentro del lienzo y de sus menús en portal (themeClass),
+   así el resto de la app sigue oscura. */
+.mindmap-theme-light {
+  --bg: #f4f4f5;
+  --surface: #ffffff;
+  --surface-raised: #f0f1f3;
+  --border: #e2e4e8;
+  --border-strong: #c8ccd2;
+  --text: #1d1f23;
+  --text-muted: #5d636b;
+  --text-faint: #9aa0a7;
+  --accent: #0f9f90;
+  --accent-hover: #0c8a7d;
+  --accent-soft: rgba(15, 159, 144, 0.12);
+  --success: #1f9d55;
+  --warning: #e0a100;
+  --danger: #e5484d;
+  --info: #3b82f6;
+  --violet: #8b5cf6;
+  --mindmap-dots: #c6c9ce;
+  color-scheme: light;
+}
+
+.mindmap-theme-light .mindmap-sticky {
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.1), 0 4px 12px rgb(0 0 0 / 0.08);
+}
+
+/* Tablas: rejilla con bordes finos; la cabecera opcional va sobre superficie elevada. */
+.mindmap-table {
+  border-color: var(--border-strong);
+  background: var(--surface);
+  color: var(--text);
+}
+
+.mindmap-table-cell { border-color: var(--border); }
+.mindmap-table-header { background: var(--surface-raised); }
+
+.mindmap-canvas.mindmap-tool-table .react-flow__pane {
+  cursor: crosshair;
+}
+
+/* Vista previa al arrastrar la herramienta Tabla: una celda por hueco de la rejilla. */
+.mindmap-table-preview {
+  border: 1.5px solid var(--accent);
+  border-radius: 6px;
+  background-color: color-mix(in srgb, var(--accent) 6%, transparent);
+  background-image:
+    linear-gradient(to right, color-mix(in srgb, var(--accent) 45%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in srgb, var(--accent) 45%, transparent) 1px, transparent 1px);
+}

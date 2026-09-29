@@ -1,0 +1,14 @@
+{
+  "name": "atlis-test-landing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Landing independiente de Atlis. Sin dependencias de la aplicación principal.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

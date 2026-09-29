@@ -1,0 +1,17 @@
+Para: info@odontologyclinic.com
+Asunto: Una propuesta para orientar las consultas de Odontology
+
+Hola, equipo de Odontology:
+
+Al tener varias especialidades, cada consulta necesita llegar al siguiente paso adecuado. He preparado una propuesta que mantiene vuestra identidad visual y facilita que el paciente encuentre cómo empezar.
+
+También podéis ver un ejemplo de agente de recepción para atender preguntas administrativas y coordinar citas, mientras las decisiones clínicas permanecen en vuestro equipo.
+
+Ver vuestra propuesta:
+https://atlis-propuestas-clinicas.vercel.app/odontology/
+
+La interacción actual es una maqueta guiada. Me gustaría enseñaros una demo gratuita con preguntas abiertas y ejemplos ajustados a vuestra clínica. ¿Os vendría bien una llamada breve?
+
+Un saludo,
+Nico
+Atlis · IA y automatización para clínicas

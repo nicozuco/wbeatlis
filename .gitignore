@@ -1,0 +1,39 @@
+# Secretos y variables de entorno (solo se permiten los .env.example)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+.npmrc.local
+
+# Dependencias y builds
+node_modules/
+.next/
+.vinext/
+.wrangler/
+.sites-runtime/
+dist/
+build/
+out/
+coverage/
+*.tsbuildinfo
+
+# Despliegue y herramientas locales
+.vercel/
+.claude/
+.openai/
+
+# Bases de datos locales
+*.db
+*.db-*
+prisma/dev.db*
+supabase/.temp/
+
+# Sistema y duplicados
+.DS_Store
+Thumbs.db
+* 2
+* 2.*
+npm-debug.log*
+yarn-debug.log*

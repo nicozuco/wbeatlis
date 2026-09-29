@@ -1,0 +1,446 @@
+[
+  {
+    "programId": "agency",
+    "date": "2026-08-03",
+    "title": "Qué servicio vender primero: Web IA, Agentes IA, Contenido IA, Automatización o Software a medida – 03/08/26",
+    "url": "https://campus.mkthackers.com/cursos/lanza-tu-agencia-ia-inicial-y-avanzado/lecciones/que-servicio-vender-primero-web-ia-agentes-ia-contenido-ia-automatizacion-o-software-a-medida-03-08-26/"
+  },
+  {
+    "programId": "agents-tutoring",
+    "date": "2026-08-03",
+    "title": "03-08 Preguntas y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-agentes-ia-inicial-y-avanzado/lecciones/03-08-preguntas-y-respuestas/"
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-04",
+    "title": "04-08 Crea el recorrido de tu primer agente comercial",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-inicial/lecciones/04-08-crea-el-recorrido-de-tu-primer-agente-comercial/"
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-04",
+    "title": "04/08/2026 Clase 0: Cómo estructurar y vender en una Agencia de Contenido con IA",
+    "url": "https://campus.mkthackers.com/cursos/contenido-con-ia-incial-y-avanzado/lecciones/04-08-2026-clase-0-como-estructurar-y-vender-en-una-agencia-de-contenido-con-ia/"
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-05",
+    "title": "05-08 Crea tu primera automatización desde cero",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-incial/lecciones/05-08-crea-tu-primera-automatizacion-desde-cero/"
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-05",
+    "title": "05-08 Convierte Claude en el asistente de tu agencia",
+    "url": "https://campus.mkthackers.com/cursos/claude-para-emprendedores-y-negocios-inicial-y-avanzado/lecciones/05-08-convierte-claude-en-el-asistente-de-tu-agencia/"
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-06",
+    "title": "06/08/2026 Clase 0: Introducción a la Plataforma e Instalación",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-avanzado/lecciones/06-08-2026-clase-0-introduccion-a-la-plataforma-e-instalacion/"
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-06",
+    "title": "06/08/2026 Claude a fondo: prompts que aguantan producción",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-avanzado/lecciones/06-08-2026-claude-a-fondo-prompts-que-aguantan-produccion/"
+  },
+  {
+    "programId": "business-tutoring",
+    "date": "2026-08-07",
+    "title": "07/08/26 Preg y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-negocio-y-publicidad-inicial-y-avanzado/lecciones/07-08-26-preg-y-respuestas/"
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-07",
+    "title": "07/08/26 Introducción y que hacer ante bloqueos",
+    "url": "https://campus.mkthackers.com/cursos/meta-ads-principiante-y-avanzado/lecciones/07-08-26-introduccion-y-que-hacer-ante-bloqueos/"
+  },
+  {
+    "programId": "agency",
+    "date": "2026-08-10",
+    "title": "Investigación y benchmarking con Claude 10/08/26",
+    "url": "https://campus.mkthackers.com/cursos/lanza-tu-agencia-ia-inicial-y-avanzado/lecciones/investigacion-y-benchmarking-con-claude-10-08-26/"
+  },
+  {
+    "programId": "agents-tutoring",
+    "date": "2026-08-10",
+    "title": "10-08 Preguntas y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-agentes-ia-inicial-y-avanzado/lecciones/10-08-preguntas-y-respuestas/"
+  },
+  {
+    "programId": "sales",
+    "date": "2026-08-10",
+    "title": "10/08/2026 Tu primer cliente sin portfolio",
+    "url": "https://campus.mkthackers.com/cursos/masterclass-de-ventas-inicial-y-avanzado/lecciones/10-08-2026-tu-primer-cliente-sin-portfolio/"
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-11",
+    "title": "11-08 Prepara GHL para recibir y organizar tus leads",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-inicial/lecciones/11-08-prepara-ghl-para-recibir-y-organizar-tus-leads/"
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-11",
+    "title": "11/08/2026 Clase 1: Setup de Onboarding Automatizado a un Nuevo Cliente",
+    "url": "https://campus.mkthackers.com/cursos/contenido-con-ia-incial-y-avanzado/lecciones/11-08-2026-clase-1-setup-de-onboarding-automatizado-a-un-nuevo-cliente/"
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-12",
+    "title": "12-08 Aprende cómo viajan los datos dentro de n8n",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-incial/lecciones/12-08-aprende-como-viajan-los-datos-dentro-de-n8n/"
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-12",
+    "title": "12-08 Aprende a pedirle a Claude exactamente lo que necesitas",
+    "url": "https://campus.mkthackers.com/cursos/claude-para-emprendedores-y-negocios-inicial-y-avanzado/lecciones/12-08-aprende-a-pedirle-a-claude-exactamente-lo-que-necesitas/"
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-13",
+    "title": "13/08/2026 Clase 1: Introducción a los Agentes de Texto",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-avanzado/lecciones/13-08-2026-clase-1-introduccion-a-los-agentes-de-texto/"
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-13",
+    "title": "13/08/2026 N8n desde cero: disparador, nodo, dato",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-avanzado/lecciones/13-08-2026-n8n-desde-cero-disparador-nodo-dato/"
+  },
+  {
+    "programId": "business-tutoring",
+    "date": "2026-08-14",
+    "title": "14/08/26 Preg y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-negocio-y-publicidad-inicial-y-avanzado/lecciones/14-08-26-preg-y-respuestas/"
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-14",
+    "title": "14/08/26 Modelos de adquisición y venta: Evergreen",
+    "url": "https://campus.mkthackers.com/cursos/meta-ads-principiante-y-avanzado/lecciones/14-08-26-modelos-de-adquisicion-y-venta-evergreen/"
+  },
+  {
+    "programId": "agency",
+    "date": "2026-08-17",
+    "title": "Cómo construir una oferta de alto valor 17/08/2026",
+    "url": "https://campus.mkthackers.com/cursos/lanza-tu-agencia-ia-inicial-y-avanzado/lecciones/como-construir-una-oferta-de-alto-valor-17-08-2026/"
+  },
+  {
+    "programId": "agents-tutoring",
+    "date": "2026-08-17",
+    "title": "17-08 Preguntas y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-agentes-ia-inicial-y-avanzado/lecciones/17-08-preguntas-y-respuestas/"
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-18",
+    "title": "18-08 Diseña una conversación que convierta consultas en oportunidades",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-inicial/lecciones/18-08-disena-una-conversacion-que-convierta-consultas-en-oportunidades/"
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-18",
+    "title": "18/08/2026 Clase 2: Investigación de Audiencias y Análisis de la Competencia",
+    "url": "https://campus.mkthackers.com/cursos/contenido-con-ia-incial-y-avanzado/lecciones/18-08-2026-clase-2-investigacion-de-audiencias-y-analisis-de-la-competencia/"
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-19",
+    "title": "19-08 Recibe automáticamente los datos de tus formularios",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-incial/lecciones/19-08-recibe-automaticamente-los-datos-de-tus-formularios/"
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-19",
+    "title": "19-08 Encuentra oportunidades de automatización en cualquier negocio",
+    "url": "https://campus.mkthackers.com/cursos/claude-para-emprendedores-y-negocios-inicial-y-avanzado/lecciones/19-08-encuentra-oportunidades-de-automatizacion-en-cualquier-negocio/"
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-20",
+    "title": "20/08/2026 Clase 2: Conectores de WhatsApp y Otros Canales",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-avanzado/lecciones/20-08-2026-clase-2-conectores-de-whatsapp-y-otros-canales-2/"
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-20",
+    "title": "20/08/2026 Automatizando: Los datos por dentro",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-avanzado/lecciones/20-08-2026-automatizando-los-datos-por-dentro/"
+  },
+  {
+    "programId": "business-tutoring",
+    "date": "2026-08-21",
+    "title": "21/08/26 Preg y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-negocio-y-publicidad-inicial-y-avanzado/lecciones/21-08-26-preg-y-respuestas/"
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-21",
+    "title": "Modelos de adquisición y venta: Lanzamiento 21/08/2026",
+    "url": "https://campus.mkthackers.com/cursos/meta-ads-principiante-y-avanzado/lecciones/modelos-de-adquisicion-y-venta-lanzamiento-21-08-2026/"
+  },
+  {
+    "programId": "agency",
+    "date": "2026-08-24",
+    "title": "Calendario de contenido y contenido con Claude 24/08/2026",
+    "url": "https://campus.mkthackers.com/cursos/lanza-tu-agencia-ia-inicial-y-avanzado/lecciones/calendario-de-contenido-y-contenido-con-claude-24-08-2026/"
+  },
+  {
+    "programId": "agents-tutoring",
+    "date": "2026-08-24",
+    "title": "24-08 Preguntas y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-agentes-ia-inicial-y-avanzado/lecciones/24-08-preguntas-y-respuestas/"
+  },
+  {
+    "programId": "sales",
+    "date": "2026-08-24",
+    "title": "24/08/2026 El problema no es buscar clientes dificiles",
+    "url": "https://campus.mkthackers.com/cursos/masterclass-de-ventas-inicial-y-avanzado/lecciones/24-08-2026-el-problema-no-es-buscar-clientes-dificiles/"
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-25",
+    "title": "25-08 Enseña al agente todo sobre el negocio",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-inicial/lecciones/25-08-ensena-al-agente-todo-sobre-el-negocio/"
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-25",
+    "title": "25/08/2026 Clase 3: Estrategia y Matriz de Contenidos B2B y B2C",
+    "url": "https://campus.mkthackers.com/cursos/contenido-con-ia-incial-y-avanzado/lecciones/25-08-2026-clase-3-estrategia-y-matriz-de-contenidos-b2b-y-b2c/"
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-26",
+    "title": "26-08 Conecta n8n con otras aplicaciones mediante API",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-incial/lecciones/26-08-conecta-n8n-con-otras-aplicaciones-mediante-api/"
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-26",
+    "title": "26-08 Convierte una reunion con un cliente en un plan de trabajo",
+    "url": "https://campus.mkthackers.com/cursos/claude-para-emprendedores-y-negocios-inicial-y-avanzado/lecciones/26-08-convierte-una-reunion-con-un-cliente-en-un-plan-de-trabajo/"
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-27",
+    "title": "Clase 3 · Preparación para un agente multicanal 27/08/2026",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-avanzado/lecciones/clase-3-%c2%b7-preparacion-para-un-agente-multicanal-27-08-2026-2/"
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-27",
+    "title": "27/08/2026 La IA como un nodo más: de LLM a agente",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-avanzado/lecciones/27-08-2026-la-ia-como-un-nodo-mas-de-llm-a-agente/"
+  },
+  {
+    "programId": "business-tutoring",
+    "date": "2026-08-28",
+    "title": "28/08/26 Preg y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-negocio-y-publicidad-inicial-y-avanzado/lecciones/28-08-26-preg-y-respuestas/"
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-28",
+    "title": "TOFU, MOFU y BOFU — niveles de conciencia 28/08/2026",
+    "url": "https://campus.mkthackers.com/cursos/meta-ads-principiante-y-avanzado/lecciones/tofu-mofu-y-bofu-niveles-de-conciencia-28-08-2026/"
+  },
+  {
+    "programId": "agents-tutoring",
+    "date": "2026-08-31",
+    "title": "31-08 Preguntas y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-agentes-ia-inicial-y-avanzado/lecciones/31-08-preguntas-y-respuestas/"
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-01",
+    "title": "01-09 Construye tu primer agente comercial en GHL",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-inicial/lecciones/01-09-construye-tu-primer-agente-comercial-en-ghl/"
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-01",
+    "title": "01/09/2026 Clase 4: Ingeniería de Prompts Visuales",
+    "url": "https://campus.mkthackers.com/cursos/contenido-con-ia-incial-y-avanzado/lecciones/01-09-2026-clase-4-ingenieria-de-prompts-visuales/"
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-02",
+    "title": "02-09 Envía tus leads a GHL sin crear duplicados",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-incial/lecciones/02-09-envia-tus-leads-a-ghl-sin-crear-duplicados/"
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-02",
+    "title": "02-09 Crea el prompt completo de un agente comercial",
+    "url": "https://campus.mkthackers.com/cursos/claude-para-emprendedores-y-negocios-inicial-y-avanzado/lecciones/02-09-crea-el-prompt-completo-de-un-agente-comercial/"
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-09-03",
+    "title": "Clase 4 · Transformando distintos tipos de formatos a texto 03/09/2026",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-avanzado/lecciones/clase-4-%c2%b7-transformando-distintos-tipos-de-formatos-a-texto-03-09-2026/"
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-09-03",
+    "title": "03/09/2026 Correos inteligentes: clasificar y redactar",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-avanzado/lecciones/03-09-2026-correos-inteligentes-clasificar-y-redactar/"
+  },
+  {
+    "programId": "business-tutoring",
+    "date": "2026-09-04",
+    "title": "04/09/26 Preg y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-negocio-y-publicidad-inicial-y-avanzado/lecciones/04-09-26-preg-y-respuestas/"
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-09-04",
+    "title": "TOFU · Etapa 1: campaña de seguimiento (Follow Me Ads) 04/09/2026",
+    "url": "https://campus.mkthackers.com/cursos/meta-ads-principiante-y-avanzado/lecciones/tofu-%c2%b7-etapa-1-campana-de-seguimiento-follow-me-ads-04-09-2026/"
+  },
+  {
+    "programId": "agency",
+    "date": "2026-09-07",
+    "title": "IMG y Vídeos con IA 07/09/2026",
+    "url": "https://campus.mkthackers.com/cursos/lanza-tu-agencia-ia-inicial-y-avanzado/lecciones/img-y-videos-con-ia-07-09-2026/"
+  },
+  {
+    "programId": "agents-tutoring",
+    "date": "2026-09-07",
+    "title": "07-09 Preguntas y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-agentes-ia-inicial-y-avanzado/lecciones/07-09-preguntas-y-respuestas/"
+  },
+  {
+    "programId": "sales",
+    "date": "2026-09-07",
+    "title": "07/09/2026 Estructura llamada y 7 creencias",
+    "url": "https://campus.mkthackers.com/cursos/masterclass-de-ventas-inicial-y-avanzado/lecciones/07-09-2026-estructura-llamada-y-7-creencias/"
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-08",
+    "title": "08-09 Haz que el agente recopile y guarde los datos del cliente",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-inicial/lecciones/08-09-haz-que-el-agente-recopile-y-guarde-los-datos-del-cliente/"
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-08",
+    "title": "08/09/2026 Clase 5: Diseño Gráfico Escalable",
+    "url": "https://campus.mkthackers.com/cursos/contenido-con-ia-incial-y-avanzado/lecciones/08-09-2026-clase-5-diseno-grafico-escalable/"
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-09",
+    "title": "09-09 Crear diferentes caminos dentro de una automatización",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-incial/lecciones/09-09-crear-diferentes-caminos-dentro-de-una-automatizacion/"
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-09",
+    "title": "09-09 Convierte la información del cliente en conocimiento para el agente",
+    "url": "https://campus.mkthackers.com/cursos/claude-para-emprendedores-y-negocios-inicial-y-avanzado/lecciones/09-09-convierte-la-informacion-del-cliente-en-conocimiento-para-el-agente/"
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-09-10",
+    "title": "10/09/2026 Clase 5: Guardando la conversación en la memoria del agente",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-avanzado/lecciones/10-09-2026-clase-5-guardando-la-conversacion-en-la-memoria-del-agente/"
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-09-10",
+    "title": "10/09/2026 Documentos y visión: facturas y recibos",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-avanzado/lecciones/10-09-2026-documentos-y-vision-facturas-y-recibos/"
+  },
+  {
+    "programId": "business-tutoring",
+    "date": "2026-09-11",
+    "title": "11/09/26 preg y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-negocio-y-publicidad-inicial-y-avanzado/lecciones/11-09-26-preg-y-respuestas/"
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-09-11",
+    "title": "MOFU · Etapa 2: campaña de captación pt. 1 11/09/2026",
+    "url": "https://campus.mkthackers.com/cursos/meta-ads-principiante-y-avanzado/lecciones/mofu-%c2%b7-etapa-2-campana-de-captacion-pt-1-11-09-2026/"
+  },
+  {
+    "programId": "agency",
+    "date": "2026-09-14",
+    "title": "Lead Magnet + Automatizaciones Setter 14/09/2026",
+    "url": "https://campus.mkthackers.com/cursos/lanza-tu-agencia-ia-inicial-y-avanzado/lecciones/lead-magnet-automatizaciones-setter-14-09-2026/"
+  },
+  {
+    "programId": "agents-tutoring",
+    "date": "2026-09-14",
+    "title": "14-09 Preguntas y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-agentes-ia-inicial-y-avanzado/lecciones/14-09-preguntas-y-respuestas/"
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-15",
+    "title": "15-09 Clasifica automáticamente a tus mejores oportunidades",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-inicial/lecciones/15-09-clasifica-automaticamente-a-tus-mejores-oportunidades/"
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-15",
+    "title": "15/09/2026 Clase 6: Guionización y Storytelling para Vídeos Virales",
+    "url": "https://campus.mkthackers.com/cursos/contenido-con-ia-incial-y-avanzado/lecciones/15-09-2026-clase-6-guionizacion-y-storytelling-para-videos-virales/"
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-16",
+    "title": "16-09 Limpia y prepara los datos antes de guardarlos",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-incial/lecciones/16-09-limpia-y-prepara-los-datos-antes-de-guardarlos/"
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-16",
+    "title": "16-09 Diseña automatizaciones de n8n con ayuda de Claude",
+    "url": "https://campus.mkthackers.com/cursos/claude-para-emprendedores-y-negocios-inicial-y-avanzado/lecciones/16-09-disena-automatizaciones-de-n8n-con-ayuda-de-claude/"
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-09-16",
+    "title": "16/09/2026 La cadena invisible (creencias limitantes)",
+    "url": "https://campus.mkthackers.com/cursos/mentalidad/lecciones/16-09-2026-la-cadena-invisible-creencias-limitantes/"
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-09-17",
+    "title": "17/09/2026 Clase 6: Filtro Anti-Spam y Bloquear Usuarios",
+    "url": "https://campus.mkthackers.com/cursos/agentes-ia-comerciales-avanzado/lecciones/17-09-2026-clase-6-filtro-anti-spam-y-bloquear-usuarios/"
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-09-17",
+    "title": "17/09/2026 Rag: que sepa de lo tuyo",
+    "url": "https://campus.mkthackers.com/cursos/automatizacion-de-procesos-con-ia-avanzado/lecciones/17-09-2026-rag-que-sepa-de-lo-tuyo/"
+  },
+  {
+    "programId": "business-tutoring",
+    "date": "2026-09-18",
+    "title": "18/09/26 Preg y respuestas",
+    "url": "https://campus.mkthackers.com/cursos/tutorias-semanal-negocio-y-publicidad-inicial-y-avanzado/lecciones/18-09-26-preg-y-respuestas/"
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-09-18",
+    "title": "MOFU · Etapa 2: campaña de captación pt. 2 18/09/2026",
+    "url": "https://campus.mkthackers.com/cursos/meta-ads-principiante-y-avanzado/lecciones/mofu-%c2%b7-etapa-2-campana-de-captacion-pt-2-18-09-2026/"
+  },
+  {
+    "programId": "agency",
+    "date": "2026-09-21",
+    "title": "Checklist: Lanza tu Agencia IA pt. 1 21/09/2026",
+    "url": "https://campus.mkthackers.com/cursos/lanza-tu-agencia-ia-inicial-y-avanzado/lecciones/checklist-lanza-tu-agencia-ia-pt-1-21-09-2026/"
+  }
+]

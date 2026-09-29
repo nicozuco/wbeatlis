@@ -1,0 +1,12 @@
+.claude/
+.next/
+.sites-runtime/
+.vinext/
+.wrangler/
+.recovery-*/
+test landing*/
+dist/
+tmp/
+node_modules/
+.env*
+prisma/*.db*

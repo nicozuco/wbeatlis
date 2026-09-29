@@ -1,0 +1,1748 @@
+[
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-04",
+    "topic": "Crea el recorrido de tu primer agente comercial",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-11",
+    "topic": "Prepara GHL para recibir y organizar tus leads",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-18",
+    "topic": "Diseña una conversación que convierta consultas en oportunidades",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-08-25",
+    "topic": "Enseña al agente todo sobre el negocio",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-01",
+    "topic": "Construye tu primer agente comercial en GHL",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-08",
+    "topic": "Haz que el agente recopile y guarde los datos del cliente",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-15",
+    "topic": "Clasifica automáticamente a tus mejores oportunidades",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-22",
+    "topic": "Conecta tu agente con WhatsApp",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-09-29",
+    "topic": "Consigue que el agente reserve citas automáticamente",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-10-06",
+    "topic": "Recupera automáticamente a los contactos que no reservan",
+    "cycle": 1,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-10-13",
+    "topic": "Conecta GHL con n8n para ampliar tu agente",
+    "cycle": 1,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-10-20",
+    "topic": "Prueba y entrega tu primer agente comercial completo",
+    "cycle": 1,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 5
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-10-27",
+    "topic": "Crea el recorrido de tu primer agente comercial",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-11-03",
+    "topic": "Prepara GHL para recibir y organizar tus leads",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-11-10",
+    "topic": "Diseña una conversación que convierta consultas en oportunidades",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-11-17",
+    "topic": "Enseña al agente todo sobre el negocio",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-11-24",
+    "topic": "Construye tu primer agente comercial en GHL",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-12-01",
+    "topic": "Haz que el agente recopile y guarde los datos del cliente",
+    "cycle": 2,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-12-08",
+    "topic": "Festivo · Inmaculada Concepción",
+    "cycle": 2,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-12-15",
+    "topic": "Conecta tu agente con WhatsApp",
+    "cycle": 2,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-12-22",
+    "topic": "Consigue que el agente reserve citas automáticamente",
+    "cycle": 2,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "agents-initial",
+    "date": "2026-12-29",
+    "topic": "Recupera automáticamente a los contactos que no reservan",
+    "cycle": 2,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 6
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-05",
+    "topic": "Convierte Claude en el asistente de tu agencia",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-12",
+    "topic": "Aprende a pedirle a Claude exactamente lo que necesitas",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-19",
+    "topic": "Encuentra oportunidades de automatización en cualquier negocio",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-08-26",
+    "topic": "Convierte una reunión con un cliente en un plan de trabajo",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-02",
+    "topic": "Crea el prompt completo de un agente comercial",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-09",
+    "topic": "Convierte la información del cliente en conocimiento para el agente",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-16",
+    "topic": "Diseña automatizaciones de n8n con ayuda de Claude",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-23",
+    "topic": "Entiende los datos de n8n sin ser programador",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-09-30",
+    "topic": "Crea código para n8n aunque no seas programador",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-10-07",
+    "topic": "Usa Claude para detectar y solucionar errores",
+    "cycle": 1,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-10-14",
+    "topic": "Documenta tus proyectos para entregarlos profesionalmente",
+    "cycle": 1,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-10-21",
+    "topic": "De la reunión a la entrega: crea un proyecto completo",
+    "cycle": 1,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 7
+  },
+  {
+    "programId": "claude",
+    "date": "2026-10-28",
+    "topic": "Convierte Claude en el asistente de tu agencia",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-11-04",
+    "topic": "Aprende a pedirle a Claude exactamente lo que necesitas",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-11-11",
+    "topic": "Encuentra oportunidades de automatización en cualquier negocio",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-11-18",
+    "topic": "Convierte una reunión con un cliente en un plan de trabajo",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-11-25",
+    "topic": "Crea el prompt completo de un agente comercial",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-12-02",
+    "topic": "Convierte la información del cliente en conocimiento para el agente",
+    "cycle": 2,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-12-09",
+    "topic": "Diseña automatizaciones de n8n con ayuda de Claude",
+    "cycle": 2,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-12-16",
+    "topic": "Entiende los datos de n8n sin ser programador",
+    "cycle": 2,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-12-23",
+    "topic": "Crea código para n8n aunque no seas programador",
+    "cycle": 2,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "claude",
+    "date": "2026-12-30",
+    "topic": "Usa Claude para detectar y solucionar errores",
+    "cycle": 2,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 8
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-05",
+    "topic": "Crea tu primera automatización desde cero",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-12",
+    "topic": "Aprende cómo viajan los datos dentro de n8n",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-19",
+    "topic": "Recibe automáticamente los datos de tus formularios",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-08-26",
+    "topic": "Conecta n8n con otras aplicaciones mediante API",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-02",
+    "topic": "Envía tus leads a GHL sin crear duplicados",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-09",
+    "topic": "Crea diferentes caminos dentro de una automatización",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-16",
+    "topic": "Limpia y prepara los datos antes de guardarlos",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-23",
+    "topic": "Utiliza IA para entender y clasificar mensajes",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-09-30",
+    "topic": "Automatiza la entrada y el reparto de nuevos leads",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-10-07",
+    "topic": "Automatiza la reserva y confirmación de citas",
+    "cycle": 1,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-10-14",
+    "topic": "Crea seguimientos combinados con GHL y n8n",
+    "cycle": 1,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-10-21",
+    "topic": "Prepara una automatización fiable para entregarla a un cliente",
+    "cycle": 1,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 9
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-10-28",
+    "topic": "Crea tu primera automatización desde cero",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-11-04",
+    "topic": "Aprende cómo viajan los datos dentro de n8n",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-11-11",
+    "topic": "Recibe automáticamente los datos de tus formularios",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-11-18",
+    "topic": "Conecta n8n con otras aplicaciones mediante API",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-11-25",
+    "topic": "Envía tus leads a GHL sin crear duplicados",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-12-02",
+    "topic": "Crea diferentes caminos dentro de una automatización",
+    "cycle": 2,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-12-09",
+    "topic": "Limpia y prepara los datos antes de guardarlos",
+    "cycle": 2,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-12-16",
+    "topic": "Utiliza IA para entender y clasificar mensajes",
+    "cycle": 2,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-12-23",
+    "topic": "Automatiza la entrada y el reparto de nuevos leads",
+    "cycle": 2,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "automation-initial",
+    "date": "2026-12-30",
+    "topic": "Automatiza la reserva y confirmación de citas",
+    "cycle": 2,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 10
+  },
+  {
+    "programId": "sales",
+    "date": "2026-08-10",
+    "topic": "Psicología de ventas",
+    "cycle": null,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-08-24",
+    "topic": "Discovery y detección de necesidades",
+    "cycle": null,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-09-07",
+    "topic": "La demo perfecta",
+    "cycle": null,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-09-21",
+    "topic": "Objeciones difíciles",
+    "cycle": null,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-10-05",
+    "topic": "Cierre consultivo",
+    "cycle": null,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-10-19",
+    "topic": "Negociación de precios",
+    "cycle": null,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-11-02",
+    "topic": "Follow up efectivo",
+    "cycle": null,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-11-16",
+    "topic": "Venta de recurrentes",
+    "cycle": null,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-11-30",
+    "topic": "Role play en vivo",
+    "cycle": null,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-12-14",
+    "topic": "Cierres complejos B2B",
+    "cycle": null,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2026-12-28",
+    "topic": "Venta de alto ticket",
+    "cycle": null,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "sales",
+    "date": "2027-01-11",
+    "topic": "Auditoría de llamadas reales",
+    "cycle": null,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 12
+  },
+  {
+    "programId": "agency",
+    "date": "2026-08-03",
+    "topic": "Qué servicio vender primero: Web IA, Agentes IA, Contenido IA, Automatización o Software a medida",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-08-10",
+    "topic": "Investigación y benchmarking con Claude",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-08-17",
+    "topic": "Cómo construir una oferta de alto valor",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-08-24",
+    "topic": "Calendario de contenido y contenido con Claude",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-09-07",
+    "topic": "IMG y Vídeos con IA",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-09-14",
+    "topic": "Lead Magnet + Automatizaciones Setter",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-09-21",
+    "topic": "Checklist: Lanza tu Agencia IA pt. 1",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-09-28",
+    "topic": "Checklist: Lanza tu Agencia IA pt. 2",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-10-05",
+    "topic": "Sistema de contenido para Agencias IA",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-10-12",
+    "topic": "Festivo · Fiesta Nacional de España",
+    "cycle": 1,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-10-19",
+    "topic": "GHL",
+    "cycle": 1,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-10-26",
+    "topic": "Agentes IA + Repaso",
+    "cycle": 1,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 14
+  },
+  {
+    "programId": "agency",
+    "date": "2026-11-02",
+    "topic": "Qué servicio vender primero: Web IA, Agentes IA, Contenido IA, Automatización o Software a medida",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-11-09",
+    "topic": "Investigación y benchmarking con Claude",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-11-16",
+    "topic": "Cómo construir una oferta de alto valor",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-11-23",
+    "topic": "Calendario de contenido y contenido con Claude",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-11-30",
+    "topic": "IMG y Vídeos con IA",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-12-07",
+    "topic": "Lead Magnet + Automatizaciones Setter",
+    "cycle": 2,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-12-14",
+    "topic": "Checklist: Lanza tu Agencia IA pt. 1",
+    "cycle": 2,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-12-21",
+    "topic": "Checklist: Lanza tu Agencia IA pt. 2",
+    "cycle": 2,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "agency",
+    "date": "2026-12-28",
+    "topic": "Sistema de contenido para Agencias IA",
+    "cycle": 2,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 15
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-07",
+    "topic": "Introducción + qué hacer ante bloqueos",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-14",
+    "topic": "Modelos de adquisición y venta: Evergreen",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-21",
+    "topic": "Modelos de adquisición y venta: Lanzamiento",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-08-28",
+    "topic": "TOFU, MOFU y BOFU — niveles de conciencia",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-09-04",
+    "topic": "TOFU · Etapa 1: campaña de seguimiento (Follow Me Ads)",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-09-11",
+    "topic": "MOFU · Etapa 2: campaña de captación pt. 1",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-09-18",
+    "topic": "MOFU · Etapa 2: campaña de captación pt. 2",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-09-25",
+    "topic": "BOFU · Etapa 3: retargeting/conversión + píxel de Meta pt. 1",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-10-02",
+    "topic": "BOFU · Etapa 3: retargeting/conversión + píxel de Meta pt. 2",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-10-09",
+    "topic": "Métricas: semáforo",
+    "cycle": 1,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 16
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-10-16",
+    "topic": "Introducción + qué hacer ante bloqueos",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-10-23",
+    "topic": "Modelos de adquisición y venta: Evergreen",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-10-30",
+    "topic": "Modelos de adquisición y venta: Lanzamiento",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-11-06",
+    "topic": "TOFU, MOFU y BOFU — niveles de conciencia",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-11-13",
+    "topic": "TOFU · Etapa 1: campaña de seguimiento (Follow Me Ads)",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-11-20",
+    "topic": "MOFU · Etapa 2: campaña de captación pt. 1",
+    "cycle": 2,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-11-27",
+    "topic": "MOFU · Etapa 2: campaña de captación pt. 2",
+    "cycle": 2,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-12-04",
+    "topic": "BOFU · Etapa 3: retargeting/conversión + píxel de Meta pt. 1",
+    "cycle": 2,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-12-11",
+    "topic": "BOFU · Etapa 3: retargeting/conversión + píxel de Meta pt. 2",
+    "cycle": 2,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-12-18",
+    "topic": "Métricas: semáforo",
+    "cycle": 2,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 17
+  },
+  {
+    "programId": "meta-ads",
+    "date": "2026-12-25",
+    "topic": "Festivo · Navidad",
+    "cycle": 2,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 17
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-04",
+    "topic": "Clase 0 · Cómo estructurar y vender una Agencia de Contenido con IA",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-11",
+    "topic": "Clase 1 · Setup de onboarding automatizado a un nuevo cliente",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-18",
+    "topic": "Clase 2 · Investigación de audiencias y análisis de la competencia",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-08-25",
+    "topic": "Clase 3 · Estrategia y matriz de contenidos B2B y B2C",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-01",
+    "topic": "Clase 4 · Ingeniería de prompts visuales",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-08",
+    "topic": "Clase 5 · Diseño gráfico escalable",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-15",
+    "topic": "Clase 6 · Guionización y storytelling para vídeos virales",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-22",
+    "topic": "Clase 7 · Avatares digitales y clonación de voz",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-09-29",
+    "topic": "Clase 8 · Generación de vídeo comercial con IA",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-10-06",
+    "topic": "Clase 9 · Edición y postproducción dinámica impulsada por IA",
+    "cycle": 1,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-10-13",
+    "topic": "Clase 10 · Contenido para lanzamientos y eventos",
+    "cycle": 1,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-10-20",
+    "topic": "Clase 11 · Flujo de trabajo y plataforma de aprobación de clientes (SOPs)",
+    "cycle": 1,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-10-27",
+    "topic": "Clase 12 · Elaboración de plataforma de pedidos, web y portafolio de agencia",
+    "cycle": 1,
+    "sequence": 13,
+    "cancelled": false,
+    "sourcePage": 19
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-11-03",
+    "topic": "Clase 0 · Cómo estructurar y vender una Agencia de Contenido con IA",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-11-10",
+    "topic": "Clase 1 · Setup de onboarding automatizado a un nuevo cliente",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-11-17",
+    "topic": "Clase 2 · Investigación de audiencias y análisis de la competencia",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-11-24",
+    "topic": "Clase 3 · Estrategia y matriz de contenidos B2B y B2C",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-12-01",
+    "topic": "Clase 4 · Ingeniería de prompts visuales",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-12-08",
+    "topic": "Festivo · Inmaculada Concepción",
+    "cycle": 2,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-12-15",
+    "topic": "Clase 5 · Diseño gráfico escalable",
+    "cycle": 2,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-12-22",
+    "topic": "Clase 6 · Guionización y storytelling para vídeos virales",
+    "cycle": 2,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "content-ai",
+    "date": "2026-12-29",
+    "topic": "Clase 7 · Avatares digitales y clonación de voz",
+    "cycle": 2,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 20
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-06",
+    "topic": "Clase 0 · Introducción a la plataforma e instalación",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-13",
+    "topic": "Clase 1 · Introducción a los agentes de texto",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-20",
+    "topic": "Clase 2 · Conectores de WhatsApp y otros canales",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-08-27",
+    "topic": "Clase 3 · Preparación para un agente multicanal",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-09-03",
+    "topic": "Clase 4 · Transformando distintos tipos de formatos a texto",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-09-10",
+    "topic": "Clase 5 · Guardando la conversación en la memoria del agente",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-09-17",
+    "topic": "Clase 6 · Filtro anti-spam y bloquear usuarios",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-09-24",
+    "topic": "Clase 7 · La memoria temporal del agente (buffer)",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-10-01",
+    "topic": "Clase 8 · Respuesta de mensajes de nuestro agente de IA",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-10-08",
+    "topic": "Clase 9 · Comandos de acción rápida",
+    "cycle": 1,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-10-15",
+    "topic": "Clase 10 · Agentes autónomos y conexión MCP",
+    "cycle": 1,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-10-22",
+    "topic": "Clase 11 · Clasificación de intención del usuario",
+    "cycle": 1,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-10-29",
+    "topic": "Clase 12 · Parar y reactivar el agente + enviar audios",
+    "cycle": 1,
+    "sequence": 13,
+    "cancelled": false,
+    "sourcePage": 21
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-11-05",
+    "topic": "Clase 0 · Introducción a la plataforma e instalación",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-11-12",
+    "topic": "Clase 1 · Introducción a los agentes de texto",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-11-19",
+    "topic": "Clase 2 · Conectores de WhatsApp y otros canales",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-11-26",
+    "topic": "Clase 3 · Preparación para un agente multicanal",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-12-03",
+    "topic": "Clase 4 · Transformando distintos tipos de formatos a texto",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-12-10",
+    "topic": "Clase 5 · Guardando la conversación en la memoria del agente",
+    "cycle": 2,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-12-17",
+    "topic": "Clase 6 · Filtro anti-spam y bloquear usuarios",
+    "cycle": 2,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-12-24",
+    "topic": "Festivo · Nochebuena",
+    "cycle": 2,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 22
+  },
+  {
+    "programId": "agents-advanced",
+    "date": "2026-12-31",
+    "topic": "Festivo · Nochevieja",
+    "cycle": 2,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 22
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-06",
+    "topic": "Claude a fondo: prompts que aguantan producción",
+    "cycle": 1,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-13",
+    "topic": "n8n desde cero: disparador, nodo, dato",
+    "cycle": 1,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-20",
+    "topic": "Automatizando: los datos por dentro",
+    "cycle": 1,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-08-27",
+    "topic": "La IA como un nodo más: de LLM a agente",
+    "cycle": 1,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-09-03",
+    "topic": "Correos inteligentes: clasificar y redactar",
+    "cycle": 1,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-09-10",
+    "topic": "Documentos y visión: facturas y recibos",
+    "cycle": 1,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-09-17",
+    "topic": "Tu asistente conversacional: responde y recuerda",
+    "cycle": 1,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-09-24",
+    "topic": "RAG: que sepa de lo tuyo",
+    "cycle": 1,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-10-01",
+    "topic": "Diseño de workflows para seguimiento y cierre de ventas",
+    "cycle": 1,
+    "sequence": 9,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-10-08",
+    "topic": "Integración de herramientas para coordinar acciones",
+    "cycle": 1,
+    "sequence": 10,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-10-15",
+    "topic": "Automatización del ciclo comercial",
+    "cycle": 1,
+    "sequence": 11,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-10-22",
+    "topic": "A producción y plan a 90 días",
+    "cycle": 1,
+    "sequence": 12,
+    "cancelled": false,
+    "sourcePage": 24
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-10-29",
+    "topic": "Claude a fondo: prompts que aguantan producción",
+    "cycle": 2,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-11-05",
+    "topic": "n8n desde cero: disparador, nodo, dato",
+    "cycle": 2,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-11-12",
+    "topic": "Automatizando: los datos por dentro",
+    "cycle": 2,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-11-19",
+    "topic": "La IA como un nodo más: de LLM a agente",
+    "cycle": 2,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-11-26",
+    "topic": "Correos inteligentes: clasificar y redactar",
+    "cycle": 2,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-12-03",
+    "topic": "Documentos y visión: facturas y recibos",
+    "cycle": 2,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-12-10",
+    "topic": "Tu asistente conversacional: responde y recuerda",
+    "cycle": 2,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-12-17",
+    "topic": "RAG: que sepa de lo tuyo",
+    "cycle": 2,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-12-24",
+    "topic": "Festivo · Nochebuena",
+    "cycle": 2,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 25
+  },
+  {
+    "programId": "automation-advanced",
+    "date": "2026-12-31",
+    "topic": "Festivo · Nochevieja",
+    "cycle": 2,
+    "sequence": null,
+    "cancelled": true,
+    "sourcePage": 25
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-09-16",
+    "topic": "La cadena invisible: las creencias que te frenan",
+    "cycle": null,
+    "sequence": 1,
+    "cancelled": false,
+    "sourcePage": 27
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-09-30",
+    "topic": "El espejo roto: el fin de la comparación con otros",
+    "cycle": null,
+    "sequence": 2,
+    "cancelled": false,
+    "sourcePage": 27
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-10-14",
+    "topic": "¿Quién soy yo para esto? El síndrome del impostor aplicado al negocio",
+    "cycle": null,
+    "sequence": 3,
+    "cancelled": false,
+    "sourcePage": 27
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-10-28",
+    "topic": "El primer no: cómo convertir el rechazo en el activo más valioso de tu proceso",
+    "cycle": null,
+    "sequence": 4,
+    "cancelled": false,
+    "sourcePage": 27
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-11-11",
+    "topic": "El peso de las expectativas: por qué la frustración con los plazos hace abandonar",
+    "cycle": null,
+    "sequence": 5,
+    "cancelled": false,
+    "sourcePage": 27
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-11-25",
+    "topic": "El agotamiento no es una señal de error: cómo seguir cuando queda el trabajo real",
+    "cycle": null,
+    "sequence": 6,
+    "cancelled": false,
+    "sourcePage": 27
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-12-09",
+    "topic": "Tu voz o la de todos: cómo usar la IA sin perder lo que nadie te puede copiar",
+    "cycle": null,
+    "sequence": 7,
+    "cancelled": false,
+    "sourcePage": 27
+  },
+  {
+    "programId": "mindset",
+    "date": "2026-12-23",
+    "topic": "Romper la cadena: la decisión que lo cambia todo",
+    "cycle": null,
+    "sequence": 8,
+    "cancelled": false,
+    "sourcePage": 27
+  }
+]

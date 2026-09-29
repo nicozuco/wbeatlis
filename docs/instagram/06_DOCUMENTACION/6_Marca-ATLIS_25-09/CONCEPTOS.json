@@ -1,0 +1,75 @@
+[
+  {
+    "id": "01_al_lado",
+    "title": "Al lado de tu clínica.",
+    "idea": "Presencia de ATLIS como socio de la clínica",
+    "palette": "Blanco, petróleo y turquesa",
+    "caption": "Somos el equipo que ayuda a las clínicas a conectar sus procesos y acompañar mejor cada consulta. Nuestro trabajo empieza por entender cómo trabajáis y continúa a vuestro lado."
+  },
+  {
+    "id": "02_entender_conectar",
+    "title": "Primero entendemos. Después conectamos.",
+    "idea": "Método consultivo",
+    "palette": "Piedra clara y turquesa",
+    "caption": "Antes de proponer una conexión, escuchamos. Revisamos cómo llegan las consultas, qué herramientas utilizáis y qué necesita el equipo. Diseñar empieza por comprender."
+  },
+  {
+    "id": "03_tu_manera",
+    "title": "Tu clínica tiene su manera.",
+    "idea": "Respeto por el modo de trabajar de cada cliente",
+    "palette": "Turquesa y petróleo",
+    "caption": "Un tono propio, unos horarios, unas prioridades. Cada clínica trabaja de una forma distinta. Nuestro trabajo es entenderla y diseñar procesos que encajen con ella."
+  },
+  {
+    "id": "04_dentro_proyecto",
+    "title": "Estamos dentro del proyecto.",
+    "idea": "Implicación y acompañamiento",
+    "palette": "Carbón, blanco y menta",
+    "caption": "La implantación se construye con el equipo que la va a usar. Configuramos, probamos y revisamos juntos. Acompañar también forma parte del trabajo."
+  },
+  {
+    "id": "05_el_como",
+    "title": "La tecnología es el cómo.",
+    "support": "El servicio es el porqué.",
+    "idea": "La tecnología como herramienta de la agencia",
+    "palette": "Petróleo y turquesa",
+    "caption": "Nos interesa lo que una herramienta permite hacer mejor. Una atención más clara, procesos con continuidad y un equipo que sabe cuál es el siguiente paso. La tecnología está al servicio de esa experiencia."
+  },
+  {
+    "id": "06_sencillo",
+    "title": "Lo sencillo lleva trabajo.",
+    "idea": "Diseño cuidadoso detrás de una experiencia simple",
+    "palette": "Blanco y verde petróleo",
+    "caption": "Para que una interacción resulte sencilla hay que pensar en el tono, las reglas y las situaciones que pueden aparecer. Nos gusta cuidar ese trabajo que a veces no se ve."
+  },
+  {
+    "id": "07_hablamos_claro",
+    "title": "Hablamos claro.",
+    "support": "Para decidir juntos.",
+    "idea": "Claridad y relación con el cliente",
+    "palette": "Azul ATLIS y blanco",
+    "caption": "Acordamos qué proceso tiene sentido mejorar, qué necesita una revisión y cuándo debe intervenir el equipo. Entender las decisiones forma parte de trabajar juntos."
+  },
+  {
+    "id": "08_cerca_equipo",
+    "title": "Cerca del equipo.",
+    "idea": "Agencia como colaborador del personal de la clínica",
+    "palette": "Marfil, gris y petróleo",
+    "caption": "Un proceso funciona cuando encaja en el día a día de quienes lo usan. Escuchamos al equipo, probamos con él y ajustamos lo necesario. La cercanía también es una forma de trabajar."
+  },
+  {
+    "id": "09_intencion",
+    "title": "Cada detalle tiene intención.",
+    "idea": "Precisión en configuración y comunicación",
+    "palette": "Gris piedra y turquesa",
+    "caption": "El momento de un mensaje, la forma de una respuesta, el paso que viene después. Cada detalle merece una decisión. Así entendemos el diseño de los procesos."
+  },
+  {
+    "id": "10_contigo",
+    "title": "Avanzamos contigo.",
+    "support": "Entender. Conectar. Acompañar.",
+    "idea": "Manifiesto de ATLIS",
+    "palette": "Petróleo y menta",
+    "caption": "Entender tu clínica. Conectar lo que tiene sentido. Acompañar al equipo. Tres ideas que resumen nuestra forma de trabajar y la relación que queremos construir."
+  }
+]
