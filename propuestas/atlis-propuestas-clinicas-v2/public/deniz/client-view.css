@@ -137,7 +137,5 @@ body.client-demo-visible .client-sticky{transform:translateY(140%)!important}
 .bespoke-window.is-open{max-width:none!important;border-radius:0!important;border-left:0!important;border-right:0!important;box-shadow:none!important;position:relative;z-index:3}
 .bespoke-window.is-open .bespoke-site{width:100%}
 body.client-site-open .demo-stage,body.client-site-open .client-demo,body.client-site-open #stage-content{overflow:visible!important}
-body.client-site-open .client-demo .demo-toolbar{position:static;box-shadow:none}
-body.client-site-open .client-sticky{transform:translateY(140%)!important}
-.client-site-more.is-open{position:sticky;bottom:12px;margin:12px 0;box-shadow:0 10px 24px #00000026;z-index:4}
+body.client-site-open .client-demo .demo-toolbar{position:static;box-shadow:none}.client-site-more.is-open{position:sticky;bottom:12px;margin:12px 0;box-shadow:0 10px 24px #00000026;z-index:4}
 }
