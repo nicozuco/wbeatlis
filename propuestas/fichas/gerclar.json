@@ -1,0 +1,94 @@
+{
+  "slug": "gerclar",
+  "numero": 30,
+  "clinica": {
+    "nombre": "Clínica Dental Gerclar",
+    "nombreCorto": "Gerclar",
+    "dominio": "gerclardental.com",
+    "web": "https://gerclardental.com/",
+    "contacto": "https://gerclardental.com/#cita",
+    "decisor": "Dr. Vicente Antonino"
+  },
+  "colores": {
+    "acento": "#8c6f5a",
+    "tinta": "#221d1a",
+    "profundo": "#2a2420",
+    "suave": "#f7f3ee",
+    "borde": "#e8dfd4",
+    "calido": "#b89c86",
+    "calidoSuave": "#f7f1eb"
+  },
+  "fotos": {
+    "principal": "https://gerclardental.com/wp-content/uploads/2024/11/Foto-equipo-scaled.jpg",
+    "clinica1": "https://gerclardental.com/wp-content/uploads/2024/11/Caja-clinica-7-2048x1365.jpg",
+    "clinica2": "https://gerclardental.com/wp-content/uploads/2025/01/Tecno5-equipo-Planmeca-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "EXTRAMURS · GUILLEM DE CASTRO, 47",
+    "titulo": ["Una clínica con nombre de familia.", "Y una cita gratuita que merece reservarse sola."],
+    "intro": "Gerclar nació con los nombres de Germán y Clara, y hoy tiene 5 estrellas en Google. Ofrecéis una primera cita gratuita con diagnóstico y radiografías; proponemos que quien la pida la tenga reservada en el momento.",
+    "hallazgos": [
+      "El formulario «Pedir cita gratuita» de vuestra portada pide nombre, teléfono y email, pero no deja elegir día ni hora: la cita no queda reservada hasta que la clínica llama.",
+      "Según vuestro horario, del viernes a las 17:30 al lunes a las 9:30 pasan 64 horas con la clínica cerrada. Los WhatsApp al 633 70 78 21 esperan al lunes."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pedir cita gratuita» reserve la cita.",
+      "texto": "El mismo formulario, pero con los huecos reales de vuestra agenda y la confirmación al momento; y el mismo asistente en vuestro WhatsApp. El diagnóstico sigue siendo cosa del Dr. Antonino y su equipo."
+    },
+    "pregunta": "¿Cuántas citas gratuitas os piden por la web fuera de horario?",
+    "tema": "primera cita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "GUILLEM DE CASTRO, 47 · EXTRAMURS",
+    "telefono": "960 05 20 98",
+    "telefonos": "960 05 20 98 · WhatsApp 633 70 78 21",
+    "direccion": "C/ Guillem de Castro, 47 · 46007 Valencia",
+    "marca": "GERCLAR",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Quién es Gerclar",
+    "heroEtiqueta": "ODONTOLOGÍA INTEGRAL",
+    "heroTitulo": "El arte de",
+    "heroDestacado": "diseñar sonrisas.",
+    "heroTexto": "Todos los servicios en la misma clínica. Tu primera cita es gratuita: diagnóstico, ortopantomografía y radiografías. Elige día y hora.",
+    "ctaHero": "Pedir cita gratuita",
+    "frase": "Cuando el miedo al dentista ya no es una excusa.",
+    "nota": "Metro Ángel Guimerà y Plaza de España, a un paso.",
+    "fotoEtiqueta": "EQUIPO GERCLAR",
+    "fotoTitulo": "Como en casa.",
+    "cifra": "",
+    "cifraEtiqueta": "QUIÉN ES GERCLAR",
+    "equipoTitulo": "Germán y Clara.",
+    "equipoTexto": "La clínica del Dr. Vicente Antonino nació casi a la vez que sus hijos, y lleva su nombre. Un proyecto personal, con especialistas en periodoncia y odontología digital.",
+    "valores": [
+      ["Primera cita gratuita.", "Diagnóstico, ortopantomografía y radiografías."],
+      ["Odontología digital.", "Tecnología de vanguardia en cada tratamiento."],
+      ["Sin miedo al dentista.", "Sedación y una clínica pensada para relajarte."]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Diseñada para que",
+    "galeriaDestacado": "olvides tus miedos.",
+    "pies": ["Guillem de Castro, 47 · Valencia", "Tecnología de vanguardia"],
+    "servicios": ["Estética dental", "Periodoncia", "Implantología y cirugía oral", "Ortodoncia", "Conservadora dental", "Sedación"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿Qué incluye la cita gratuita?", "Diagnóstico, ortopantomografía y radiografías periapicales."],
+      ["¿Tengo miedo al dentista, qué hago?", "Cuéntanoslo al reservar: ofrecemos sedación y vamos a tu ritmo."],
+      ["¿Qué horario tenéis?", "De lunes a jueves de 9:30 a 14:00 y de 15:30 a 19:00; los viernes de 9:30 a 17:30."]
+    ],
+    "contactoTitulo": "Pide tu cita gratuita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
+    "motivos": ["Primera cita gratuita", "Estética dental", "Periodoncia", "Implantes", "Ortodoncia"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "13:00", "16:00", "17:30"],
+      "martes": ["10:00", "12:00", "15:30", "17:00", "18:30"],
+      "miercoles": ["9:30", "11:30", "13:30", "16:30", "18:00"],
+      "jueves": ["10:30", "12:30", "15:30", "17:30"],
+      "viernes": ["9:30", "11:00", "13:00", "15:30", "16:30"]
+    },
+    "horario": ["Lunes a jueves: 9:30–14:00 y 15:30–19:00", "Viernes: 9:30–17:30"],
+    "pieMarca": "Odontología integral en Extramurs",
+    "notaDiseno": "Clínica familiar del Dr. Antonino: tonos cálidos, el equipo en primer plano y la cita gratuita reservable al momento."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "conrado-andres",
+  "numero": 31,
+  "clinica": {
+    "nombre": "Clínica Dental Conrado Andrés",
+    "nombreCorto": "Conrado Andrés",
+    "dominio": "clinicasconradoandres.com",
+    "web": "https://clinicasconradoandres.com/clinica-dental-calle-virgen-de-la-cabeza-valencia/",
+    "contacto": "https://clinicasconradoandres.com/nuestras-clinicas/#pedir-cita",
+    "decisor": "Dr. Conrado Andrés Ros y Dr. Conrado Andrés Navarro"
+  },
+  "colores": {
+    "acento": "#056e5c",
+    "tinta": "#12251f",
+    "profundo": "#0d3f33",
+    "suave": "#edf6f3",
+    "borde": "#d2e7e1",
+    "calido": "#b89a62",
+    "calidoSuave": "#f7f2e7"
+  },
+  "fotos": {
+    "principal": "https://clinicasconradoandres.com/wp-content/uploads/2024/06/sobre-nosotros-el-equipo.jpg",
+    "clinica1": "https://clinicasconradoandres.com/wp-content/uploads/2024/06/clinica-conrado-andres-valencia-virgen-de-la-cabeza-sala-de-espera.jpg",
+    "clinica2": "https://clinicasconradoandres.com/wp-content/uploads/2024/06/clinica-conrado-andres-valencia-virgen-de-la-cabeza-consulta.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "VALENCIA · VIRGEN DE LA CABEZA, 52",
+    "titulo": ["Seis clínicas y casi cuatro décadas.", "Una sola forma de pedir cita que no falle."],
+    "intro": "Desde 1987, con más de 20 expertos y cirugía maxilofacial. Proponemos que el paciente de cualquiera de vuestras seis clínicas pueda reservar en el momento, eligiendo centro, día y hora, sin depender de acertar con el teléfono.",
+    "hallazgos": [
+      "En la página de vuestra clínica de Virgen de la Cabeza, uno de los enlaces para llamar marca +34 63786987, al que le falta un 9: quien lo pulsa desde el móvil no llama a la clínica (963 78 69 87).",
+      "La descripción que Google muestra de esa misma página dice «Clínica dental en Quart de Poblet» y da el teléfono 961 50 79 06, que no es el de la clínica de Valencia.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 10:00 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Un único asistente para las seis clínicas.",
+      "texto": "Vuestros botones de WhatsApp ya abren con «Me gustaría pedir cita en…». El asistente contesta al momento, consulta la agenda de ese centro y deja la cita reservada. Lo clínico y la cirugía siguen siendo del equipo del Dr. Conrado Andrés."
+    },
+    "pregunta": "¿Cuántas llamadas os llegan a la clínica equivocada cada semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "C/ VIRGEN DE LA CABEZA, 52 · PATRAIX",
+    "telefono": "963 78 69 87",
+    "telefonos": "963 78 69 87 · WhatsApp 663 71 68 56",
+    "direccion": "C/ Virgen de la Cabeza, 52 · 46014 Valencia",
+    "marca": "CONRADO ANDRÉS",
+    "submarca": "CLÍNICA DENTAL Y MAXILOFACIAL",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "CLÍNICA DENTAL Y MAXILOFACIAL EN VALENCIA",
+    "heroTitulo": "Tres décadas",
+    "heroDestacado": "repartiendo sonrisas.",
+    "heroTexto": "Odontología, implantología y cirugía maxilofacial con más de 20 expertos. Elige clínica, día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Tu salud integral es nuestra meta.",
+    "nota": "Seis clínicas en Valencia, Alaquàs, Aldaia y Quart de Poblet.",
+    "fotoEtiqueta": "EQUIPO CONRADO ANDRÉS",
+    "fotoTitulo": "Más de 20 expertos.",
+    "cifra": "1987",
+    "cifraEtiqueta": "ABRIMOS NUESTRA PRIMERA CLÍNICA",
+    "equipoTitulo": "Experiencia y profesionalidad.",
+    "equipoTexto": "Dirigidas por los doctores Conrado Andrés Ros y Conrado Andrés Navarro, con especialistas en implantología avanzada (all on four, cigomáticos), ortodoncia, cirugía oral y maxilofacial y sedación consciente.",
+    "valores": [
+      ["Seis clínicas.", "Siempre tienes una cerca."],
+      ["Cirugía maxilofacial.", "Casos complejos en el mismo equipo."],
+      ["Tecnología propia.", "Microscopio quirúrgico, ortopantomografía y sedación."]
+    ],
+    "galeriaEtiqueta": "CLÍNICA VALENCIA · VIRGEN DE LA CABEZA",
+    "galeriaTitulo": "Tu clínica en Patraix.",
+    "galeriaDestacado": "Con todo el equipo detrás.",
+    "pies": ["Sala de espera · Virgen de la Cabeza, 52", "Consulta de la clínica"],
+    "servicios": ["Implantología y all on four", "Implantes cigomáticos", "Ortodoncia e invisible", "Estética dental", "Cirugía oral y maxilofacial", "Sedación consciente"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿En qué clínica me atendéis?", "Elige la que te quede más cerca: Valencia (Virgen de la Cabeza y Peris i Valero), Alaquàs, Aldaia o Quart de Poblet."],
+      ["¿Tratáis casos complejos?", "Sí. Tenemos cirugía oral y maxilofacial e implantología avanzada."],
+      ["¿Tenéis financiación?", "Sí. Pregunta por las opciones al reservar."]
+    ],
+    "contactoTitulo": "¡Pide tu cita!",
+    "contactoTexto": "Elige clínica, motivo, día y hora y queda reservada al momento.",
+    "motivos": ["Primera visita · Virgen de la Cabeza", "Primera visita · otra clínica", "Implantes", "Ortodoncia", "Cirugía oral"],
+    "huecos": {
+      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
+      "martes": ["10:30", "12:00", "16:00", "17:30", "19:00"],
+      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
+      "jueves": ["11:00", "12:30", "16:00", "17:30", "19:00"],
+      "viernes": ["10:00", "11:30", "13:00", "16:30", "18:30"]
+    },
+    "horario": [],
+    "pieMarca": "Clínicas dentales y maxilofaciales desde 1987",
+    "notaDiseno": "Seis clínicas con una sola entrada: verde de su marca, equipo en primer plano y reserva por centro."
+  }
+}
