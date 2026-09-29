@@ -23,7 +23,7 @@ Escribe como escribe una persona: sin imágenes, un solo enlace y 80-120 palabra
 
 **Remitente y enlace:**
 - Envía desde `nico@atlisclinicas.com`, no desde `atlisclinicas@gmail.com`.
-- Usa `propuestas.atlisclinicas.com/...` en lugar de `atlis-propuestas-clinicas.vercel.app/...`. Mientras no esté configurado, los correos llevan la URL actual de Vercel.
+- Los enlaces usan el dominio corto `propuestas.atlisclinicas.com/...`, que apunta a la versión nueva de las propuestas (proyecto de Vercel `atlis-propuestas-clinicas-v2`). La versión anterior sigue en `atlis-propuestas-clinicas.vercel.app`.
 
 **Destinatario.** Los `info@` los lee recepción. Por eso:
 - Los correos van dirigidos a la dueña o dueño por su nombre.
@@ -80,7 +80,7 @@ Si te dan un correo personal (no `info@`), mejor. Apunta la fecha y quién te di
 >
 > Soy Nico, de Atlis. Trabajamos con clínicas dentales en la parte de citas y seguimiento. He preparado una propuesta con una portada más clara y un ejemplo de cómo se podrían gestionar las citas por WhatsApp:
 >
-> https://atlis-propuestas-clinicas.vercel.app/gemma-martinez/
+> propuestas.atlisclinicas.com/gemma-martinez
 >
 > ¿Te encaja verla juntos 15 minutos esta semana?
 
@@ -107,7 +107,7 @@ Si te dan un correo personal (no `info@`), mejor. Apunta la fecha y quién te di
 >
 > Soy Nico, de Atlis. He preparado una propuesta con una página de ortodoncia donde protagoniza la Dra. García Obeso y un ejemplo de cómo esas conversaciones pueden acabar en una cita sin que recepción tenga que ir detrás:
 >
-> https://atlis-propuestas-clinicas.vercel.app/clinica-such/
+> propuestas.atlisclinicas.com/clinica-such
 >
 > ¿Os encaja verla 15 minutos esta semana?
 
@@ -134,7 +134,7 @@ Si te dan un correo personal (no `info@`), mejor. Apunta la fecha y quién te di
 >
 > Con varias especialidades, además, cada consulta tiene que llegar a la persona adecuada. Soy Nico, de Atlis, y he preparado una propuesta que conserva vuestra identidad y añade una forma sencilla de pedir, cambiar o cancelar una cita por escrito, a cualquier hora:
 >
-> https://atlis-propuestas-clinicas.vercel.app/odontology/
+> propuestas.atlisclinicas.com/odontology
 >
 > ¿Os encaja verla 15 minutos esta semana?
 
@@ -161,7 +161,7 @@ Si te dan un correo personal (no `info@`), mejor. Apunta la fecha y quién te di
 >
 > Soy Nico, de Atlis. He preparado una propuesta con una presentación renovada de la clínica y un ejemplo de cómo esa conversación puede resolverse sola, con vuestro tono y sin perder la cercanía:
 >
-> https://atlis-propuestas-clinicas.vercel.app/carmen-domingo/
+> propuestas.atlisclinicas.com/carmen-domingo
 >
 > ¿Te encaja verla 15 minutos esta semana?
 
@@ -191,7 +191,7 @@ Si te dan un correo personal (no `info@`), mejor. Apunta la fecha y quién te di
 >
 > Soy Nico, de Atlis. Trabajamos con clínicas dentales en la parte de citas. Pensando en vuestra forma de trabajar, calidad con calidez, os he preparado una propuesta:
 >
-> https://atlis-propuestas-clinicas.vercel.app/deniz/
+> propuestas.atlisclinicas.com/deniz
 >
 > ¿Te encaja verla 15 minutos esta semana?
 

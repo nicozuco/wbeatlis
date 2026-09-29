@@ -1,7 +1,8 @@
 {
-  "gemma-martinez": "https://atlis-propuestas-clinicas-v2.vercel.app/gemma-martinez/",
-  "clinica-such": "https://atlis-propuestas-clinicas-v2.vercel.app/clinica-such/",
-  "odontology": "https://atlis-propuestas-clinicas-v2.vercel.app/odontology/",
-  "carmen-domingo": "https://atlis-propuestas-clinicas-v2.vercel.app/carmen-domingo/",
-  "deniz": "https://atlis-propuestas-clinicas-v2.vercel.app/deniz/"
+  "gemma-martinez": "https://propuestas.atlisclinicas.com/gemma-martinez/",
+  "clinica-such": "https://propuestas.atlisclinicas.com/clinica-such/",
+  "odontology": "https://propuestas.atlisclinicas.com/odontology/",
+  "carmen-domingo": "https://propuestas.atlisclinicas.com/carmen-domingo/",
+  "deniz": "https://propuestas.atlisclinicas.com/deniz/",
+  "_respaldo_vercel": "https://atlis-propuestas-clinicas-v2.vercel.app/<clinica>/ (mismo contenido; usar solo si el dominio corto no responde)"
 }

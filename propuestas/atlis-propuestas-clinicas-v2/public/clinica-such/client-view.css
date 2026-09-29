@@ -133,4 +133,11 @@ body.client-demo-visible .client-sticky{transform:translateY(140%)!important}
 .bespoke-window.is-collapsed::after{content:"";position:absolute;left:0;right:0;bottom:0;height:180px;background:linear-gradient(transparent,#fff 85%);pointer-events:none}
 .client-site-more{display:flex;justify-content:center;align-items:center;width:100%;min-height:52px;margin:-8px 0 8px;border:1px solid var(--client-accent);border-radius:10px;background:#fff;color:var(--client-accent);font:600 15px Inter,sans-serif;position:relative;z-index:2}
 .client-share{min-height:44px;font-size:14px}
+/* web propuesta abierta: a todo el ancho, como una web real */
+.bespoke-window.is-open{max-width:none!important;border-radius:0!important;border-left:0!important;border-right:0!important;box-shadow:none!important;position:relative;z-index:3}
+.bespoke-window.is-open .bespoke-site{width:100%}
+body.client-site-open .demo-stage,body.client-site-open .client-demo,body.client-site-open #stage-content{overflow:visible!important}
+body.client-site-open .client-demo .demo-toolbar{position:static;box-shadow:none}
+body.client-site-open .client-sticky{transform:translateY(140%)!important}
+.client-site-more.is-open{position:sticky;bottom:12px;margin:12px 0;box-shadow:0 10px 24px #00000026;z-index:4}
 }
