@@ -1,0 +1,163 @@
+{
+  "slug": "buitrago",
+  "numero": 50,
+  "clinica": {
+    "nombre": "Clínica Buitrago",
+    "nombreCorto": "Clínica Buitrago",
+    "dominio": "clinicabuitrago.es",
+    "web": "https://clinicabuitrago.es/",
+    "contacto": "https://clinicabuitrago.es/contacto/",
+    "decisor": "Prof. Dr. Pedro Buitrago"
+  },
+  "colores": {
+    "acento": "#3f78b5",
+    "tinta": "#1c2735",
+    "profundo": "#1f3350",
+    "suave": "#eef4fb",
+    "borde": "#d4e3f2",
+    "calido": "#a9b8c6",
+    "calidoSuave": "#f1f5f9"
+  },
+  "fotos": {
+    "principal": "https://clinicabuitrago.es/wp-content/uploads/2022/01/equipo-pedro-buitrago-1.jpg",
+    "clinica1": "https://clinicabuitrago.es/wp-content/uploads/2022/03/recepcion-clinica-buitrago-ortodoncia-valencia.jpg",
+    "clinica2": "https://clinicabuitrago.es/wp-content/uploads/2022/01/galeria-la-clinica-buitrago-2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. REINO DE VALENCIA, 2 · PERIODONCIA E IMPLANTES",
+    "titulo": [
+      "«Respira», dice vuestra web.",
+      "Que pedir cita también sea tranquilo."
+    ],
+    "intro": "Más de 20 años de odontología honesta dirigida por el Prof. Dr. Pedro Buitrago, con periodoncia, implantes y máxima puntualidad. Proponemos que el paciente reserve su cita en el momento, sin tener que cuadrar vuestro horario por teléfono.",
+    "hallazgos": [
+      "Vuestra página de contacto tiene un formulario «Pide cita» que solo recoge los datos para «contestar a las consultas»: no ofrece días ni horas. Y con un horario de mañanas los lunes y viernes y de tardes de martes a jueves, el paciente no sabe qué pedir.",
+      "Según vuestro horario en Google, del viernes a las 16:00 al lunes a las 9:00 pasan 65 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el 623 03 40 10 en la web. El asistente contesta al momento, ofrece solo los huecos reales de vuestro horario y deja la cita reservada. Lo clínico sigue siendo cosa del Dr. Buitrago y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas se van en explicar qué días abrís por la mañana y cuáles por la tarde?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "AV. REINO DE VALENCIA, 2 · VALENCIA",
+    "telefono": "963 30 87 42",
+    "telefonos": "963 30 87 42 · WhatsApp 623 03 40 10",
+    "direccion": "Av. Reino de Valencia, 2, piso 2, pta. 5 · 46005 Valencia",
+    "marca": "CLÍNICA BUITRAGO",
+    "submarca": "PERIODONCIA E IMPLANTES",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Respira.",
+    "heroDestacado": "Estás en casa.",
+    "heroTexto": "Técnicas mínimamente invasivas e indoloras, máxima puntualidad y toda la información que necesitas. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "La sonrisa de la tranquilidad.",
+    "nota": "Junto a la Gran Vía, en el Ensanche.",
+    "fotoEtiqueta": "PROF. DR. PEDRO BUITRAGO",
+    "fotoTitulo": "Director clínico.",
+    "cifra": "20+",
+    "cifraEtiqueta": "AÑOS DE ODONTOLOGÍA HONESTA",
+    "equipoTitulo": "La confianza de sentirse en las mejores manos.",
+    "equipoTexto": "Una clínica dirigida por un sanitario, el Prof. Dr. Pedro Buitrago, especialista en periodoncia e implantes, con un equipo de alto nivel técnico y humano.",
+    "valores": [
+      [
+        "Confianza y honestidad.",
+        "Tu salud no es lo primero, es lo único."
+      ],
+      [
+        "Sin miedo.",
+        "Tratamientos cómodos e indoloros."
+      ],
+      [
+        "Puntualidad.",
+        "Para eliminar los nervios de la espera."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Toda la atención que mereces.",
+    "galeriaDestacado": "En un espacio tranquilo.",
+    "pies": [
+      "Recepción",
+      "Sala de espera"
+    ],
+    "servicios": [
+      "Periodontitis",
+      "Implantes dentales",
+      "Periimplantitis",
+      "Ortodoncia",
+      "Estética bucodental",
+      "Prótesis dentales"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes y viernes de 9:00 a 16:00; martes y jueves de 13:00 a 20:00; miércoles de 14:00 a 20:00."
+      ],
+      [
+        "¿Dónde puedo aparcar?",
+        "En los parkings de Cirilo Amorós, Gran Vía (Marqués del Túria, 62) o Reino de Valencia."
+      ],
+      [
+        "¿Hacéis segundas opiniones?",
+        "Sí. Estudiamos tu caso y te explicamos las opciones."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora (solo verás huecos reales) y queda reservada al momento.",
+    "motivos": [
+      "Primera visita",
+      "Periodoncia",
+      "Implantes",
+      "Segunda opinión",
+      "Revisión e higiene"
+    ],
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "14:00",
+        "15:00"
+      ],
+      "martes": [
+        "13:00",
+        "15:00",
+        "16:30",
+        "18:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "14:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "jueves": [
+        "13:00",
+        "14:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "14:30"
+      ]
+    },
+    "horario": [
+      "Lunes y viernes: 9:00–16:00",
+      "Martes y jueves: 13:00–20:00",
+      "Miércoles: 14:00–20:00"
+    ],
+    "pieMarca": "Periodoncia e implantes en Valencia",
+    "notaDiseno": "«Respira»: azul cielo de su marca, el Dr. Buitrago en primer plano y un horario complicado que el paciente ya no tiene que descifrar."
+  }
+}

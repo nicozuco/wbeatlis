@@ -1,0 +1,158 @@
+{
+  "slug": "blanques-dental",
+  "numero": 51,
+  "clinica": {
+    "nombre": "Clínica Blanques Dental",
+    "nombreCorto": "Blanques Dental",
+    "dominio": "blanquesdental.com",
+    "web": "https://www.blanquesdental.com/",
+    "contacto": "https://www.blanquesdental.com/",
+    "decisor": "Dra. Ana Rubio"
+  },
+  "colores": {
+    "acento": "#3c9ba1",
+    "tinta": "#1e2426",
+    "profundo": "#232b2e",
+    "suave": "#eff7f7",
+    "borde": "#d3e8e9",
+    "calido": "#a7a9ab",
+    "calidoSuave": "#f3f4f4"
+  },
+  "fotos": {
+    "principal": "https://blanquesdental.com/wp-content/uploads/2021/11/sala-clinica.jpg",
+    "clinica1": "https://blanquesdental.com/wp-content/uploads/2021/11/fachada.jpg",
+    "clinica2": "https://blanquesdental.com/wp-content/uploads/2021/11/sala-clinica-2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "TAVERNES BLANQUES · AVDA. REI EN JAUME, 13",
+    "titulo": [
+      "Vuestra web dice «Próximamente».",
+      "Esta podría ser la que llegue."
+    ],
+    "intro": "Una clínica en Tavernes Blanques con instalaciones nuevas y luminosas. Hoy quien os busca en internet encuentra un aviso de «Próximamente nueva web». Proponemos una web completa en la que el paciente, además, reserve su cita en el momento.",
+    "hallazgos": [
+      "Vuestra web muestra solo «Próximamente nueva web», la dirección y los teléfonos, que además no se pueden pulsar para llamar desde el móvil: no hay tratamientos, ni equipo, ni forma de pedir cita.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 10:00 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Una web nueva, con la cita dentro.",
+      "texto": "La web que veis en esta propuesta, con vuestras fotos, y un asistente que enseña los huecos libres y deja la cita reservada, también por WhatsApp. Lo clínico sigue siendo cosa de la Dra. Rubio y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes nuevos os encuentran hoy por internet?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "AVDA. REI EN JAUME, 13 · TAVERNES BLANQUES",
+    "telefono": "963 94 92 68",
+    "telefonos": "963 94 92 68 · 628 01 49 22",
+    "direccion": "Avda. Rei en Jaume, 13 · Tavernes Blanques (Valencia)",
+    "marca": "BLANQUES DENTAL",
+    "submarca": "DRA. ANA RUBIO",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "CLÍNICA DENTAL EN TAVERNES BLANQUES",
+    "heroTitulo": "Tu clínica dental,",
+    "heroDestacado": "al lado de casa.",
+    "heroTexto": "Instalaciones nuevas y un equipo cercano para toda la familia. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Cerca de ti, en Tavernes Blanques.",
+    "nota": "En la avenida Rei en Jaume, 13.",
+    "fotoEtiqueta": "CLÍNICA BLANQUES DENTAL",
+    "fotoTitulo": "Instalaciones nuevas.",
+    "cifra": "",
+    "cifraEtiqueta": "NUESTRA CLÍNICA",
+    "equipoTitulo": "Toda la odontología, en tu pueblo.",
+    "equipoTexto": "Implantología, ortodoncia, estética y odontología infantil en una clínica moderna de Tavernes Blanques, dirigida por la Dra. Ana Rubio.",
+    "valores": [
+      [
+        "Instalaciones nuevas.",
+        "Luminosas, modernas y cómodas."
+      ],
+      [
+        "Toda la familia.",
+        "De la odontopediatría a los implantes."
+      ],
+      [
+        "Al lado de casa.",
+        "Sin desplazarte a Valencia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luminosa y moderna.",
+    "galeriaDestacado": "Pensada para ti.",
+    "pies": [
+      "Avda. Rei en Jaume, 13",
+      "Gabinete"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia",
+      "Odontología estética",
+      "Blanqueamiento",
+      "Odontopediatría",
+      "Endodoncia y periodoncia"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la avenida Rei en Jaume, 13, en Tavernes Blanques."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tenemos odontología infantil."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
+    "motivos": [
+      "Primera visita",
+      "Revisión e higiene",
+      "Implantes",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [],
+    "pieMarca": "Clínica dental en Tavernes Blanques",
+    "notaDiseno": "De «Próximamente» a una web real: blanco y turquesa, sus instalaciones nuevas y la cita reservable desde el primer día."
+  }
+}
