@@ -1,0 +1,159 @@
+{
+  "slug": "gutierrez-juan-llorens",
+  "numero": 41,
+  "clinica": {
+    "nombre": "Clínica Dental Dr. Gutiérrez · Juan Llorens",
+    "nombreCorto": "Dr. Gutiérrez",
+    "dominio": "drgutierrezmonterde.es",
+    "web": "https://drgutierrezmonterde.es/",
+    "contacto": "https://drgutierrezmonterde.es/las-clinicas/",
+    "decisor": "Dr. Juan Vicente Gutiérrez Monterde"
+  },
+  "colores": {
+    "acento": "#24457a",
+    "tinta": "#1b1d21",
+    "profundo": "#202227",
+    "suave": "#f1f3f7",
+    "borde": "#dde2ea",
+    "calido": "#a59a88",
+    "calidoSuave": "#f4f2ee"
+  },
+  "fotos": {
+    "principal": "https://drgutierrezmonterde.es/wp-content/uploads/2021/11/DR-gutierrez.jpg",
+    "clinica1": "https://drgutierrezmonterde.es/wp-content/uploads/2024/04/Teconologia_Dr.Gutierrez.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "JUAN LLORENS, 47 · CONSTITUCIÓN · PATERNA · COLÓN",
+    "titulo": [
+      "Cuatro clínicas y un solo formulario.",
+      "Que la hora quede confirmada al reservar."
+    ],
+    "intro": "Cuatro clínicas en Valencia y Paterna dirigidas por el Dr. Gutiérrez Monterde, referente en implantología de carga inmediata. Proponemos que el paciente elija clínica, día y hora y salga con la cita confirmada.",
+    "hallazgos": [
+      "En vuestro formulario «Pide tu cita online» el paciente elige especialidad, clínica y día, pero no la hora: el propio formulario avisa de que «contactaremos contigo para confirmar la hora». Y el WhatsApp de la web es el mismo número para las cuatro clínicas.",
+      "Según vuestro horario en Google, del viernes a las 13:00 al lunes a las 9:00 pasan 68 horas con la clínica de Juan Llorens cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que el formulario reserve también la hora.",
+      "texto": "Un asistente en la web y en vuestro WhatsApp que pregunta la clínica (Juan Llorens, Constitución, Paterna o Colón), enseña los huecos libres de esa agenda y deja la cita confirmada. Lo clínico sigue siendo cosa del equipo del Dr. Gutiérrez."
+    },
+    "pregunta": "¿Cuántas llamadas hacéis cada semana solo para confirmar la hora de una cita pedida por la web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "JUAN LLORENS · CONSTITUCIÓN · PATERNA · COLÓN",
+    "telefono": "960 30 65 25",
+    "telefonos": "Juan Llorens 960 30 65 25 · 613 29 14 95",
+    "direccion": "C/ Juan Llorens, 47 · 46008 Valencia",
+    "marca": "DR GUTIÉRREZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN VALENCIA Y PATERNA",
+    "heroTitulo": "Recuperamos",
+    "heroDestacado": "tu sonrisa.",
+    "heroTexto": "Implantología avanzada, ortodoncia invisible y estética dental en la clínica más cerca de ti. Elige clínica, día y hora y tu cita queda confirmada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Más cerca de ti.",
+    "nota": "Cuatro clínicas en Valencia y Paterna.",
+    "fotoEtiqueta": "DR. JUAN VICENTE GUTIÉRREZ MONTERDE",
+    "fotoTitulo": "Director médico.",
+    "cifra": "4",
+    "cifraEtiqueta": "CLÍNICAS EN VALENCIA Y PATERNA",
+    "equipoTitulo": "Implantología de carga inmediata.",
+    "equipoTexto": "El Dr. Gutiérrez Monterde, máster en Implantología y especializado en cirugía reconstructiva en maxilares atróficos, dirige un equipo de odontólogas especialistas en estética, prótesis y ortodoncia.",
+    "valores": [
+      [
+        "Carga inmediata.",
+        "Implantología y cirugía avanzada."
+      ],
+      [
+        "Ortodoncia invisible.",
+        "Distribuidor oficial de Spark."
+      ],
+      [
+        "Instalaciones por boxes.",
+        "Equipo de última tecnología."
+      ]
+    ],
+    "galeriaEtiqueta": "ÚLTIMA TECNOLOGÍA",
+    "galeriaTitulo": "Instalaciones de vanguardia.",
+    "galeriaDestacado": "Y un trato excelente.",
+    "pies": [
+      "Cirugía en la clínica"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Periodoncia",
+      "Odontopediatría",
+      "Medicina estética"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿En qué clínica me atendéis?",
+        "Juan Llorens, Constitución, Paterna o Colón: elige la más cercana al reservar."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 19:00 y los viernes de 9:00 a 13:00."
+      ],
+      [
+        "¿Trabajáis con seguros?",
+        "Sí, con seguros dentales y convenios con empresas. Pregúntanos por el tuyo."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita online.",
+    "contactoTexto": "Elige clínica, especialidad, día y hora y queda confirmada al momento, sin esperar nuestra llamada.",
+    "motivos": [
+      "Primera visita · Juan Llorens",
+      "Implantología",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Otra clínica"
+    ],
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:30",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "15:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:00",
+        "12:00",
+        "15:30",
+        "17:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–19:00",
+      "Viernes: 9:00–13:00"
+    ],
+    "pieMarca": "Clínicas dentales en Valencia y Paterna",
+    "notaDiseno": "Red de cuatro clínicas: gris grafito y azul, el Dr. Gutiérrez en primer plano y una cita que se confirma con hora."
+  }
+}
