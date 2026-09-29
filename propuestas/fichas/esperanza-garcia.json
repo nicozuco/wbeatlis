@@ -1,0 +1,155 @@
+{
+  "slug": "esperanza-garcia",
+  "numero": 61,
+  "clinica": {
+    "nombre": "Clínica Dental Esperanza García",
+    "nombreCorto": "Esperanza García",
+    "dominio": "clinicadentalesperanzagarcia.com",
+    "web": "https://www.clinicadentalesperanzagarcia.com/",
+    "contacto": "https://www.clinicadentalesperanzagarcia.com/contact",
+    "decisor": "Dra. Esperanza García Collada"
+  },
+  "colores": {
+    "acento": "#9a7b57",
+    "tinta": "#1e1b18",
+    "profundo": "#26221e",
+    "suave": "#f7f3ee",
+    "borde": "#ebe1d4",
+    "calido": "#c9b49a",
+    "calidoSuave": "#f6f0e8"
+  },
+  "fotos": {
+    "principal": "https://images.squarespace-cdn.com/content/v1/6a8d40cdbd571f47363dc1af/e8468e84-0928-4413-8a50-03500fc75464/87484AA5-3C64-4DA2-98D1-CAFE933CEE54.PNG?format=2500w",
+    "clinica1": "https://images.squarespace-cdn.com/content/v1/6a8d40cdbd571f47363dc1af/3c918bce-7810-498c-86d1-debe24f530e3/62177EB9-7770-4F82-97F2-850F89D609FC.jpg?format=2500w",
+    "clinica2": "https://images.squarespace-cdn.com/content/v1/6a8d40cdbd571f47363dc1af/3e600796-9485-4c35-96ad-a7f40ebd3d49/C986CC13-CC5F-49E2-80CD-B355FE4FC32F.PNG?format=2500w"
+  },
+  "propuesta": {
+    "etiqueta": "DESDE 1986 · CALLE BERNIA, 24",
+    "titulo": [
+      "Misma gente, distinto lugar.",
+      "Y un WhatsApp que conteste también de viernes a domingo."
+    ],
+    "intro": "Casi cuarenta años de odontología cercana, ahora en un espacio nuevo en la calle Bernia. Vuestra web ya lleva a pedir cita por WhatsApp: proponemos que ese WhatsApp conteste y deje la cita reservada al momento, también cuando la clínica está cerrada.",
+    "hallazgos": [
+      "El botón «Pedir cita» de vuestra web abre un WhatsApp con el mensaje «me gustaría solicitar una cita»: alguien tiene que leerlo y contestar a mano. Además, en Google y en la pestaña del navegador vuestra web se llama solo «Inicio», y el teléfono no se puede pulsar para llamar desde el móvil.",
+      "Según vuestro horario en Google, del jueves a las 20:00 al lunes a las 10:00 pasan 86 horas con la clínica cerrada: los WhatsApp de viernes, sábado y domingo esperan hasta el lunes."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp conteste solo.",
+      "texto": "El mismo 697 90 70 60: el asistente contesta al momento, ofrece los huecos libres y deja la cita reservada, aunque sea un sábado. Lo clínico sigue siendo cosa de Esperanza y su equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp de cita os encontráis cada lunes a primera hora?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "CALLE BERNIA, 24 · VALENCIA",
+    "telefono": "963 73 45 69",
+    "telefonos": "963 73 45 69 · WhatsApp citas 697 90 70 60",
+    "direccion": "C/ Bernia, 24 bajo · 46006 Valencia",
+    "marca": "ESPERANZA GARCÍA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "ODONTOLOGÍA CERCANA",
+    "heroTitulo": "Misma gente,",
+    "heroDestacado": "distinto lugar.",
+    "heroTexto": "El mismo equipo y el trato cercano de siempre, ahora en un espacio más cómodo, moderno y personalizado. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Respira, estás en buenas manos.",
+    "nota": "En nuestro nuevo espacio de la calle Bernia.",
+    "fotoEtiqueta": "NUESTRO EQUIPO",
+    "fotoTitulo": "El trato de siempre.",
+    "cifra": "1986",
+    "cifraEtiqueta": "CUIDANDO GENERACIONES DE PACIENTES",
+    "equipoTitulo": "Entendemos el origen, tratamos la causa.",
+    "equipoTexto": "Esperanza García fundó la clínica en 1986 y durante cuatro décadas ha cuidado de varias generaciones de pacientes. Hoy la acompañan Alberto Sáez e Irene Tormo, con formación continua y las últimas tecnologías.",
+    "valores": [
+      [
+        "Aquí no vendemos tratamientos.",
+        "Cuidamos tu salud oral."
+      ],
+      [
+        "Tiempo para ti.",
+        "Te escuchamos y te lo explicamos con claridad."
+      ],
+      [
+        "De la prevención a los implantes.",
+        "Todo importa."
+      ]
+    ],
+    "galeriaEtiqueta": "NUESTRO NUEVO ESPACIO",
+    "galeriaTitulo": "Pensado para ti,",
+    "galeriaDestacado": "cómodo y tranquilo.",
+    "pies": [
+      "La entrada",
+      "Nuestro nuevo espacio"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Periodoncia",
+      "Implantes y cirugía",
+      "Ortodoncia",
+      "Estética dental",
+      "Odontopediatría"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Dónde estáis ahora?",
+        "En nuestro nuevo espacio de la calle Bernia, 24 bajo (46006 Valencia)."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves, de 10:00 a 13:00 y de 16:00 a 20:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 697 90 70 60 y la dejamos reservada en la misma conversación, a cualquier hora."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Periodoncia",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–13:00 y 16:00–20:00"
+    ],
+    "pieMarca": "Clínica dental en Valencia desde 1986",
+    "notaDiseno": "Misma gente, distinto lugar: los tonos cálidos de su nuevo espacio, el equipo en primer plano y un WhatsApp que contesta solo."
+  }
+}

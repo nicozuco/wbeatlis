@@ -1,0 +1,154 @@
+{
+  "slug": "sant-isidre",
+  "numero": 65,
+  "clinica": {
+    "nombre": "Clínica Dental Sant Isidre",
+    "nombreCorto": "Sant Isidre",
+    "dominio": "clinicasantisidre.es",
+    "web": "https://clinicasantisidre.es/",
+    "contacto": "https://clinicasantisidre.es/contacto/",
+    "decisor": "Dr. Iñaki Aura"
+  },
+  "colores": {
+    "acento": "#5f7f68",
+    "tinta": "#1c231e",
+    "profundo": "#243029",
+    "suave": "#f2f6ef",
+    "borde": "#dde7d6",
+    "calido": "#b0bf93",
+    "calidoSuave": "#f4f6ec"
+  },
+  "fotos": {
+    "principal": "https://clinicasantisidre.es/wp-content/uploads/2022/05/gabinete1-scaled.jpg",
+    "clinica1": "https://clinicasantisidre.es/wp-content/uploads/2022/05/salaespera-1-1-scaled.jpg",
+    "clinica2": "https://clinicasantisidre.es/wp-content/uploads/2022/05/pasillo-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "SANT ISIDRE · CAMINO NUEVO DE PICANYA, 19",
+    "titulo": [
+      "Una clínica familiar, integrada en el barrio.",
+      "Que reservar sea igual de cercano."
+    ],
+    "intro": "Especialistas en odontopediatría, ortodoncia, cirugía e implantes, con asistencia continuada y planes de financiación. Proponemos que el paciente pueda reservar su cita en el momento, desde la web o por WhatsApp.",
+    "hallazgos": [
+      "El botón «Reservar cita» de vuestra web solo llama al móvil 617 08 21 62, y la página de contacto se limita a la dirección, el teléfono y el correo: no hay formulario, ni WhatsApp, ni horario.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 16:00 pasan 74 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Un WhatsApp que reserve la cita.",
+      "texto": "Un asistente en WhatsApp y en la web que contesta al momento, ofrece los huecos libres y deja la cita reservada, también el fin de semana. Lo clínico sigue siendo cosa del Dr. Aura, la Dra. Mañez y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas al móvil se quedan sin contestar mientras estáis en consulta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "CAMINO NUEVO DE PICANYA, 19 · SANT ISIDRE",
+    "telefono": "963 57 81 94",
+    "telefonos": "963 57 81 94 · 617 08 21 62",
+    "direccion": "Camino Nuevo de Picanya, 19 bajo · Valencia",
+    "marca": "SANT ISIDRE",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "ODONTOLOGÍA INTEGRAL",
+    "heroTitulo": "Cuidamos tu sonrisa.",
+    "heroDestacado": "Cuidamos de ti.",
+    "heroTexto": "Odontología especializada, asistencia continuada y trato personalizado en tu barrio. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reservar cita",
+    "frase": "Una clínica familiar, integrada en el barrio.",
+    "nota": "En el barrio de Sant Isidre.",
+    "fotoEtiqueta": "CLÍNICA DENTAL SANT ISIDRE",
+    "fotoTitulo": "Nuestros gabinetes.",
+    "cifra": "",
+    "cifraEtiqueta": "QUIÉNES SOMOS",
+    "equipoTitulo": "Cada uno, en su especialidad.",
+    "equipoTexto": "El Dr. Iñaki Aura (odontopediatría y ortodoncia) y la Dra. Ana Mañez (cirugía e implantes), con Marga Carretero y Camila Guglielmi, higienistas y educadoras dentales.",
+    "valores": [
+      [
+        "Odontología especializada.",
+        "Cada tratamiento, con su especialista."
+      ],
+      [
+        "Asistencia continuada.",
+        "Te acompañamos en todo el proceso."
+      ],
+      [
+        "Financiación.",
+        "Planes a tu medida."
+      ]
+    ],
+    "galeriaEtiqueta": "GALERÍA",
+    "galeriaTitulo": "Un espacio tranquilo",
+    "galeriaDestacado": "y luminoso.",
+    "pies": [
+      "Sala de espera",
+      "Pasillo de gabinetes"
+    ],
+    "servicios": [
+      "Odontología conservadora y endodoncia",
+      "Odontopediatría",
+      "Ortodoncia",
+      "Implantología",
+      "Prótesis dental",
+      "Estética dental"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Camino Nuevo de Picanya, 19 bajo, en el barrio de Sant Isidre."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. El Dr. Iñaki Aura es odontopediatra y ortodoncista."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí, planes de financiación a tu medida."
+      ]
+    ],
+    "contactoTitulo": "Reserva tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
+    "motivos": [
+      "Primera visita",
+      "Odontopediatría",
+      "Ortodoncia",
+      "Implantes",
+      "Revisión"
+    ],
+    "huecos": {
+      "lunes": [
+        "16:00",
+        "17:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [],
+    "pieMarca": "Clínica dental en Sant Isidre",
+    "notaDiseno": "Clínica familiar de barrio: el verde salvia de su web, espacios luminosos y la cita reservable por WhatsApp."
+  }
+}

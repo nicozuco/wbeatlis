@@ -1,0 +1,148 @@
+{
+  "slug": "mar-adell",
+  "numero": 63,
+  "clinica": {
+    "nombre": "Mar Adell Clínica Dental",
+    "nombreCorto": "Mar Adell",
+    "dominio": "maradellclinicadental.es",
+    "web": "https://www.maradellclinicadental.es/",
+    "contacto": "https://www.maradellclinicadental.es/contacto-dentista-valencia/",
+    "decisor": "Dra. María del Mar Adell"
+  },
+  "colores": {
+    "acento": "#c2305f",
+    "tinta": "#221a1e",
+    "profundo": "#2b2126",
+    "suave": "#fbf0f4",
+    "borde": "#f1d6e0",
+    "calido": "#8a8f99",
+    "calidoSuave": "#f3f4f6"
+  },
+  "fotos": {
+    "principal": "https://www.maradellclinicadental.es/wp-content/uploads/2026/03/mar-adell-clinica-dental-Castellar-Oliveral-Valencia.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "CASTELLAR-OLIVERAL · PLAZA VIRGEN DE LEPANTO, 27",
+    "titulo": [
+      "Vuestra dentista de referencia en el barrio.",
+      "Con la cita a un mensaje de distancia."
+    ],
+    "intro": "Una clínica de trato cercano y familiar dirigida por la Dra. María del Mar Adell, con primera consulta y diagnóstico sin compromiso. Proponemos que el paciente pueda reservar esa primera consulta en el momento, desde la web o por WhatsApp.",
+    "hallazgos": [
+      "Para pedir cita, vuestra web ofrece un formulario de «Solicita tu primera cita» con nombre, correo y motivo: el paciente envía y espera. Los teléfonos no se pueden pulsar para llamar desde el móvil.",
+      "Vuestra web dice que abrís de lunes a viernes de 10:00 a 14:00 y de 16:00 a 20:00 y los sábados con cita previa, pero según vuestro horario en Google cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 11:00: 69 horas seguidas."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente contesta al momento, ofrece los huecos libres y deja la primera consulta reservada. Lo clínico sigue siendo cosa de la Dra. Adell y su equipo."
+    },
+    "pregunta": "¿Qué horario es el bueno, el de la web o el de Google?",
+    "tema": "primera consulta"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "topline": "PLAZA VIRGEN DE LEPANTO, 27 · CASTELLAR-OLIVERAL",
+    "telefono": "963 75 37 94",
+    "telefonos": "963 75 37 94 · 640 81 44 59",
+    "direccion": "Plaza Virgen de Lepanto, 27 bajo · 46026 Castellar-Oliveral (Valencia)",
+    "marca": "MAR ADELL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "",
+    "heroEtiqueta": "CERCANÍA, TECNOLOGÍA Y PROFESIONALIDAD",
+    "heroTitulo": "Tu dentista",
+    "heroDestacado": "de confianza.",
+    "heroTexto": "Tratamientos personalizados para toda la familia en Castellar-Oliveral. Primera consulta y diagnóstico sin compromiso: elige día y hora y queda reservada.",
+    "ctaHero": "Pedir primera consulta",
+    "frase": "Trato cercano y honesto para toda la familia.",
+    "nota": "En el barrio de Castellar-Oliveral.",
+    "fotoEtiqueta": "MAR ADELL CLÍNICA DENTAL",
+    "fotoTitulo": "Plaza Virgen de Lepanto, 27.",
+    "cifra": "",
+    "cifraEtiqueta": "LA CLÍNICA",
+    "equipoTitulo": "Tu dentista de referencia en el barrio.",
+    "equipoTexto": "Dirigida por la Dra. María del Mar Adell, con un equipo en formación continua y una odontología basada en la confianza: te escuchamos, te informamos y te acompañamos en cada paso.",
+    "valores": [
+      [
+        "Atención personalizada.",
+        "Cada caso, con su plan."
+      ],
+      [
+        "Tecnología avanzada.",
+        "Diagnósticos precisos."
+      ],
+      [
+        "Financiación.",
+        "Para organizar tu tratamiento."
+      ]
+    ],
+    "servicios": [
+      "Odontología general",
+      "Ortodoncia",
+      "Implantología y cirugía",
+      "Estética dental",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿La primera consulta tiene compromiso?",
+        "No. Primera consulta y diagnóstico sin compromiso."
+      ],
+      [
+        "¿Abrís los sábados?",
+        "Con cita previa."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar respuesta.",
+    "motivos": [
+      "Primera consulta",
+      "Revisión",
+      "Ortodoncia",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "huecos": {
+      "lunes": [
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [],
+    "pieMarca": "Clínica dental en Castellar-Oliveral",
+    "notaDiseno": "Clínica de barrio: el magenta de su rótulo, su fachada y una primera consulta reservable al momento."
+  }
+}

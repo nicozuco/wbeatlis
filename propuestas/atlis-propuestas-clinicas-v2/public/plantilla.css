@@ -105,3 +105,5 @@
 /* Galería con una sola foto: ocupa todo el ancho. */
 .pl-gallery figure:first-of-type:last-of-type{grid-column:1/-1}.pl-gallery figure:first-of-type:last-of-type img{height:420px}
 @container(max-width:650px){.pl-gallery figure:first-of-type:last-of-type img{height:260px}}
+@container(max-width:650px){.pl-nav{flex-wrap:nowrap;gap:12px}.pl-nav .pl-wordmark{flex:1 1 0;min-width:0;font-size:20px;line-height:1.04}.pl-nav .pl-wordmark span{font-size:7px;margin-top:4px}.pl-nav>.bp-button{flex:none;white-space:nowrap}.pl-nav .bp-menu-toggle{flex:none}}
+@container(max-width:650px){.pl-topline{gap:12px}.pl-topline span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.pl-topline span:last-child{flex:none;white-space:nowrap}}
