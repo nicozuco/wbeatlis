@@ -1,0 +1,99 @@
+{
+  "_ayuda": "Ficha de ejemplo, rellenada con los datos de Déniz. Sirve de referencia y para probar el script. Su propuesta real ya existe en public/deniz/ (hecha a mano): no la publiques con este slug.",
+
+  "slug": "ejemplo-deniz",
+  "numero": 99,
+
+  "clinica": {
+    "nombre": "Déniz Clínica Dental",
+    "nombreCorto": "Déniz",
+    "dominio": "denizclinicadental.com",
+    "web": "https://denizclinicadental.com/",
+    "contacto": "https://denizclinicadental.com/contacto/",
+    "decisor": "Pilar"
+  },
+
+  "colores": {
+    "acento": "#08768b",
+    "tinta": "#203b40",
+    "profundo": "#193e45",
+    "suave": "#edf6f5",
+    "borde": "#d8e8ed",
+    "calido": "#be8b60",
+    "calidoSuave": "#f7f0e6"
+  },
+
+  "fotos": {
+    "principal": "../atlis-propuestas-clinicas-v2/public/deniz/assets/clinics/46-doctor.png",
+    "clinica1": "../atlis-propuestas-clinicas-v2/public/deniz/assets/clinics/46-clinic.jpg",
+    "clinica2": "../atlis-propuestas-clinicas-v2/public/deniz/assets/clinics/46-room.jpg"
+  },
+
+  "propuesta": {
+    "etiqueta": "ATENCIÓN PERSONAL · RUZAFA",
+    "titulo": ["La atención sigue siendo personal.", "La agenda puede ser más sencilla."],
+    "intro": "Una propuesta que pone a Pilar y a la clínica en primer plano. El agente se ocupa de coordinar las citas para que el contacto digital facilite la visita y conserve vuestro trato cercano.",
+    "hallazgos": [
+      "En vuestra página de contacto, quien pulsa sobre consulta@denizclinicadental.com abre un correo dirigido a contact@mysite.com, una dirección de plantilla. Esos mensajes no os llegan.",
+      "La clínica atiende de 9:30 a 13:00 y de 16:00 a 20:00. A la hora de comer, cada noche y del viernes a las 20:00 al lunes a las 9:30, los mensajes de WhatsApp esperan."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Corregir el enlace del email y empezar por WhatsApp.",
+      "texto": "El asistente solo se ocupa de lo administrativo: pedir, mover o cancelar una cita en el momento. Todo lo demás pasa a Pilar y a su equipo."
+    },
+    "pregunta": "¿Qué gestiones de agenda os gustaría delegar manteniendo vuestro trato cercano?",
+    "tema": "primera visita"
+  },
+
+  "web": {
+    "topline": "RUZAFA · VALENCIA",
+    "telefono": "963 95 71 71",
+    "telefonos": "963 95 71 71 · 601 472 974",
+    "direccion": "Matías Perelló, 49 · Ruzafa",
+    "marca": "DÉNIZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Conoce a Pilar",
+    "heroEtiqueta": "CALIDAD CON CALIDEZ",
+    "heroTitulo": "Cuidarte bien.",
+    "heroDestacado": "Tratarte cerca.",
+    "heroTexto": "Una clínica en Ruzafa donde el cuidado es personal. Cuéntanos qué necesitas y empecemos por una visita.",
+    "ctaHero": "Reservar una primera visita",
+    "frase": "Tu salud oral, ante todo.",
+    "nota": "En el corazón de Ruzafa. Con tiempo para escucharte.",
+    "fotoEtiqueta": "MARÍA DEL PILAR DÉNIZ",
+    "fotoTitulo": "Odontología con nombre propio.",
+    "cifra": "1990",
+    "cifraEtiqueta": "UNA TRAYECTORIA DEDICADA A LAS PERSONAS",
+    "equipoTitulo": "Experiencia en las manos. Cercanía en el trato.",
+    "equipoTexto": "María del Pilar Déniz ejerce la odontología desde 1990. Tras su etapa en Canarias, trasladó su clínica a Valencia en 2017.",
+    "valores": [
+      ["Tiempo para escucharte.", "Empieza por explicar tu motivo de consulta y las dudas que quieres tratar."],
+      ["Cuidado personal.", "La valoración se realiza con el equipo clínico, en la consulta."],
+      ["Un siguiente paso claro.", "Reservas tu visita en el hueco que mejor te venga, sin esperar a que te llamen."]
+    ],
+    "galeriaEtiqueta": "TU CLÍNICA EN RUZAFA",
+    "galeriaTitulo": "Un lugar cercano.",
+    "galeriaDestacado": "También por dentro.",
+    "pies": ["Matías Perelló, 49 · Valencia", "Un espacio para tu atención presencial"],
+    "servicios": ["Revisión y odontología general", "Higiene y salud de las encías", "Endodoncia", "Ortodoncia", "Prótesis e implantes"],
+    "faqTitulo": "Antes de ponernos cara.",
+    "faq": [
+      ["¿Puedo elegir el horario?", "Sí. Ves los huecos libres de mañana y de tarde y reservas el que mejor te venga."],
+      ["¿Dónde estáis?", "En la calle Matías Perelló, 49, en Ruzafa, Valencia."]
+    ],
+    "contactoTitulo": "Reserva tu visita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada. Para cualquier duda, Pilar y su equipo te atienden en persona.",
+    "motivos": ["Primera visita", "Revisión con la clínica", "Consulta administrativa"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "12:30", "16:30", "18:30"],
+      "martes": ["10:00", "12:00", "16:00", "17:30", "19:00"],
+      "miercoles": ["9:30", "11:30", "16:30", "18:00"],
+      "jueves": ["10:30", "12:00", "16:00", "17:30", "19:30"],
+      "viernes": ["9:30", "11:00", "12:30", "16:30", "18:00"]
+    },
+    "horario": ["Lunes a viernes: 9:30–13:00 y 16:00–20:00"],
+    "pieMarca": "Calidad con calidez · Ruzafa",
+    "notaDiseno": "Marca personal de Pilar: retrato, trayectoria, clínica de Ruzafa y atención presencial como eje."
+  }
+}

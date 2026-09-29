@@ -45,6 +45,22 @@
  const collapseSite=()=>{document.body.classList.remove('client-site-open');const win=document.querySelector('.bespoke-window');if(!win||innerWidth>600||win.dataset.collapsible)return;win.dataset.collapsible='1';win.classList.add('is-collapsed');const more=document.createElement('button');more.type='button';more.className='client-site-more';more.textContent='Ver la web completa ↓';const bleed=()=>{if(!win.classList.contains('is-open')){win.style.marginLeft='';win.style.width='';return;}win.style.marginLeft='0px';win.style.width='';const r=win.getBoundingClientRect();win.style.marginLeft=(-r.left)+'px';win.style.width=document.documentElement.clientWidth+'px';};more.addEventListener('click',()=>{win.classList.remove('is-collapsed');win.classList.add('is-open');document.body.classList.add('client-site-open');more.remove();bleed();});addEventListener('resize',bleed);win.after(more);};
  const baseSetTab=window.setTab;window.setTab=(tab)=>{baseSetTab(tab);collapseSite();};
  document.addEventListener('click',async e=>{const b=e.target.closest('[data-share]');if(!b)return;const data={title:`Propuesta de Atlis para ${c.name}`,text:`Mira la propuesta que nos ha preparado Atlis para ${c.name}:`,url:location.href.split('#')[0]};try{if(navigator.share){await navigator.share(data);return;}await navigator.clipboard.writeText(data.url);const old=b.innerHTML;b.textContent='Enlace copiado ✓';setTimeout(()=>{b.innerHTML=old;},2200);}catch(err){}});
+ // Avisos de visita (van a /api/visita y de ahí a GoHighLevel). Las visitas propias no cuentan:
+ // abre una vez cualquier propuesta con ?yo al final del enlace y este navegador queda excluido.
+ (()=>{const safe=f=>{try{return f();}catch(e){return null;}};
+  if(/[?&]yo\b/.test(location.search))safe(()=>localStorage.setItem('atlis_yo','1'));
+  if(safe(()=>localStorage.getItem('atlis_yo'))==='1')return;
+  const t0=Date.now();const sent={};
+  const send=evento=>{if(sent[evento])return;sent[evento]=1;const k='atlis_'+c.slug+'_'+evento;if(safe(()=>sessionStorage.getItem(k)))return;safe(()=>sessionStorage.setItem(k,'1'));
+   safe(()=>fetch('/api/visita',{method:'POST',headers:{'Content-Type':'application/json'},keepalive:true,body:JSON.stringify({slug:c.slug,clinica:c.name,evento,segundos:Math.round((Date.now()-t0)/1000)})}).catch(()=>{}));};
+  const opened=()=>send('abierta');
+  addEventListener('scroll',()=>{if(scrollY>250)opened();},{passive:true});
+  addEventListener('pointerdown',opened,{once:true});
+  setTimeout(()=>{if(document.visibilityState==='visible')opened();},15000);
+  const close=document.querySelector('#demo-gratuita');
+  if(close&&'IntersectionObserver'in window)new IntersectionObserver((es,o)=>{if(es.some(e=>e.isIntersecting)){send('leida');o.disconnect();}},{threshold:.35}).observe(close);
+  document.addEventListener('click',e=>{if(e.target.closest('.client-close-primary,.client-close-secondary'))send('demo_pulsada');if(e.target.closest('[data-share]'))send('compartida');});
+ })();
  setTab(c.recView||'landing');
  document.addEventListener('click',e=>{
   const view=e.target.closest('[data-client-view]');

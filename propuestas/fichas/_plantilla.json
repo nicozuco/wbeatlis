@@ -1,0 +1,103 @@
+{
+  "_ayuda": "Copia este archivo como fichas/<slug>.json y rellénalo. Solo datos COMPROBADOS en la web pública de la clínica. Borra las claves que no uses (las opcionales llevan valores por defecto). Guía: propuestas/GUIA-NUEVA-CLINICA.md",
+
+  "slug": "nombre-de-la-clinica",
+  "numero": 47,
+
+  "clinica": {
+    "nombre": "Nombre completo de la clínica",
+    "nombreCorto": "Nombre corto (opcional)",
+    "dominio": "www.suweb.com",
+    "web": "https://www.suweb.com/",
+    "contacto": "https://www.suweb.com/contacto/",
+    "decisor": "Nombre de la dueña o dueño (para los correos)"
+  },
+
+  "colores": {
+    "acento": "#08768b",
+    "tinta": "#1f2d31",
+    "profundo": "#193e45",
+    "suave": "#eef6f5",
+    "borde": "#d9e6e3",
+    "calido": "#b9895c",
+    "calidoSuave": "#f7efe6"
+  },
+
+  "fotos": {
+    "principal": "URL o ruta de la foto principal (doctora/doctor o equipo, vertical)",
+    "clinica1": "URL o ruta de una foto de la clínica (fachada o recepción)",
+    "clinica2": "URL o ruta de otra foto de la clínica (gabinete)",
+    "logo": "(opcional) URL o ruta del logo; si no hay, se escribe el nombre"
+  },
+
+  "propuesta": {
+    "etiqueta": "ESPECIALIDAD · BARRIO",
+    "titulo": ["Primera frase del titular.", "Segunda frase, que sale en el color de la clínica."],
+    "intro": "Dos frases que expliquen la propuesta pensando en esta clínica.",
+    "hallazgos": [
+      "Hallazgo 1 comprobado en su web (el más llamativo: un fallo, un hueco sin atender…).",
+      "Hallazgo 2: su horario y las horas en que nadie contesta.",
+      "Hallazgo 3 (opcional)."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Empezar por… (una sola cosa).",
+      "texto": "Por qué empezar por ahí y qué conseguiría la clínica."
+    },
+    "pregunta": "Pregunta para el cierre: ¿qué os gustaría delegar primero?",
+    "tema": "primera visita",
+    "textoWhatsapp": "(opcional) Texto de la tarjeta de WhatsApp.",
+    "textoNuevaPagina": "(opcional) Una frase sobre la web propuesta."
+  },
+
+  "web": {
+    "topline": "BARRIO · CIUDAD",
+    "telefono": "900 000 000",
+    "telefonos": "900 000 000 · WhatsApp 600 000 000",
+    "direccion": "Calle, número · Barrio",
+    "marca": "NOMBRE",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Conócenos",
+    "heroEtiqueta": "LEMA O ESPECIALIDAD",
+    "heroTitulo": "Titular de la web.",
+    "heroDestacado": "Segunda línea destacada.",
+    "heroTexto": "Una o dos frases para el paciente.",
+    "ctaHero": "Reservar primera visita",
+    "frase": "(opcional) Frase manuscrita, p. ej. su lema.",
+    "nota": "(opcional) Nota breve junto a la flecha.",
+    "fotoEtiqueta": "NOMBRE DE LA DOCTORA/DOCTOR",
+    "fotoTitulo": "Frase bajo la foto principal.",
+    "cifra": "1990",
+    "cifraEtiqueta": "DATO QUE ACOMPAÑA A LA CIFRA",
+    "equipoTitulo": "Titular sobre el equipo o la trayectoria.",
+    "equipoTexto": "Texto con datos reales de su web (años, formación, filosofía).",
+    "valores": [
+      ["Valor 1.", "Texto corto."],
+      ["Valor 2.", "Texto corto."],
+      ["Valor 3.", "Texto corto."]
+    ],
+    "galeriaEtiqueta": "TU CLÍNICA EN …",
+    "galeriaTitulo": "Un lugar cercano.",
+    "galeriaDestacado": "También por dentro.",
+    "pies": ["Pie de la foto clinica1", "Pie de la foto clinica2"],
+    "servicios": ["Tratamiento 1", "Tratamiento 2", "Tratamiento 3", "Tratamiento 4"],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      ["¿Puedo elegir el horario?", "Sí. Ves los huecos libres y reservas el que mejor te venga."],
+      ["¿Dónde estáis?", "Dirección real publicada en su web."]
+    ],
+    "contactoTitulo": "Reserva tu visita.",
+    "contactoTexto": "Elige el motivo, el día y la hora. La cita queda reservada al momento.",
+    "motivos": ["Primera visita", "Revisión", "Otra consulta"],
+    "huecos": {
+      "lunes": ["9:30", "11:00", "16:30", "18:30"],
+      "martes": ["10:00", "12:00", "17:00"],
+      "miercoles": ["9:30", "11:30", "16:30"],
+      "jueves": ["10:30", "16:00", "19:00"],
+      "viernes": ["9:30", "11:00", "13:00"]
+    },
+    "horario": ["Lunes a viernes: 9:30–13:30 y 16:00–20:00"],
+    "pieMarca": "Lema corto para el pie",
+    "notaDiseno": "Una frase sobre la idea del diseño (sale encima de la web)."
+  }
+}

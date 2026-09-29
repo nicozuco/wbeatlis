@@ -1,0 +1,81 @@
+/* Tema de plantilla para clínicas nuevas. Generado a partir del diseño de Déniz (bespoke.css + refinement.css).
+   Los colores salen de la ficha de cada clínica: --bp-accent, --bp-ink, --bp-deep, --bp-soft, --bp-border, --bp-warm, --bp-warm-soft. */
+
+.pl-topline{display:flex;justify-content:space-between;background:var(--bp-accent);color:white;padding:12px 5%;font-size:8px;font-weight:650;letter-spacing:.15em}
+.pl-wordmark{font:800 28px/1 Manrope,sans-serif;letter-spacing:-.06em}
+.pl-wordmark span{font:500 7px/1.4 Inter,sans-serif;display:block;letter-spacing:.17em;margin-top:5px}
+.bp-plantilla .bp-button{border-radius:0}
+.pl-hero{display:grid;grid-template-columns:43% 1fr;background:var(--bp-soft);gap:60px;padding:42px 6% 55px;align-items:center}
+.pl-portrait{position:relative;background:var(--bp-border);padding:0 0 60px}
+.pl-portrait>img{width:100%;height:390px;object-fit:cover;object-position:center;mix-blend-mode:multiply}
+.pl-portrait>div{position:absolute;bottom:0;left:0;right:0;background:var(--bp-accent);color:white;padding:19px 21px}
+.pl-portrait span{display:block;font-size:8px;letter-spacing:.11em;margin-bottom:6px}
+.pl-portrait strong{font-size:13px;font-weight:500}
+.pl-hero-copy h2{font-size:57px;font-weight:800;letter-spacing:-.075em}
+.pl-hero-copy h2 em{color:var(--bp-accent)}
+.pl-hero-copy p{font-size:13px;color:#617c85;max-width:360px}
+.pl-handwritten{font:italic 23px Georgia,serif;transform:rotate(-3deg);display:block;margin-top:28px;color:#52696f}
+.pl-hero-note{display:flex;gap:14px;margin-top:30px}
+.pl-hero-note>span{font-size:29px;color:var(--bp-warm)}
+.pl-hero-note p{font-size:9px;margin:0}
+.pl-pilar{display:grid;grid-template-columns:1fr 2fr;gap:65px;padding:65px 8%;align-items:center}
+.pl-big-number{font:750 78px/1 Manrope,sans-serif;letter-spacing:-.08em;color:var(--bp-soft)}
+.pl-pilar h3{font-size:34px}
+.pl-pilar p{font-size:12px;color:#71818a}
+.pl-values{display:grid;grid-template-columns:repeat(3,1fr);gap:30px;padding:0 8% 65px}
+.pl-values article{border-top:1px solid var(--bp-border);padding-top:18px}
+.pl-values span{font-size:10px;color:var(--bp-accent);display:block;margin-bottom:22px}
+.pl-values h4{font-size:18px}
+.pl-values p{font-size:11px;color:#71818a;margin-bottom:0}
+.pl-gallery{background:var(--bp-warm-soft);padding:60px 6%;display:grid;grid-template-columns:1fr 1fr;gap:25px}
+.pl-gallery>div{grid-column:1/-1;display:flex;justify-content:space-between;align-items:start;gap:30px;margin-bottom:10px}
+.pl-gallery h3{font-size:36px}
+.pl-gallery h3 em{color:var(--bp-warm)}
+.pl-gallery .bp-eyebrow{color:var(--bp-warm);margin-top:7px}
+.pl-gallery figure{margin:0}
+.pl-gallery figure img{width:100%;height:260px}
+.pl-gallery figcaption{font-size:9px;color:var(--bp-warm);margin-top:13px}
+.pl-specialties{display:grid;grid-template-columns:1fr 1.5fr;gap:70px;padding:65px 7%}
+.pl-specialties h3{font-size:40px}
+.pl-specialties button{display:flex;align-items:center;gap:18px;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--bp-border);padding:19px 0;font-size:14px;font-weight:600}
+.pl-specialties button span{font-size:9px;color:color-mix(in srgb,var(--bp-accent) 55%,#fff)}
+.pl-specialties button i{margin-left:auto;font-style:normal;color:var(--bp-accent)}
+.bp-plantilla .bp-contact{background:var(--bp-accent);color:white}
+.bp-plantilla .bp-contact .bp-eyebrow{color:color-mix(in srgb,var(--bp-accent) 18%,#fff)}
+.bp-plantilla .bp-contact h3{font-size:47px;letter-spacing:-.055em}
+.bp-plantilla .bp-demo-form{border:0;border-radius:0}
+
+.pl-topline{background:var(--bp-deep);padding:12px var(--bp-gutter);font-size:10px}
+.pl-wordmark{font-size:34px}
+.pl-wordmark span{font-size:8px}
+.bp-plantilla .bp-button{border-radius:6px}
+.pl-hero{background:var(--bp-soft);grid-template-columns:43% 1fr;gap:85px;padding:60px var(--bp-gutter) 72px}
+.pl-portrait{border-radius:180px 180px 14px 14px;overflow:hidden;background:var(--bp-border);padding-bottom:75px}
+.pl-portrait>img{height:430px;object-position:50% 26%;mix-blend-mode:normal}
+.pl-portrait>div{background:var(--bp-deep);padding:22px 28px}
+.pl-portrait span{font-size:10px}
+.pl-portrait strong{font-size:16px}
+.pl-hero-copy h2{font-size:clamp(50px,5.6vw,80px);letter-spacing:-.06em;font-weight:600}
+.pl-hero-copy h2 em{color:var(--bp-accent)}
+.pl-hero-copy p{font-size:16px;margin:26px 0 30px;max-width:415px;color:#4e6b71}
+.pl-handwritten{font-size:25px;color:var(--bp-warm);transform:none;margin-top:35px}
+.pl-hero-note{margin-top:32px}
+.pl-hero-note p{font-size:12px;margin:0}
+.pl-pilar{padding:90px 9%;gap:80px}
+.pl-big-number{font-size:106px;color:color-mix(in srgb,var(--bp-accent) 50%,#fff);font-weight:500}
+.pl-pilar h3{font-size:41px}
+.pl-pilar p{font-size:15px}
+.pl-values{padding:0 9% 90px;gap:40px}
+.pl-values h4{font-size:23px}
+.pl-values p{font-size:14px}
+.pl-values span{font-size:12px}
+.pl-gallery{padding:80px var(--bp-gutter);background:var(--bp-warm-soft);gap:32px}
+.pl-gallery h3{font-size:44px}
+.pl-gallery figure img{height:340px;border-radius:10px}
+.pl-gallery figcaption{font-size:12px}
+.pl-specialties{padding:90px var(--bp-gutter)}
+.pl-specialties h3{font-size:48px}
+.pl-specialties button{font-size:18px;padding:26px 0}
+.pl-specialties button span{font-size:11px}
+.bp-plantilla .bp-contact{background:var(--bp-deep)}
+.bp-plantilla .bp-demo-form{border-radius:14px}

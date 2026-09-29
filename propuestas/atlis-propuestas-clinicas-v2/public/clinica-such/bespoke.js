@@ -80,6 +80,36 @@
     ${foot('DÉNIZ · CLÍNICA DENTAL','Calidad con calidez · Ruzafa',{address:'Matías Perelló, 49 · Ruzafa',phone:'963 95 71 71 · 601 472 974',hours:['Lunes a viernes: 9:30⁠–⁠13:00 y 16:00⁠–⁠20:00']})}`;
   }
 
+
+  /* Plantilla para clínicas nuevas: la web se construye con clinic.site (ficha de la clínica).
+     Estructura basada en el diseño de Déniz; colores y textos salen de la ficha. */
+  const esc2 = v => String(v ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const dayNum = {lunes:1,martes:2,miercoles:3,'miércoles':3,jueves:4,viernes:5,sabado:6,'sábado':6};
+  function plantilla(clinic) {
+    const w = clinic.site || {};
+    const f = w.fotos || {};
+    const hours = {};
+    Object.entries(w.huecos || {}).forEach(([d, t]) => { const n = dayNum[d.toLowerCase()]; if (n) hours[n] = t; });
+    const values = (w.valores || []).slice(0, 3).map((v, i) => `<article><span>0${i+1}</span><h4>${esc2(v[0])}</h4><p>${esc2(v[1])}</p></article>`).join('');
+    const gallery = [f.clinica1, f.clinica2].filter(Boolean).map((img, i) => `<figure>${photo(img, `${esc2(clinic.name)}, imagen ${i+1}`)}<figcaption>${esc2((w.pies || [])[i] || '')}</figcaption></figure>`).join('');
+    const wordmark = f.logo ? photo(f.logo, esc2(clinic.name), 'bp-logo') : `<div class="pl-wordmark">${esc2(w.marca || clinic.brand)}<span>${esc2(w.submarca || '')}</span></div>`;
+    return `<div class="pl-topline"><span>${esc2(w.topline || '')}</span><span>${esc2(w.telefono || '')}</span></div><nav class="bp-nav pl-nav" aria-label="Secciones de la página propuesta">${wordmark}<div class="bp-nav-items">${jump('bp-equipo', w.menuEquipo || 'Conócenos')}${jump('bp-clinica','La clínica')}${jump('bp-especialidades','Tratamientos')}</div><button class="bp-menu-toggle" aria-label="Abrir menú" aria-expanded="false">Menú <span>＋</span></button>${cta(w.ctaNav || 'Pedir cita')}</nav>
+    <section class="pl-hero" id="bp-top"><div class="pl-portrait">${photo(f.principal, esc2(w.pieFotoPrincipal || clinic.name))}<div><span>${esc2(w.fotoEtiqueta || '')}</span><strong>${esc2(w.fotoTitulo || '')}</strong></div></div><div class="pl-hero-copy">${eyebrow(esc2(w.heroEtiqueta || ''))}<h2>${esc2(w.heroTitulo || '')}<br><em>${esc2(w.heroDestacado || '')}</em></h2><p>${esc2(w.heroTexto || '')}</p>${cta(w.ctaHero || 'Reservar primera visita')}${w.frase ? `<div class="pl-handwritten">${esc2(w.frase)}</div>` : ''}<div class="pl-hero-note"><span>↳</span><p>${esc2(w.nota || '')}</p></div></div></section>
+    <section class="pl-pilar" id="bp-equipo"><span class="pl-big-number">${esc2(w.cifra || '')}</span><div>${eyebrow(esc2(w.cifraEtiqueta || ''))}<h3>${esc2(w.equipoTitulo || '')}</h3><p>${esc2(w.equipoTexto || '')}</p></div></section>
+    ${values ? `<section class="pl-values">${values}</section>` : ''}
+    ${gallery ? `<section class="pl-gallery" id="bp-clinica"><div>${eyebrow(esc2(w.galeriaEtiqueta || 'LA CLÍNICA'))}<h3>${esc2(w.galeriaTitulo || 'Un lugar cercano.')}<br><em>${esc2(w.galeriaDestacado || 'También por dentro.')}</em></h3></div>${gallery}</section>` : ''}
+    <section class="pl-specialties" id="bp-especialidades"><h3>¿Por dónde<br>empezamos?</h3><div>${(w.servicios || []).map((sv, i) => `<button data-jump="bp-cita"><span>0${i+1}</span>${esc2(sv)}<i>↗</i></button>`).join('')}</div></section>
+    ${(w.faq || []).length ? `<section class="bp-faq-section"><h3>${esc2(w.faqTitulo || 'Antes de venir.')}</h3>${faq(w.faq.map(([q, a]) => [esc2(q), esc2(a)]))}</section>` : ''}
+    ${contact({hours, title: esc2(w.contactoTitulo || 'Reserva tu visita.'), copy: esc2(w.contactoTexto || 'Elige el motivo, el día y la hora. La cita queda reservada al momento.'), options: (w.motivos || ['Primera visita','Revisión']).map(esc2), address: esc2(w.direccion || ''), phone: esc2(w.telefonos || w.telefono || '')})}
+    ${foot(esc2(clinic.name), esc2(w.pieMarca || ''), {address: esc2(w.direccion || ''), phone: esc2(w.telefonos || w.telefono || ''), hours: (w.horario || []).map(esc2)})}`;
+  }
+  const applyTemplateColors = clinic => {
+    const c = (clinic.site || {}).colores || {};
+    if (document.getElementById('pl-vars')) return;
+    const st = document.createElement('style'); st.id = 'pl-vars';
+    st.textContent = `.bp-plantilla{--bp-accent:${c.acento || '#0c6f6a'};--bp-ink:${c.tinta || '#1f2d31'};--bp-deep:${c.profundo || c.tinta || '#193e45'};--bp-soft:${c.suave || '#eef6f5'};--bp-border:${c.borde || '#d9e6e3'};--bp-warm:${c.calido || '#b9895c'};--bp-warm-soft:${c.calidoSuave || '#f7efe6'};--bp-paper:#fff}`;
+    document.head.append(st);
+  };
   const renderers = {42:gemma,43:such,44:odontology,45:carmen,46:deniz};
   const themes = {42:'gemma',43:'such',44:'odontology',45:'carmen',46:'deniz'};
   const designNotes = {
@@ -91,10 +121,10 @@
   };
   window.ATLIS_DESIGN_NOTES = designNotes;
   window.renderBespoke = (clinic,{withChat=false}={}) => {
-    const theme=themes[clinic.number];
-    if(new URLSearchParams(location.search).has("vista")) return `<div class="site-demo-bar"><a href="index.html">← Las cinco propuestas</a><span>ATLIS / CONCEPTO DE DISEÑO</span><a href="cliente-${clinic.number}.html">Ver propuesta completa ↗</a></div><main class="bespoke-site bp-${theme}">${renderers[clinic.number]()}</main>`;
+    const theme=themes[clinic.number]||'plantilla';if(theme==='plantilla')applyTemplateColors(clinic);const renderSite=()=>(renderers[clinic.number]||(()=>plantilla(clinic)))();
+    if(new URLSearchParams(location.search).has("vista")) return `<div class="site-demo-bar"><a href="index.html">← Las cinco propuestas</a><span>ATLIS / CONCEPTO DE DISEÑO</span><a href="cliente-${clinic.number}.html">Ver propuesta completa ↗</a></div><main class="bespoke-site bp-${theme}">${renderSite()}</main>`;
 
-    return `<button class="bp-expand-close" data-collapse-preview>← Volver a la propuesta</button><div class="bp-design-note"><span>DISEÑO A MEDIDA · ${clinic.number}</span><p>${designNotes[clinic.number]}</p></div><div class="browser-window bespoke-window"><div class="browser-chrome bp-chrome" aria-hidden="true"><div class="bw-tabs"><span class="browser-dots"><i></i><i></i><i></i></span><span class="bw-tab"><b></b><span>${clinic.name}</span><em>×</em></span><span class="bw-tab-new">+</span></div><div class="bw-toolbar"><span class="bw-nav"><i>←</i><i>→</i><i>↻</i></span><span class="address"><svg viewBox="0 0 16 16" width="12" height="12"><path d="M4.5 7V5a3.5 3.5 0 0 1 7 0v2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="3" y="7" width="10" height="7.5" rx="1.6" fill="currentColor"/></svg><span><small>https://</small>${clinic.domain}</span></span><span class="bp-chrome-label">CONCEPTO PROPUESTO</span></div></div><div class="bespoke-site bp-${theme}">${renderers[clinic.number]()}</div></div><p class="bp-source-note">Fotografías y marca procedentes de la web pública de la clínica. Composición y textos de propuesta preparados por Atlis. Los botones permiten recorrer la demo; no se envía ninguna solicitud.</p>`;
+    return `<button class="bp-expand-close" data-collapse-preview>← Volver a la propuesta</button><div class="bp-design-note"><span>DISEÑO A MEDIDA · ${clinic.number}</span><p>${designNotes[clinic.number]||esc2((clinic.site||{}).notaDiseno||'Diseño a medida para la clínica.')}</p></div><div class="browser-window bespoke-window"><div class="browser-chrome bp-chrome" aria-hidden="true"><div class="bw-tabs"><span class="browser-dots"><i></i><i></i><i></i></span><span class="bw-tab"><b></b><span>${clinic.name}</span><em>×</em></span><span class="bw-tab-new">+</span></div><div class="bw-toolbar"><span class="bw-nav"><i>←</i><i>→</i><i>↻</i></span><span class="address"><svg viewBox="0 0 16 16" width="12" height="12"><path d="M4.5 7V5a3.5 3.5 0 0 1 7 0v2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="3" y="7" width="10" height="7.5" rx="1.6" fill="currentColor"/></svg><span><small>https://</small>${clinic.domain}</span></span><span class="bp-chrome-label">CONCEPTO PROPUESTO</span></div></div><div class="bespoke-site bp-${theme}">${renderSite()}</div></div><p class="bp-source-note">Fotografías y marca procedentes de la web pública de la clínica. Composición y textos de propuesta preparados por Atlis. Los botones permiten recorrer la demo; no se envía ninguna solicitud.</p>`;
   };
 
 
@@ -117,7 +147,7 @@
     document.querySelector('.bp-floating-assistant')?.remove();
     if(!clinic)return;
     const widget=document.createElement('div');
-    widget.className=`bp-floating-assistant bp-${themes[clinic.number]}`;
+    widget.className=`bp-floating-assistant bp-${themes[clinic.number]||'plantilla'}`;
     widget.receptionClinic=clinic;
     widget.innerHTML=`<aside id="reception-panel" class="bp-chat-panel" aria-labelledby="reception-title" ${open?'':'hidden'}><header class="bp-chat-header"><span class="bp-chat-avatar">${chatIcon}</span><div><strong id="reception-title">Agente de recepción</strong><small>${clinic.shortName} · recorrido guiado</small></div><button data-close-assistant aria-label="Cerrar asistente">×</button></header><div class="bp-chat-content"><p>Hola, soy el agente de recepción. Puedo ayudarte con tus citas. ¿Qué necesitas?</p><div class="bp-chat-demo-explain"><strong>Esta vista es un ejemplo guiado</strong><span>Elige una gestión para ver el recorrido. En la versión conectada, el paciente podrá escribir libremente y el agente formulará respuestas propias con la información y las reglas acordadas con vuestra clínica.</span></div><span class="bp-agent-example-title">EJEMPLOS PARA PROBAR ESTA MAQUETA</span><div class="bp-agent-options">${Object.entries(window.getReceptionScenarios(clinic)).map(([key,item])=>`<button data-agent-scenario="${key}">${item.label} cita</button>`).join('')}</div><div class="bp-agent-conversation" aria-live="polite"></div><small>Agenda ficticia. Las dudas clínicas o fuera de las reglas se derivan al equipo.</small></div></aside><button class="bp-chat-launcher" aria-controls="reception-panel" aria-expanded="${open}" aria-label="${open?'Cerrar':'Abrir'} asistente de recepción">${chatIcon}<span>¿Te ayudamos?</span></button>`;
     // Outside the page preview: container-type and overflow would otherwise trap fixed positioning.
