@@ -1,0 +1,159 @@
+{
+  "slug": "malilla-dental",
+  "numero": 32,
+  "clinica": {
+    "nombre": "Malilla Dental",
+    "nombreCorto": "Malilla Dental",
+    "dominio": "malilladental.com",
+    "web": "https://malilladental.com/",
+    "contacto": "https://malilladental.com/cita-previa/",
+    "decisor": "Dirección de Malilla Dental"
+  },
+  "colores": {
+    "acento": "#2d9a92",
+    "tinta": "#1b2a2f",
+    "profundo": "#1f3a45",
+    "suave": "#eef8f7",
+    "borde": "#d3ecea",
+    "calido": "#e39434",
+    "calidoSuave": "#fcf3e8"
+  },
+  "fotos": {
+    "principal": "https://malilladental.com/wp-content/uploads/2025/10/Staff_Malilla_Dental-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "MALILLA · JOAQUÍN BENLLOCH, 43",
+    "titulo": [
+      "Revisión, radiografía y diagnóstico gratis.",
+      "Que pedirlos también sea inmediato."
+    ],
+    "intro": "Una clínica familiar en Malilla con más de 20 años de experiencia y financiación a medida. Proponemos que el paciente reserve su primera visita gratuita en el momento, y que Google os reconozca por vuestro nombre.",
+    "hallazgos": [
+      "Para Google, vuestra web se llama «Catarroja Dental»: así figura en los datos de empresa que la web entrega a los buscadores, y el mapa de «cómo llegar» también lleva ese nombre.",
+      "Vuestra página «Pide tu cita» es un formulario de «infórmate sin compromiso» y recomienda llamar para una atención más rápida: la cita no queda reservada. Según vuestro horario, del viernes a las 14:00 al lunes a las 10:00 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pide tu cita» reserve la primera visita gratuita.",
+      "texto": "Un asistente en la web (y el mismo en vuestro WhatsApp) que enseña los huecos libres y deja la cita reservada. Y, de paso, corregir el nombre que ve Google."
+    },
+    "pregunta": "¿Sabíais que Google lee vuestra web como «Catarroja Dental»?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "topline": "JOAQUÍN BENLLOCH, 43 · MALILLA",
+    "telefono": "960 09 40 15",
+    "telefonos": "960 09 40 15 · 653 93 11 74",
+    "direccion": "C/ Joaquín Benlloch, 43 · 46026 Valencia",
+    "marca": "MALILLA DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Filosofía",
+    "heroEtiqueta": "BIENVENIDOS A MALILLA DENTAL",
+    "heroTitulo": "Nuestro arte,",
+    "heroDestacado": "tu sonrisa.",
+    "heroTexto": "Cuidamos la salud bucodental de toda la familia con las máximas garantías. Revisión, radiografía digital y diagnóstico gratuitos en tu primera visita.",
+    "ctaHero": "Reservar primera visita gratuita",
+    "frase": "Cercanía y confianza familiar.",
+    "nota": "En el barrio de Malilla, cerca de ti.",
+    "fotoEtiqueta": "EQUIPO MALILLA DENTAL",
+    "fotoTitulo": "Profesionalidad y trato excepcional.",
+    "cifra": "20+",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA EN ODONTOLOGÍA",
+    "equipoTitulo": "Salud a largo plazo, para toda la familia.",
+    "equipoTexto": "Acompañamos el crecimiento de los más pequeños y cuidamos la salud de los adultos, con tratamientos a tu alcance y financiación a tu medida.",
+    "valores": [
+      [
+        "Primera visita gratuita.",
+        "Revisión, radiografía digital y diagnóstico."
+      ],
+      [
+        "Toda la familia.",
+        "De la odontopediatría a los implantes."
+      ],
+      [
+        "Financiación a tu medida.",
+        "Tratamientos a tu alcance."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tu clínica en Malilla.",
+    "galeriaDestacado": "Con las máximas garantías.",
+    "pies": [
+      "Joaquín Benlloch, 43 · Valencia"
+    ],
+    "servicios": [
+      "Revisión y odontología",
+      "Implantes y carga inmediata",
+      "Estética dental",
+      "Ortodoncia invisible",
+      "Odontopediatría",
+      "Endodoncia y periodoncia"
+    ],
+    "faqTitulo": "Antes de venir.",
+    "faq": [
+      [
+        "¿Qué incluye la primera visita?",
+        "Revisión, radiografía digital y diagnóstico, gratis."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí, a tu medida."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 15:00 a 19:00; los viernes de 9:00 a 14:00."
+      ]
+    ],
+    "contactoTitulo": "Reserva tu primera visita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar a que te llamemos.",
+    "motivos": [
+      "Primera visita gratuita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Odontopediatría"
+    ],
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "15:30",
+        "17:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "15:00",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "15:30",
+        "17:30"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "15:00",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 15:00–19:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "pieMarca": "Clínica dental en Malilla",
+    "notaDiseno": "Clínica familiar de Malilla: verde agua de su marca, equipo en primer plano y la primera visita gratuita reservable."
+  }
+}

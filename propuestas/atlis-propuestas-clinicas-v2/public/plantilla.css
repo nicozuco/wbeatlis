@@ -102,3 +102,6 @@
 @container(max-width:900px){.pl-wide-photo>img{height:400px}}
 @container(max-width:650px){.pl-hero.pl-hero-wide{grid-template-columns:1fr;gap:30px}.pl-wide-photo{grid-column:1;grid-row:2}.pl-wide-photo>img{height:300px;border-radius:14px}.pl-wide-photo figcaption{left:14px;bottom:14px;padding:12px 15px}.pl-wide-photo::before{display:none}}
 .pl-hero-wide .pl-hero-copy h2{font-size:clamp(44px,4.4vw,64px)}
+/* Galería con una sola foto: ocupa todo el ancho. */
+.pl-gallery figure:first-of-type:last-of-type{grid-column:1/-1}.pl-gallery figure:first-of-type:last-of-type img{height:420px}
+@container(max-width:650px){.pl-gallery figure:first-of-type:last-of-type img{height:260px}}
