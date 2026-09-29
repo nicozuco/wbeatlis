@@ -59,7 +59,7 @@ Si preferís que no os escriba más, respondedme «no» y no volveré a hacerlo.
 
 ## 2. Llamada previa (30 segundos)
 
-> Hola, buenos días. Soy Nico, de Atlis, una agencia de Valencia que trabaja con clínicas dentales. ¿Me podrías decir con quién hablo de temas de la web o de gestión de citas? … Perfecto. No te robo tiempo: hemos preparado una propuesta visual para [clínica], hecha a partir de vuestra web, y hemos visto [el detalle concreto del correo 1]. ¿Te la envío por correo para que la vea [nombre]? ¿A qué dirección?
+> Hola, buenos días. Soy Nico, de Atlis; trabajamos con clínicas dentales en la gestión de citas. ¿Me podrías decir con quién hablo de temas de la web o de gestión de citas? … Perfecto. No te robo tiempo: hemos preparado una propuesta visual para [clínica], hecha a partir de vuestra web, y hemos visto [el detalle concreto del correo 1]. ¿Te la envío por correo para que la vea [nombre]? ¿A qué dirección?
 
 Si te dan un correo personal (no `info@`), mejor. Apunta la fecha y quién te dio permiso en agencia-os.
 
