@@ -1,6 +1,6 @@
 # Propuestas 42–46 · edición 03 (v2)
 
-Copia mejorada de `../atlis-propuestas-clinicas/`, que se conserva intacta y es la que sigue publicada. Esta versión todavía no se ha publicado.
+Copia mejorada de `../atlis-propuestas-clinicas/`, que se conserva intacta y sigue publicada en su URL. Esta versión está publicada aparte en el proyecto de Vercel `atlis-propuestas-clinicas-v2` (https://atlis-propuestas-clinicas-v2.vercel.app/). Las URL están en `urls-publicas.json`.
 
 ## Qué cambia respecto a la versión publicada
 
