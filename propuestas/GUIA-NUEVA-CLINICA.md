@@ -85,7 +85,7 @@ Cada propuesta te avisa cuando la clínica:
 - **pulsa "Pedir mi demo gratuita"**,
 - **la comparte** con su equipo.
 
-Los avisos llegan a GoHighLevel (ver "Activar los avisos" abajo). **Cuando llegue "abierta", llama ese mismo día:** "Os envié una propuesta para la clínica y he visto que la habéis abierto, ¿qué os ha parecido?".
+Todo queda en **agencia-os → Analítica → Propuestas**: cuántas clínicas la han abierto, cuántas llegaron a la oferta, cuántas pulsaron la demo, clínica por clínica con la hora, el dispositivo y la ciudad de la última visita. Si tienes activados los avisos de agencia-os en el móvil, te llega uno cuando una clínica la abre, pulsa la demo o la comparte. **Cuando llegue "abierta", llama ese mismo día:** "Os envié una propuesta para la clínica y he visto que la habéis abierto, ¿qué os ha parecido?".
 
 **Tus visitas no deben contar.** Abre una vez cualquier propuesta en cada navegador y dispositivo tuyo con `?yo` al final (por ejemplo `https://propuestas.atlisclinicas.com/deniz/?yo`). Desde ese momento, tus visitas desde ese navegador se ignoran.
 
@@ -93,17 +93,18 @@ La demo la reservan en tu calendario de GoHighLevel (botón "Pedir mi demo gratu
 
 ---
 
-## Activar los avisos (una sola vez)
+## Activar la analítica en agencia-os (una sola vez)
 
-1. En GoHighLevel: **Automatización → Crear flujo de trabajo → empezar de cero**.
-2. **Disparador:** "Inbound Webhook" (Webhook entrante). Copia la URL que te da.
-3. Pásame esa URL. La guardo como variable secreta del proyecto de Vercel (`GHL_WEBHOOK_URL`); no va en el código público.
-4. Vuelve a GoHighLevel y pulsa "Obtener datos de muestra": abre cualquier propuesta **sin** `?yo` y haz scroll para que llegue un aviso de prueba.
-5. **Acciones del flujo** (según prefieras):
-   - "Enviar notificación interna" o "Enviar SMS/WhatsApp" a tu móvil. Por ejemplo: `{{inboundWebhookRequest.clinica}} ha {{inboundWebhookRequest.evento}} su propuesta ({{inboundWebhookRequest.dispositivo}}, {{inboundWebhookRequest.ciudad}}). {{inboundWebhookRequest.enlace}}`.
-   - Opcional: buscar o crear el contacto de la clínica y ponerle la etiqueta `propuesta-abierta` para verlo en tu pipeline.
+1. Aplicar la migración nueva en Supabase (desde `agencia-os`): `npm run db:migrate`. Crea la tabla `ProposalEvent`.
+2. Inventar un secreto largo (por ejemplo, `openssl rand -hex 32`) y ponerlo en Vercel:
+   - proyecto **agencia-os**: `PROPUESTAS_EVENTS_SECRET` = el secreto.
+   - proyecto **atlis-propuestas-clinicas-v2**: `AGENCIA_OS_EVENTS_SECRET` = el mismo secreto y `AGENCIA_OS_EVENTS_URL` = `https://<dominio de agencia-os>/api/propuestas/evento`.
+3. Volver a desplegar los dos proyectos para que lean las variables.
+4. Probar: abre cualquier propuesta **sin** `?yo`, haz scroll y mira Analítica → Propuestas.
 
-Datos que llegan con cada aviso: `slug`, `clinica`, `evento` (`abierta`, `leida`, `demo_pulsada`, `compartida`), `segundos` en la página, `dispositivo`, `ciudad`, `pais`, `enlace` y `fecha`.
+**GoHighLevel, opcional.** Si además quieres el aviso en GoHighLevel (por ejemplo, para un SMS o una etiqueta en el contacto): Automatización → Crear flujo de trabajo → disparador "Inbound Webhook", copia la URL y guárdala como `GHL_WEBHOOK_URL` en atlis-propuestas-clinicas-v2. Las variables del aviso son `{{inboundWebhookRequest.clinica}}`, `evento`, `dispositivo`, `ciudad` y `enlace`.
+
+Datos de cada aviso: `slug`, `clinica`, `evento` (`abierta`, `leida`, `demo_pulsada`, `compartida`), `segundos` en la página, `dispositivo`, `ciudad`, `pais`, `enlace` y `fecha`.
 
 ---
 
@@ -113,6 +114,7 @@ Datos que llegan con cada aviso: `slug`, `clinica`, `evento` (`abierta`, `leida`
 - `fichas/`: una ficha por clínica, más `_plantilla.json` y `ejemplo-deniz.json`.
 - `atlis-propuestas-clinicas-v2/public/plantilla.css`: estilos de la plantilla. Los colores son variables que salen de la ficha.
 - `atlis-propuestas-clinicas-v2/public/contacto.js`: tu contacto, común a todas las propuestas (WhatsApp, calendario, email).
-- `atlis-propuestas-clinicas-v2/api/visita.js`: recibe los avisos y los reenvía a GoHighLevel. Ignora escáneres de correo y vistas previas.
+- `atlis-propuestas-clinicas-v2/api/visita.js`: recibe los avisos y los reenvía a agencia-os (y a GoHighLevel si está configurado). Ignora escáneres de correo y vistas previas.
+- `agencia-os/app/api/propuestas/evento/route.ts`: guarda cada aviso y manda la notificación al móvil. La vista está en `agencia-os/components/analytics/proposals-view.tsx`.
 - **Código común:** `app.js`, `bespoke.js`, `client-view.js` y los CSS son idénticos en todas las carpetas. Si cambias uno, cópialo a todas; las nuevas los copian de `deniz/`.
 - **Las cinco primeras propuestas** (42-46) tienen su web diseñada a mano. Las nuevas usan la plantilla. Si una clínica merece un diseño distinto, se puede hacer a mano sobre la generada.

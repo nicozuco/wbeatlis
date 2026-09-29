@@ -561,3 +561,20 @@ model FormationDocument {
 
   @@index([lessonId, position])
 }
+
+// Visitas a las propuestas públicas (propuestas.atlisclinicas.com). Las envía
+// api/visita.js del proyecto de propuestas; slug = carpeta de la propuesta.
+model ProposalEvent {
+  id         String   @id @default(cuid())
+  slug       String
+  clinicName String
+  event      String
+  seconds    Int      @default(0)
+  device     String?
+  city       String?
+  country    String?
+  occurredAt DateTime @default(now())
+
+  @@index([slug, occurredAt])
+  @@index([occurredAt])
+}

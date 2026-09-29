@@ -1,6 +1,7 @@
 import { MRR_PHASE, isWonPhase, phaseLabels, pipelinePhases, type PipelinePhaseValue } from "./domain";
 import { isFollowUpOverdue, phaseAgeDays, salesPhases } from "./client-process";
 import { pipelineCounts } from "./metrics";
+import type { ProposalEventRow } from "./proposals";
 
 export type AnalyticsClient = {
   id: string; name: string; phase: PipelinePhaseValue; city: string | null; leadSource: string | null;
@@ -12,6 +13,7 @@ export type AnalyticsData = {
   finances: { type: "INCOME" | "EXPENSE"; amountCents: number; occurredAt: string }[];
   tasks: { status: string; createdAt: string; dueAt: string | null }[];
   content: { status: string; createdAt: string }[];
+  proposalEvents: ProposalEventRow[];
   now: string;
 };
 

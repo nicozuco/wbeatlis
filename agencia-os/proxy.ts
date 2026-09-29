@@ -7,7 +7,8 @@ export async function proxy(request: NextRequest) {
 }
 
 // Fuera del login: estáticos, el service worker y el manifiesto (el navegador los
-// pide sin sesión) y la ruta que llama pg_cron, que se protege con su propio secreto.
+// pide sin sesión), la ruta que llama pg_cron y la que recibe las visitas a las
+// propuestas; ambas se protegen con su propio secreto.
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|sw\\.js|manifest\\.webmanifest|api/reminders/dispatch|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)"],
+  matcher: ["/((?!_next/static|_next/image|favicon.ico|sw\\.js|manifest\\.webmanifest|api/reminders/dispatch|api/propuestas/evento|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)"],
 };

@@ -2,8 +2,9 @@
 
 import Link from "next/link";
 import { useMemo, useState, useSyncExternalStore } from "react";
-import { ArrowRight, BarChart3, Download, Filter, WalletCards } from "lucide-react";
+import { ArrowRight, BarChart3, Download, Filter, MousePointerClick, WalletCards } from "lucide-react";
 import { Bar, BarChart, CartesianGrid, Cell, Legend, Pie, PieChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import { ProposalsView } from "@/components/analytics/proposals-view";
 import { PageHeader } from "@/components/shared/page-header";
 import { KpiCard } from "@/components/shared/kpi-card";
 import { ViewToggle } from "@/components/shared/view-toggle";
@@ -45,8 +46,8 @@ function exportSources(rows: ReturnType<typeof commercialAnalytics>["sources"]) 
   const link = document.createElement("a"); link.href = url; link.download = "analitica-origenes.csv"; link.click(); URL.revokeObjectURL(url);
 }
 
-export function AnalyticsWorkspace({ data }: { data: AnalyticsData }) {
-  const [view, setView] = useState<"commercial" | "operations">("commercial");
+export function AnalyticsWorkspace({ data, initialView = "commercial" }: { data: AnalyticsData; initialView?: "commercial" | "operations" | "proposals" }) {
+  const [view, setView] = useState(initialView);
   const [period, setPeriod] = useState("all");
   const [source, setSource] = useState("ALL");
   const [city, setCity] = useState("ALL");
@@ -57,6 +58,7 @@ export function AnalyticsWorkspace({ data }: { data: AnalyticsData }) {
   const finances = financeAnalytics(data.finances.filter((entry) => inPeriod(entry.occurredAt, start, data.now)));
   const tasks = data.tasks.filter((task) => inPeriod(task.createdAt, start, data.now));
   const content = data.content.filter((item) => inPeriod(item.createdAt, start, data.now));
+  const proposalEvents = data.proposalEvents.filter((event) => inPeriod(event.occurredAt, start, data.now));
   const sources = [...new Set(data.clients.map((client) => client.leadSource ?? ""))].sort();
   const cities = [...new Set(data.clients.map((client) => client.city ?? ""))].sort();
   const closed = stats.contracted + stats.discarded;
@@ -66,15 +68,15 @@ export function AnalyticsWorkspace({ data }: { data: AnalyticsData }) {
   return <>
     <PageHeader title="Analítica" description="Datos de la agencia · Entiende qué funciona" actions={<Button variant="outline" asChild><Link href="/clientes">Abrir procesos <ArrowRight className="size-4" /></Link></Button>} />
     <div className="mt-7 flex flex-col justify-between gap-4 rounded-xl border border-border bg-surface p-4 lg:flex-row lg:items-center">
-      <ViewToggle value={view} onChange={setView} options={[{ value: "commercial", label: "Comercial", icon: BarChart3 }, { value: "operations", label: "Operaciones y finanzas", icon: WalletCards }]} />
+      <div className="-mx-1 max-w-full overflow-x-auto px-1 [&>div]:w-max"><ViewToggle value={view} onChange={setView} options={[{ value: "commercial", label: "Comercial", icon: BarChart3 }, { value: "operations", label: "Operaciones y finanzas", icon: WalletCards }, { value: "proposals", label: "Propuestas", icon: MousePointerClick }]} /></div>
       <div className="flex flex-wrap items-center gap-2"><Filter className="mr-1 hidden size-4 text-text-muted sm:block" />
         <select aria-label="Periodo de análisis" value={period} onChange={(event) => setPeriod(event.target.value)} className={`${fieldClass} max-w-full rounded-lg border px-3 text-sm`}><option value="all">Todo el historial</option><option value="30">Últimos 30 días</option><option value="90">Últimos 90 días</option><option value="365">Últimos 365 días</option></select>
         {view === "commercial" && <><select aria-label="Filtrar por origen" value={source} onChange={(event) => setSource(event.target.value)} className={`${fieldClass} max-w-full rounded-lg border px-3 text-sm`}><option value="ALL">Todos los orígenes</option>{sources.map((value) => <option key={value} value={value}>{value || "Sin origen"}</option>)}</select><select aria-label="Filtrar por ciudad" value={city} onChange={(event) => setCity(event.target.value)} className={`${fieldClass} max-w-full rounded-lg border px-3 text-sm`}><option value="ALL">Todas las ciudades</option>{cities.map((value) => <option key={value} value={value}>{value || "Sin ciudad"}</option>)}</select></>}
       </div>
     </div>
-    <p className="mt-3 text-xs leading-5 text-text-muted">{view === "commercial" ? `${clients.length} de ${data.clients.length} clínicas · El periodo selecciona clínicas por fecha de alta. Las conversiones incluyen su historial completo y las cuotas reflejan su estado actual.` : "Vista global de la agencia. Finanzas se filtra por fecha del movimiento; tareas y contenido, por fecha de creación. Los estados son los actuales."} Fechas en hora de Madrid.</p>
+    <p className="mt-3 text-xs leading-5 text-text-muted">{view === "proposals" ? "Visitas a las propuestas de propuestas.atlisclinicas.com. El periodo filtra por fecha de la visita." : view === "commercial" ? `${clients.length} de ${data.clients.length} clínicas · El periodo selecciona clínicas por fecha de alta. Las conversiones incluyen su historial completo y las cuotas reflejan su estado actual.` : "Vista global de la agencia. Finanzas se filtra por fecha del movimiento; tareas y contenido, por fecha de creación. Los estados son los actuales."} Fechas en hora de Madrid.</p>
 
-    {view === "commercial" ? <>
+    {view === "proposals" ? <ProposalsView events={proposalEvents} clients={data.clients} /> : view === "commercial" ? <>
       {clients.length === 0 && <div className="mt-5 rounded-xl border border-dashed border-border p-6 text-center"><p>No hay clínicas para esta selección.</p><p className="mt-2 text-sm text-text-muted">Amplía los filtros o añade una clínica para empezar a medir el proceso.</p></div>}
       <section aria-label="Indicadores comerciales" className="mt-5 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
         <KpiCard label="Tasa de respuesta" value={formatPercent(stats.responded, stats.contacted)} note={`${stats.responded} de ${stats.contacted} contactadas`} />

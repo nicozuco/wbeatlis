@@ -5,7 +5,8 @@ with expected(table_name) as (
     ('VaultItem'), ('Note'), ('Tag'), ('_NoteToTag'),
     ('MindMap'), ('MindMapNode'), ('MindMapEdge'),
     ('Reminder'), ('PushSubscription'), ('UserPreference'),
-    ('FormationCourse'), ('FormationLesson'), ('FormationSegment'), ('FormationDocument')
+    ('FormationCourse'), ('FormationLesson'), ('FormationSegment'), ('FormationDocument'),
+    ('ProposalEvent')
 ), security as (
   select
     e.table_name,
