@@ -75,7 +75,7 @@ a.client-rec-link{text-decoration:none}
 .client-offer h3{font:600 28px/1.2 Manrope,sans-serif;letter-spacing:-.035em;margin:18px 0 16px;color:#143e34}
 .client-offer ul{list-style:none;margin:0 0 22px;padding:0;display:grid;gap:10px}
 .client-offer li{position:relative;padding-left:28px;font-size:15px;line-height:1.5;color:#35584c}
-.client-offer li::before{content:"✓";position:absolute;left:0;top:0;width:19px;height:19px;border-radius:50%;background:color-mix(in srgb,var(--client-accent) 14%,#fff);color:var(--client-accent);font-size:12px;font-weight:700;display:grid;place-items:center}
+.client-offer li::before{content:"";position:absolute;left:0;top:1px;width:19px;height:19px;border-radius:50%;background:color-mix(in srgb,var(--client-accent) 14%,#fff)}.client-offer li::after{content:"";position:absolute;left:4px;top:5px;width:11px;height:11px;background:var(--client-accent);-webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='m5 12.5 4.5 4.5L19 7.5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/contain no-repeat;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='m5 12.5 4.5 4.5L19 7.5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/contain no-repeat}
 .client-offer .client-close-actions{margin-top:0!important;display:flex!important;flex-direction:column!important;align-items:stretch!important}
 .client-offer .client-close-primary{background:var(--client-accent)!important;border-color:var(--client-accent)!important;color:#fff!important;font-size:16px!important;min-height:62px!important;box-shadow:0 12px 28px color-mix(in srgb,var(--client-accent) 40%,transparent)}
 .client-offer .client-close-secondary{color:#143e34!important;border-color:#cfdcd6!important}
@@ -138,4 +138,12 @@ body.client-demo-visible .client-sticky{transform:translateY(140%)!important}
 .bespoke-window.is-open .bespoke-site{width:100%}
 body.client-site-open .demo-stage,body.client-site-open .client-demo,body.client-site-open #stage-content{overflow:visible!important}
 body.client-site-open .client-demo .demo-toolbar{position:static;box-shadow:none}.client-site-more.is-open{position:sticky;bottom:12px;margin:12px 0;box-shadow:0 10px 24px #00000026;z-index:4}
+}
+/* Título principal en móvil: más compacto y con la segunda frase en el color de la clínica */
+.client-hero-sub{color:var(--client-accent)}
+@media(max-width:600px){
+.client-hero h1{font-size:clamp(31px,8.4vw,36px)!important;line-height:1.1!important;letter-spacing:-.04em!important;text-wrap:pretty}
+.client-hero h1 br{display:none}
+.client-hero h1>span{display:block}
+.client-hero h1 .client-hero-sub{margin-top:.18em;font-weight:500}
 }
