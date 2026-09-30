@@ -193,4 +193,4 @@ body.client-view .client-demo .demo-toolbar{background:var(--tono-2)}
 @media(max-width:600px){#recorrido{padding-top:80px!important}.client-modes{padding-bottom:90px!important}}
 #demo{padding-bottom:36px;margin-bottom:0!important}#demo>*:last-child{margin-bottom:0!important}.client-modes{margin-top:0!important}
 /* Móvil: la web de referencia deja un margen mínimo a los lados para que se lea como vista previa. */
-@media(max-width:600px){.bespoke-window.is-open{border-radius:12px!important;border:1px solid #d5dfda!important;overflow:hidden;box-shadow:0 10px 30px -18px #0000004d!important}}
+@media(max-width:600px){.bespoke-window.is-open{border-radius:12px!important;border:2px solid #111!important;overflow:hidden;box-shadow:0 10px 30px -18px #0000004d!important}}
