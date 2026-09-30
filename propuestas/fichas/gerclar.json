@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "EXTRAMURS · GUILLEM DE CASTRO, 47",
-    "titulo": ["Una clínica con nombre de familia.", "Y una cita gratuita que merece reservarse sola."],
+    "titulo": [
+      "Una clínica con nombre de familia.",
+      "Y una cita gratuita que merece reservarse sola."
+    ],
     "intro": "Gerclar nació con los nombres de Germán y Clara, y hoy tiene 5 estrellas en Google. Ofrecéis una primera cita gratuita con diagnóstico y radiografías; proponemos que quien la pida la tenga reservada en el momento.",
     "hallazgos": [
       "El formulario «Pedir cita gratuita» de vuestra portada pide nombre, teléfono y email, pero no deja elegir día ni hora: la cita no queda reservada hasta que la clínica llama.",
@@ -62,33 +65,103 @@
     "equipoTitulo": "Germán y Clara.",
     "equipoTexto": "La clínica del Dr. Vicente Antonino nació casi a la vez que sus hijos, y lleva su nombre. Un proyecto personal, con especialistas en periodoncia y odontología digital.",
     "valores": [
-      ["Primera cita gratuita.", "Diagnóstico, ortopantomografía y radiografías."],
-      ["Odontología digital.", "Tecnología de vanguardia en cada tratamiento."],
-      ["Sin miedo al dentista.", "Sedación y una clínica pensada para relajarte."]
+      [
+        "Primera cita gratuita.",
+        "Diagnóstico, ortopantomografía y radiografías."
+      ],
+      [
+        "Odontología digital.",
+        "Tecnología de vanguardia en cada tratamiento."
+      ],
+      [
+        "Sin miedo al dentista.",
+        "Sedación y una clínica pensada para relajarte."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Diseñada para que",
     "galeriaDestacado": "olvides tus miedos.",
-    "pies": ["Guillem de Castro, 47 · Valencia", "Tecnología de vanguardia"],
-    "servicios": ["Estética dental", "Periodoncia", "Implantología y cirugía oral", "Ortodoncia", "Conservadora dental", "Sedación"],
+    "pies": [
+      "Guillem de Castro, 47 · Valencia",
+      "Tecnología de vanguardia"
+    ],
+    "servicios": [
+      "Estética dental",
+      "Periodoncia",
+      "Implantología y cirugía oral",
+      "Ortodoncia",
+      "Conservadora dental",
+      "Sedación"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Qué incluye la cita gratuita?", "Diagnóstico, ortopantomografía y radiografías periapicales."],
-      ["¿Tengo miedo al dentista, qué hago?", "Cuéntanoslo al reservar: ofrecemos sedación y vamos a tu ritmo."],
-      ["¿Qué horario tenéis?", "De lunes a jueves de 9:30 a 14:00 y de 15:30 a 19:00; los viernes de 9:30 a 17:30."]
+      [
+        "¿Qué incluye la cita gratuita?",
+        "Diagnóstico, ortopantomografía y radiografías periapicales."
+      ],
+      [
+        "¿Tengo miedo al dentista, qué hago?",
+        "Cuéntanoslo al reservar: ofrecemos sedación y vamos a tu ritmo."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:30 a 14:00 y de 15:30 a 19:00; los viernes de 9:30 a 17:30."
+      ]
     ],
     "contactoTitulo": "Pide tu cita gratuita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
-    "motivos": ["Primera cita gratuita", "Estética dental", "Periodoncia", "Implantes", "Ortodoncia"],
+    "motivos": [
+      "Primera cita gratuita",
+      "Estética dental",
+      "Periodoncia",
+      "Implantes",
+      "Ortodoncia"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "16:00", "17:30"],
-      "martes": ["10:00", "12:00", "15:30", "17:00", "18:30"],
-      "miercoles": ["9:30", "11:30", "13:30", "16:30", "18:00"],
-      "jueves": ["10:30", "12:30", "15:30", "17:30"],
-      "viernes": ["9:30", "11:00", "13:00", "15:30", "16:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:30",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "15:30",
+        "17:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "15:30",
+        "16:30"
+      ]
     },
-    "horario": ["Lunes a jueves: 9:30–14:00 y 15:30–19:00", "Viernes: 9:30–17:30"],
+    "horario": [
+      "Lunes a jueves: 9:30–14:00 y 15:30–19:00",
+      "Viernes: 9:30–17:30"
+    ],
     "pieMarca": "Odontología integral en Extramurs",
-    "notaDiseno": "Clínica familiar del Dr. Antonino: tonos cálidos, el equipo en primer plano y la cita gratuita reservable al momento."
+    "notaDiseno": "Clínica familiar del Dr. Antonino: tonos cálidos, el equipo en primer plano y la cita gratuita reservable al momento.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 133
+    }
   }
 }

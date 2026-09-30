@@ -23,7 +23,10 @@
   },
   "propuesta": {
     "etiqueta": "JERÓNIMA GALÉS, 60 · VALENCIA",
-    "titulo": ["«Pide cita online», dice el botón.", "Hagamos que funcione."],
+    "titulo": [
+      "«Pide cita online», dice el botón.",
+      "Hagamos que funcione."
+    ],
     "intro": "Una clínica familiar con especialistas en todas las ramas, financiación fácil y atención también en inglés. Proponemos que el botón de cita de vuestra web reserve de verdad, y que WhatsApp confirme al momento.",
     "hallazgos": [
       "El botón «Pide cita online» de la portada no lleva a ninguna parte: su enlace está vacío. Y la página de contacto pide enviar un WhatsApp con el nombre y la fecha preferida, y promete responder «lo antes posible para confirmar».",
@@ -60,29 +63,93 @@
     "equipoTitulo": "Una clínica familiar, amable y segura.",
     "equipoTexto": "Especializada en ortodoncia e implantología, con escáner intraoral y una odontología de calidad y asequible que busca minimizar el estrés de cada visita.",
     "valores": [
-      ["Especialistas exclusivos.", "En todas las ramas de la odontología."],
-      ["Financiación fácil.", "Organiza tu tratamiento sin complicaciones."],
-      ["We speak English.", "Atención también en inglés."]
+      [
+        "Especialistas exclusivos.",
+        "En todas las ramas de la odontología."
+      ],
+      [
+        "Financiación fácil.",
+        "Organiza tu tratamiento sin complicaciones."
+      ],
+      [
+        "We speak English.",
+        "Atención también en inglés."
+      ]
     ],
-    "servicios": ["Ortodoncia", "Implantología", "Estética dental", "Odontopediatría", "Endodoncia y periodoncia", "Férula dental"],
+    "servicios": [
+      "Ortodoncia",
+      "Implantología",
+      "Estética dental",
+      "Odontopediatría",
+      "Endodoncia y periodoncia",
+      "Férula dental"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Abrís los sábados?", "Abrimos un sábado al mes con cita previa."],
-      ["Do you speak English?", "Yes! We can help you in English."],
-      ["¿Qué horario tenéis?", "Lunes, miércoles y jueves de 10:00 a 14:00 y de 16:00 a 20:00; martes y viernes de 10:00 a 14:00."]
+      [
+        "¿Abrís los sábados?",
+        "Abrimos un sábado al mes con cita previa."
+      ],
+      [
+        "Do you speak English?",
+        "Yes! We can help you in English."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "Lunes, miércoles y jueves de 10:00 a 14:00 y de 16:00 a 20:00; martes y viernes de 10:00 a 14:00."
+      ]
     ],
     "contactoTitulo": "¿Quieres pedir una cita?",
     "contactoTexto": "Elige el motivo, el día y la hora y queda confirmada al momento, sin esperar respuesta.",
-    "motivos": ["1ª visita", "Ortodoncia", "Higiene dental", "Revisión", "Implantología"],
+    "motivos": [
+      "1ª visita",
+      "Ortodoncia",
+      "Higiene dental",
+      "Revisión",
+      "Implantología"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
-      "martes": ["10:00", "11:30", "13:00"],
-      "miercoles": ["10:30", "12:00", "16:00", "17:30", "19:00"],
-      "jueves": ["10:00", "12:30", "16:30", "18:00"],
-      "viernes": ["10:00", "11:00", "12:30"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ],
+      "miercoles": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:00",
+        "12:30"
+      ]
     },
-    "horario": ["Lunes, miércoles y jueves: 10:00–14:00 y 16:00–20:00", "Martes y viernes: 10:00–14:00", "Un sábado al mes, con cita previa"],
+    "horario": [
+      "Lunes, miércoles y jueves: 10:00–14:00 y 16:00–20:00",
+      "Martes y viernes: 10:00–14:00",
+      "Un sábado al mes, con cita previa"
+    ],
     "pieMarca": "Clínica dental en Valencia",
-    "notaDiseno": "Clínica del Dr. Zaragozá: rosa de su marca, espacio luminoso y un botón de cita que por fin reserva."
+    "notaDiseno": "Clínica del Dr. Zaragozá: rosa de su marca, espacio luminoso y un botón de cita que por fin reserva.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 114
+    }
   }
 }

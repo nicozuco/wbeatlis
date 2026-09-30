@@ -153,6 +153,10 @@
     },
     "horario": [],
     "pieMarca": "Odontología biológica y neurofocal en Valencia",
-    "notaDiseno": "Clínica de la Dra. Serrano: el cobre de su marca, espacios cálidos y una petición de cita que por fin se confirma sola."
+    "notaDiseno": "Clínica de la Dra. Serrano: el cobre de su marca, espacios cálidos y una petición de cita que por fin se confirma sola.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 81
+    }
   }
 }

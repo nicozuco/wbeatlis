@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "CALLE CARTEROS, 64 · VALENCIA",
-    "titulo": ["«Primera visita gratuita, ¡llámanos!»", "Que no haga falta llamar."],
+    "titulo": [
+      "«Primera visita gratuita, ¡llámanos!»",
+      "Que no haga falta llamar."
+    ],
     "intro": "Una clínica fundada por la Dra. Esther Lozano en 2012, con todas las especialidades y horario hasta las 21:00. Proponemos que la primera valoración gratuita se reserve en el momento, sin depender del teléfono.",
     "hallazgos": [
       "El email que publicáis, midentista@midentista.com, usa el dominio midentista.com, que no es el de vuestra web: hoy lleva a la página de otra empresa (rdaschool.com) y no tiene el correo configurado. Lo normal es que esos mensajes os reboten.",
@@ -63,33 +66,102 @@
     "equipoTitulo": "Un equipo multidisciplinar.",
     "equipoTexto": "Ortodoncistas, prostodoncistas y odontopediatras con los equipos tecnológicos más avanzados, como el escáner iTero para ver el resultado de tu ortodoncia desde la primera visita.",
     "valores": [
-      ["Primera visita gratuita.", "Una valoración sin compromiso con la Dra. Lozano."],
-      ["Tecnología avanzada.", "Escáner iTero y endodoncia con microscopio."],
-      ["Para los peques.", "Odontopediatría para que venir sea divertido."]
+      [
+        "Primera visita gratuita.",
+        "Una valoración sin compromiso con la Dra. Lozano."
+      ],
+      [
+        "Tecnología avanzada.",
+        "Escáner iTero y endodoncia con microscopio."
+      ],
+      [
+        "Para los peques.",
+        "Odontopediatría para que venir sea divertido."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Estamos contigo.",
     "galeriaDestacado": "Desde el primer contacto.",
-    "pies": ["El equipo de MiDentista", "Tecnología en tu dentista en Valencia"],
-    "servicios": ["Ortodoncia invisible Invisalign", "Implantología avanzada", "Estética dental", "Odontopediatría", "Periodoncia y endodoncia", "Sedación y anestesia"],
+    "pies": [
+      "El equipo de MiDentista",
+      "Tecnología en tu dentista en Valencia"
+    ],
+    "servicios": [
+      "Ortodoncia invisible Invisalign",
+      "Implantología avanzada",
+      "Estética dental",
+      "Odontopediatría",
+      "Periodoncia y endodoncia",
+      "Sedación y anestesia"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿La primera visita es gratuita?", "Sí, y sin compromiso: una primera valoración con la Dra. Esther Lozano o su equipo."],
-      ["¿Puedo ver el resultado de mi ortodoncia antes de empezar?", "Sí. Con el escáner iTero te lo enseñamos en la primera visita."],
-      ["¿Dónde estáis?", "En la calle Carteros, 64, 46017 Valencia."]
+      [
+        "¿La primera visita es gratuita?",
+        "Sí, y sin compromiso: una primera valoración con la Dra. Esther Lozano o su equipo."
+      ],
+      [
+        "¿Puedo ver el resultado de mi ortodoncia antes de empezar?",
+        "Sí. Con el escáner iTero te lo enseñamos en la primera visita."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle Carteros, 64, 46017 Valencia."
+      ]
     ],
     "contactoTitulo": "Pide tu cita gratis.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamar.",
-    "motivos": ["Primera visita gratuita", "Ortodoncia invisible", "Implantes", "Estética dental", "Odontopediatría"],
+    "motivos": [
+      "Primera visita gratuita",
+      "Ortodoncia invisible",
+      "Implantes",
+      "Estética dental",
+      "Odontopediatría"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "17:00", "19:30"],
-      "martes": ["10:00", "12:00", "16:30", "18:30", "20:00"],
-      "miercoles": ["9:00", "11:30", "15:30", "17:30", "19:00"],
-      "jueves": ["10:30", "12:30", "16:00", "18:00", "20:00"],
-      "viernes": ["9:30", "11:00", "12:30", "14:00"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "17:00",
+        "19:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:30",
+        "18:30",
+        "20:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "15:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00",
+        "20:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
     },
-    "horario": ["Lunes a viernes: 9:00–21:00"],
+    "horario": [
+      "Lunes a viernes: 9:00–21:00"
+    ],
     "pieMarca": "Tu dentista en Valencia desde 2012",
-    "notaDiseno": "Marca personal de la Dra. Esther Lozano: su retrato, el equipo y una primera visita gratuita que se reserva sin llamar."
+    "notaDiseno": "Marca personal de la Dra. Esther Lozano: su retrato, el equipo y una primera visita gratuita que se reserva sin llamar.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 152
+    }
   }
 }

@@ -157,6 +157,10 @@
       "Viernes: 10:00–14:00"
     ],
     "pieMarca": "Odontología digital en Ruzafa",
-    "notaDiseno": "Clínica del Dr. Cots en Ruzafa: su retrato, instalaciones amplias y odontología digital, con la cita reservada sin llamar."
+    "notaDiseno": "Clínica del Dr. Cots en Ruzafa: su retrato, instalaciones amplias y odontología digital, con la cita reservada sin llamar.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 275
+    }
   }
 }

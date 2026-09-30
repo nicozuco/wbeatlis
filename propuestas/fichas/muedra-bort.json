@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "CALLE FUENCALIENTE, 10 · VALENCIA",
-    "titulo": ["Ya tenéis cita online. Vais por delante.", "Falta quien prefiere escribir."],
+    "titulo": [
+      "Ya tenéis cita online. Vais por delante.",
+      "Falta quien prefiere escribir."
+    ],
     "intro": "Una clínica cercana y sin prisas, dirigida por la Dra. Paula Muedra, con más de 15 años de experiencia. Vuestro botón «Pide tu cita online» ya reserva; proponemos sumar el canal por el que más escriben hoy los pacientes: WhatsApp.",
     "hallazgos": [
       "Vuestra web no ofrece WhatsApp: el móvil 722 499 117 aparece solo como número. Quien quiere preguntar algo antes de reservar, o mover o cancelar su cita, tiene que llamar en horario.",
@@ -62,33 +65,99 @@
     "equipoTitulo": "Cercana, honesta y personalizada.",
     "equipoTexto": "La clínica nació con la ilusión de entender la odontología de otra forma: que cada persona se sienta escuchada, comprendida y acompañada en todo momento.",
     "valores": [
-      ["Sin prisas.", "Un trato humano y cercano en cada visita."],
-      ["Especialistas.", "Implantes, ortodoncia invisible, endodoncia microscópica y más."],
-      ["Tecnología de última generación.", "Para diagnósticos precisos."]
+      [
+        "Sin prisas.",
+        "Un trato humano y cercano en cada visita."
+      ],
+      [
+        "Especialistas.",
+        "Implantes, ortodoncia invisible, endodoncia microscópica y más."
+      ],
+      [
+        "Tecnología de última generación.",
+        "Para diagnósticos precisos."
+      ]
     ],
     "galeriaEtiqueta": "NUESTRA GALERÍA",
     "galeriaTitulo": "Un espacio donde",
     "galeriaDestacado": "sentirte en buenas manos.",
-    "pies": ["C/ Fuencaliente, 10 · Valencia", "Clínica Muedra Bort"],
-    "servicios": ["Implantes dentales", "Ortodoncia invisible", "Rehabilitación dental completa", "Estética y blanqueamiento", "Endodoncia microscópica", "Odontopediatría"],
+    "pies": [
+      "C/ Fuencaliente, 10 · Valencia",
+      "Clínica Muedra Bort"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Rehabilitación dental completa",
+      "Estética y blanqueamiento",
+      "Endodoncia microscópica",
+      "Odontopediatría"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Puedo cambiar mi cita por WhatsApp?", "Sí. Escríbenos y la cambiamos o cancelamos en la misma conversación, a cualquier hora."],
-      ["¿Atendéis a niños?", "Sí. Tenemos odontopediatría."],
-      ["¿Dónde estáis?", "En la calle Fuencaliente, 10, 46023 Valencia."]
+      [
+        "¿Puedo cambiar mi cita por WhatsApp?",
+        "Sí. Escríbenos y la cambiamos o cancelamos en la misma conversación, a cualquier hora."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tenemos odontopediatría."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle Fuencaliente, 10, 46023 Valencia."
+      ]
     ],
     "contactoTitulo": "Reserva tu cita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada. Si prefieres escribir, el asistente de WhatsApp lo hace por ti.",
-    "motivos": ["Primera visita", "Revisión", "Implantes", "Ortodoncia invisible", "Cambiar o cancelar mi cita"],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Cambiar o cancelar mi cita"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "16:30", "18:30"],
-      "martes": ["10:00", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["9:30", "11:30", "13:00", "17:00", "19:00"],
-      "jueves": ["10:30", "12:30", "16:00", "18:00"],
-      "viernes": ["9:30", "11:00", "12:30", "13:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:30",
+        "13:00",
+        "17:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "13:30"
+      ]
     },
     "horario": [],
     "pieMarca": "Tu clínica dental de confianza en Valencia",
-    "notaDiseno": "Clínica de la Dra. Paula Muedra: tonos neutros de su marca, el equipo en primer plano y WhatsApp sumado a su cita online."
+    "notaDiseno": "Clínica de la Dra. Paula Muedra: tonos neutros de su marca, el equipo en primer plano y WhatsApp sumado a su cita online.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 123
+    }
   }
 }

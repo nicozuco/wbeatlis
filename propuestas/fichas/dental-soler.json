@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "DESDE 1982 · AVENIDA REINO DE VALENCIA",
-    "titulo": ["Más de 40 años en el Ensanche.", "Que la cita no dependa de «te llamamos»."],
+    "titulo": [
+      "Más de 40 años en el Ensanche.",
+      "Que la cita no dependa de «te llamamos»."
+    ],
     "intro": "Una clínica con historia, dirigida por la Dra. Inmaculada Soler, con instalaciones renovadas y aparatología digital. Proponemos que el paciente elija su hueco y la cita quede reservada en el momento, sin esperar la llamada.",
     "hallazgos": [
       "Vuestra web ofrece dos formularios, «Pide cita» y «Te llamamos», y ninguno reserva: el paciente deja sus datos y espera. Además, la portada dice que abrís «de lunes a viernes de 10-14h y de 16-20h», mientras que en contacto pone que el viernes cerráis a las 14:00.",
@@ -62,33 +65,102 @@
     "equipoTitulo": "Una clínica con historia.",
     "equipoTexto": "Dirigida por la Dra. Inmaculada Soler, con especialistas en ortodoncia, odontopediatría, implantología y endodoncia, y miembros de sociedades como la AAO y la AEDE.",
     "valores": [
-      ["Experiencia.", "Desde 1982 cuidando sonrisas en Valencia."],
-      ["Tecnología digital.", "Instalaciones renovadas y aparatología de última generación."],
-      ["Toda la familia.", "Odontopediatría, ortodoncia y diseño de sonrisa."]
+      [
+        "Experiencia.",
+        "Desde 1982 cuidando sonrisas en Valencia."
+      ],
+      [
+        "Tecnología digital.",
+        "Instalaciones renovadas y aparatología de última generación."
+      ],
+      [
+        "Toda la familia.",
+        "Odontopediatría, ortodoncia y diseño de sonrisa."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Moderna y vanguardista.",
     "galeriaDestacado": "Con el trato de siempre.",
-    "pies": ["Clínica Dental Soler · Valencia", "Instalaciones renovadas"],
-    "servicios": ["Ortodoncia e invisible", "Odontopediatría", "Diseño de sonrisa", "Implantes dentales", "Endodoncia", "Periodoncia"],
+    "pies": [
+      "Clínica Dental Soler · Valencia",
+      "Instalaciones renovadas"
+    ],
+    "servicios": [
+      "Ortodoncia e invisible",
+      "Odontopediatría",
+      "Diseño de sonrisa",
+      "Implantes dentales",
+      "Endodoncia",
+      "Periodoncia"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Atendéis a niños?", "Sí. Tenemos odontopediatría y ortodoncia infantil."],
-      ["¿Qué horario tenéis?", "De lunes a jueves de 10:00 a 14:00 y de 16:00 a 20:00; los viernes de 10:00 a 14:00."],
-      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos y la dejamos reservada en la misma conversación."]
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tenemos odontopediatría y ortodoncia infantil."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 16:00 a 20:00; los viernes de 10:00 a 14:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
     ],
     "contactoTitulo": "Pide tu cita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar a que te llamemos.",
-    "motivos": ["Primera visita", "Ortodoncia", "Odontopediatría", "Implantes", "Estética dental"],
+    "motivos": [
+      "Primera visita",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Implantes",
+      "Estética dental"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
-      "martes": ["10:30", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
-      "jueves": ["11:00", "12:30", "16:00", "17:30", "19:00"],
-      "viernes": ["10:00", "11:00", "12:00", "13:00"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00"
+      ]
     },
-    "horario": ["Lunes a jueves: 10:00–14:00 y 16:00–20:00", "Viernes: 10:00–14:00"],
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 16:00–20:00",
+      "Viernes: 10:00–14:00"
+    ],
     "pieMarca": "Dentistas en el centro de Valencia desde 1982",
-    "notaDiseno": "Clínica con historia desde 1982: azul noche y dorado, equipo en primer plano y una cita que no espera la llamada."
+    "notaDiseno": "Clínica con historia desde 1982: azul noche y dorado, equipo en primer plano y una cita que no espera la llamada.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 116
+    }
   }
 }

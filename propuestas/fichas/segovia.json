@@ -154,6 +154,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en el centro de Valencia",
-    "notaDiseno": "Tres generaciones: marrón y dorado de su marca, el equipo en las nuevas instalaciones y la cita reservable en un minuto."
+    "notaDiseno": "Tres generaciones: marrón y dorado de su marca, el equipo en las nuevas instalaciones y la cita reservable en un minuto.",
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 37
+    }
   }
 }

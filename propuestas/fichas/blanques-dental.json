@@ -153,6 +153,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Tavernes Blanques",
-    "notaDiseno": "De «Próximamente» a una web real: blanco y turquesa, sus instalaciones nuevas y la cita reservable desde el primer día."
+    "notaDiseno": "De «Próximamente» a una web real: blanco y turquesa, sus instalaciones nuevas y la cita reservable desde el primer día.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 61
+    }
   }
 }

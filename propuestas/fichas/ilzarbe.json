@@ -156,6 +156,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Valencia desde 1982",
-    "notaDiseno": "Clínica familiar con dos sedes: historia desde 1982, equipo en primer plano y una única entrada para reservar en cualquiera de las dos."
+    "notaDiseno": "Clínica familiar con dos sedes: historia desde 1982, equipo en primer plano y una única entrada para reservar en cualquiera de las dos.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 338
+    }
   }
 }

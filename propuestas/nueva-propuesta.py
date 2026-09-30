@@ -189,7 +189,7 @@ def main():
     index = re.sub(r'<title>.*?</title>', f'<title>Una propuesta para {nombre} · Atlis</title>', index)
     index = index.replace('data-clinic="46"', f'data-clinic="{num}"')
     index = index.replace('<link rel="stylesheet" href="client-view.css',
-                          '<link rel="stylesheet" href="../plantilla.css?v=3"><link rel="stylesheet" href="client-view.css')
+                          '<link rel="stylesheet" href="../plantilla.css?v=4"><link rel="stylesheet" href="client-view.css')
     (destino / 'index.html').write_text(index, encoding='utf-8')
 
     urls_path = RAIZ / 'urls-publicas.json'

@@ -149,6 +149,10 @@
       "Lunes a viernes: 10:00–19:00"
     ],
     "pieMarca": "Tu dentista en Valencia para toda la vida",
-    "notaDiseno": "Marca personal de la Dra. Marta Paradís: tonos cálidos, su retrato y el equipo, con reserva en el idioma del paciente."
+    "notaDiseno": "Marca personal de la Dra. Marta Paradís: tonos cálidos, su retrato y el equipo, con reserva en el idioma del paciente.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 223
+    }
   }
 }

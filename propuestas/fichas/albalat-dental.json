@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "VALENCIA Y PUERTO DE SAGUNTO · CIRILO AMORÓS, 21",
-    "titulo": ["Más de 67 años cuidando generaciones.", "Una primera valoración que se reserve sola."],
+    "titulo": [
+      "Más de 67 años cuidando generaciones.",
+      "Una primera valoración que se reserve sola."
+    ],
     "intro": "Dos clínicas, en Valencia y en Puerto de Sagunto, con Invisalign, implantes y periodoncia. Proponemos que el paciente elija clínica, día y hora de su primera valoración y la tenga reservada en el momento.",
     "hallazgos": [
       "Vuestra página «Solicita tu primera valoración» es un formulario que termina en «nuestro equipo se pondrá en contacto contigo» y «respuesta lo antes posible»: el paciente se va sin cita.",
@@ -62,33 +65,99 @@
     "equipoTitulo": "La experiencia de siempre, la odontología más avanzada.",
     "equipoTexto": "Un equipo familiar con los doctores Javier, Salvador y Fernando Albalat, especializado en implantología, Invisalign, estética dental y periodoncia.",
     "valores": [
-      ["Diagnóstico personalizado.", "Cada paciente es diferente."],
-      ["Sin compromiso.", "La primera valoración es informativa."],
-      ["Financiación.", "Opciones para organizar tu tratamiento."]
+      [
+        "Diagnóstico personalizado.",
+        "Cada paciente es diferente."
+      ],
+      [
+        "Sin compromiso.",
+        "La primera valoración es informativa."
+      ],
+      [
+        "Financiación.",
+        "Opciones para organizar tu tratamiento."
+      ]
     ],
     "galeriaEtiqueta": "NUESTRO EQUIPO",
     "galeriaTitulo": "La confianza de nuestros pacientes",
     "galeriaDestacado": "es nuestro mayor aval.",
-    "pies": ["El equipo de Albalat Dental", "Revisión dental en la clínica"],
-    "servicios": ["Invisalign", "Implantes dentales", "Periodoncia", "Estética dental", "Ortodoncia", "Odontopediatría"],
+    "pies": [
+      "El equipo de Albalat Dental",
+      "Revisión dental en la clínica"
+    ],
+    "servicios": [
+      "Invisalign",
+      "Implantes dentales",
+      "Periodoncia",
+      "Estética dental",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
     "faqTitulo": "Preguntas frecuentes.",
     "faq": [
-      ["¿La primera visita es informativa?", "Sí. Es una valoración personalizada y sin compromiso."],
-      ["¿En qué clínica me atendéis?", "En Valencia (Cirilo Amorós, 21) o en Puerto de Sagunto: elígela al reservar."],
-      ["¿Tratáis a niños y adultos?", "Sí. Atendemos a toda la familia."]
+      [
+        "¿La primera visita es informativa?",
+        "Sí. Es una valoración personalizada y sin compromiso."
+      ],
+      [
+        "¿En qué clínica me atendéis?",
+        "En Valencia (Cirilo Amorós, 21) o en Puerto de Sagunto: elígela al reservar."
+      ],
+      [
+        "¿Tratáis a niños y adultos?",
+        "Sí. Atendemos a toda la familia."
+      ]
     ],
     "contactoTitulo": "Solicita tu valoración.",
     "contactoTexto": "Elige clínica, motivo, día y hora y queda reservada al momento.",
-    "motivos": ["Primera valoración · Valencia", "Primera valoración · Puerto de Sagunto", "Invisalign", "Implantes", "Periodoncia"],
+    "motivos": [
+      "Primera valoración · Valencia",
+      "Primera valoración · Puerto de Sagunto",
+      "Invisalign",
+      "Implantes",
+      "Periodoncia"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "16:30", "18:30"],
-      "martes": ["10:00", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["9:30", "11:30", "13:00", "17:00", "19:00"],
-      "jueves": ["10:30", "12:30", "16:00", "18:00"],
-      "viernes": ["9:30", "11:00", "12:30", "14:00"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:30",
+        "13:00",
+        "17:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
     },
     "horario": [],
     "pieMarca": "Clínicas dentales en Valencia y Puerto de Sagunto",
-    "notaDiseno": "Clínica familiar con dos sedes: naranja de su marca, fachada y equipo, y una valoración reservable por clínica."
+    "notaDiseno": "Clínica familiar con dos sedes: naranja de su marca, fachada y equipo, y una valoración reservable por clínica.",
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 118
+    }
   }
 }

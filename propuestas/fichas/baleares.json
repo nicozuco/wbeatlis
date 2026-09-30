@@ -58,7 +58,7 @@
     "nota": "En la avenida de Baleares, junto al puerto.",
     "fotoEtiqueta": "DRA. KARINA MURADYAN",
     "fotoTitulo": "Nuestro equipo.",
-    "cifra": "11",
+    "cifra": "",
     "cifraEtiqueta": "PROFESIONALES A TU SERVICIO",
     "equipoTitulo": "Un especialista para cada tratamiento.",
     "equipoTexto": "Odontólogas, odontopediatras, cirujana, ortodoncista e higienistas trabajando juntas en la avenida de Baleares, con experiencia en implantes, endodoncia y sedación infantil.",
@@ -147,6 +147,10 @@
       "Lunes a viernes: 10:00–13:30 y 16:00–20:00"
     ],
     "pieMarca": "Centro odontológico en Valencia",
-    "notaDiseno": "El azul de su marca, su equipo en primer plano y una reserva online que enseña la agenda real."
+    "notaDiseno": "El azul de su marca, su equipo en primer plano y una reserva online que enseña la agenda real.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 27
+    }
   }
 }

@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "ESTÉTICA DENTAL · GRAN VÍA MARQUÉS DEL TURIA",
-    "titulo": ["Diseñáis sonrisas con todo detalle.", "La primera cita puede estar a su altura."],
+    "titulo": [
+      "Diseñáis sonrisas con todo detalle.",
+      "La primera cita puede estar a su altura."
+    ],
     "intro": "Una clínica cuidada hasta el último detalle, dirigida por la Dra. Lucía Gil. Proponemos que pedir cita sea igual de cuidado: ver los huecos libres y dejar la visita reservada al momento, también cuando la clínica está cerrada.",
     "hallazgos": [
       "Vuestro formulario «Reserva tu cita online» pide un día y una franja (mañana o tarde), pero no enseña huecos libres: la cita no queda reservada hasta que la clínica llama para confirmarla.",
@@ -62,33 +65,102 @@
     "equipoTitulo": "Salud, estética y bienestar en un mismo plan.",
     "equipoTexto": "Un equipo de especialistas en estética dental, ortodoncia, implantología, periodoncia y odontopediatría, bajo la dirección de la Dra. Lucía Gil.",
     "valores": [
-      ["Atención personalizada.", "Cada paciente, con su tiempo y su plan."],
-      ["Todo en una clínica.", "Especialistas de cada área para tratamientos integrales."],
-      ["Pago a tu medida.", "Opciones de financiación y cobertura de seguros dentales."]
+      [
+        "Atención personalizada.",
+        "Cada paciente, con su tiempo y su plan."
+      ],
+      [
+        "Todo en una clínica.",
+        "Especialistas de cada área para tratamientos integrales."
+      ],
+      [
+        "Pago a tu medida.",
+        "Opciones de financiación y cobertura de seguros dentales."
+      ]
     ],
     "galeriaEtiqueta": "ASÍ ES NUESTRA CLÍNICA",
     "galeriaTitulo": "Un espacio acogedor.",
     "galeriaDestacado": "Cuidado hasta el último detalle.",
-    "pies": ["Recepción · Gran Vía Marqués del Turia, 40", "Un lugar para sentirte a gusto"],
-    "servicios": ["Diseño de sonrisa y carillas", "Ortodoncia invisible", "Implantología", "Blanqueamiento dental", "Periodoncia", "Odontopediatría"],
+    "pies": [
+      "Recepción · Gran Vía Marqués del Turia, 40",
+      "Un lugar para sentirte a gusto"
+    ],
+    "servicios": [
+      "Diseño de sonrisa y carillas",
+      "Ortodoncia invisible",
+      "Implantología",
+      "Blanqueamiento dental",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
     "faqTitulo": "Antes de tu primera visita.",
     "faq": [
-      ["¿Puedo elegir el horario?", "Sí. Ves los huecos libres de mañana y de tarde y reservas el que mejor te venga."],
-      ["¿Trabajáis con seguros dentales?", "Sí. La clínica tiene cobertura con seguros dentales y opciones de pago a medida."],
-      ["¿Dónde estáis?", "En la Gran Vía Marqués del Turia, 40, 46005 Valencia."]
+      [
+        "¿Puedo elegir el horario?",
+        "Sí. Ves los huecos libres de mañana y de tarde y reservas el que mejor te venga."
+      ],
+      [
+        "¿Trabajáis con seguros dentales?",
+        "Sí. La clínica tiene cobertura con seguros dentales y opciones de pago a medida."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Gran Vía Marqués del Turia, 40, 46005 Valencia."
+      ]
     ],
     "contactoTitulo": "Reserva tu cita.",
     "contactoTexto": "Elige el tratamiento, el día y la hora y queda reservada. Si prefieres hablar con nosotros, llámanos al 96 333 12 88.",
-    "motivos": ["Primera visita o revisión", "Estética dental y carillas", "Ortodoncia invisible", "Implantes dentales", "Odontopediatría"],
+    "motivos": [
+      "Primera visita o revisión",
+      "Estética dental y carillas",
+      "Ortodoncia invisible",
+      "Implantes dentales",
+      "Odontopediatría"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:00", "18:30"],
-      "martes": ["10:30", "12:00", "15:30", "17:00", "19:00"],
-      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
-      "jueves": ["11:00", "12:30", "15:00", "17:30", "19:00"],
-      "viernes": ["10:00", "11:30", "13:00", "16:00", "17:30"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "15:30",
+        "17:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ]
     },
-    "horario": ["Lunes a viernes: 10:00–14:00 y 15:00–20:00"],
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 15:00–20:00"
+    ],
     "pieMarca": "Estética dental y diseño de sonrisa · Valencia",
-    "notaDiseno": "Marca personal de la Dra. Lucía Gil: tonos rosa y oliva, interiores cálidos y una cita que se reserva al momento."
+    "notaDiseno": "Marca personal de la Dra. Lucía Gil: tonos rosa y oliva, interiores cálidos y una cita que se reserva al momento.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 491
+    }
   }
 }

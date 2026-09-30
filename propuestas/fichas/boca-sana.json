@@ -161,6 +161,10 @@
       "Jueves y sábado: 9:00–13:00"
     ],
     "pieMarca": "Clínica dental en Patraix",
-    "notaDiseno": "Clínica de Patraix: el verde de su marca, la Dra. Pérez Manrique en primer plano y una reserva que se confirma sola."
+    "notaDiseno": "Clínica de Patraix: el verde de su marca, la Dra. Pérez Manrique en primer plano y una reserva que se confirma sola.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 56
+    }
   }
 }

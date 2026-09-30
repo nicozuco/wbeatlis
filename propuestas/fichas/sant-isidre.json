@@ -149,6 +149,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Sant Isidre",
-    "notaDiseno": "Clínica familiar de barrio: el verde salvia de su web, espacios luminosos y la cita reservable por WhatsApp."
+    "notaDiseno": "Clínica familiar de barrio: el verde salvia de su web, espacios luminosos y la cita reservable por WhatsApp.",
+    "valoracion": {
+      "nota": "4,1",
+      "resenas": 20
+    }
   }
 }

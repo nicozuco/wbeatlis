@@ -23,7 +23,10 @@
   },
   "propuesta": {
     "etiqueta": "DESDE 1992 · DON JUAN DE AUSTRIA, 38",
-    "titulo": ["El correo de vuestra web no llega.", "Que la cita no dependa de él."],
+    "titulo": [
+      "El correo de vuestra web no llega.",
+      "Que la cita no dependa de él."
+    ],
     "intro": "Más de 30 años junto a Pintor Sorolla, con cinco dentistas especialistas coordinados por el Dr. Borrás. Proponemos que el paciente reserve su cita en el momento, por WhatsApp o desde la web, sin depender del correo ni del teléfono.",
     "hallazgos": [
       "En la portada y en la página de contacto de vuestra web aparece el correo info@clinicadentaldja.com, pero el dominio clinicadentaldja.com no existe: los correos que os escriben ahí no llegan.",
@@ -60,29 +63,95 @@
     "equipoTitulo": "Un especialista para cada tratamiento.",
     "equipoTexto": "Cinco dentistas con formación de postgrado en ortodoncia, periodoncia, endodoncia, cirugía e implantología, coordinados por el Dr. Carlos Borrás Aviñó, junto a un equipo de higienistas y auxiliares.",
     "valores": [
-      ["Especialistas.", "Formación de postgrado en cada campo."],
-      ["En el centro.", "Metro de Colón y numerosas líneas de EMT."],
-      ["Más de 30 años.", "Desde 1992, en el n.º 38 desde 2009."]
+      [
+        "Especialistas.",
+        "Formación de postgrado en cada campo."
+      ],
+      [
+        "En el centro.",
+        "Metro de Colón y numerosas líneas de EMT."
+      ],
+      [
+        "Más de 30 años.",
+        "Desde 1992, en el n.º 38 desde 2009."
+      ]
     ],
-    "servicios": ["Odontología conservadora", "Estética dental", "Ortodoncia", "Periodoncia", "Endodoncia", "Cirugía e implantología"],
+    "servicios": [
+      "Odontología conservadora",
+      "Estética dental",
+      "Ortodoncia",
+      "Periodoncia",
+      "Endodoncia",
+      "Cirugía e implantología"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Cómo llego?", "Metro Colón (líneas 3, 5, 7 y 9) y autobuses EMT en la calle Colón y el Parterre."],
-      ["¿Qué horario tenéis?", "De lunes a jueves de 9:00 a 14:00 y de 15:00 a 19:00; los viernes de 9:00 a 14:00."],
-      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos y la dejamos reservada en la misma conversación."]
+      [
+        "¿Cómo llego?",
+        "Metro Colón (líneas 3, 5, 7 y 9) y autobuses EMT en la calle Colón y el Parterre."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 14:00 y de 15:00 a 19:00; los viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
     ],
     "contactoTitulo": "Pide tu cita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni correos.",
-    "motivos": ["Primera visita", "Revisión e higiene", "Ortodoncia", "Periodoncia", "Implantes"],
+    "motivos": [
+      "Primera visita",
+      "Revisión e higiene",
+      "Ortodoncia",
+      "Periodoncia",
+      "Implantes"
+    ],
     "huecos": {
-      "lunes": ["9:00", "10:30", "12:30", "15:30", "17:30"],
-      "martes": ["9:30", "11:00", "13:00", "16:00", "18:00"],
-      "miercoles": ["9:00", "11:30", "13:00", "15:30", "17:00"],
-      "jueves": ["10:00", "12:00", "16:00", "18:00"],
-      "viernes": ["9:00", "10:30", "12:00", "13:00"]
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:30",
+        "15:30",
+        "17:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:00",
+        "18:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "13:00",
+        "15:30",
+        "17:00"
+      ],
+      "jueves": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "13:00"
+      ]
     },
-    "horario": ["Lunes a jueves: 9:00–14:00 y 15:00–19:00", "Viernes: 9:00–14:00"],
+    "horario": [
+      "Lunes a jueves: 9:00–14:00 y 15:00–19:00",
+      "Viernes: 9:00–14:00"
+    ],
     "pieMarca": "Clínica dental en el centro de Valencia desde 1992",
-    "notaDiseno": "Clínica de 1992 junto a Pintor Sorolla: el azul de su logo, su equipo de especialistas y una cita que no depende del correo."
+    "notaDiseno": "Clínica de 1992 junto a Pintor Sorolla: el azul de su logo, su equipo de especialistas y una cita que no depende del correo.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 86
+    }
   }
 }

@@ -155,6 +155,10 @@
       "Miércoles y viernes: 9:30–13:30"
     ],
     "pieMarca": "Clínica dental en Valencia desde 1935",
-    "notaDiseno": "Clínica de 1935: el verde de su marca, el Dr. Portaceli en primer plano y una cita online que sale confirmada."
+    "notaDiseno": "Clínica de 1935: el verde de su marca, el Dr. Portaceli en primer plano y una cita online que sale confirmada.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 39
+    }
   }
 }

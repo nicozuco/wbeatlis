@@ -131,6 +131,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Valencia",
-    "notaDiseno": "Sin acceso a su web para usar sus fotos: verde natural y tipografía limpia, a la espera de las imágenes reales de la clínica."
+    "notaDiseno": "Sin acceso a su web para usar sus fotos: verde natural y tipografía limpia, a la espera de las imágenes reales de la clínica.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 54
+    }
   }
 }

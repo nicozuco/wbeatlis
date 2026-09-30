@@ -157,6 +157,10 @@
       "Viernes: 10:00–14:00"
     ],
     "pieMarca": "Más de 30 años diseñando sonrisas en Valencia",
-    "notaDiseno": "Clínica de Ruzafa con su fucsia y azul de marca, fachada propia y los dientes en 24 horas como gancho, con cita al momento."
+    "notaDiseno": "Clínica de Ruzafa con su fucsia y azul de marca, fachada propia y los dientes en 24 horas como gancho, con cita al momento.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 151
+    }
   }
 }

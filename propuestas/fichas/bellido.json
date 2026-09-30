@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "AVENIDA DEL OESTE, 50 · VALENCIA",
-    "titulo": ["Cinco estrellas en Google.", "Y un WhatsApp al que le falta el prefijo."],
+    "titulo": [
+      "Cinco estrellas en Google.",
+      "Y un WhatsApp al que le falta el prefijo."
+    ],
     "intro": "Una clínica con implantes y dientes fijos en un día, dirigida por el Dr. Kike Bellido, con 5 de nota en Google. Proponemos que el paciente que decide escribiros llegue siempre y salga con su revisión inicial reservada.",
     "hallazgos": [
       "El enlace de WhatsApp de vuestra web abre el número 613050077 sin el prefijo de España (+34). WhatsApp no lo reconoce como número español, así que el paciente puede no llegar a escribiros.",
@@ -62,33 +65,102 @@
     "equipoTitulo": "Expertos en odontología avanzada.",
     "equipoTexto": "El Dr. Kike Bellido, en implantes y cirugía, y la Dra. Beatriz Lara, en estética, endodoncia y odontología general, con equipamiento de última tecnología.",
     "valores": [
-      ["Atención personalizada.", "Cada tratamiento, adaptado a ti."],
-      ["Dientes fijos en un día.", "Implantes con carga inmediata cuando el caso lo permite."],
-      ["Última tecnología.", "Equipamiento actual en cada gabinete."]
+      [
+        "Atención personalizada.",
+        "Cada tratamiento, adaptado a ti."
+      ],
+      [
+        "Dientes fijos en un día.",
+        "Implantes con carga inmediata cuando el caso lo permite."
+      ],
+      [
+        "Última tecnología.",
+        "Equipamiento actual en cada gabinete."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Un espacio cuidado.",
     "galeriaDestacado": "Con tu comodidad en mente.",
-    "pies": ["Avenida del Oeste, 50 · Valencia", "Instalaciones de la clínica"],
-    "servicios": ["Implantes y dientes fijos en un día", "Estética dental", "Ortodoncia", "Endodoncia", "Periodoncia", "Odontopediatría"],
+    "pies": [
+      "Avenida del Oeste, 50 · Valencia",
+      "Instalaciones de la clínica"
+    ],
+    "servicios": [
+      "Implantes y dientes fijos en un día",
+      "Estética dental",
+      "Ortodoncia",
+      "Endodoncia",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿La revisión inicial tiene compromiso?", "No. Es una revisión para conocer tu caso sin compromiso."],
-      ["¿Qué son los dientes fijos en un día?", "Implantes con carga inmediata para salir con dientes fijos, si tu caso lo permite. Se valora en consulta."],
-      ["¿Dónde estáis?", "En la Avenida del Oeste, 50, bajo derecha, 46001 Valencia."]
+      [
+        "¿La revisión inicial tiene compromiso?",
+        "No. Es una revisión para conocer tu caso sin compromiso."
+      ],
+      [
+        "¿Qué son los dientes fijos en un día?",
+        "Implantes con carga inmediata para salir con dientes fijos, si tu caso lo permite. Se valora en consulta."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Avenida del Oeste, 50, bajo derecha, 46001 Valencia."
+      ]
     ],
     "contactoTitulo": "Solicita tu revisión.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
-    "motivos": ["Revisión inicial", "Implantes", "Estética dental", "Ortodoncia", "Odontopediatría"],
+    "motivos": [
+      "Revisión inicial",
+      "Implantes",
+      "Estética dental",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
-      "martes": ["10:30", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
-      "jueves": ["11:00", "12:30", "16:00", "17:30", "19:00"],
-      "viernes": ["10:00", "11:30", "13:00", "16:00", "17:00"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:00"
+      ]
     },
-    "horario": ["Lunes a viernes: 10:00–14:00 y 16:00–20:00"],
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 16:00–20:00"
+    ],
     "pieMarca": "Implantes y dientes fijos en un día · Valencia",
-    "notaDiseno": "Clínica del Dr. Kike Bellido: dorado y negro de su marca, su retrato y un WhatsApp que por fin conecta."
+    "notaDiseno": "Clínica del Dr. Kike Bellido: dorado y negro de su marca, su retrato y un WhatsApp que por fin conecta.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 146
+    }
   }
 }

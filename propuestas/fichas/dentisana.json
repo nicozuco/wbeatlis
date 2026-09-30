@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "RUSSAFA SMILES · PLAÇA DEL BARÓ DE CORTÉS, 15",
-    "titulo": ["«Alba, vuelvo a sonreír.»", "Que el primer paso hacia ese momento sea fácil."],
+    "titulo": [
+      "«Alba, vuelvo a sonreír.»",
+      "Que el primer paso hacia ese momento sea fácil."
+    ],
     "intro": "Una clínica de Ruzafa especializada en ortodoncia, con todas las especialidades y parking gratuito, dirigida por la Dra. Alba Roca. Proponemos que el paciente pueda reservar su primera visita desde el móvil, al momento.",
     "hallazgos": [
       "En vuestra web, el teléfono y el WhatsApp aparecen como texto, no como enlaces: desde el móvil no se puede pulsar para llamar ni para abrir WhatsApp. Para pedir cita queda un formulario de siete campos que espera respuesta.",
@@ -62,33 +65,98 @@
     "equipoTitulo": "Lo más importante es el paciente.",
     "equipoTexto": "Dirigida por la Dra. Alba Roca, ortodoncista, Dentisana reúne en un mismo centro todas las especialidades con un alto grado de especialización y tratamientos innovadores.",
     "valores": [
-      ["Especialistas en ortodoncia.", "Invisible, lingual, brackets e infantil."],
-      ["Todas las especialidades.", "Doctoras de cada área trabajando juntas."],
-      ["Parking gratuito.", "Entrada frente a la clínica."]
+      [
+        "Especialistas en ortodoncia.",
+        "Invisible, lingual, brackets e infantil."
+      ],
+      [
+        "Todas las especialidades.",
+        "Doctoras de cada área trabajando juntas."
+      ],
+      [
+        "Parking gratuito.",
+        "Entrada frente a la clínica."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Estamos en Ruzafa.",
     "galeriaDestacado": "Para ayudarte a sonreír.",
-    "pies": ["Plaça del Baró de Cortés, 15 · Ruzafa", "Clínica Dentisana"],
-    "servicios": ["Ortodoncia invisible", "Ortodoncia para niños", "Implantología", "Estética dental", "Periodoncia", "Sedación consciente"],
+    "pies": [
+      "Plaça del Baró de Cortés, 15 · Ruzafa",
+      "Clínica Dentisana"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Ortodoncia para niños",
+      "Implantología",
+      "Estética dental",
+      "Periodoncia",
+      "Sedación consciente"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Dónde aparco?", "Tenemos parking gratuito para pacientes, con la entrada frente a la clínica."],
-      ["¿Qué incluye la primera visita?", "Un diagnóstico detallado y un presupuesto personalizado."],
-      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos al 637 647 664 y deja la cita reservada en la misma conversación."]
+      [
+        "¿Dónde aparco?",
+        "Tenemos parking gratuito para pacientes, con la entrada frente a la clínica."
+      ],
+      [
+        "¿Qué incluye la primera visita?",
+        "Un diagnóstico detallado y un presupuesto personalizado."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 637 647 664 y deja la cita reservada en la misma conversación."
+      ]
     ],
     "contactoTitulo": "Nos hace ilusión ayudarte.",
     "contactoTexto": "Elige el tratamiento, el día y la hora y tu cita queda reservada al momento.",
-    "motivos": ["Primera visita", "Ortodoncia", "Implantes", "Estética dental", "Odontopediatría"],
+    "motivos": [
+      "Primera visita",
+      "Ortodoncia",
+      "Implantes",
+      "Estética dental",
+      "Odontopediatría"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "16:30", "18:30"],
-      "martes": ["10:00", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["9:30", "11:30", "13:00", "17:00", "19:00"],
-      "jueves": ["10:30", "12:30", "16:00", "18:00"],
-      "viernes": ["9:30", "11:00", "12:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:30",
+        "13:00",
+        "17:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
     },
     "horario": [],
     "pieMarca": "La clínica dental de Ruzafa",
-    "notaDiseno": "Clínica de Ruzafa de la Dra. Alba Roca: su azul petróleo, el equipo en primer plano y WhatsApp a un toque."
+    "notaDiseno": "Clínica de Ruzafa de la Dra. Alba Roca: su azul petróleo, el equipo en primer plano y WhatsApp a un toque.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 121
+    }
   }
 }

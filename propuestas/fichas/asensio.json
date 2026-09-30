@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "ODONTOLOGÍA AVANZADA · AV. DEL CID",
-    "titulo": ["Vuestra web lo llama «cita online».", "Hagamos que la cita quede reservada."],
+    "titulo": [
+      "Vuestra web lo llama «cita online».",
+      "Hagamos que la cita quede reservada."
+    ],
     "intro": "Desde 1997, con primera visita gratuita y horario de mañana a noche. Proponemos que quien entra a pedir cita salga con ella reservada, a cualquier hora y sin esperar a que le respondan un email.",
     "hallazgos": [
       "La página «Cita on line» no reserva ninguna cita: pide mandar un email a sonrisa@dentalasensio.com o rellenar un formulario. El paciente se queda sin fecha hasta que alguien le conteste.",
@@ -62,34 +65,109 @@
     "equipoTitulo": "Casos complejos, con la calma de un equipo.",
     "equipoTexto": "Implantología, ortodoncia, estética y medicina oral bajo un mismo techo, con certificación ISO 9001 y un equipo de especialistas dirigido por la Dra. Lucía Asensio.",
     "valores": [
-      ["Primera visita gratuita.", "Revisión completa, radiografía y diagnóstico antes de decidir nada."],
-      ["Horario amplio.", "De lunes a viernes de 9:00 a 21:00 y los sábados por la mañana."],
-      ["Todo en un solo lugar.", "Especialistas de cada área para estudiar tu caso en conjunto."]
+      [
+        "Primera visita gratuita.",
+        "Revisión completa, radiografía y diagnóstico antes de decidir nada."
+      ],
+      [
+        "Horario amplio.",
+        "De lunes a viernes de 9:00 a 21:00 y los sábados por la mañana."
+      ],
+      [
+        "Todo en un solo lugar.",
+        "Especialistas de cada área para estudiar tu caso en conjunto."
+      ]
     ],
     "galeriaEtiqueta": "NUESTRAS INSTALACIONES",
     "galeriaTitulo": "Luz, orden y tecnología.",
     "galeriaDestacado": "Pensadas para tu tranquilidad.",
-    "pies": ["Avda. del Cid, 11 · Valencia", "Gabinetes equipados para cada especialidad"],
-    "servicios": ["Implantes dentales", "Ortodoncia e Invisalign", "Estética dental y carillas", "Periodoncia", "Odontopediatría", "Revisión y odontología general"],
+    "pies": [
+      "Avda. del Cid, 11 · Valencia",
+      "Gabinetes equipados para cada especialidad"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia e Invisalign",
+      "Estética dental y carillas",
+      "Periodoncia",
+      "Odontopediatría",
+      "Revisión y odontología general"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿La primera visita es gratuita?", "Sí. Incluye revisión completa, radiografía y diagnóstico."],
-      ["¿Abrís por la tarde y los sábados?", "Sí. De lunes a viernes de 9:00 a 21:00 y los sábados de 10:00 a 14:00."],
-      ["¿Cómo llego?", "Estamos en la Avda. del Cid, 11. Metro Ángel Guimerà y Av. del Cid."]
+      [
+        "¿La primera visita es gratuita?",
+        "Sí. Incluye revisión completa, radiografía y diagnóstico."
+      ],
+      [
+        "¿Abrís por la tarde y los sábados?",
+        "Sí. De lunes a viernes de 9:00 a 21:00 y los sábados de 10:00 a 14:00."
+      ],
+      [
+        "¿Cómo llego?",
+        "Estamos en la Avda. del Cid, 11. Metro Ángel Guimerà y Av. del Cid."
+      ]
     ],
     "contactoTitulo": "Reserva tu primera visita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, también de noche o en fin de semana.",
-    "motivos": ["Primera visita gratuita", "Implantes", "Ortodoncia o Invisalign", "Estética dental", "Segunda opinión"],
+    "motivos": [
+      "Primera visita gratuita",
+      "Implantes",
+      "Ortodoncia o Invisalign",
+      "Estética dental",
+      "Segunda opinión"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "17:00", "19:30"],
-      "martes": ["10:00", "12:30", "16:00", "18:00", "20:00"],
-      "miercoles": ["9:00", "11:30", "15:30", "17:30", "19:00"],
-      "jueves": ["10:30", "12:00", "16:30", "18:30", "20:00"],
-      "viernes": ["9:30", "11:00", "13:30", "17:00", "19:30"],
-      "sabado": ["10:00", "11:30", "12:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "17:00",
+        "19:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:30",
+        "16:00",
+        "18:00",
+        "20:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "15:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:30",
+        "20:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "13:30",
+        "17:00",
+        "19:30"
+      ],
+      "sabado": [
+        "10:00",
+        "11:30",
+        "12:30"
+      ]
     },
-    "horario": ["Lunes a viernes: 9:00–21:00", "Sábado: 10:00–14:00"],
+    "horario": [
+      "Lunes a viernes: 9:00–21:00",
+      "Sábado: 10:00–14:00"
+    ],
     "pieMarca": "Odontología avanzada en Valencia desde 1997",
-    "notaDiseno": "Clínica de trayectoria y casos complejos: directora médica visible, instalaciones luminosas y una cita online que de verdad reserva."
+    "notaDiseno": "Clínica de trayectoria y casos complejos: directora médica visible, instalaciones luminosas y una cita online que de verdad reserva.",
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 642
+    }
   }
 }

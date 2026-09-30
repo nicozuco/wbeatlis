@@ -158,6 +158,10 @@
       "Miércoles: 14:00–20:00"
     ],
     "pieMarca": "Periodoncia e implantes en Valencia",
-    "notaDiseno": "«Respira»: azul cielo de su marca, el Dr. Buitrago en primer plano y un horario complicado que el paciente ya no tiene que descifrar."
+    "notaDiseno": "«Respira»: azul cielo de su marca, el Dr. Buitrago en primer plano y un horario complicado que el paciente ya no tiene que descifrar.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 70
+    }
   }
 }

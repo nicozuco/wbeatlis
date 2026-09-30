@@ -154,6 +154,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en el centro de Valencia",
-    "notaDiseno": "Clínica del Dr. Vicente Martínez: negro y dorado de su marca, equipo en primer plano y WhatsApp que por fin llega a la clínica."
+    "notaDiseno": "Clínica del Dr. Vicente Martínez: negro y dorado de su marca, equipo en primer plano y WhatsApp que por fin llega a la clínica.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 206
+    }
   }
 }

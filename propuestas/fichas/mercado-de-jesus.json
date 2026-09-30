@@ -153,6 +153,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Patraix",
-    "notaDiseno": "Una clínica de arquitectura cuidada: gris azulado y luz, su espacio en primer plano y la cita reservable por fin."
+    "notaDiseno": "Una clínica de arquitectura cuidada: gris azulado y luz, su espacio en primer plano y la cita reservable por fin.",
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 45
+    }
   }
 }

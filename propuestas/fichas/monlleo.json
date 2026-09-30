@@ -145,6 +145,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Valencia desde 1917",
-    "notaDiseno": "Más de un siglo de historia: azul tinta, el equipo en blanco y negro como en su web y un solo horario, el real."
+    "notaDiseno": "Más de un siglo de historia: azul tinta, el equipo en blanco y negro como en su web y un solo horario, el real.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 72
+    }
   }
 }

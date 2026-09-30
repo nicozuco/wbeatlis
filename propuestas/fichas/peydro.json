@@ -155,6 +155,10 @@
     },
     "horario": [],
     "pieMarca": "Más de 25 años creando sonrisas en Valencia",
-    "notaDiseno": "Clínica de casos complejos: tono sobrio negro y bronce, equipo en primer plano y un formulario que reserva huecos reales."
+    "notaDiseno": "Clínica de casos complejos: tono sobrio negro y bronce, equipo en primer plano y un formulario que reserva huecos reales.",
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 444
+    }
   }
 }

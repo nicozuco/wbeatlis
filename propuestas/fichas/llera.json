@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "JUAN RAMÓN JIMÉNEZ, 40 · VALENCIA",
-    "titulo": ["Casi dos décadas de pacientes que se quedan.", "Que el primer paso sea igual de sencillo."],
+    "titulo": [
+      "Casi dos décadas de pacientes que se quedan.",
+      "Que el primer paso sea igual de sencillo."
+    ],
     "intro": "Una clínica de trato personalizado y financiación a medida, especializada en implantología y ortodoncia. Proponemos que quien entra en la web pueda reservar su cita en el momento, sin llamar ni esperar respuesta.",
     "hallazgos": [
       "En vuestra web los teléfonos aparecen como texto, no como enlace: desde el móvil no se puede pulsar para llamar. El formulario de contacto pide nombre, email y la consulta, y no deja cita. La web tampoco publica el horario.",
@@ -62,33 +65,99 @@
     "equipoTitulo": "Nuestra trayectoria es nuestra carta de presentación.",
     "equipoTexto": "Especialistas en implantología y ortodoncia, con radiografía digital (hasta un 90% menos de radiación), cámara intraoral, sedación y blanqueamiento láser.",
     "valores": [
-      ["Los mejores especialistas.", "Personal cualificado para diagnosticar y resolver cada caso."],
-      ["Trato personalizado.", "Pacientes que confían en nosotros durante años."],
-      ["Financiación a tu medida.", "Para que lo económico no sea un problema."]
+      [
+        "Los mejores especialistas.",
+        "Personal cualificado para diagnosticar y resolver cada caso."
+      ],
+      [
+        "Trato personalizado.",
+        "Pacientes que confían en nosotros durante años."
+      ],
+      [
+        "Financiación a tu medida.",
+        "Para que lo económico no sea un problema."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Tecnología al servicio",
     "galeriaDestacado": "de tu salud bucodental.",
-    "pies": ["Juan Ramón Jiménez, 40 · Valencia", "Radiografía digital de baja radiación"],
-    "servicios": ["Implantología", "Ortodoncia", "Blanqueamiento láser", "Endodoncia", "Estética dental", "Revisión y odontología general"],
+    "pies": [
+      "Juan Ramón Jiménez, 40 · Valencia",
+      "Radiografía digital de baja radiación"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia",
+      "Blanqueamiento láser",
+      "Endodoncia",
+      "Estética dental",
+      "Revisión y odontología general"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Tenéis financiación?", "Sí. Nos adaptamos a la situación de cada paciente con financiación a medida."],
-      ["¿Hacéis sedación?", "Sí, para que el tratamiento sea más cómodo si lo necesitas."],
-      ["¿Dónde estáis?", "En la calle Juan Ramón Jiménez, 40, 1.º, puerta 2, 46026 Valencia."]
+      [
+        "¿Tenéis financiación?",
+        "Sí. Nos adaptamos a la situación de cada paciente con financiación a medida."
+      ],
+      [
+        "¿Hacéis sedación?",
+        "Sí, para que el tratamiento sea más cómodo si lo necesitas."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle Juan Ramón Jiménez, 40, 1.º, puerta 2, 46026 Valencia."
+      ]
     ],
     "contactoTitulo": "Reserva tu cita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. También por WhatsApp.",
-    "motivos": ["Primera visita", "Implantes", "Ortodoncia", "Blanqueamiento", "Revisión"],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Blanqueamiento",
+      "Revisión"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
-      "martes": ["10:30", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
-      "jueves": ["11:00", "12:30", "16:00", "17:30", "19:00"],
-      "viernes": ["10:00", "11:00", "12:00", "13:00"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00"
+      ]
     },
     "horario": [],
     "pieMarca": "Tu clínica dental en Valencia",
-    "notaDiseno": "Clínica del Dr. Julián Llera: turquesa de su marca, su retrato y WhatsApp como puerta de entrada."
+    "notaDiseno": "Clínica del Dr. Julián Llera: turquesa de su marca, su retrato y WhatsApp como puerta de entrada.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 147
+    }
   }
 }

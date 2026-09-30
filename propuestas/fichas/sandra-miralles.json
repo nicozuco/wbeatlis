@@ -154,6 +154,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Malilla y Pelayo",
-    "notaDiseno": "Clínica de la Dra. Miralles: el turquesa de sus uniformes, la doctora en primer plano y la cita reservable por WhatsApp."
+    "notaDiseno": "Clínica de la Dra. Miralles: el turquesa de sus uniformes, la doctora en primer plano y la cita reservable por WhatsApp.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 43
+    }
   }
 }

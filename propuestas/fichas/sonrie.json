@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "CLÍNICA FAMILIAR · JOSÉ PÉREZ FUSTER, 22",
-    "titulo": ["Habéis cuidado a padres, hijos y nietos.", "Que pedir cita sea igual de sencillo para todos."],
+    "titulo": [
+      "Habéis cuidado a padres, hijos y nietos.",
+      "Que pedir cita sea igual de sencillo para todos."
+    ],
     "intro": "Desde 1999, una clínica para toda la familia, con 5 estrellas en Google. Proponemos que cualquiera, desde el móvil y a cualquier hora, pueda ver un hueco libre y dejar su cita reservada.",
     "hallazgos": [
       "En vuestra página de contacto, para reservar hay que llamar, escribir un email o un WhatsApp: no hay forma de dejar la cita hecha. La web tampoco publica vuestro horario.",
@@ -62,33 +65,101 @@
     "equipoTitulo": "Hemos visto crecer a nuestros pacientes.",
     "equipoTexto": "Muchos nos han confiado también la sonrisa de sus hijos y nietos. Un equipo dirigido por la Dra. Teresa García, directora médica y cirujana, con ortodoncista propia.",
     "valores": [
-      ["Para toda la familia.", "Del primer control infantil a los implantes."],
-      ["Trato cercano.", "Un equipo que te conoce y te acompaña en cada etapa."],
-      ["Tu cita, a tu hora.", "Reservas en el hueco que mejor te venga, sin esperar a que te llamen."]
+      [
+        "Para toda la familia.",
+        "Del primer control infantil a los implantes."
+      ],
+      [
+        "Trato cercano.",
+        "Un equipo que te conoce y te acompaña en cada etapa."
+      ],
+      [
+        "Tu cita, a tu hora.",
+        "Reservas en el hueco que mejor te venga, sin esperar a que te llamen."
+      ]
     ],
     "galeriaEtiqueta": "NUESTRA CLÍNICA",
     "galeriaTitulo": "Tu clínica de siempre.",
     "galeriaDestacado": "Cerca de casa.",
-    "pies": ["José Pérez Fuster, 22 · Valencia", "Cuidado y tecnología en cada visita"],
-    "servicios": ["Revisión y odontología general", "Implantes dentales", "Ortodoncia e Invisalign", "Periodoncia", "Endodoncia", "Estética dental"],
+    "pies": [
+      "José Pérez Fuster, 22 · Valencia",
+      "Cuidado y tecnología en cada visita"
+    ],
+    "servicios": [
+      "Revisión y odontología general",
+      "Implantes dentales",
+      "Ortodoncia e Invisalign",
+      "Periodoncia",
+      "Endodoncia",
+      "Estética dental"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Atendéis a niños?", "Sí. Somos una clínica familiar: del primer control dental de tus hijos a los tratamientos de adultos."],
-      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos al 629 42 26 63 y reserva, cambia o cancela tu cita en la misma conversación."],
-      ["¿Dónde estáis?", "En la calle José Pérez Fuster, 22, 46007 Valencia."]
+      [
+        "¿Atendéis a niños?",
+        "Sí. Somos una clínica familiar: del primer control dental de tus hijos a los tratamientos de adultos."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 629 42 26 63 y reserva, cambia o cancela tu cita en la misma conversación."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle José Pérez Fuster, 22, 46007 Valencia."
+      ]
     ],
     "contactoTitulo": "Reserva tu cita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada. Si lo prefieres, te atendemos por teléfono o WhatsApp.",
-    "motivos": ["Revisión", "Primera visita", "Visita para mi hijo/a", "Ortodoncia", "Implantes"],
+    "motivos": [
+      "Revisión",
+      "Primera visita",
+      "Visita para mi hijo/a",
+      "Ortodoncia",
+      "Implantes"
+    ],
     "huecos": {
-      "lunes": ["8:30", "10:00", "12:00", "16:30", "18:30"],
-      "martes": ["9:00", "11:30", "13:00", "17:00", "19:00"],
-      "miercoles": ["8:30", "10:30", "12:30", "16:00", "18:00"],
-      "jueves": ["9:30", "11:00", "13:00", "17:30", "19:00"],
-      "viernes": ["9:00", "10:30", "12:30", "16:30", "18:30"]
+      "lunes": [
+        "8:30",
+        "10:00",
+        "12:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "9:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "8:30",
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:30",
+        "16:30",
+        "18:30"
+      ]
     },
     "horario": [],
     "pieMarca": "Clínica familiar en Valencia desde 1999",
-    "notaDiseno": "Clínica familiar de confianza: el equipo en primer plano, tres generaciones de pacientes y WhatsApp como puerta de entrada."
+    "notaDiseno": "Clínica familiar de confianza: el equipo en primer plano, tres generaciones de pacientes y WhatsApp como puerta de entrada.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 406
+    }
   }
 }

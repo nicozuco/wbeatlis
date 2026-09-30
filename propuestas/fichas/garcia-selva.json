@@ -155,6 +155,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Algirós",
-    "notaDiseno": "Clínica joven en Algirós: azul y el rojo de sus sillones, instalaciones luminosas y una cita que no depende de un teléfono mal enlazado."
+    "notaDiseno": "Clínica joven en Algirós: azul y el rojo de sus sillones, instalaciones luminosas y una cita que no depende de un teléfono mal enlazado.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 22
+    }
   }
 }

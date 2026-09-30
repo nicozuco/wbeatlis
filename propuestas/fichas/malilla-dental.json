@@ -154,6 +154,10 @@
       "Viernes: 9:00–14:00"
     ],
     "pieMarca": "Clínica dental en Malilla",
-    "notaDiseno": "Clínica familiar de Malilla: verde agua de su marca, equipo en primer plano y la primera visita gratuita reservable."
+    "notaDiseno": "Clínica familiar de Malilla: verde agua de su marca, equipo en primer plano y la primera visita gratuita reservable.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 124
+    }
   }
 }

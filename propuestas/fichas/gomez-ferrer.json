@@ -158,6 +158,10 @@
       "Miércoles y viernes: 9:00–13:30"
     ],
     "pieMarca": "Clínica dental en Valencia",
-    "notaDiseno": "El azul y el verde de su web, el equipo en primer plano y el calendario que su página de cita online promete."
+    "notaDiseno": "El azul y el verde de su web, el equipo en primer plano y el calendario que su página de cita online promete.",
+    "valoracion": {
+      "nota": "4,5",
+      "resenas": 36
+    }
   }
 }

@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "JUNTO AL AUDITORIO REINA SOFÍA · LÓPEZ PIÑERO, 4",
-    "titulo": ["TAC 3D, cirugía navegada, diagnóstico con IA.", "Una web que lo cuente igual de bien."],
+    "titulo": [
+      "TAC 3D, cirugía navegada, diagnóstico con IA.",
+      "Una web que lo cuente igual de bien."
+    ],
     "intro": "Una clínica pionera, con todos los tratamientos en el mismo centro, aparcamiento gratuito y compañías aseguradoras. Proponemos una web a la altura de esa tecnología, con la cita reservada en el momento.",
     "hallazgos": [
       "En la portada, lo que Google lee como título principal es una línea con los teléfonos, el email y el aparcamiento, no el nombre ni la especialidad de la clínica. Hay además erratas visibles, como «DIADNOSTICOS» o «Imágenesn 3D».",
@@ -62,33 +65,102 @@
     "equipoTitulo": "Tecnología que se nota en el resultado.",
     "equipoTexto": "TAC de alto rendimiento con imágenes 3D a baja dosis, diagnóstico asistido por inteligencia artificial, implantología navegada y profilaxis GBT, con un equipo que se forma en universidades de España, Europa y Estados Unidos.",
     "valores": [
-      ["Todo en el mismo centro.", "De la higiene a la implantología navegada."],
-      ["Se adaptan a ti.", "A tus horarios y a tus posibilidades, con financiación."],
-      ["Aparcamiento gratuito.", "En el Centro Comercial El Saler."]
+      [
+        "Todo en el mismo centro.",
+        "De la higiene a la implantología navegada."
+      ],
+      [
+        "Se adaptan a ti.",
+        "A tus horarios y a tus posibilidades, con financiación."
+      ],
+      [
+        "Aparcamiento gratuito.",
+        "En el Centro Comercial El Saler."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Moderna y cercana.",
     "galeriaDestacado": "En la Ciudad de las Artes.",
-    "pies": ["Avda. Profesor López Piñero, 4", "Instalaciones de la clínica"],
-    "servicios": ["Implantología navegada", "Ortodoncia e Invisalign", "Higiene bucal GBT", "Estética y carillas", "Odontopediatría", "Endodoncia y prótesis"],
+    "pies": [
+      "Avda. Profesor López Piñero, 4",
+      "Instalaciones de la clínica"
+    ],
+    "servicios": [
+      "Implantología navegada",
+      "Ortodoncia e Invisalign",
+      "Higiene bucal GBT",
+      "Estética y carillas",
+      "Odontopediatría",
+      "Endodoncia y prótesis"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Dónde puedo aparcar?", "Tienes aparcamiento gratuito en el Centro Comercial El Saler, junto a la clínica."],
-      ["¿Trabajáis con mi seguro?", "Trabajamos con numerosas compañías aseguradoras. Indícalo al reservar."],
-      ["¿Qué horario tenéis?", "De lunes a viernes, de 9:30 a 13:30 y de 16:00 a 20:00."]
+      [
+        "¿Dónde puedo aparcar?",
+        "Tienes aparcamiento gratuito en el Centro Comercial El Saler, junto a la clínica."
+      ],
+      [
+        "¿Trabajáis con mi seguro?",
+        "Trabajamos con numerosas compañías aseguradoras. Indícalo al reservar."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 9:30 a 13:30 y de 16:00 a 20:00."
+      ]
     ],
     "contactoTitulo": "Reserva tu cita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. Sin formularios largos.",
-    "motivos": ["Primera visita", "Implantes", "Ortodoncia", "Higiene", "Estética dental"],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Higiene",
+      "Estética dental"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "12:30", "16:30", "18:30"],
-      "martes": ["10:00", "11:30", "16:00", "17:30", "19:00"],
-      "miercoles": ["9:30", "12:00", "16:30", "18:00"],
-      "jueves": ["10:30", "12:30", "16:00", "17:30", "19:00"],
-      "viernes": ["9:30", "11:00", "12:30", "16:30", "18:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ]
     },
-    "horario": ["Lunes a viernes: 9:30–13:30 y 16:00–20:00"],
+    "horario": [
+      "Lunes a viernes: 9:30–13:30 y 16:00–20:00"
+    ],
     "pieMarca": "Clínica dental junto al Auditorio Reina Sofía",
-    "notaDiseno": "Web nueva para una clínica de tecnología avanzada: su malva de marca, mensajes claros y reserva directa."
+    "notaDiseno": "Web nueva para una clínica de tecnología avanzada: su malva de marca, mensajes claros y reserva directa.",
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 154
+    }
   }
 }

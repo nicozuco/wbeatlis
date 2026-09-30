@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "EL CABANYAL · CALLE SERRERÍA, 45",
-    "titulo": ["Vuestra primera consulta es gratis.", "Que reservarla no cueste nada."],
+    "titulo": [
+      "Vuestra primera consulta es gratis.",
+      "Que reservarla no cueste nada."
+    ],
     "intro": "Una clínica moderna en El Cabanyal, con atención personalizada y casos complejos, dirigida por Victoria Alastuey. Proponemos que quien entra en la web pueda reservar la primera consulta gratuita desde el móvil, en el momento.",
     "hallazgos": [
       "En vuestra web el teléfono aparece como texto, no como enlace: desde el móvil no se puede pulsar para llamar. Tampoco hay WhatsApp; para pedir cita queda un formulario de tres campos que espera respuesta.",
@@ -62,33 +65,102 @@
     "equipoTitulo": "Atención personalizada y empática.",
     "equipoTexto": "Un equipo multidisciplinar dirigido por Victoria Alastuey, con odontología preventiva, tratamientos no invasivos y materiales biológicos para cuidar tu boca toda la vida.",
     "valores": [
-      ["Primera consulta gratis.", "Para conocer tu caso sin compromiso."],
-      ["Casos complejos.", "Técnicas avanzadas y un equipo experto."],
-      ["Prevención primero.", "Tratamientos no invasivos y materiales biológicos."]
+      [
+        "Primera consulta gratis.",
+        "Para conocer tu caso sin compromiso."
+      ],
+      [
+        "Casos complejos.",
+        "Técnicas avanzadas y un equipo experto."
+      ],
+      [
+        "Prevención primero.",
+        "Tratamientos no invasivos y materiales biológicos."
+      ]
     ],
     "galeriaEtiqueta": "NUESTRAS INSTALACIONES",
     "galeriaTitulo": "Un espacio moderno.",
     "galeriaDestacado": "Diseñado para ti.",
-    "pies": ["Recepción · Serrería, 45", "Gabinetes de última generación"],
-    "servicios": ["Implantes dentales", "Ortodoncia invisible y brackets", "Carillas y blanqueamiento", "Periodoncia y endodoncia", "Odontopediatría", "Cirugía bucal"],
+    "pies": [
+      "Recepción · Serrería, 45",
+      "Gabinetes de última generación"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible y brackets",
+      "Carillas y blanqueamiento",
+      "Periodoncia y endodoncia",
+      "Odontopediatría",
+      "Cirugía bucal"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿La primera consulta es gratis?", "Sí, sin compromiso."],
-      ["¿Atendéis a niños?", "Sí. Tenemos odontopediatría y ortodoncia infantil."],
-      ["¿Qué horario tenéis?", "De lunes a viernes, de 10:00 a 14:00 y de 16:00 a 20:00."]
+      [
+        "¿La primera consulta es gratis?",
+        "Sí, sin compromiso."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tenemos odontopediatría y ortodoncia infantil."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 10:00 a 14:00 y de 16:00 a 20:00."
+      ]
     ],
     "contactoTitulo": "Reserva tu consulta.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento.",
-    "motivos": ["Primera consulta gratuita", "Revisión", "Ortodoncia", "Implantes", "Estética dental"],
+    "motivos": [
+      "Primera consulta gratuita",
+      "Revisión",
+      "Ortodoncia",
+      "Implantes",
+      "Estética dental"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
-      "martes": ["10:30", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
-      "jueves": ["11:00", "12:30", "16:00", "17:30", "19:00"],
-      "viernes": ["10:00", "11:30", "13:00", "16:30", "18:30"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ]
     },
-    "horario": ["Lunes a viernes: 10:00–14:00 y 16:00–20:00"],
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 16:00–20:00"
+    ],
     "pieMarca": "Clínica dental en El Cabanyal",
-    "notaDiseno": "Clínica moderna de El Cabanyal: verde salvia y tonos naturales, con la primera consulta gratuita reservable desde el móvil."
+    "notaDiseno": "Clínica moderna de El Cabanyal: verde salvia y tonos naturales, con la primera consulta gratuita reservable desde el móvil.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 147
+    }
   }
 }

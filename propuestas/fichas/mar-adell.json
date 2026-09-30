@@ -143,6 +143,10 @@
     },
     "horario": [],
     "pieMarca": "Clínica dental en Castellar-Oliveral",
-    "notaDiseno": "Clínica de barrio: el magenta de su rótulo, su fachada y una primera consulta reservable al momento."
+    "notaDiseno": "Clínica de barrio: el magenta de su rótulo, su fachada y una primera consulta reservable al momento.",
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 25
+    }
   }
 }

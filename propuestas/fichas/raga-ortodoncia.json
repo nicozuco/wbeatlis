@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "ORTODONCIA · JORGE JUAN, 20",
-    "titulo": ["Más de mil pacientes os recomiendan.", "Que pedir la primera visita sea igual de fácil."],
+    "titulo": [
+      "Más de mil pacientes os recomiendan.",
+      "Que pedir la primera visita sea igual de fácil."
+    ],
     "intro": "Vuestra web ya convence: medio siglo de ortodoncia, primera visita gratuita y presupuesto cerrado. Proponemos que ese interés termine en una cita reservada en el momento, sin quedar a la espera de una llamada.",
     "hallazgos": [
       "En vuestra web, pedir la primera visita gratuita termina en un formulario que dice «Escríbenos y te llamamos»: el paciente se va sin cita y queda esperando a que recepción le devuelva la llamada. La web no ofrece WhatsApp.",
@@ -62,33 +65,103 @@
     "equipoTitulo": "La experiencia de décadas, con tecnología de hoy.",
     "equipoTexto": "Ortodoncistas para niños, adolescentes y adultos, con escáner intraoral 3D, diseño digital de la sonrisa, TAC dental y seguimiento con Dental Monitoring.",
     "valores": [
-      ["Primera visita gratuita.", "Una valoración sin coste para conocer tu caso y tus opciones."],
-      ["Presupuesto cerrado.", "Sabes lo que cuesta tu tratamiento antes de empezar, sin sorpresas."],
-      ["Seguimiento digital.", "Escáner 3D y Dental Monitoring para planificar y seguir cada caso."]
+      [
+        "Primera visita gratuita.",
+        "Una valoración sin coste para conocer tu caso y tus opciones."
+      ],
+      [
+        "Presupuesto cerrado.",
+        "Sabes lo que cuesta tu tratamiento antes de empezar, sin sorpresas."
+      ],
+      [
+        "Seguimiento digital.",
+        "Escáner 3D y Dental Monitoring para planificar y seguir cada caso."
+      ]
     ],
     "galeriaEtiqueta": "NUESTRA CLÍNICA",
     "galeriaTitulo": "Pensada para toda la familia.",
     "galeriaDestacado": "También para los más pequeños.",
-    "pies": ["Áreas infantiles para esperar sin miedo al dentista", "Jorge Juan, 20 · Valencia"],
-    "servicios": ["Ortodoncia invisible · Invisalign", "Ortodoncia infantil", "Ortodoncia para adolescentes", "Ortodoncia para adultos", "Brackets autoligados y estéticos", "Ortodoncia con minitornillos"],
+    "pies": [
+      "Áreas infantiles para esperar sin miedo al dentista",
+      "Jorge Juan, 20 · Valencia"
+    ],
+    "servicios": [
+      "Ortodoncia invisible · Invisalign",
+      "Ortodoncia infantil",
+      "Ortodoncia para adolescentes",
+      "Ortodoncia para adultos",
+      "Brackets autoligados y estéticos",
+      "Ortodoncia con minitornillos"
+    ],
     "faqTitulo": "Antes de tu primera visita.",
     "faq": [
-      ["¿La primera visita es gratuita?", "Sí. La primera visita de valoración no tiene coste y sales con un presupuesto cerrado."],
-      ["¿Tratáis a pacientes de todas las edades?", "Sí. Ortodoncia infantil, para adolescentes y para adultos."],
-      ["¿Dónde estáis?", "En la calle Jorge Juan, 20, bajo, en el centro de Valencia (46004)."]
+      [
+        "¿La primera visita es gratuita?",
+        "Sí. La primera visita de valoración no tiene coste y sales con un presupuesto cerrado."
+      ],
+      [
+        "¿Tratáis a pacientes de todas las edades?",
+        "Sí. Ortodoncia infantil, para adolescentes y para adultos."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle Jorge Juan, 20, bajo, en el centro de Valencia (46004)."
+      ]
     ],
     "contactoTitulo": "Reserva tu primera visita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. Si prefieres hablar con nosotros, llámanos al 96 352 93 91.",
-    "motivos": ["Primera visita gratuita", "Ortodoncia invisible", "Ortodoncia infantil", "Ya soy paciente"],
+    "motivos": [
+      "Primera visita gratuita",
+      "Ortodoncia invisible",
+      "Ortodoncia infantil",
+      "Ya soy paciente"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:00", "18:30"],
-      "martes": ["10:30", "12:00", "15:30", "17:00", "19:00"],
-      "miercoles": ["10:00", "12:30", "15:00", "16:30", "18:30"],
-      "jueves": ["10:00", "12:00", "14:30", "16:30", "18:30"],
-      "viernes": ["10:00", "11:30", "15:30", "17:30"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "15:30",
+        "17:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "16:30",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "12:00",
+        "14:30",
+        "16:30",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "15:30",
+        "17:30"
+      ]
     },
-    "horario": ["Lunes a miércoles: 10:00–14:00 y 15:00–19:30", "Jueves: 10:00–19:30", "Viernes: 10:00–13:30 y 15:00–19:00"],
+    "horario": [
+      "Lunes a miércoles: 10:00–14:00 y 15:00–19:30",
+      "Jueves: 10:00–19:30",
+      "Viernes: 10:00–13:30 y 15:00–19:00"
+    ],
     "pieMarca": "Ortodoncia en Valencia desde hace más de 50 años",
-    "notaDiseno": "Ortodoncia con medio siglo de trayectoria: tecnología digital, primera visita gratuita y reserva directa como eje."
+    "notaDiseno": "Ortodoncia con medio siglo de trayectoria: tecnología digital, primera visita gratuita y reserva directa como eje.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 1243
+    }
   }
 }

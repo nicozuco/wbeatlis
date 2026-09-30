@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "PERIODONCIA E IMPLANTES · GRAN VÍA MARQUÉS DEL TURIA, 63",
-    "titulo": ["Más de 20 años de excelencia.", "Vuestra web debería estar a la altura."],
+    "titulo": [
+      "Más de 20 años de excelencia.",
+      "Vuestra web debería estar a la altura."
+    ],
     "intro": "Una clínica especializada en periodoncia e implantes desde 2001, dirigida por el Dr. Fernando Albalat y la Dra. Ana Caballero. Antes de hablar de citas, hay algo en vuestra web que conviene revisar cuanto antes.",
     "hallazgos": [
       "En el código de vuestra portada hay párrafos y enlaces a casinos online («casinado», «midas casino»…) colocados fuera de la pantalla para que el paciente no los vea. Google sí los lee: es la señal típica de una web manipulada y puede perjudicar vuestra posición en las búsquedas.",
@@ -63,33 +66,100 @@
     "equipoTitulo": "Especialistas, por formación y por vocación.",
     "equipoTexto": "El Dr. Fernando Albalat y la Dra. Ana Caballero, especializados en Periodoncia e Implantes con un máster de tres años en la Universidad de Valencia, dirigen un equipo con estética, endodoncia y periodoncia.",
     "valores": [
-      ["Diagnóstico primero.", "Evaluamos tu salud oral antes de proponer ningún tratamiento."],
-      ["Mínimamente invasivo.", "Microcirugía y técnicas que cuidan el tejido."],
-      ["Clínica de confianza.", "Miembros de BQDC, la asociación de clínicas dentales de confianza."]
+      [
+        "Diagnóstico primero.",
+        "Evaluamos tu salud oral antes de proponer ningún tratamiento."
+      ],
+      [
+        "Mínimamente invasivo.",
+        "Microcirugía y técnicas que cuidan el tejido."
+      ],
+      [
+        "Clínica de confianza.",
+        "Miembros de BQDC, la asociación de clínicas dentales de confianza."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Cómodo y relajado.",
     "galeriaDestacado": "Desde la primera visita.",
-    "pies": ["Gran Vía Marqués del Turia, 63 · Valencia", "Instalaciones del Centro Periodontal"],
-    "servicios": ["Periodoncia", "Implantes dentales", "Regeneración ósea", "Estética dental", "Endodoncia", "Odontología conservadora"],
+    "pies": [
+      "Gran Vía Marqués del Turia, 63 · Valencia",
+      "Instalaciones del Centro Periodontal"
+    ],
+    "servicios": [
+      "Periodoncia",
+      "Implantes dentales",
+      "Regeneración ósea",
+      "Estética dental",
+      "Endodoncia",
+      "Odontología conservadora"
+    ],
     "faqTitulo": "Preguntas frecuentes.",
     "faq": [
-      ["¿Qué es la periodontitis?", "Una enfermedad de las encías que, sin tratamiento, puede afectar al hueso que sujeta los dientes. El primer paso es diagnosticarla en consulta."],
-      ["¿Necesito que me derive mi dentista?", "No. Muchos pacientes vienen derivados, pero puedes reservar tu primera visita directamente."],
-      ["¿Dónde estáis?", "En la Gran Vía Marqués del Turia, 63, 5.ª, 46005 Valencia."]
+      [
+        "¿Qué es la periodontitis?",
+        "Una enfermedad de las encías que, sin tratamiento, puede afectar al hueso que sujeta los dientes. El primer paso es diagnosticarla en consulta."
+      ],
+      [
+        "¿Necesito que me derive mi dentista?",
+        "No. Muchos pacientes vienen derivados, pero puedes reservar tu primera visita directamente."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Gran Vía Marqués del Turia, 63, 5.ª, 46005 Valencia."
+      ]
     ],
     "contactoTitulo": "Reserva tu primera visita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar a que te contestemos.",
-    "motivos": ["Primera visita de periodoncia", "Implantes dentales", "Sangrado o inflamación de encías", "Revisión y mantenimiento"],
+    "motivos": [
+      "Primera visita de periodoncia",
+      "Implantes dentales",
+      "Sangrado o inflamación de encías",
+      "Revisión y mantenimiento"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
-      "martes": ["9:30", "11:00", "12:30", "16:00", "18:00"],
-      "miercoles": ["10:00", "12:00", "16:30", "18:30"],
-      "jueves": ["9:30", "11:00", "12:30", "14:30"],
-      "viernes": ["9:30", "11:00", "12:30"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:00",
+        "16:30",
+        "18:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
     },
-    "horario": ["Lunes a miércoles: 9:00–20:00", "Jueves: 9:00–16:00", "Viernes: 9:00–14:00"],
+    "horario": [
+      "Lunes a miércoles: 9:00–20:00",
+      "Jueves: 9:00–16:00",
+      "Viernes: 9:00–14:00"
+    ],
     "pieMarca": "Periodoncia e implantes en Valencia desde 2001",
-    "notaDiseno": "Clínica especializada: directores en primer plano, tono sobrio con su rosa de marca y la primera visita explicada y reservable."
+    "notaDiseno": "Clínica especializada: directores en primer plano, tono sobrio con su rosa de marca y la primera visita explicada y reservable.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 252
+    }
   }
 }

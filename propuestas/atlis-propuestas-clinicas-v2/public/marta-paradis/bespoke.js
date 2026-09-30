@@ -85,28 +85,62 @@
      Estructura basada en el diseño de Déniz; colores y textos salen de la ficha. */
   const esc2 = v => String(v ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const dayNum = {lunes:1,martes:2,miercoles:3,'miércoles':3,jueves:4,viernes:5,sabado:6,'sábado':6};
+  /* Iconos de línea propios (sin emoji) para la plantilla. */
+  const plIconPaths = {
+    tooth: 'M7.5 3.5C5 3.5 3.5 5.4 3.5 7.8c0 2.3.8 3.9 1.3 6 .6 2.4.9 6.7 2.6 6.7 1.5 0 1.5-4.2 2.9-5.8.5-.6 1-.6 1.4-.6s.9 0 1.4.6c1.4 1.6 1.4 5.8 2.9 5.8 1.7 0 2-4.3 2.6-6.7.5-2.1 1.3-3.7 1.3-6 0-2.4-1.5-4.3-4-4.3-1.8 0-2.7.9-4.5.9s-2.7-.9-4.5-.9z',
+    implant: 'M6.5 3.5h11c1.4 0 2.5 1.1 2.5 2.5 0 1.6-1.2 2.8-2.8 2.8H6.8C5.2 8.8 4 7.6 4 6c0-1.4 1.1-2.5 2.5-2.5zM9 8.8v2.4h6V8.8M9.5 13l5 1.4M9.5 15.6l5 1.4M10 18.2l4 1.2M12 21v-1.4',
+    ortho: 'M2.5 12h19M3.5 8.5h5v7h-5zM9.5 8.5h5v7h-5zM15.5 8.5h5v7h-5z',
+    sparkle: 'M11 3.5l1.7 4.8 4.8 1.7-4.8 1.7L11 16.5l-1.7-4.8L4.5 10l4.8-1.7zM18 14.5l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z',
+    gums: 'M8 3.5c-2.3 0-3.8 1.7-3.8 4 0 1.1.2 2 .5 2.9M19.3 10.4c.3-.9.5-1.8.5-2.9 0-2.3-1.5-4-3.8-4-1.6 0-2.4.8-4 .8s-2.4-.8-4-.8M3 12.5c1.8 1.3 3.6 1.3 5.4 0s3.6-1.3 5.4 0 3.6 1.3 5.4 0M6.5 15.5c.4 2 .8 5 2 5 1.2 0 1.3-3.2 2.4-4.4M17.5 15.5c-.4 2-.8 5-2 5-1.2 0-1.3-3.2-2.4-4.4',
+    kids: 'M12 20.5a8.5 8.5 0 1 0 0-17 8.5 8.5 0 0 0 0 17zM8.6 14c.9 1.3 2 2 3.4 2s2.5-.7 3.4-2M9.2 9.6h.01M14.8 9.6h.01',
+    root: 'M7.5 3.5C5 3.5 3.5 5.4 3.5 7.8c0 2.3.8 3.9 1.3 6 .6 2.4.9 6.7 2.6 6.7 1.5 0 1.5-4.2 2.9-5.8.5-.6 1-.6 1.4-.6s.9 0 1.4.6c1.4 1.6 1.4 5.8 2.9 5.8 1.7 0 2-4.3 2.6-6.7.5-2.1 1.3-3.7 1.3-6 0-2.4-1.5-4.3-4-4.3-1.8 0-2.7.9-4.5.9s-2.7-.9-4.5-.9zM10 8.5v4.5M14 8.5v4.5',
+    surgery: 'M14.5 4.5l5 5L10 19H5v-5zM12.5 6.5l5 5',
+    sleep: 'M19.5 14.5A8 8 0 0 1 9.5 4.5a8 8 0 1 0 10 10zM15 4h3l-3 3.5h3',
+    crown: 'M4 19.5h16M5 17l-1.5-9.5 5 3.5L12 5l3.5 6 5-3.5L19 17z',
+    urgent: 'M12 20.5a8.5 8.5 0 1 0 0-17 8.5 8.5 0 0 0 0 17zM12 8v8M8 12h8',
+    scan: 'M4 8V4h4M20 8V4h-4M4 16v4h4M20 16v4h-4M8 12h8',
+    calendar: 'M4.5 6h15v14h-15zM4.5 10h15M8.5 3.5v4M15.5 3.5v4M8.5 14h3',
+    jaw: 'M4 6c0 7 3.5 12.5 8 12.5S20 13 20 6M8 6.5c0 3.5 1.8 6 4 6s4-2.5 4-6',
+    pin: 'M12 21s7-6.2 7-11.5A7 7 0 0 0 5 9.5C5 14.8 12 21 12 21zM12 12a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z',
+    phone: 'M5 4h3.5l1.5 4-2 1.5a11 11 0 0 0 6.5 6.5l1.5-2 4 1.5V19a1.5 1.5 0 0 1-1.6 1.5C10.6 20 4 13.4 3.5 5.6A1.5 1.5 0 0 1 5 4z',
+    clock: 'M12 20.5a8.5 8.5 0 1 0 0-17 8.5 8.5 0 0 0 0 17zM12 7.5V12l3 2',
+    check: 'M5 12.5l4.5 4.5L19 7.5'
+  };
+  const plIcon = (name, cls = 'pl-icon') => `<svg class="${cls}" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${plIconPaths[name] || plIconPaths.tooth}"/></svg>`;
+  const plServiceIcon = s => {
+    const t = s.toLowerCase();
+    const rules = [[/sueño|apnea|ronqu/, 'sleep'], [/urgenc/, 'urgent'], [/atm|bruxis|articulaci|férula|dolor/, 'jaw'], [/periodon|encía|periimpl|gingiv|curetaje/, 'gums'], [/implant|all on|dientes en 1|carga inmediata|regenera|hueso/, 'implant'], [/ortodon|invisalign|bracket|alineador|ortopedia/, 'ortho'], [/infantil|niñ|odontoped|pequeñ|sedación/, 'kids'], [/endodon|conservadora|restaurad|empaste|caries|conductos|incrustac/, 'root'], [/cirug|maxilo|extracc|exodonc|láser/, 'surgery'], [/prótesis|corona|rehabilit|puente/, 'crown'], [/diagnóst|3d|escáner|tac|radiolog|digital|tecnolog/, 'scan'], [/estétic|carilla|blanque|diseño|sonrisa|composite/, 'sparkle'], [/revisión|limpieza|higiene|primera|general|prevenci|valoración/, 'calendar']];
+    const hit = rules.find(([re]) => re.test(t));
+    return hit ? hit[1] : 'tooth';
+  };
+  const plStars = () => `<span class="pl-stars" aria-hidden="true">${'<svg viewBox="0 0 24 24" width="14" height="14"><path d="M12 2.8l2.8 5.9 6.4.8-4.7 4.4 1.2 6.4L12 17.2l-5.7 3.1 1.2-6.4-4.7-4.4 6.4-.8z" fill="currentColor"/></svg>'.repeat(5)}</span>`;
   function plantilla(clinic) {
     const w = clinic.site || {};
     const f = w.fotos || {};
     const hours = {};
     Object.entries(w.huecos || {}).forEach(([d, t]) => { const n = dayNum[d.toLowerCase()]; if (n) hours[n] = t; });
+    const rating = w.valoracion && parseFloat(String(w.valoracion.nota).replace(',', '.')) >= 4.5 ? w.valoracion : null;
+    const ratingChip = rating ? `<div class="pl-rating">${plStars()}<span><b>${esc2(rating.nota)}</b> · ${esc2(rating.resenas)} reseñas en Google</span></div>` : '';
     const values = (w.valores || []).slice(0, 3).map((v, i) => `<article><span>0${i+1}</span><h4>${esc2(v[0])}</h4><p>${esc2(v[1])}</p></article>`).join('');
     const gallery = [f.clinica1, f.clinica2].filter(Boolean).map((img, i) => `<figure>${photo(img, `${esc2(clinic.name)}, imagen ${i+1}`)}<figcaption>${esc2((w.pies || [])[i] || '')}</figcaption></figure>`).join('');
     const wordmark = f.logo ? photo(f.logo, esc2(clinic.name), 'bp-logo') : `<div class="pl-wordmark">${esc2(w.marca || clinic.brand)}<span>${esc2(w.submarca || '')}</span></div>`;
-    return `<div class="pl-topline"><span>${esc2(w.topline || '')}</span><span>${esc2(w.telefono || '')}</span></div><nav class="bp-nav pl-nav" aria-label="Secciones de la página propuesta">${wordmark}<div class="bp-nav-items">${w.equipoTitulo ? jump('bp-equipo', w.menuEquipo || 'Conócenos') : ''}${gallery ? jump('bp-clinica','La clínica') : ''}${jump('bp-especialidades','Tratamientos')}</div><button class="bp-menu-toggle" aria-label="Abrir menú" aria-expanded="false">Menú <span>＋</span></button>${cta(w.ctaNav || 'Pedir cita')}</nav>
+    const services = (w.servicios || []).map((sv, i) => `<button data-jump="bp-cita"><span class="pl-service-icon">${plIcon(plServiceIcon(sv))}</span><span class="pl-service-num">0${i+1}</span><strong>${esc2(sv)}</strong><em>Pedir cita <i>↗</i></em></button>`).join('');
+    const schedule = (w.horario || []).length ? `<ul class="pl-contact-hours">${w.horario.map(h => `<li>${plIcon('clock')}<span>${esc2(h)}</span></li>`).join('')}</ul>` : '';
+    return `<div class="pl-topline"><span>${plIcon('pin', 'pl-mini')}${esc2(w.topline || '')}</span><span>${plIcon('phone', 'pl-mini')}${esc2(w.telefono || '')}</span></div><nav class="bp-nav pl-nav" aria-label="Secciones de la página propuesta">${wordmark}<div class="bp-nav-items">${w.equipoTitulo ? jump('bp-equipo', w.menuEquipo || 'Conócenos') : ''}${gallery ? jump('bp-clinica','La clínica') : ''}${jump('bp-especialidades','Tratamientos')}</div><button class="bp-menu-toggle" aria-label="Abrir menú" aria-expanded="false">Menú <span>＋</span></button>${cta(w.ctaNav || 'Pedir cita')}</nav>
     ${(() => {
       // «retrato» (arco con la foto vertical del doctor/a) o «panoramica» (foto horizontal de equipo o clínica).
       const caption = (w.fotoEtiqueta || w.fotoTitulo) ? `<span>${esc2(w.fotoEtiqueta || '')}</span><strong>${esc2(w.fotoTitulo || '')}</strong>` : '';
-      const copy = `<div class="pl-hero-copy">${eyebrow(esc2(w.heroEtiqueta || ''))}<h2>${esc2(w.heroTitulo || '')}${w.heroDestacado ? `<br><em>${esc2(w.heroDestacado)}</em>` : ''}</h2><p>${esc2(w.heroTexto || '')}</p>${cta(w.ctaHero || 'Reservar primera visita')}${w.frase ? `<div class="pl-handwritten">${esc2(w.frase)}</div>` : ''}${w.nota ? `<div class="pl-hero-note"><span>↳</span><p>${esc2(w.nota)}</p></div>` : ''}</div>`;
+      const copy = `<div class="pl-hero-copy">${eyebrow(esc2(w.heroEtiqueta || ''))}<h2>${esc2(w.heroTitulo || '')}${w.heroDestacado ? `<br><em>${esc2(w.heroDestacado)}</em>` : ''}</h2><p>${esc2(w.heroTexto || '')}</p><div class="pl-hero-actions">${cta(w.ctaHero || 'Reservar primera visita')}${ratingChip}</div>${w.frase ? `<div class="pl-handwritten">${esc2(w.frase)}</div>` : ''}${w.nota ? `<div class="pl-hero-note"><span>↳</span><p>${esc2(w.nota)}</p></div>` : ''}</div>`;
       if (w.estilo === 'panoramica') return `<section class="pl-hero pl-hero-wide" id="bp-top">${copy}<figure class="pl-wide-photo">${photo(f.principal, esc2(w.pieFotoPrincipal || clinic.name))}${caption ? `<figcaption>${caption}</figcaption>` : ''}</figure></section>`;
-      return `<section class="pl-hero" id="bp-top"><div class="pl-portrait">${photo(f.principal, esc2(w.pieFotoPrincipal || clinic.name))}${caption ? `<div>${caption}</div>` : ''}</div>${copy}</section>`;
+      return `<section class="pl-hero" id="bp-top"><div class="pl-portrait-wrap"><div class="pl-portrait">${photo(f.principal, esc2(w.pieFotoPrincipal || clinic.name))}${caption ? `<div>${caption}</div>` : ''}</div></div>${copy}</section>`;
     })()}
     ${w.equipoTitulo ? `<section class="pl-pilar${w.cifra ? '' : ' pl-sin-cifra'}" id="bp-equipo">${w.cifra ? `<span class="pl-big-number">${esc2(w.cifra)}</span>` : ''}<div>${eyebrow(esc2(w.cifraEtiqueta || ''))}<h3>${esc2(w.equipoTitulo)}</h3><p>${esc2(w.equipoTexto || '')}</p></div></section>` : ''}
     ${values ? `<section class="pl-values">${values}</section>` : ''}
     ${gallery ? `<section class="pl-gallery" id="bp-clinica"><div>${eyebrow(esc2(w.galeriaEtiqueta || 'LA CLÍNICA'))}<h3>${esc2(w.galeriaTitulo || 'Un lugar cercano.')}<br><em>${esc2(w.galeriaDestacado || 'También por dentro.')}</em></h3></div>${gallery}</section>` : ''}
-    <section class="pl-specialties" id="bp-especialidades"><h3>¿Por dónde<br>empezamos?</h3><div>${(w.servicios || []).map((sv, i) => `<button data-jump="bp-cita"><span>0${i+1}</span>${esc2(sv)}<i>↗</i></button>`).join('')}</div></section>
-    ${(w.faq || []).length ? `<section class="bp-faq-section"><h3>${esc2(w.faqTitulo || 'Antes de venir.')}</h3>${faq(w.faq.map(([q, a]) => [esc2(q), esc2(a)]))}</section>` : ''}
-    ${contact({hours, title: esc2(w.contactoTitulo || 'Reserva tu visita.'), copy: esc2(w.contactoTexto || 'Elige el motivo, el día y la hora. La cita queda reservada al momento.'), options: (w.motivos || ['Primera visita','Revisión']).map(esc2), address: esc2(w.direccion || ''), phone: esc2(w.telefonos || w.telefono || '')})}
+    ${rating ? `<section class="pl-reviews"><div class="pl-reviews-score"><b>${esc2(rating.nota)}</b>${plStars()}<span>sobre 5 en Google</span></div><div class="pl-reviews-copy">${eyebrow('LA OPINIÓN DE NUESTROS PACIENTES')}<h3>${esc2(rating.resenas)} reseñas.<br><em>Una misma confianza.</em></h3><p>Es la valoración media que dejan los pacientes de ${esc2(clinic.shortName || clinic.name)} en Google.</p></div>${cta('Pedir cita', 'bp-outline')}</section>` : ''}
+    <section class="pl-specialties" id="bp-especialidades"><div class="pl-specialties-head">${eyebrow('TRATAMIENTOS')}<h3>¿Por dónde<br>empezamos?</h3><p>Elige lo que necesitas y reserva tu visita. El diagnóstico lo hace siempre el equipo, en consulta.</p></div><div class="pl-services">${services}</div></section>
+    ${(w.faq || []).length ? `<section class="bp-faq-section pl-faq"><div>${eyebrow('PREGUNTAS FRECUENTES')}<h3>${esc2(w.faqTitulo || 'Antes de venir.')}</h3><p class="pl-faq-note">¿Otra duda? Escríbenos por WhatsApp y te respondemos al momento.</p></div>${faq(w.faq.map(([q, a]) => [esc2(q), esc2(a)]))}</section>` : ''}
+    ${contact({hours, title: esc2(w.contactoTitulo || 'Reserva tu visita.'), copy: esc2(w.contactoTexto || 'Elige el motivo, el día y la hora. La cita queda reservada al momento.'), options: (w.motivos || ['Primera visita','Revisión']).map(esc2), address: esc2(w.direccion || ''), phone: esc2(w.telefonos || w.telefono || '')}).replace('</div><form', `${schedule}</div><form`)}
     ${foot(esc2(clinic.name), esc2(w.pieMarca || ''), {address: esc2(w.direccion || ''), phone: esc2(w.telefonos || w.telefono || ''), hours: (w.horario || []).map(esc2)})}`;
   }
   const applyTemplateColors = clinic => {

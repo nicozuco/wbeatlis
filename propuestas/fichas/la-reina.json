@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "EL CABANYAL · CALLE DE LA REINA, 5",
-    "titulo": ["Urgencias y sábados por la mañana.", "Que el resto del tiempo también haya quien conteste."],
+    "titulo": [
+      "Urgencias y sábados por la mañana.",
+      "Que el resto del tiempo también haya quien conteste."
+    ],
     "intro": "Más de 20 años en el corazón del Cabanyal, con sistema CEREC y ortodoncia para todas las edades. Proponemos que el paciente pueda reservar su cita en el momento, sin salir de vuestra web ni depender de un enlace que falla.",
     "hallazgos": [
       "En vuestra web, el enlace para llamar al móvil 682 49 12 35 está mal escrito (marca +34 9682491235): quien lo pulsa desde el móvil no llega a la clínica.",
@@ -63,34 +66,105 @@
     "equipoTitulo": "Experiencia, tecnología y trato cercano.",
     "equipoTexto": "Un equipo de especialistas en ortodoncia, endodoncia e implantología, con sistema CEREC para restauraciones en una sola visita.",
     "valores": [
-      ["Sistema CEREC.", "Restauraciones en una sola visita."],
-      ["Urgencias.", "Te atendemos cuando más lo necesitas."],
-      ["Precios justos.", "Tratamientos a tu medida."]
+      [
+        "Sistema CEREC.",
+        "Restauraciones en una sola visita."
+      ],
+      [
+        "Urgencias.",
+        "Te atendemos cuando más lo necesitas."
+      ],
+      [
+        "Precios justos.",
+        "Tratamientos a tu medida."
+      ]
     ],
     "galeriaEtiqueta": "ASÍ ES NUESTRA CLÍNICA",
     "galeriaTitulo": "Un espacio pensado para ti.",
     "galeriaDestacado": "Cómodo desde el primer momento.",
-    "pies": ["Calle de la Reina, 5 · Cabanyal", "Gabinetes de la clínica"],
-    "servicios": ["Implantología", "Ortodoncia invisible y brackets", "Estética y blanqueamiento", "Endodoncia", "Periodoncia", "Sistema CEREC"],
+    "pies": [
+      "Calle de la Reina, 5 · Cabanyal",
+      "Gabinetes de la clínica"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia invisible y brackets",
+      "Estética y blanqueamiento",
+      "Endodoncia",
+      "Periodoncia",
+      "Sistema CEREC"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Atendéis urgencias?", "Sí. Indícalo al reservar o escríbenos por WhatsApp y te damos prioridad."],
-      ["¿Abrís los sábados?", "Sí, los sábados por la mañana."],
-      ["¿Dónde estáis?", "En la calle de la Reina, 5, en el Cabanyal (46011 Valencia)."]
+      [
+        "¿Atendéis urgencias?",
+        "Sí. Indícalo al reservar o escríbenos por WhatsApp y te damos prioridad."
+      ],
+      [
+        "¿Abrís los sábados?",
+        "Sí, los sábados por la mañana."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la calle de la Reina, 5, en el Cabanyal (46011 Valencia)."
+      ]
     ],
     "contactoTitulo": "Agenda tu cita.",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento. Si es una urgencia, indícalo.",
-    "motivos": ["Primera visita", "Urgencia", "Ortodoncia", "Implantes", "Estética dental"],
+    "motivos": [
+      "Primera visita",
+      "Urgencia",
+      "Ortodoncia",
+      "Implantes",
+      "Estética dental"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "16:30", "18:30"],
-      "martes": ["10:00", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["9:30", "11:30", "13:00", "17:00", "19:00"],
-      "jueves": ["10:30", "12:30", "16:00", "18:00"],
-      "viernes": ["9:30", "11:00", "12:30", "16:30", "18:30"],
-      "sabado": ["10:00", "11:30", "12:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:30",
+        "13:00",
+        "17:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "16:00",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:30"
+      ],
+      "sabado": [
+        "10:00",
+        "11:30",
+        "12:30"
+      ]
     },
     "horario": [],
     "pieMarca": "Clínica dental en el Cabanyal",
-    "notaDiseno": "Clínica del Cabanyal: negro y dorado de su marca, el equipo en primer plano y urgencias bien atendidas por WhatsApp."
+    "notaDiseno": "Clínica del Cabanyal: negro y dorado de su marca, el equipo en primer plano y urgencias bien atendidas por WhatsApp.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 103
+    }
   }
 }

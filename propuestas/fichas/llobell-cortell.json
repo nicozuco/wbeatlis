@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "CUATRO GENERACIONES · CIRILO AMORÓS, 44",
-    "titulo": ["Un centro de referencia internacional.", "Con una cita que aún espera una llamada."],
+    "titulo": [
+      "Un centro de referencia internacional.",
+      "Con una cita que aún espera una llamada."
+    ],
     "intro": "Más de 80 años de odontología, un Premio Dentista del Año y pacientes que llegan con casos complejos. Proponemos que ese primer contacto esté a la altura: el paciente elige su hueco y la visita queda concertada en el momento.",
     "hallazgos": [
       "Vuestra página «Pedir cita» dice «Déjenos sus datos y nos pondremos en contacto con usted para concertar su visita»: el paciente elige solo mañana o tarde y se queda sin fecha hasta que le llaman.",
@@ -62,33 +65,104 @@
     "equipoTitulo": "Experiencia, innovación y formación.",
     "equipoTexto": "Una consulta familiar liderada por los Dres. Enrique y Arturo Llobell, con más de 30 años en implantología. El Dr. Enrique Llobell Lleó fue elegido Dentista del Año en España en 2019.",
     "valores": [
-      ["Especialistas exclusivos.", "Ortodoncia, prostodoncia, odontopediatría y endodoncia con especialistas dedicados."],
-      ["Casos complejos.", "Alta demanda estética y rehabilitaciones con resultados a largo plazo."],
-      ["Reconocimiento internacional.", "Formación y acreditaciones de referencia en implantología."]
+      [
+        "Especialistas exclusivos.",
+        "Ortodoncia, prostodoncia, odontopediatría y endodoncia con especialistas dedicados."
+      ],
+      [
+        "Casos complejos.",
+        "Alta demanda estética y rehabilitaciones con resultados a largo plazo."
+      ],
+      [
+        "Reconocimiento internacional.",
+        "Formación y acreditaciones de referencia en implantología."
+      ]
     ],
     "galeriaEtiqueta": "INSTALACIONES",
     "galeriaTitulo": "Un espacio pensado para ti.",
     "galeriaDestacado": "Hasta el último detalle.",
-    "pies": ["Sala de espera · Cirilo Amorós, 44", "Gabinete de la clínica"],
-    "servicios": ["Implantes y carga inmediata", "Estética dental", "Prostodoncia", "Ortodoncia", "Periodoncia", "Odontopediatría"],
+    "pies": [
+      "Sala de espera · Cirilo Amorós, 44",
+      "Gabinete de la clínica"
+    ],
+    "servicios": [
+      "Implantes y carga inmediata",
+      "Estética dental",
+      "Prostodoncia",
+      "Ortodoncia",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Con qué especialista me veré?", "Cuéntanos el motivo al reservar y te asignamos el especialista adecuado para tu primera visita."],
-      ["¿Tratáis casos complejos?", "Sí. Somos centro de referencia para casos complejos y de alta demanda estética."],
-      ["¿Qué horario tenéis?", "De lunes a viernes de 9:00 a 14:00 y de 15:00 a 20:00."]
+      [
+        "¿Con qué especialista me veré?",
+        "Cuéntanos el motivo al reservar y te asignamos el especialista adecuado para tu primera visita."
+      ],
+      [
+        "¿Tratáis casos complejos?",
+        "Sí. Somos centro de referencia para casos complejos y de alta demanda estética."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 9:00 a 14:00 y de 15:00 a 20:00."
+      ]
     ],
     "contactoTitulo": "Concierte su primera visita.",
     "contactoTexto": "Elija el motivo, el día y la hora y la visita queda concertada al momento. También puede llamarnos al 963 81 04 55.",
-    "motivos": ["Primera visita", "Implantes", "Estética dental", "Ortodoncia", "Odontopediatría", "Segunda opinión"],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Estética dental",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Segunda opinión"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "12:30", "16:00", "18:30"],
-      "martes": ["10:00", "12:00", "15:30", "17:30", "19:00"],
-      "miercoles": ["9:00", "11:30", "13:00", "16:30", "18:00"],
-      "jueves": ["10:30", "12:30", "15:30", "17:00", "19:00"],
-      "viernes": ["9:30", "11:00", "13:00", "16:30", "18:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "15:30",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:30",
+        "18:30"
+      ]
     },
-    "horario": ["Lunes a viernes: 9:00–14:00 y 15:00–20:00"],
+    "horario": [
+      "Lunes a viernes: 9:00–14:00 y 15:00–20:00"
+    ],
     "pieMarca": "Por una odontología diferente · desde 1934",
-    "notaDiseno": "Clínica de referencia: azul noche y dorado de su marca, instalaciones de diseño y una primera visita concertada al momento."
+    "notaDiseno": "Clínica de referencia: azul noche y dorado de su marca, instalaciones de diseño y una primera visita concertada al momento.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 208
+    }
   }
 }

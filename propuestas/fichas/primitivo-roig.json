@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "ODONTOLOGÍA SLOW · DON JUAN DE AUSTRIA, 4",
-    "titulo": ["«Sin esperas» en la consulta.", "Que tampoco las haya para pedir cita."],
+    "titulo": [
+      "«Sin esperas» en la consulta.",
+      "Que tampoco las haya para pedir cita."
+    ],
     "intro": "Una clínica que planifica las citas para que nadie espere en la sala. Proponemos llevar esa misma idea a la reserva: el paciente elige su hueco y la primera visita queda hecha, sin esperar a que le llamen.",
     "hallazgos": [
       "El formulario «Pide cita ahora» dice «Facilítanos tus datos y te llamaremos para concertar tu primera visita»: el paciente se va sin cita y pendiente de una llamada.",
@@ -62,33 +65,103 @@
     "equipoTitulo": "Sin esperas, con respeto por el diente.",
     "equipoTexto": "Planificación digital para organizar las citas sin superposiciones, tratamientos conservadores y un método slow donde todo gira alrededor del paciente.",
     "valores": [
-      ["Sin esperas.", "Citas planificadas para que no tengas que esperar en la sala."],
-      ["Respeto por el diente.", "Tratamientos conservadores: no hay nada como tus propios dientes."],
-      ["Accesible.", "Odontología de calidad, amable, segura y asequible."]
+      [
+        "Sin esperas.",
+        "Citas planificadas para que no tengas que esperar en la sala."
+      ],
+      [
+        "Respeto por el diente.",
+        "Tratamientos conservadores: no hay nada como tus propios dientes."
+      ],
+      [
+        "Accesible.",
+        "Odontología de calidad, amable, segura y asequible."
+      ]
     ],
     "galeriaEtiqueta": "LAS INSTALACIONES",
     "galeriaTitulo": "Las instalaciones que te mereces.",
     "galeriaDestacado": "En Valencia centro.",
-    "pies": ["Don Juan de Austria, 4 · Valencia", "Equipamiento tecnológico excepcional"],
-    "servicios": ["Revisión y odontología general", "Estética dental y diseño de sonrisa", "Ortodoncia invisible", "Implantes dentales", "Odontopediatría", "Periodoncia"],
+    "pies": [
+      "Don Juan de Austria, 4 · Valencia",
+      "Equipamiento tecnológico excepcional"
+    ],
+    "servicios": [
+      "Revisión y odontología general",
+      "Estética dental y diseño de sonrisa",
+      "Ortodoncia invisible",
+      "Implantes dentales",
+      "Odontopediatría",
+      "Periodoncia"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Qué es la odontología slow?", "Una forma de trabajar con tiempo, planificación digital y tratamientos conservadores, centrada en ti."],
-      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos al 623 250 828 y deja tu cita reservada en la misma conversación."],
-      ["¿Qué horario tenéis?", "De lunes a jueves de 9:00 a 19:00 y los viernes de 9:00 a 16:00."]
+      [
+        "¿Qué es la odontología slow?",
+        "Una forma de trabajar con tiempo, planificación digital y tratamientos conservadores, centrada en ti."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 623 250 828 y deja tu cita reservada en la misma conversación."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 19:00 y los viernes de 9:00 a 16:00."
+      ]
     ],
     "contactoTitulo": "Pide tu cita ahora.",
     "contactoTexto": "Elige el motivo, el día y la hora. La cita queda reservada al momento, sin esperar a que te llamemos.",
-    "motivos": ["Primera visita", "Revisión", "Estética dental", "Ortodoncia invisible", "Implantes", "Odontopediatría"],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Estética dental",
+      "Ortodoncia invisible",
+      "Implantes",
+      "Odontopediatría"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "13:00", "16:00", "18:00"],
-      "martes": ["10:00", "12:00", "15:30", "17:00", "18:30"],
-      "miercoles": ["9:00", "11:30", "13:30", "16:30", "18:00"],
-      "jueves": ["10:30", "12:30", "15:00", "17:30"],
-      "viernes": ["9:30", "11:00", "13:00", "15:00"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "16:00",
+        "18:00"
+      ],
+      "martes": [
+        "10:00",
+        "12:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "11:30",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:30",
+        "15:00",
+        "17:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "13:00",
+        "15:00"
+      ]
     },
-    "horario": ["Lunes a jueves: 9:00–19:00", "Viernes: 9:00–16:00"],
+    "horario": [
+      "Lunes a jueves: 9:00–19:00",
+      "Viernes: 9:00–16:00"
+    ],
     "pieMarca": "Odontología slow en Valencia centro",
-    "notaDiseno": "Odontología slow: tono sereno, equipo en primer plano y una reserva igual de «sin esperas» que su consulta."
+    "notaDiseno": "Odontología slow: tono sereno, equipo en primer plano y una reserva igual de «sin esperas» que su consulta.",
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 226
+    }
   }
 }

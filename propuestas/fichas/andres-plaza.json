@@ -160,6 +160,10 @@
       "Viernes: 9:00–14:00 y 16:00–19:00"
     ],
     "pieMarca": "Clínica dental en Valencia desde 1979",
-    "notaDiseno": "Dos generaciones: azul de su marca, el equipo frente a la clínica y un «Pide cita» que por fin reserva."
+    "notaDiseno": "Dos generaciones: azul de su marca, el equipo frente a la clínica y un «Pide cita» que por fin reserva.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 58
+    }
   }
 }

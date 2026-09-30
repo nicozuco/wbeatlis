@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "FÉLIX PIZCUETA, 4 · VALENCIA",
-    "titulo": ["Más de 30 años de odontología estética.", "Y una cita que se reserve sin llamar."],
+    "titulo": [
+      "Más de 30 años de odontología estética.",
+      "Y una cita que se reserve sin llamar."
+    ],
     "intro": "Un centro de especialidades en pleno centro de Valencia, con una odontología conservadora y mínimamente invasiva. Proponemos que el paciente pueda reservar su cita en el momento, desde vuestra web o desde WhatsApp.",
     "hallazgos": [
       "El botón «Obtener una cita» de vuestra portada lleva a un formulario de «escríbenos»: el paciente deja un mensaje y espera. Y el icono de WhatsApp del pie de página no tiene enlace: al pulsarlo no pasa nada.",
@@ -62,33 +65,99 @@
     "equipoTitulo": "Un centro de especialidades, con trato familiar.",
     "equipoTexto": "La Dra. Vázquez empezó en la clínica familiar de su padre y en 2014 fundó su propio centro, dotado de tecnología avanzada y con un equipo en formación continua.",
     "valores": [
-      ["Mínimamente invasiva.", "La solución más adecuada y conservadora."],
-      ["Prevención.", "Una boca sana y funcional, a largo plazo."],
-      ["Formación continua.", "Un equipo al más alto nivel."]
+      [
+        "Mínimamente invasiva.",
+        "La solución más adecuada y conservadora."
+      ],
+      [
+        "Prevención.",
+        "Una boca sana y funcional, a largo plazo."
+      ],
+      [
+        "Formación continua.",
+        "Un equipo al más alto nivel."
+      ]
     ],
     "galeriaEtiqueta": "LA CLÍNICA",
     "galeriaTitulo": "Tecnología avanzada.",
     "galeriaDestacado": "Con un trato personal.",
-    "pies": ["El equipo de la clínica", "Gabinete de tratamientos"],
-    "servicios": ["Odontología estética", "Blanqueamiento", "Odontología restauradora", "Prótesis y rehabilitación oral", "Endodoncia y periodoncia", "Implantología y cirugía oral"],
+    "pies": [
+      "El equipo de la clínica",
+      "Gabinete de tratamientos"
+    ],
+    "servicios": [
+      "Odontología estética",
+      "Blanqueamiento",
+      "Odontología restauradora",
+      "Prótesis y rehabilitación oral",
+      "Endodoncia y periodoncia",
+      "Implantología y cirugía oral"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿Dónde estáis?", "En la calle Félix Pizcueta, 4, 3.º 3.ª, en el centro de Valencia (46004)."],
-      ["¿Hacéis tratamientos estéticos?", "Sí: estética dental, blanqueamiento y rehabilitación, siempre con el enfoque más conservador posible."],
-      ["¿Puedo pedir cita por WhatsApp?", "Sí. Escríbenos y la dejamos reservada en la misma conversación."]
+      [
+        "¿Dónde estáis?",
+        "En la calle Félix Pizcueta, 4, 3.º 3.ª, en el centro de Valencia (46004)."
+      ],
+      [
+        "¿Hacéis tratamientos estéticos?",
+        "Sí: estética dental, blanqueamiento y rehabilitación, siempre con el enfoque más conservador posible."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
     ],
     "contactoTitulo": "¿Necesitas una consulta?",
     "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin esperar respuesta.",
-    "motivos": ["Primera visita", "Revisión", "Estética dental", "Blanqueamiento", "Implantes"],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Estética dental",
+      "Blanqueamiento",
+      "Implantes"
+    ],
     "huecos": {
-      "lunes": ["9:30", "11:00", "12:30", "16:00", "17:30"],
-      "martes": ["10:00", "11:30", "13:00", "16:30", "18:00"],
-      "miercoles": ["9:30", "11:00", "12:30", "16:00", "17:30"],
-      "jueves": ["10:00", "12:00", "16:30", "18:00"],
-      "viernes": ["9:30", "11:00", "12:30", "15:30"]
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "10:00",
+        "12:00",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:30"
+      ]
     },
     "horario": [],
     "pieMarca": "Odontología estética en el centro de Valencia",
-    "notaDiseno": "Clínica de la Dra. Vázquez: azul sereno, la doctora en primer plano y una cita que no espera respuesta."
+    "notaDiseno": "Clínica de la Dra. Vázquez: azul sereno, la doctora en primer plano y una cita que no espera respuesta.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 99
+    }
   }
 }

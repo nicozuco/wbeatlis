@@ -163,6 +163,10 @@
       "Viernes y sábado: 9:00–14:00"
     ],
     "pieMarca": "Clínica dental en Valencia desde 1931",
-    "notaDiseno": "Clínica familiar desde 1931: fotografía en blanco y negro, tono sobrio y cálido, y la directora en primer plano."
+    "notaDiseno": "Clínica familiar desde 1931: fotografía en blanco y negro, tono sobrio y cálido, y la directora en primer plano.",
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 320
+    }
   }
 }

@@ -150,6 +150,10 @@
       "Lunes a jueves: 10:00–13:00 y 16:00–20:00"
     ],
     "pieMarca": "Clínica dental en Valencia desde 1986",
-    "notaDiseno": "Misma gente, distinto lugar: los tonos cálidos de su nuevo espacio, el equipo en primer plano y un WhatsApp que contesta solo."
+    "notaDiseno": "Misma gente, distinto lugar: los tonos cálidos de su nuevo espacio, el equipo en primer plano y un WhatsApp que contesta solo.",
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 33
+    }
   }
 }

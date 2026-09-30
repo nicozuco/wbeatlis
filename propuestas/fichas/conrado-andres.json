@@ -25,7 +25,10 @@
   },
   "propuesta": {
     "etiqueta": "VALENCIA · VIRGEN DE LA CABEZA, 52",
-    "titulo": ["Seis clínicas y casi cuatro décadas.", "Una sola forma de pedir cita que no falle."],
+    "titulo": [
+      "Seis clínicas y casi cuatro décadas.",
+      "Una sola forma de pedir cita que no falle."
+    ],
     "intro": "Desde 1987, con más de 20 expertos y cirugía maxilofacial. Proponemos que el paciente de cualquiera de vuestras seis clínicas pueda reservar en el momento, eligiendo centro, día y hora, sin depender de acertar con el teléfono.",
     "hallazgos": [
       "En la página de vuestra clínica de Virgen de la Cabeza, uno de los enlaces para llamar marca +34 63786987, al que le falta un 9: quien lo pulsa desde el móvil no llama a la clínica (963 78 69 87).",
@@ -63,33 +66,100 @@
     "equipoTitulo": "Experiencia y profesionalidad.",
     "equipoTexto": "Dirigidas por los doctores Conrado Andrés Ros y Conrado Andrés Navarro, con especialistas en implantología avanzada (all on four, cigomáticos), ortodoncia, cirugía oral y maxilofacial y sedación consciente.",
     "valores": [
-      ["Seis clínicas.", "Siempre tienes una cerca."],
-      ["Cirugía maxilofacial.", "Casos complejos en el mismo equipo."],
-      ["Tecnología propia.", "Microscopio quirúrgico, ortopantomografía y sedación."]
+      [
+        "Seis clínicas.",
+        "Siempre tienes una cerca."
+      ],
+      [
+        "Cirugía maxilofacial.",
+        "Casos complejos en el mismo equipo."
+      ],
+      [
+        "Tecnología propia.",
+        "Microscopio quirúrgico, ortopantomografía y sedación."
+      ]
     ],
     "galeriaEtiqueta": "CLÍNICA VALENCIA · VIRGEN DE LA CABEZA",
     "galeriaTitulo": "Tu clínica en Patraix.",
     "galeriaDestacado": "Con todo el equipo detrás.",
-    "pies": ["Sala de espera · Virgen de la Cabeza, 52", "Consulta de la clínica"],
-    "servicios": ["Implantología y all on four", "Implantes cigomáticos", "Ortodoncia e invisible", "Estética dental", "Cirugía oral y maxilofacial", "Sedación consciente"],
+    "pies": [
+      "Sala de espera · Virgen de la Cabeza, 52",
+      "Consulta de la clínica"
+    ],
+    "servicios": [
+      "Implantología y all on four",
+      "Implantes cigomáticos",
+      "Ortodoncia e invisible",
+      "Estética dental",
+      "Cirugía oral y maxilofacial",
+      "Sedación consciente"
+    ],
     "faqTitulo": "Antes de venir.",
     "faq": [
-      ["¿En qué clínica me atendéis?", "Elige la que te quede más cerca: Valencia (Virgen de la Cabeza y Peris i Valero), Alaquàs, Aldaia o Quart de Poblet."],
-      ["¿Tratáis casos complejos?", "Sí. Tenemos cirugía oral y maxilofacial e implantología avanzada."],
-      ["¿Tenéis financiación?", "Sí. Pregunta por las opciones al reservar."]
+      [
+        "¿En qué clínica me atendéis?",
+        "Elige la que te quede más cerca: Valencia (Virgen de la Cabeza y Peris i Valero), Alaquàs, Aldaia o Quart de Poblet."
+      ],
+      [
+        "¿Tratáis casos complejos?",
+        "Sí. Tenemos cirugía oral y maxilofacial e implantología avanzada."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí. Pregunta por las opciones al reservar."
+      ]
     ],
     "contactoTitulo": "¡Pide tu cita!",
     "contactoTexto": "Elige clínica, motivo, día y hora y queda reservada al momento.",
-    "motivos": ["Primera visita · Virgen de la Cabeza", "Primera visita · otra clínica", "Implantes", "Ortodoncia", "Cirugía oral"],
+    "motivos": [
+      "Primera visita · Virgen de la Cabeza",
+      "Primera visita · otra clínica",
+      "Implantes",
+      "Ortodoncia",
+      "Cirugía oral"
+    ],
     "huecos": {
-      "lunes": ["10:00", "11:30", "13:00", "16:30", "18:30"],
-      "martes": ["10:30", "12:00", "16:00", "17:30", "19:00"],
-      "miercoles": ["10:00", "12:30", "16:30", "18:00"],
-      "jueves": ["11:00", "12:30", "16:00", "17:30", "19:00"],
-      "viernes": ["10:00", "11:30", "13:00", "16:30", "18:30"]
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:30"
+      ]
     },
     "horario": [],
     "pieMarca": "Clínicas dentales y maxilofaciales desde 1987",
-    "notaDiseno": "Seis clínicas con una sola entrada: verde de su marca, equipo en primer plano y reserva por centro."
+    "notaDiseno": "Seis clínicas con una sola entrada: verde de su marca, equipo en primer plano y reserva por centro.",
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 125
+    }
   }
 }
