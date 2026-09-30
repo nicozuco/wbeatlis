@@ -1,0 +1,168 @@
+{
+  "slug": "emedent",
+  "numero": 101,
+  "clinica": {
+    "nombre": "Emedent Clínica Dental",
+    "nombreCorto": "Emedent",
+    "dominio": "emedent.com",
+    "web": "https://www.emedent.com/",
+    "contacto": "https://www.emedent.com/contacto.html",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1b7fbf",
+    "tinta": "#16242d",
+    "profundo": "#193243",
+    "suave": "#eff6fb",
+    "borde": "#d8e9f4",
+    "calido": "#9c2a4c",
+    "calidoSuave": "#f5eaed"
+  },
+  "fotos": {
+    "principal": "https://de.cdn-website.com/2194e4dc95e54844ae759d8b21f1e36d/DESKTOP/jpg/eme_prof_14.jpg",
+    "clinica1": "https://de.cdn-website.com/2194e4dc95e54844ae759d8b21f1e36d/DESKTOP/jpg/emdent01.jpg",
+    "clinica2": "https://de.cdn-website.com/2194e4dc95e54844ae759d8b21f1e36d/DESKTOP/jpg/emdent08_b.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PEPE ALBA, 10 · VALENCIA",
+    "titulo": [
+      "«Pide tu cita previa»",
+      "y el paciente se queda esperando."
+    ],
+    "intro": "Un equipo de odontólogos y ortodoncistas en Valencia que apuesta por tratamientos de calidad con cada paciente. Proponemos que la cita previa quede reservada en el momento, a cualquier hora.",
+    "hallazgos": [
+      "El botón «Pide tu cita previa» lleva a un formulario de contacto: el paciente deja un mensaje y espera vuestra respuesta, sin fecha.",
+      "Vuestra web no tiene WhatsApp ni otra forma de escribiros al momento: fuera de horario, solo queda ese formulario.",
+      "Según vuestro horario en Google, del viernes a las 21:00 al lunes a las 10:00 pasan 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pide tu cita previa» dé la cita.",
+      "texto": "Un asistente en vuestra web, detrás del botón de cita previa, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántos pacientes nuevos os llegan hoy desde la web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PEPE ALBA, 10 · VALENCIA",
+    "telefono": "963 285 630",
+    "telefonos": "963 285 630",
+    "direccion": "C/ Pepe Alba, 10 · 46022 Valencia",
+    "marca": "EMEDENT",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nuestra clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Tratamientos de calidad,",
+    "heroDestacado": "con cada paciente.",
+    "heroTexto": "Odontología avanzada, estética y ortodoncia, con un equipo de odontólogos profesionales. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita previa",
+    "frase": "Un equipo de odontólogos profesionales.",
+    "nota": "Ortodoncistas en Valencia.",
+    "fotoEtiqueta": "EL EQUIPO DE EMEDENT",
+    "fotoTitulo": "Odontólogos y ortodoncistas.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN MEDIA EN GOOGLE",
+    "equipoTitulo": "Odontología avanzada y estética.",
+    "equipoTexto": "Un equipo de odontólogos profesionales en ortodoncia, estética dental y odontología conservadora, con una apuesta clara por la calidad en cada tratamiento.",
+    "valores": [
+      [
+        "Calidad.",
+        "En cada tratamiento."
+      ],
+      [
+        "Ortodoncia.",
+        "Especialistas en Valencia."
+      ],
+      [
+        "Estética.",
+        "Odontología conservadora."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En la calle Pepe Alba.",
+    "galeriaDestacado": "Luminosa y moderna.",
+    "pies": [
+      "Uno de los gabinetes",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Estética dental",
+      "Odontología conservadora",
+      "Implantes",
+      "Periodoncia",
+      "Revisiones e higiene"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Pepe Alba, 10, 46022 Valencia."
+      ],
+      [
+        "¿Hacéis ortodoncia?",
+        "Sí. Somos ortodoncistas en Valencia."
+      ],
+      [
+        "¿Puedo elegir el horario?",
+        "Sí. Ves los huecos libres y reservas el que mejor te venga."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Ortodoncia",
+      "Estética dental",
+      "Otra consulta"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul y el granate de Emedent, su equipo y una web que por fin lleva a la cita.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "16:00",
+        "17:30",
+        "20:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "16:00",
+        "17:30",
+        "20:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 367
+    }
+  }
+}

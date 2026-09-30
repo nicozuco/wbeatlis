@@ -1,0 +1,169 @@
+{
+  "slug": "cristina-garcia-dental",
+  "numero": 105,
+  "clinica": {
+    "nombre": "Cristina García Dental",
+    "nombreCorto": "Cristina García",
+    "dominio": "cristinagarciadental.es",
+    "web": "https://cristinagarciadental.es/",
+    "contacto": "https://cristinagarciadental.es/",
+    "decisor": "Dra. Cristina García Ibáñez y Javier Miralles Olaso"
+  },
+  "colores": {
+    "acento": "#6a3fb0",
+    "tinta": "#1e162d",
+    "profundo": "#291943",
+    "suave": "#f5f2f9",
+    "borde": "#e6def2",
+    "calido": "#a89a8c",
+    "calidoSuave": "#f6f5f4"
+  },
+  "fotos": {
+    "principal": "https://quatrop.es/wp-content/uploads/2026/05/CristinaGarciaDental-144.jpg",
+    "clinica1": "https://quatrop.es/wp-content/uploads/2026/05/Cristina-Dental-039.jpg",
+    "clinica2": "https://quatrop.es/wp-content/uploads/2026/05/CristinaGarciaDental-112.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. PESET ALEIXANDRE, 66 · VALENCIA",
+    "titulo": [
+      "«Reserve cita ahora», dicen cuatro botones.",
+      "Ninguno lleva a ninguna parte."
+    ],
+    "intro": "Una clínica moderna de odontología integral avanzada, «ante todo personas», con la Dra. Cristina García, que ha pasado por la prótesis, la higiene y la odontología. Proponemos que esos botones hagan lo que prometen: dejar la cita reservada.",
+    "hallazgos": [
+      "Los cuatro botones «Reserve cita ahora» de vuestra portada tienen el enlace vacío: al pulsarlos no pasa nada.",
+      "Vuestra web no tiene formulario ni WhatsApp, y el email aparece como texto: la única forma de pedir cita es llamar en horario.",
+      "Según vuestro horario, el viernes cerráis a las 18:00 y no abrís hasta el lunes a las 10:00: 64 horas seguidas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Reserve cita ahora» reserve la cita.",
+      "texto": "Conectar esos botones a un asistente en vuestra web que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de la Dra. García y su equipo."
+    },
+    "pregunta": "¿Sabíais que los botones «Reserve cita ahora» no hacen nada al pulsarlos?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. PESET ALEIXANDRE, 66 · VALENCIA",
+    "telefono": "963 499 920",
+    "telefonos": "963 499 920 · 610 110 457",
+    "direccion": "Av. del Dr. Peset Aleixandre, 66 · 46025 Valencia",
+    "marca": "CRISTINA GARCÍA",
+    "submarca": "DENTAL",
+    "menuEquipo": "Nuestro equipo",
+    "heroEtiqueta": "ODONTOLOGÍA INTEGRAL AVANZADA EN VALENCIA",
+    "heroTitulo": "Ante todo,",
+    "heroDestacado": "personas.",
+    "heroTexto": "Una clínica moderna, con atención personalizada y tecnología de vanguardia para tu salud bucodental. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserve cita ahora",
+    "frase": "Conocer la dentadura y a la persona.",
+    "nota": "Tardes hasta las 21:00 de lunes a jueves.",
+    "fotoEtiqueta": "DRA. CRISTINA GARCÍA IBÁÑEZ",
+    "fotoTitulo": "Odontología general, estética dental y facial.",
+    "cifra": "21:00",
+    "cifraEtiqueta": "ABIERTO DE LUNES A JUEVES",
+    "equipoTitulo": "Una odontóloga que conoce cada paso.",
+    "equipoTexto": "La Dra. Cristina García ha pasado por todos los niveles de la odontología: fue protésica dental, higienista y hoy es odontóloga, con Javier Miralles Olaso como director de clínica.",
+    "valores": [
+      [
+        "Ante todo personas.",
+        "Atención personalizada."
+      ],
+      [
+        "Integral.",
+        "Todas las especialidades."
+      ],
+      [
+        "Vanguardia.",
+        "Tecnología para tu salud."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Moderna y luminosa.",
+    "galeriaDestacado": "En Peset Aleixandre.",
+    "pies": [
+      "Uno de los gabinetes",
+      "Diagnóstico con el equipo"
+    ],
+    "servicios": [
+      "Estética dental y facial",
+      "Implantología avanzada",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Periodoncia",
+      "Endodoncia"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 16:00 a 21:00; los viernes de 9:00 a 14:00 y de 15:00 a 18:00."
+      ],
+      [
+        "¿Necesito un diagnóstico antes?",
+        "Sí. En la primera visita hacemos un diagnóstico personalizado."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Av. del Dr. Peset Aleixandre, 66, 46025 Valencia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Estética dental",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Odontología integral avanzada en Valencia",
+    "notaDiseno": "El violeta de su clínica, la Dra. García en primer plano y unos botones que por fin reservan la cita.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "16:00",
+        "17:30",
+        "20:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "16:00",
+        "17:30",
+        "20:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 16:00–21:00",
+      "Viernes: 9:00–14:00 y 15:00–18:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 352
+    }
+  }
+}

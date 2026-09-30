@@ -1,0 +1,169 @@
+{
+  "slug": "clinica-dental-crespo",
+  "numero": 131,
+  "clinica": {
+    "nombre": "Clínica Dental Crespo",
+    "nombreCorto": "Clínica Crespo",
+    "dominio": "clinicadentalcrespo.com",
+    "web": "https://clinicadentalcrespo.com/",
+    "contacto": "https://clinicadentalcrespo.com/contacto/",
+    "decisor": "Dra. Ana Crespo"
+  },
+  "colores": {
+    "acento": "#1f5fa8",
+    "tinta": "#16202d",
+    "profundo": "#192d43",
+    "suave": "#eff4f9",
+    "borde": "#d9e4f0",
+    "calido": "#6b8db8",
+    "calidoSuave": "#f0f4f8"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalcrespo.com/wp-content/uploads/2026/04/IMG_5075.jpg",
+    "clinica1": "https://clinicadentalcrespo.com/wp-content/uploads/2026/02/clinica-crespo-.png",
+    "clinica2": "https://clinicadentalcrespo.com/wp-content/uploads/2026/06/IMG_8448-1152x2048.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ LA SAVINA, 2 · PATERNA",
+    "titulo": [
+      "Vuestro botón «Contáctanos por WhatsApp»",
+      "no lleva el prefijo 34."
+    ],
+    "intro": "Más de 20 años cuidando de las familias de Paterna, con la Dra. Ana Crespo al frente, implantes en un día y ortodoncia invisible. Proponemos que el paciente que os escribe salga con la cita reservada en el momento.",
+    "hallazgos": [
+      "El botón «Contáctanos por WhatsApp» de la portada y el enlace del WhatsApp en contacto apuntan al 692 731 324 sin el prefijo 34. WhatsApp necesita el número en formato internacional, así que pueden no abrir la conversación. Solo el botón «Pedir cita» de la barra del móvil lo lleva bien.",
+      "Los botones «Pide cita» y «Pide cita ahora» llevan a un formulario de nombre, teléfono, email y mensaje: el paciente se va sin fecha, esperando vuestra respuesta.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 9:30 pasan 61 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp conteste y reserve.",
+      "texto": "Ya tenéis el botón «Pedir cita» con «Hola! Me gustaría pedir una cita» preparado. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Si es una urgencia o un dolor, avisa al equipo al momento; si es de implantes u ortodoncia, la lleva a la agenda de quien corresponde. Lo clínico sigue siendo cosa de la Dra. Crespo y su equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp de «me gustaría pedir una cita» contestáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ LA SAVINA, 2 · PATERNA",
+    "telefono": "961 38 25 55",
+    "telefonos": "961 38 25 55 · WhatsApp 692 731 324",
+    "direccion": "C/ de la Savina, 2, bajo · 46980 Paterna (Valencia)",
+    "marca": "CLÍNICA CRESPO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PATERNA",
+    "heroTitulo": "Tu sonrisa",
+    "heroDestacado": "habla de ti.",
+    "heroTexto": "Especialistas en cuidar de ti y de tu familia, con las técnicas más avanzadas. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Estamos para ayudarte a solucionar cualquier problema bucodental.",
+    "nota": "Liderados desde hace más de 20 años por la Dra. Ana Crespo.",
+    "fotoEtiqueta": "DRA. ANA CRESPO",
+    "fotoTitulo": "Un trato personalizado y cálido.",
+    "cifra": "+20",
+    "cifraEtiqueta": "AÑOS CUIDANDO SONRISAS EN PATERNA",
+    "equipoTitulo": "Especialistas en cuidar de tu familia.",
+    "equipoTexto": "La Dra. Ana Crespo lidera un equipo con especialistas en endodoncia, odontología general e higiene, con equipamiento de última generación y un compromiso firme con la salud oral.",
+    "valores": [
+      [
+        "Implantes en un día.",
+        "También sin hueso o sin cirugía."
+      ],
+      [
+        "Ortodoncia.",
+        "Invisible, brackets e infantil."
+      ],
+      [
+        "Sin dolor.",
+        "Láser dental y terapia del dolor."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro de Paterna.",
+    "galeriaDestacado": "Cerca de ti.",
+    "pies": [
+      "La clínica",
+      "En el gabinete"
+    ],
+    "servicios": [
+      "Implantes en 1 día",
+      "Ortodoncia invisible",
+      "Ortodoncia infantil",
+      "Carillas dentales",
+      "Endodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Los lunes de 9:30 a 18:00, y de martes a viernes de 9:30 a 14:00 y de 16:00 a 20:00."
+      ],
+      [
+        "¿Hacéis implantes en un día?",
+        "Sí. También implantes sin hueso y sin cirugía. Te lo explicamos en la primera visita."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 692 731 324 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en Paterna",
+    "notaDiseno": "El azul de Clínica Crespo, la Dra. Ana Crespo en su clínica y un WhatsApp que siempre abre y reserva.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes: 9:30–18:00",
+      "Martes a viernes: 9:30–14:00 y 16:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 224
+    }
+  }
+}

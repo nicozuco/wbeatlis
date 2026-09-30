@@ -1,0 +1,167 @@
+{
+  "slug": "etica-dental",
+  "numero": 124,
+  "clinica": {
+    "nombre": "Ética Dental",
+    "nombreCorto": "Ética Dental",
+    "dominio": "eticadentalvalencia.com",
+    "web": "https://eticadentalvalencia.com/",
+    "contacto": "https://eticadentalvalencia.com/#form",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#0a3a73",
+    "tinta": "#16202d",
+    "profundo": "#192c43",
+    "suave": "#eef1f5",
+    "borde": "#d5dee7",
+    "calido": "#00b5c4",
+    "calidoSuave": "#e6f8f9"
+  },
+  "fotos": {
+    "principal": "https://eticadentalvalencia.com/wp-content/uploads/2025/02/etica-dental-quienes-somos-clinica-dental-desktop@2x.webp",
+    "clinica1": "https://eticadentalvalencia.com/wp-content/uploads/2025/02/etica-dental-quienes-somos-salud-bucal-desktop@2x.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ POBLA DE FARNALS, 20 · VALENCIA",
+    "titulo": [
+      "«Agendar cita», dicen vuestros botones.",
+      "Y el formulario pregunta cuándo queréis que os llamen."
+    ],
+    "intro": "Un equipo de especialistas en cirugía oral, implantología y casos complejos, con urgencias también el fin de semana. Proponemos que «Agendar cita» haga exactamente eso: dejar la cita agendada, con día y hora.",
+    "hallazgos": [
+      "Todos los botones «Agendar cita» y «Agenda una cita» llevan al mismo formulario de siete campos: nombre, apellido, email, teléfono, especialidad, mensaje y la franja «en la cual desea ser contactado». El paciente elige cuándo le llamáis, no cuándo viene.",
+      "Vuestra web no tiene WhatsApp ni otra forma de escribiros al momento: fuera de horario, solo queda el formulario.",
+      "Anunciáis urgencias 24 horas los fines de semana, pero en el formulario no se puede elegir «urgencia»: solo implantes, ortodoncia, periodoncia, prótesis, endodoncia, blanqueamiento o estética."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Agendar cita» deje la cita agendada.",
+      "texto": "Un asistente en vuestra web, detrás de los botones de «Agendar cita», que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta la especialidad, detecta si es una urgencia y, si lo es, avisa al equipo de guardia al momento. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas llamadas hacéis cada semana a quien rellena el formulario?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ POBLA DE FARNALS, 20 · VALENCIA",
+    "telefono": "633 09 77 80",
+    "telefonos": "633 09 77 80 · 960 44 18 91",
+    "direccion": "C/ de la Pobla de Farnals, 20, bajo izq. · 46021 Valencia",
+    "marca": "ÉTICA DENTAL",
+    "submarca": "VALENCIA",
+    "menuEquipo": "Quiénes somos",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Creando sonrisas brillantes",
+    "heroDestacado": "con compromiso ético.",
+    "heroTexto": "Especialistas en cirugía oral, implantología y casos complejos, con un cuidado personalizado. Elige día y hora y tu cita queda agendada.",
+    "ctaHero": "Agendar cita",
+    "frase": "Tu socio confiable en la salud bucal.",
+    "nota": "Urgencias 24 h sábados y domingos.",
+    "fotoEtiqueta": "EL EQUIPO DE ÉTICA DENTAL",
+    "fotoTitulo": "Especialistas en casos complejos.",
+    "cifra": "24 h",
+    "cifraEtiqueta": "URGENCIAS LOS FINES DE SEMANA",
+    "equipoTitulo": "Un especialista para cada tratamiento.",
+    "equipoTexto": "Cirugía oral, implantología, prótesis, endodoncia y ortodoncia, cada una con su especialista: un equipo con experiencia en casos difíciles y una pasión común por cuidar tu sonrisa.",
+    "valores": [
+      [
+        "Experiencia.",
+        "Cirugía oral y casos complejos."
+      ],
+      [
+        "Tecnología.",
+        "Diagnóstico preciso."
+      ],
+      [
+        "Ética.",
+        "Lo que necesitas, y nada más."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Excelencia, pasión, valor.",
+    "galeriaDestacado": "En Valencia.",
+    "pies": [
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Implantes",
+      "Ortodoncia e Invisalign",
+      "Periodoncia",
+      "Prótesis dental",
+      "Endodoncia",
+      "Estética y blanqueamiento"
+    ],
+    "faq": [
+      [
+        "¿Atendéis urgencias el fin de semana?",
+        "Sí. Los sábados y domingos tenemos urgencias 24 horas."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 9:30 a 20:00."
+      ],
+      [
+        "¿Hacéis casos complejos?",
+        "Sí. Nuestro equipo tiene amplia experiencia en cirugía oral, implantología y casos difíciles."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia e Invisalign"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul marino y el turquesa de Ética Dental, su equipo de especialistas y un «Agendar cita» que por fin agenda.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "12:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "12:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:30–20:00",
+      "Sábados y domingos: urgencias 24 h"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 238
+    }
+  }
+}

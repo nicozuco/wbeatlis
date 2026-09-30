@@ -1,0 +1,167 @@
+{
+  "slug": "tres-forques-dental",
+  "numero": 108,
+  "clinica": {
+    "nombre": "Tres Forques Dental",
+    "nombreCorto": "Tres Forques",
+    "dominio": "tresforquesdental.com",
+    "web": "https://tresforquesdental.com/",
+    "contacto": "https://tresforquesdental.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#14818a",
+    "tinta": "#162b2d",
+    "profundo": "#193f43",
+    "suave": "#eff6f7",
+    "borde": "#d7eaeb",
+    "calido": "#e0b400",
+    "calidoSuave": "#fcf8e6"
+  },
+  "fotos": {
+    "principal": "https://tresforquesdental.com/wp-content/uploads/2026/03/tres-forques-dental-medica-cirujana-equipo-dentistas.jpg",
+    "clinica1": "https://tresforquesdental.com/wp-content/uploads/2026/03/Clinica-dental-tres-forques-fachada.jpg",
+    "clinica2": "https://tresforquesdental.com/wp-content/uploads/2026/03/tres-forques-dental-tratamiento-cirugia-periodoncia-valencia.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ TRES FORQUES, 50 · PATRAIX",
+    "titulo": [
+      "El botón de WhatsApp de vuestra web",
+      "no abre la conversación."
+    ],
+    "intro": "Una clínica de Patraix con cobertura total en odontología, diagnóstico riguroso y un trato cercano desde la primera visita. Proponemos que el WhatsApp funcione y que, además, deje la cita reservada en el momento.",
+    "hallazgos": [
+      "El enlace de WhatsApp de vuestra web está duplicado: apunta a «wa.me/https://wa.me/34648466092», una dirección que no existe, así que el paciente no llega a escribiros.",
+      "El botón «Pedir cita» lleva a un formulario de contacto: el paciente deja un mensaje y espera vuestra respuesta.",
+      "Según vuestro horario, el viernes cerráis a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Arreglar el WhatsApp y que atienda solo.",
+      "texto": "Con el enlace corregido, vuestro WhatsApp 648 46 60 92 puede atender a cualquier hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Os escribe alguien por WhatsApp desde la web, o casi todos llaman?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ TRES FORQUES, 50 · PATRAIX",
+    "telefono": "963 55 63 77",
+    "telefonos": "963 55 63 77 · WhatsApp 648 46 60 92",
+    "direccion": "C/ de les Tres Forques, 50 · 46018 Valencia",
+    "marca": "TRES FORQUES",
+    "submarca": "DENTAL",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PATRAIX (VALENCIA)",
+    "heroTitulo": "Confianza",
+    "heroDestacado": "desde el primer momento.",
+    "heroTexto": "Cuidamos tu sonrisa con un enfoque cercano, profesional y totalmente personalizado. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Explicamos cada paso para que te sientas seguro.",
+    "nota": "Cobertura total en odontología, en un mismo espacio.",
+    "fotoEtiqueta": "EL EQUIPO DE TRES FORQUES DENTAL",
+    "fotoTitulo": "Tu clínica en Patraix.",
+    "cifra": "360°",
+    "cifraEtiqueta": "COBERTURA TOTAL EN ODONTOLOGÍA",
+    "equipoTitulo": "Un diagnóstico preciso, un plan a medida.",
+    "equipoTexto": "Analizamos cada caso con rigor, hacemos un diagnóstico preciso y diseñamos un plan de tratamiento a medida, con una relación transparente desde la primera visita.",
+    "valores": [
+      [
+        "Confianza.",
+        "Transparencia en cada paso."
+      ],
+      [
+        "Disponibilidad.",
+        "Cerca cuando nos necesitas."
+      ],
+      [
+        "Calidad.",
+        "Experiencia y rigor."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Tres Forques, 50.",
+    "galeriaDestacado": "En pleno Patraix.",
+    "pies": [
+      "La fachada",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Implantes y All-on-4",
+      "Estética y carillas",
+      "Ortodoncia invisible",
+      "Prótesis",
+      "Periodoncia",
+      "Odontología infantil"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 15:00 a 20:00; los viernes de 10:00 a 14:00."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ de les Tres Forques, 50, en Patraix (46018 Valencia)."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 648 46 60 92 y la dejamos reservada."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Estética dental"
+    ],
+    "pieMarca": "Clínica dental en Patraix",
+    "notaDiseno": "El turquesa de Tres Forques, su equipo delante del logo y un WhatsApp que por fin abre la conversación.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 15:00–20:00",
+      "Viernes: 10:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 322
+    }
+  }
+}

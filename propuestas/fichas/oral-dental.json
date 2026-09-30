@@ -1,0 +1,168 @@
+{
+  "slug": "oral-dental",
+  "numero": 114,
+  "clinica": {
+    "nombre": "Clínica Oral-Dental",
+    "nombreCorto": "Oral-Dental",
+    "dominio": "clinicaoraldental.com",
+    "web": "https://www.clinicaoraldental.com/",
+    "contacto": "https://www.clinicaoraldental.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#b8141f",
+    "tinta": "#12263a",
+    "profundo": "#12263a",
+    "suave": "#faefef",
+    "borde": "#f3d7d9",
+    "calido": "#0f86b6",
+    "calidoSuave": "#e7f3f8"
+  },
+  "fotos": {
+    "principal": "https://clinicaoraldental.com/wp-content/uploads/FOTOS-ORAL-DENTAL-WEB-058-scaled.jpg",
+    "clinica1": "https://clinicaoraldental.com/wp-content/uploads/FOTOS-ORAL-DENTAL-WEB-042-2048x1365.jpg",
+    "clinica2": "https://clinicaoraldental.com/wp-content/uploads/FOTOS-ORAL-DENTAL-WEB-087-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "GRAN VÍA FERNANDO EL CATÓLICO, 67 · VALENCIA",
+    "titulo": [
+      "El enlace del email de vuestra web",
+      "no lleva a ningún email."
+    ],
+    "intro": "Una clínica de confianza en la Gran Vía, con filosofía «slow»: primero la salud, sin prisas y cuidando cada detalle. Proponemos que pedir cita tampoco dependa de esperar: con día y hora, en el momento.",
+    "hallazgos": [
+      "El enlace del email de vuestra web abre un correo a «info@https://clinicaoraldental.es/», una dirección imposible: quien lo pulsa no llega a escribiros.",
+      "El formulario «Solicitar cita» pide nombre, email, teléfono y si prefieres «mañanas o tardes»: el paciente se va sin día ni hora, esperando vuestra llamada.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 10:00 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pedir cita» dé la cita.",
+      "texto": "Un asistente en vuestra web, en lugar del formulario, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Sabíais que el enlace del email de la web no funciona?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "GRAN VÍA FERNANDO EL CATÓLICO, 67 · VALENCIA",
+    "telefono": "963 262 019",
+    "telefonos": "963 262 019 · 698 453 387",
+    "direccion": "Gran Vía Fernando el Católico, 67 · 46008 Valencia",
+    "marca": "ORAL-DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "El equipo",
+    "heroEtiqueta": "TU CLÍNICA DE CONFIANZA EN VALENCIA",
+    "heroTitulo": "Primero la salud,",
+    "heroDestacado": "sin prisas.",
+    "heroTexto": "Tratamientos de alta calidad, tecnología actual y una atención personalizada en un ambiente acogedor. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita ahora",
+    "frase": "Filosofía slow: cuidando cada detalle.",
+    "nota": "En la Gran Vía Fernando el Católico.",
+    "fotoEtiqueta": "EL EQUIPO DE ORAL-DENTAL",
+    "fotoTitulo": "Como en casa.",
+    "cifra": "Slow",
+    "cifraEtiqueta": "ODONTOLOGÍA SIN PRISAS",
+    "equipoTitulo": "Confianza y calidad.",
+    "equipoTexto": "Un equipo de profesionales altamente cualificados que crea vínculos duraderos con cada paciente, con la última tecnología y una atención adaptada a sus necesidades.",
+    "valores": [
+      [
+        "Slow.",
+        "Sin prisas, cada detalle."
+      ],
+      [
+        "Calidad.",
+        "La última tecnología."
+      ],
+      [
+        "Cercanía.",
+        "Como en casa."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En la Gran Vía.",
+    "galeriaDestacado": "Moderna y acogedora.",
+    "pies": [
+      "La fachada",
+      "La recepción"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Implantes dentales",
+      "Blanqueamiento dental",
+      "Odontología general",
+      "Estética dental",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 10:00 a 14:00 y de 16:00 a 20:00."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Gran Vía Fernando el Católico, 67, 46008 Valencia."
+      ],
+      [
+        "¿Puedo elegir el horario?",
+        "Sí. Ves los huecos libres y reservas el que mejor te venga."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Ortodoncia",
+      "Implantes",
+      "Blanqueamiento"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El rojo y el azul noche de Oral-Dental, su equipo en la puerta y una cita que no espera llamadas.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 16:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 280
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "clinica-dental-xirivella",
+  "numero": 127,
+  "clinica": {
+    "nombre": "Clínica Dental Xirivella · Sanchis & Escuin",
+    "nombreCorto": "Clínica Dental Xirivella",
+    "dominio": "clinicadentalxirivella.com",
+    "web": "https://clinicadentalxirivella.com/",
+    "contacto": "https://clinicadentalxirivella.com/contacto/",
+    "decisor": "José Carlos Sanchis y María Escuin"
+  },
+  "colores": {
+    "acento": "#2f7d7a",
+    "tinta": "#162d2c",
+    "profundo": "#194341",
+    "suave": "#f0f6f6",
+    "borde": "#dce9e8",
+    "calido": "#b89478",
+    "calidoSuave": "#f8f4f2"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalxirivella.com/wp-content/uploads/2025/01/equipo-home-clinica-dental-xirivella.webp",
+    "clinica1": "https://clinicadentalxirivella.com/wp-content/uploads/2025/01/01-la-cinica-dental-xirivella-1.webp",
+    "clinica2": "https://clinicadentalxirivella.com/wp-content/uploads/2025/01/02-la-clinica-dental-xirivella.webp"
+  },
+  "propuesta": {
+    "etiqueta": "PLAZA DE LA CONCORDIA, 9 · XIRIVELLA",
+    "titulo": [
+      "227 reseñas y un 5 de 5 en Google.",
+      "Y en vuestra web no hay forma de pedir cita."
+    ],
+    "intro": "Un equipo joven y muy bien valorado en Xirivella, con cirugía, implantes y ortodoncia bajo el mismo techo. Proponemos que quien llega a vuestra web pueda reservar su cita en el momento, sin tener que llamar.",
+    "hallazgos": [
+      "Vuestra web no tiene botón de «Pedir cita», ni formulario, ni WhatsApp: solo los teléfonos y un email. Quien la visita fuera de horario no tiene dónde dejar su petición.",
+      "El móvil 674 26 76 54 aparece en la web, pero sin enlace a WhatsApp: para escribiros hay que guardarlo antes como contacto.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 8:30 pasan 66 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Un botón de cita que dé la cita.",
+      "texto": "Un asistente en vuestra web, con su botón de pedir cita, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Distingue una revisión de un implante o una ortodoncia, y la lleva a la agenda de quien corresponde. Y el mismo asistente puede atender en el WhatsApp del 674 26 76 54. Lo clínico sigue siendo cosa de José Carlos, María y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas perdéis mientras estáis en el gabinete?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PLAZA DE LA CONCORDIA, 9 · XIRIVELLA",
+    "telefono": "963 12 02 61",
+    "telefonos": "963 12 02 61 · 674 26 76 54",
+    "direccion": "Plaza de la Concordia, 9 · 46950 Xirivella (Valencia)",
+    "marca": "CLÍNICA DENTAL XIRIVELLA",
+    "submarca": "SANCHIS & ESCUIN",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN XIRIVELLA",
+    "heroTitulo": "Satisfecho con el trato",
+    "heroDestacado": "y con el tratamiento.",
+    "heroTexto": "Un equipo en constante formación, con radiología digital y todas las especialidades. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Para que tu sonrisa esté siempre sana y reluciente.",
+    "nota": "Instalaciones adaptadas a personas con movilidad reducida.",
+    "fotoEtiqueta": "EL EQUIPO",
+    "fotoTitulo": "Profesionales en constante formación.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Cirugía, implantes y ortodoncia.",
+    "equipoTexto": "José Carlos Sanchis, con másteres en cirugía bucal e implantología; María Escuin, en odontología clínica; y Montse Boronat, en ortodoncia, junto a Laura y Vanessa, higienista y auxiliar.",
+    "valores": [
+      [
+        "Diagnóstico digital.",
+        "Ortopantomografía en la clínica."
+      ],
+      [
+        "Seguridad.",
+        "Protocolos de esterilización."
+      ],
+      [
+        "Accesible.",
+        "Adaptada a movilidad reducida."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz natural.",
+    "galeriaDestacado": "En el centro de Xirivella.",
+    "pies": [
+      "Uno de los gabinetes",
+      "La recepción"
+    ],
+    "servicios": [
+      "Implantología",
+      "Cirugía bucal",
+      "Ortodoncia",
+      "Odontología general",
+      "Higiene dental",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 8:30 a 19:00 y los viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Hacéis implantes?",
+        "Sí. José Carlos Sanchis tiene másteres en cirugía bucal e implantología por la Universidad de Valencia."
+      ],
+      [
+        "¿La clínica es accesible?",
+        "Sí. La entrada y todas las instalaciones están adaptadas para personas con movilidad reducida."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en Xirivella",
+    "notaDiseno": "Los tonos cálidos de la clínica de Xirivella, su equipo y, por fin, un botón de pedir cita que da la cita.",
+    "huecos": {
+      "lunes": [
+        "8:30",
+        "11:30",
+        "13:00",
+        "15:00",
+        "18:00"
+      ],
+      "martes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "miercoles": [
+        "8:30",
+        "11:30",
+        "13:00",
+        "15:00",
+        "18:00"
+      ],
+      "jueves": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 8:30–19:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 227
+    }
+  }
+}

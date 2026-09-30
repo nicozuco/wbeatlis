@@ -1,0 +1,170 @@
+{
+  "slug": "clinica-lux-valencia",
+  "numero": 126,
+  "clinica": {
+    "nombre": "Clínica Lux Valencia",
+    "nombreCorto": "Clínica Lux",
+    "dominio": "clinicaluxvalencia.com",
+    "web": "https://clinicaluxvalencia.com/",
+    "contacto": "https://clinicaluxvalencia.com/solicitar-cita-previa/",
+    "decisor": "Dra. Amanda Sanchis"
+  },
+  "colores": {
+    "acento": "#c42f6c",
+    "tinta": "#2d161f",
+    "profundo": "#43192a",
+    "suave": "#fbf0f5",
+    "borde": "#f5dce6",
+    "calido": "#16163f",
+    "calidoSuave": "#e8e8ec"
+  },
+  "fotos": {
+    "principal": "https://clinicaluxvalencia.com/wp-content/uploads/2026/04/clinicalux_andreawaves_B2A1395-scaled.jpg",
+    "clinica1": "https://clinicaluxvalencia.com/wp-content/uploads/2026/04/clinicalux_andreawaves_B2A1715-scaled.jpg",
+    "clinica2": "https://clinicaluxvalencia.com/wp-content/uploads/2026/04/clinicalux_andreawaves_B2A1433-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE LA MALVARROSA, 23 · VALENCIA",
+    "titulo": [
+      "«Solicitar cita», dice el botón.",
+      "Y el formulario no pregunta ni el día ni la hora."
+    ],
+    "intro": "Más de 10 años construyendo sonrisas en la Malvarrosa, con un enfoque cercano, elegante y profesional. Proponemos que la cita quede reservada en el momento, con día y hora, en la web o en el WhatsApp.",
+    "hallazgos": [
+      "Todos vuestros botones de cita llevan al mismo formulario: nombre, teléfono, email, tratamiento y mensaje, y un botón «Solicitar cita». En ningún momento se elige día ni hora: el paciente se va sin fecha.",
+      "Hasta el botón «Cómo llegar a Clínica Lux Valencia» lleva a ese formulario, en lugar de al mapa.",
+      "Según vuestro horario en Google, del viernes a las 16:30 al lunes a las 10:00 pasan 65 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp flotante en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta el tratamiento, igual que vuestro formulario, y si es una urgencia avisa al equipo al momento. Lo clínico sigue siendo cosa de la Dra. Sanchis y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes de cita tenéis que llamar cada lunes para darles hora?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE LA MALVARROSA, 23 · VALENCIA",
+    "telefono": "963 268 972",
+    "telefonos": "963 268 972",
+    "direccion": "Av. de la Malvarrosa, 23 · 46011 Valencia",
+    "marca": "CLÍNICA LUX",
+    "submarca": "DENTAL · ESTÉTICA",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN LA MALVARROSA",
+    "heroTitulo": "Cercana, elegante",
+    "heroDestacado": "y profesional.",
+    "heroTexto": "Te acompañamos con una atención cercana, sin estrés y con tratamientos adaptados a ti. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Experiencia, confianza, cercanía.",
+    "nota": "Para la Malvarrosa, el Cabanyal, Beteró, Benimaclet y toda Valencia.",
+    "fotoEtiqueta": "CLÍNICA LUX VALENCIA",
+    "fotoTitulo": "Una clínica pensada para estar a gusto.",
+    "cifra": "+10",
+    "cifraEtiqueta": "AÑOS CONSTRUYENDO SONRISAS",
+    "equipoTitulo": "Explicaciones claras, sin estrés.",
+    "equipoTexto": "Un equipo liderado por la Dra. Amanda Sanchis, con tratamientos personalizados y una atención cercana desde la primera consulta: ortodoncia invisible, implantes, estética y odontología general.",
+    "valores": [
+      [
+        "Cercanía.",
+        "Una atención sin estrés."
+      ],
+      [
+        "Claridad.",
+        "Te explicamos cada paso."
+      ],
+      [
+        "Estética.",
+        "Resultados naturales."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Junto al mar.",
+    "galeriaDestacado": "En la Malvarrosa.",
+    "pies": [
+      "La recepción",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Carillas dentales",
+      "Diseño digital de sonrisa",
+      "Periodoncia",
+      "Endodoncia"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 13:00 y de 16:00 a 20:00, y los viernes de 9:30 a 16:30."
+      ],
+      [
+        "¿Atendéis urgencias?",
+        "Sí. Escríbenos por WhatsApp y te decimos cuándo puedes venir."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Av. de la Malvarrosa, 23, en los Poblados Marítimos."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Limpieza y revisión",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Estética dental"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El magenta y el azul noche de Clínica Lux, su clínica luminosa y una cita que se reserva con día y hora.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30",
+        "16:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–13:00 y 16:00–20:00",
+      "Viernes: 9:30–16:30"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 229
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "paula-aguilar",
+  "numero": 100,
+  "clinica": {
+    "nombre": "Clínica Dental Dra. Paula Aguilar",
+    "nombreCorto": "Dra. Paula Aguilar",
+    "dominio": "drapaulaaguilar.com",
+    "web": "https://drapaulaaguilar.com/",
+    "contacto": "https://drapaulaaguilar.com/contactar/",
+    "decisor": "Dra. Paula Aguilar"
+  },
+  "colores": {
+    "acento": "#3e6a4f",
+    "tinta": "#182a1f",
+    "profundo": "#223a2b",
+    "suave": "#f1f5f3",
+    "borde": "#dee6e1",
+    "calido": "#968270",
+    "calidoSuave": "#f4f2f1"
+  },
+  "fotos": {
+    "principal": "https://drapaulaaguilar.com/wp-content/uploads/2023/04/Foto-Portada-Dra-Paula-Aguilar.png",
+    "clinica1": "https://drapaulaaguilar.com/wp-content/uploads/2023/05/Dra-Paula-Aguilar-y-Dra-Adela.png"
+  },
+  "propuesta": {
+    "etiqueta": "DENTISTAS EN MISLATA · 35 AÑOS",
+    "titulo": [
+      "«Sin esperas», prometéis en la clínica.",
+      "Que tampoco las haya para pedir cita."
+    ],
+    "intro": "Una clínica familiar con 35 años en Mislata, ahora dirigida por la Dra. Paula Aguilar, con una agenda pensada para no hacer esperar a nadie. Proponemos que pedir cita sea igual de ágil: en el WhatsApp, en el momento.",
+    "hallazgos": [
+      "Para pedir cita, vuestra web ofrece «Escríbenos sin compromiso» con un formulario: el paciente deja sus datos y espera a que le contestéis.",
+      "El móvil 659 00 83 03, que es también vuestro WhatsApp, aparece como texto: desde el móvil solo se puede pulsar para llamar al fijo.",
+      "Según vuestro horario, el viernes cerráis a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas seguidas. Y los miércoles también cerráis por la tarde."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve sin esperas.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Conoce vuestro horario de cada día, así que solo ofrece las tardes que abrís. Lo clínico sigue siendo cosa de la Dra. Aguilar y su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes del formulario contestáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. GREGORIO GEA, 37 · MISLATA",
+    "telefono": "963 503 688",
+    "telefonos": "963 503 688 · WhatsApp 659 00 83 03",
+    "direccion": "Av. Gregorio Gea, 37, ptas. 2-3 · 46920 Mislata (Valencia)",
+    "marca": "PAULA AGUILAR",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "DENTISTAS FAMILIARES EN MISLATA",
+    "heroTitulo": "Diseñamos tu sonrisa,",
+    "heroDestacado": "mejoramos tu salud.",
+    "heroTexto": "Queremos cambiar tu visión de ir al dentista: una agenda sin esperas y un trato familiar, cercano y sincero. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "El tiempo pasa, pero nuestros valores siguen intactos.",
+    "nota": "Sin esperas y sin prisas.",
+    "fotoEtiqueta": "DRA. PAULA AGUILAR",
+    "fotoTitulo": "Directora médica.",
+    "cifra": "35",
+    "cifraEtiqueta": "AÑOS CUIDANDO SONRISAS EN MISLATA",
+    "equipoTitulo": "Una clínica familiar.",
+    "equipoTexto": "La Dra. Paula Aguilar dirige hoy la clínica que lleva en sus genes, con los mismos valores: excelencia, formación continuada de todo el equipo y la tecnología más avanzada.",
+    "valores": [
+      [
+        "Sin esperas.",
+        "Una agenda planificada."
+      ],
+      [
+        "Sin prisas.",
+        "El tiempo que necesitas."
+      ],
+      [
+        "Familiar.",
+        "Cercana y sincera."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Dos generaciones.",
+    "galeriaDestacado": "Los mismos valores.",
+    "pies": [
+      "La Dra. Paula Aguilar y la Dra. Adela"
+    ],
+    "servicios": [
+      "Estética dental",
+      "Implantes dentales",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Endodoncia y periodoncia",
+      "Medicina estética"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes, martes y jueves de 9:00 a 20:00; miércoles y viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Tendré que esperar en la clínica?",
+        "No. Planificamos las citas para evitar esperas."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 659 00 83 03 y la dejamos reservada."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Estética dental",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Dentistas familiares en Mislata",
+    "notaDiseno": "El verde y el arena de su marca, la Dra. Aguilar en primer plano y un WhatsApp que reserva sin esperas.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ],
+      "jueves": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes, martes y jueves: 9:00–20:00",
+      "Miércoles y viernes: 9:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 373
+    }
+  }
+}

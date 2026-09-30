@@ -1,0 +1,168 @@
+{
+  "slug": "clinica-mireia",
+  "numero": 104,
+  "clinica": {
+    "nombre": "Clínica Dental Mireia",
+    "nombreCorto": "Clínica Mireia",
+    "dominio": "clinicadentalmireia.com",
+    "web": "https://www.clinicadentalmireia.com/",
+    "contacto": "https://www.clinicadentalmireia.com/contacto",
+    "decisor": "Dra. Mireia Vila"
+  },
+  "colores": {
+    "acento": "#d4513b",
+    "tinta": "#2d1916",
+    "profundo": "#431f19",
+    "suave": "#fcf3f1",
+    "borde": "#f8e1de",
+    "calido": "#1aa38b",
+    "calidoSuave": "#e8f6f3"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalmireia.com/wp-content/uploads/2025/07/MREIA2-scaled-e1753772439984.jpg",
+    "clinica1": "https://www.clinicadentalmireia.com/wp-content/uploads/2025/07/DSC_6973-Pano-2048x983.jpg",
+    "clinica2": "https://www.clinicadentalmireia.com/wp-content/uploads/2021/09/omega_c32_028-3.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "HORT DELS FRARES, 49 · ALZIRA",
+    "titulo": [
+      "«Las dentistas que no se comportan",
+      "como los dentistas de toda la vida.»"
+    ],
+    "intro": "Una clínica en Alzira con un espacio pensado para que ir al dentista deje de ser un problema, también para los más pequeños. Proponemos que pedir cita tampoco lo sea: por WhatsApp, a cualquier hora, con la cita reservada en el momento.",
+    "hallazgos": [
+      "Los teléfonos de la cabecera, 648 918 670 y 962 41 23 00, aparecen juntos como texto: desde el móvil no se pueden pulsar para llamar.",
+      "El botón «Pedir cita» lleva a un formulario de contacto: el paciente deja sus datos y se va sin fecha.",
+      "Vuestra web dice que abrís de lunes a viernes hasta las 20:00, pero en Google el viernes cerráis a las 19:00 y no abrís hasta el lunes a las 9:30: 62 horas y media seguidas."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el botón de WhatsApp, con el 648 918 670, en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Y si la cita es para un niño, la lleva directamente a la agenda de odontopediatría. Lo clínico sigue siendo cosa de la Dra. Vila y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas perdidas os encontráis los lunes por la mañana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "HORT DELS FRARES, 49 · ALZIRA",
+    "telefono": "962 41 23 00",
+    "telefonos": "962 41 23 00 · WhatsApp 648 918 670",
+    "direccion": "C/ Hort dels Frares, 49, bajo · 46600 Alzira (Valencia)",
+    "marca": "MIREIA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Sobre nosotras",
+    "heroEtiqueta": "DENTISTA EN ALZIRA",
+    "heroTitulo": "¡Llena tu vida",
+    "heroDestacado": "de sonrisas!",
+    "heroTexto": "Boca sana y bonita al alcance de tu mano, en menos tiempo que nunca. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Cada sonrisa cuenta una historia.",
+    "nota": "Hijos sanos = tranquilidad absoluta.",
+    "fotoEtiqueta": "CLÍNICA DENTAL MIREIA",
+    "fotoTitulo": "Las dentistas que no son de toda la vida.",
+    "cifra": "L–V",
+    "cifraEtiqueta": "DE 9:30 A 20:00",
+    "equipoTitulo": "Ir al dentista ya no es un problema.",
+    "equipoTexto": "Un equipo de dentistas que cree en cambiar la forma de ir al dentista: más cómoda, más cercana y en menos tiempo, con un espacio infantil lleno de color para los más pequeños.",
+    "valores": [
+      [
+        "Comodidad.",
+        "Ha llegado a tu boca."
+      ],
+      [
+        "Para niños.",
+        "Hijos sanos, padres tranquilos."
+      ],
+      [
+        "Sin rodeos.",
+        "Menos tiempo que nunca."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y color.",
+    "galeriaDestacado": "En el centro de Alzira.",
+    "pies": [
+      "La recepción",
+      "El gabinete infantil"
+    ],
+    "servicios": [
+      "Implantes",
+      "Invisalign® y ortodoncia",
+      "Carillas y diseño de sonrisa",
+      "Blanqueamiento dental",
+      "Odontopediatría",
+      "Periodoncia y prótesis"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 9:30 a 20:00."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tenemos odontopediatría y un espacio pensado para los más pequeños."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 648 918 670 y la dejamos reservada."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Odontopediatría",
+      "Invisalign",
+      "Implantes"
+    ],
+    "pieMarca": "Clínica dental en Alzira",
+    "notaDiseno": "El coral y el verde agua de su clínica, la doctora en primer plano y un WhatsApp que reserva sin esperas.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:30–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 354
+    }
+  }
+}

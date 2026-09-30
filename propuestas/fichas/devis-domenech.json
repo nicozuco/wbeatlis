@@ -1,0 +1,167 @@
+{
+  "slug": "devis-domenech",
+  "numero": 113,
+  "clinica": {
+    "nombre": "Clínica Dental Devís Domenech",
+    "nombreCorto": "Devís Domenech",
+    "dominio": "clinicadevisdomenech.com",
+    "web": "https://clinicadevisdomenech.com/",
+    "contacto": "https://clinicadevisdomenech.com/contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#6b8f71",
+    "tinta": "#1c261e",
+    "profundo": "#273529",
+    "suave": "#f5f7f5",
+    "borde": "#e6ece7",
+    "calido": "#b89a78",
+    "calidoSuave": "#f8f5f2"
+  },
+  "fotos": {
+    "principal": "https://clinicadevisdomenech.com/wp-content/uploads/2026/03/DEVISDOMENECH_-207-scaled.jpg",
+    "clinica1": "https://clinicadevisdomenech.com/wp-content/uploads/2025/11/DEVISDOMENECH_-10-scaled.jpg",
+    "clinica2": "https://clinicadevisdomenech.com/wp-content/uploads/2025/11/DEVISDOMENECH_-272-2048x1366.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PRIMER DE MAIG, 7 · PAIPORTA",
+    "titulo": [
+      "«Pide cita sin compromiso»",
+      "y el teléfono se rellena con el +1 de Estados Unidos."
+    ],
+    "intro": "Una odontología honesta, cercana y de vanguardia en Paiporta, especializada en ortodoncia, implantes y estética, en unas instalaciones pensadas para el confort. Proponemos que pedir cita sea igual de sencillo: con día y hora, en el momento.",
+    "hallazgos": [
+      "En el formulario «Pide cita sin compromiso», el campo del teléfono viene con el prefijo de Estados Unidos (+1) por defecto, y el botón final dice «Solicitar información»: el paciente se va sin cita.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 10:00 pasan 63 horas con la clínica cerrada: lo que llegue por el formulario o el WhatsApp espera al lunes."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera visita.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. También reserva la 1ª visita sin coste y avisa al equipo si es una urgencia dental. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario tenéis que llamar para dar cita cada semana?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PRIMER DE MAIG, 7 · PAIPORTA",
+    "telefono": "963 975 475",
+    "telefonos": "963 975 475 · WhatsApp 619 547 991",
+    "direccion": "C/ Primer de Maig, 7, bajo · 46200 Paiporta (Valencia)",
+    "marca": "DEVÍS DOMENECH",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN PAIPORTA",
+    "heroTitulo": "Creando",
+    "heroDestacado": "sonrisas.",
+    "heroTexto": "Una atención personalizada con la tecnología más avanzada, para que tu visita al dentista sea una experiencia positiva. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Odontología honesta, cercana y de vanguardia.",
+    "nota": "1ª visita sin coste. Urgencias dentales.",
+    "fotoEtiqueta": "CLÍNICA DENTAL DEVÍS DOMENECH",
+    "fotoTitulo": "Un equipo cercano y más humano.",
+    "cifra": "1ª",
+    "cifraEtiqueta": "VISITA SIN COSTE",
+    "equipoTitulo": "La experiencia que marca la diferencia.",
+    "equipoTexto": "Un equipo humano cualificado, experto y en constante reciclaje, especializado en ortodoncia, implantes dentales y estética, en unas instalaciones confortables.",
+    "valores": [
+      [
+        "Honesta.",
+        "Solo lo que necesitas."
+      ],
+      [
+        "Cercana.",
+        "Un equipo más humano."
+      ],
+      [
+        "De vanguardia.",
+        "La tecnología más avanzada."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Confortable.",
+    "galeriaDestacado": "En el centro de Paiporta.",
+    "pies": [
+      "La sala de espera",
+      "En consulta"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Ortodoncia invisible",
+      "Implantes dentales",
+      "Estética dental",
+      "Urgencias dentales",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿La primera visita tiene coste?",
+        "No. La primera visita es sin coste."
+      ],
+      [
+        "¿Atendéis urgencias?",
+        "Sí. Escríbenos o llámanos y te decimos cuándo puedes venir."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 619 547 991 y la dejamos reservada."
+      ]
+    ],
+    "motivos": [
+      "1ª visita sin coste",
+      "Revisión",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Paiporta",
+    "notaDiseno": "Los tonos cálidos y el verde de su clínica, sus fundadores en primer plano y un WhatsApp que da la cita en el momento.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 287
+    }
+  }
+}

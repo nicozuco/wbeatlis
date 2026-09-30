@@ -1,0 +1,169 @@
+{
+  "slug": "gnadent",
+  "numero": 98,
+  "clinica": {
+    "nombre": "Centro Odontológico Gnadent",
+    "nombreCorto": "Gnadent",
+    "dominio": "gnadent.com",
+    "web": "https://gnadent.com/",
+    "contacto": "https://gnadent.com/",
+    "decisor": "Dr. Fernando Company"
+  },
+  "colores": {
+    "acento": "#1f4fc4",
+    "tinta": "#161c2d",
+    "profundo": "#192543",
+    "suave": "#eff3fb",
+    "borde": "#d9e1f5",
+    "calido": "#c9ac7a",
+    "calidoSuave": "#faf7f2"
+  },
+  "fotos": {
+    "principal": "https://gnadent.com/images/dr-company.jpg",
+    "clinica1": "https://gnadent.com/images/ortho-chesca.jpg",
+    "clinica2": "https://gnadent.com/images/implants-planning.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ALBALAT DELS TARONGERS, 10 · VALENCIA",
+    "titulo": [
+      "Todos vuestros botones llaman por teléfono.",
+      "Que alguno deje la cita hecha."
+    ],
+    "intro": "Casos complejos tratados con planificación 3D y cirugía guiada, de la mano del Dr. Fernando Company y la Dra. Chesca Chuliá. Proponemos que quien llega con miedo o dudas pueda reservar su estudio gratuito sin tener que llamar.",
+    "hallazgos": [
+      "Los botones «Solicitar mi estudio gratuito», «Solicitar valoración 3D» y «Llamar para cita gratis» hacen lo mismo: llamar al 678 64 72 92. Fuera de horario, o si el paciente no quiere llamar, no hay forma de reservar.",
+      "Vuestra web no tiene formulario: la única alternativa a la llamada es escribir por WhatsApp y esperar respuesta.",
+      "Según vuestro horario en Google, del viernes a las 18:00 al lunes a las 10:00 pasan 64 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que el WhatsApp reserve el estudio gratuito.",
+      "texto": "Ya tenéis el botón «Contactar por WhatsApp» con el mensaje de la revisión gratuita. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Y a quien llega con miedo o con un caso que otros no resolvieron, le explica el Método Gnadent antes de venir. Lo clínico sigue siendo cosa de el Dr. Company, la Dra. Chuliá y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas perdéis mientras estáis en quirófano?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ ALBALAT DELS TARONGERS, 10 · VALENCIA",
+    "telefono": "678 64 72 92",
+    "telefonos": "Teléfono y WhatsApp 678 64 72 92",
+    "direccion": "C/ Albalat dels Tarongers, 10, bajo · 46021 Valencia",
+    "marca": "GNADENT",
+    "submarca": "CENTRO ODONTOLÓGICO",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "REHABILITACIÓN ORAL AVANZADA EN VALENCIA",
+    "heroTitulo": "Humanos,",
+    "heroDestacado": "pero expertos.",
+    "heroTexto": "Casos dentales complejos tratados con planificación 3D y cirugía guiada. Elige día y hora y tu valoración gratuita queda reservada.",
+    "ctaHero": "Reservar mi estudio gratuito",
+    "frase": "¿Te han dicho que tu caso no tiene solución?",
+    "nota": "Primera visita gratuita.",
+    "fotoEtiqueta": "DR. FERNANDO COMPANY",
+    "fotoTitulo": "Director médico.",
+    "cifra": "3D",
+    "cifraEtiqueta": "PLANIFICACIÓN DIGITAL EN CADA CASO",
+    "equipoTitulo": "El Método Gnadent.",
+    "equipoTexto": "Diagnóstico y escáner 3D, planificación digital, cirugía guiada y dientes en 24 horas. El Dr. Fernando Company, director médico, y la Dra. Chesca Chuliá, en ortodoncia invisible y estética avanzada.",
+    "valores": [
+      [
+        "Diagnóstico 3D.",
+        "Estudiamos la viabilidad."
+      ],
+      [
+        "Cirugía guiada.",
+        "Precisión digital."
+      ],
+      [
+        "Dientes en 24 h.",
+        "Volver a sonreír sin pensarlo."
+      ]
+    ],
+    "galeriaEtiqueta": "EL MÉTODO",
+    "galeriaTitulo": "Planificación digital.",
+    "galeriaDestacado": "Antes de empezar.",
+    "pies": [
+      "Ortodoncia con la Dra. Chuliá",
+      "Planificación de implantes"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Rehabilitación completa",
+      "Dientes en 24 h",
+      "Ortodoncia invisible",
+      "Carillas dentales",
+      "Cirugía guiada"
+    ],
+    "faq": [
+      [
+        "¿La primera visita tiene coste?",
+        "No. La valoración inicial es gratuita."
+      ],
+      [
+        "Me dijeron que mi caso no tiene solución.",
+        "Estudiamos la viabilidad con escáner 3D y planificación digital. Cuéntanos tu caso."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 16:00 a 20:00; los viernes de 9:30 a 18:00."
+      ]
+    ],
+    "motivos": [
+      "Estudio gratuito",
+      "Valoración 3D",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Carillas"
+    ],
+    "pieMarca": "Rehabilitación oral avanzada en Valencia",
+    "notaDiseno": "El azul de Gnadent, el Dr. Company en primer plano y un estudio gratuito que se reserva sin tener que llamar.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 16:00–20:00",
+      "Viernes: 9:30–18:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 378
+    }
+  }
+}

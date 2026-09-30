@@ -1,0 +1,175 @@
+{
+  "slug": "clinica-balaguer",
+  "numero": 119,
+  "clinica": {
+    "nombre": "Clínica Dental Balaguer",
+    "nombreCorto": "Clínica Balaguer",
+    "dominio": "clinicabalaguer.com",
+    "web": "https://www.clinicabalaguer.com/",
+    "contacto": "https://www.clinicabalaguer.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#ee7a14",
+    "tinta": "#2d2016",
+    "profundo": "#432d19",
+    "suave": "#fef6ef",
+    "borde": "#fce8d7",
+    "calido": "#35446a",
+    "calidoSuave": "#ebecf0"
+  },
+  "fotos": {
+    "principal": "https://www.clinicabalaguer.com/wp-content/uploads/2024/10/clinica_Balaguer_110924-8-2048x1152.jpg",
+    "clinica1": "https://www.clinicabalaguer.com/wp-content/uploads/2024/10/clinica_Balaguer_120924-5-2048x1365.jpg",
+    "clinica2": "https://www.clinicabalaguer.com/wp-content/uploads/2024/10/clinica_Balaguer_120924-10.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ LLUÍS VIVES, 42 · MONCADA",
+    "titulo": [
+      "Más de 35 años en Moncada.",
+      "Y en vuestra web no hay un botón de pedir cita."
+    ],
+    "intro": "Odontología integral en Moncada desde 1988, con un equipo de 17 personas, parking gratuito y urgencias también el sábado. Proponemos que pedir cita sea tan fácil como venir: con día y hora, en el momento.",
+    "hallazgos": [
+      "En vuestra web no hay ningún botón de «Pedir cita», y los teléfonos 961 39 55 19 y 670 24 33 33 aparecen como texto: desde el móvil no se pueden pulsar para llamar.",
+      "El formulario de contacto pide nombre, apellidos, email, teléfono y comentarios: el paciente se va sin fecha, esperando vuestra respuesta.",
+      "El botón de WhatsApp abre el chat con «¡Hola! Estoy interesado en...»: alguien tiene que contestar a mano, y del sábado a las 13:00 al lunes la clínica está cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Un botón de cita que dé la cita.",
+      "texto": "Un asistente en vuestra web, con su botón de pedir cita, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Distingue una urgencia de una revisión, para que la urgencia llegue al equipo al momento. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas personas os escriben por WhatsApp solo para pedir cita?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ LLUÍS VIVES, 42 · MONCADA",
+    "telefono": "961 39 55 19",
+    "telefonos": "961 39 55 19 · 670 24 33 33",
+    "direccion": "C/ Lluís Vives, 42 · 46113 Moncada (Valencia)",
+    "marca": "BALAGUER",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN MONCADA DESDE 1988",
+    "heroTitulo": "Creando sonrisas",
+    "heroDestacado": "bonitas y saludables.",
+    "heroTexto": "Odontología integral, tecnológica y cercana, con más de 35 años de experiencia. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Dientes brillantes, equipo brillante.",
+    "nota": "Parking gratuito para pacientes.",
+    "fotoEtiqueta": "CLÍNICA BALAGUER",
+    "fotoTitulo": "Tecnológica y cercana.",
+    "cifra": "35",
+    "cifraEtiqueta": "AÑOS CREANDO SONRISAS EN MONCADA",
+    "equipoTitulo": "Especialistas en... ¡tu salud!",
+    "equipoTexto": "Un equipo de 17 personas entre odontólogos, higienistas y atención al paciente, con todas las especialidades bajo el mismo techo: de la odontopediatría a la implantología avanzada.",
+    "valores": [
+      [
+        "Integral.",
+        "Todas las especialidades."
+      ],
+      [
+        "Urgencias.",
+        "También el sábado por la mañana."
+      ],
+      [
+        "Parking gratuito.",
+        "Venir es fácil."
+      ]
+    ],
+    "galeriaEtiqueta": "LAS INSTALACIONES",
+    "galeriaTitulo": "Tecnología de diagnóstico.",
+    "galeriaDestacado": "Y un equipo cercano.",
+    "pies": [
+      "Diagnóstico por imagen",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Odontopediatría",
+      "Ortodoncia",
+      "Implantología avanzada",
+      "Periodoncia",
+      "Endodoncia",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Atendéis urgencias?",
+        "Sí, de lunes a viernes y también el sábado por la mañana."
+      ],
+      [
+        "¿Tenéis parking?",
+        "Sí, contamos con parking gratuito para pacientes."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 9:00 a 21:00 y los sábados de 9:00 a 13:00."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Implantes"
+    ],
+    "pieMarca": "Clínica dental en Moncada desde 1988",
+    "notaDiseno": "El naranja y el azul marino de Balaguer, sus instalaciones y un botón de pedir cita que por fin da la cita.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "20:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "20:00"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "sabado": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00–21:00",
+      "Sábado: 9:00–13:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 254
+    }
+  }
+}

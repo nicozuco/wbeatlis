@@ -1,0 +1,169 @@
+{
+  "slug": "clinica-beltran",
+  "numero": 118,
+  "clinica": {
+    "nombre": "Clínica Beltrán",
+    "nombreCorto": "Clínica Beltrán",
+    "dominio": "clinicabeltran.com",
+    "web": "https://clinicabeltran.com/",
+    "contacto": "https://clinicabeltran.com/contacto/",
+    "decisor": "Dr. Miguel Beltrán"
+  },
+  "colores": {
+    "acento": "#e07b12",
+    "tinta": "#2d2116",
+    "profundo": "#432e19",
+    "suave": "#fdf6ee",
+    "borde": "#fae9d7",
+    "calido": "#5d6770",
+    "calidoSuave": "#eff0f1"
+  },
+  "fotos": {
+    "principal": "https://clinicabeltran.com/wp-content/uploads/2021/11/IMG_9852-scaled.jpg",
+    "clinica1": "https://clinicabeltran.com/wp-content/uploads/2024/04/7402f440-c4fa-42a6-9631-c0c04ee7f943.jpeg",
+    "clinica2": "https://clinicabeltran.com/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-01-at-20.36.31-1.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MAJOR, 8 · BENIFAIÓ",
+    "titulo": [
+      "«¿Qué día te vendría bien?»,",
+      "pregunta vuestro formulario. Y nadie confirma la hora."
+    ],
+    "intro": "Más de 25 años haciendo carga inmediata en Benifaió, con flujo digital de principio a fin y laboratorio propio. Proponemos que la cita sea igual de inmediata: con día y hora confirmados en el momento.",
+    "hallazgos": [
+      "El formulario «Pídenos una cita» de vuestra portada pide nombre, teléfono, email, tipo de servicio y «¿Qué día te vendría bien?»: el paciente propone un día, pero se va sin hora y esperando vuestra llamada.",
+      "En ese formulario solo se puede elegir implantes, ortodoncia o estética: una revisión o una urgencia no tienen opción.",
+      "Según vuestra web abrís de lunes a viernes de 10 a 18 h: del viernes a las 18:00 al lunes a las 10:00 pasan 64 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pídenos una cita» dé la cita.",
+      "texto": "Un asistente en vuestra web, en lugar del formulario, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta si es para implantes, ortodoncia, estética, una revisión o una urgencia, y la lleva al hueco que toca. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de Miguel, Toñi y Noelia."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario tenéis que llamar para cerrar la hora?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MAJOR, 8 · BENIFAIÓ",
+    "telefono": "961 781 834",
+    "telefonos": "961 781 834 · WhatsApp 650 394 209",
+    "direccion": "C/ Major, 8 · 46450 Benifaió (Valencia)",
+    "marca": "CLÍNICA BELTRÁN",
+    "submarca": "INNOVACIÓN DENTAL",
+    "menuEquipo": "Quiénes somos",
+    "heroEtiqueta": "CLÍNICA DENTAL EN BENIFAIÓ",
+    "heroTitulo": "La innovación madura",
+    "heroDestacado": "es nuestro ADN.",
+    "heroTexto": "Lo que es el futuro para otras clínicas, para nosotros es el presente. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pídenos una cita",
+    "frase": "Innovación, experiencia, confianza.",
+    "nota": "Cumplimos 25 años haciendo carga inmediata.",
+    "fotoEtiqueta": "EL EQUIPO DE CLÍNICA BELTRÁN",
+    "fotoTitulo": "Cocinando sonrisas hace más de 20 años.",
+    "cifra": "25",
+    "cifraEtiqueta": "AÑOS HACIENDO CARGA INMEDIATA",
+    "equipoTitulo": "No somos una clínica convencional.",
+    "equipoTexto": "Miguel Beltrán, especialista en flujo digital e implantología, y Toñi Pascual, en implantología y ATM, trabajan con flujo digital y CAD-CAM desde el diagnóstico hasta el final del tratamiento, junto al laboratorio DLAB.",
+    "valores": [
+      [
+        "Sin dolor.",
+        "Premedicación, anestesia o sedación consciente."
+      ],
+      [
+        "A medida.",
+        "Cada caso, analizado al detalle."
+      ],
+      [
+        "Flujo digital.",
+        "Más preciso, seguro y rápido."
+      ]
+    ],
+    "galeriaEtiqueta": "EL EQUIPO",
+    "galeriaTitulo": "Comprometidos contigo.",
+    "galeriaDestacado": "De la primera consulta al final.",
+    "pies": [
+      "Planificando un caso",
+      "El equipo de Clínica Beltrán"
+    ],
+    "servicios": [
+      "Implantes y carga inmediata",
+      "Ortodoncia",
+      "Estética dental",
+      "Flujo digital y CAD-CAM",
+      "Sedación consciente",
+      "Patología de la ATM"
+    ],
+    "faq": [
+      [
+        "¿Hacéis implantes con carga inmediata?",
+        "Sí. Llevamos más de 25 años haciendo carga inmediata, con flujo digital de principio a fin."
+      ],
+      [
+        "¿Duele el tratamiento?",
+        "Con premedicación, anestesia local o sedación consciente es posible un tratamiento sin dolor."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 650 394 209 y te damos día y hora."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia",
+      "Estética",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Benifaió",
+    "notaDiseno": "El naranja de Clínica Beltrán, su equipo tal cual es y una cita que se confirma con día y hora en la web.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "15:00",
+        "16:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "15:00",
+        "16:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–18:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 258
+    }
+  }
+}

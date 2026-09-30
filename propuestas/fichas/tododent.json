@@ -1,0 +1,168 @@
+{
+  "slug": "tododent",
+  "numero": 112,
+  "clinica": {
+    "nombre": "Clínica Dental Tododent",
+    "nombreCorto": "Tododent",
+    "dominio": "clinicadentaltododent.es",
+    "web": "https://www.clinicadentaltododent.es/",
+    "contacto": "https://www.clinicadentaltododent.es/contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#2f7fa8",
+    "tinta": "#16252d",
+    "profundo": "#193543",
+    "suave": "#f0f6f9",
+    "borde": "#dce9f0",
+    "calido": "#a8764f",
+    "calidoSuave": "#f6f1ed"
+  },
+  "fotos": {
+    "principal": "https://le-cdn.website-editor.net/s/0bf85526e3744bad82f1e6cb0bf833f7/dms3rep/multi/opt/IMG_1635-1920w.jpeg?Expires=1792592953&Signature=nJmycP9iGxJ8T2t1TxRsngjPPHDv3B6nq-zPc1lwxk9TZMnvO-VvHFYq2gTfuWmnynqAfcC~ih-lBYBj6xtAnsGxVNNlTzzOskWetA5ga8pR0MkI4~B18ACeM8ERUu6ZoZuve7hPws6HSq0yqeeEeGgJQp2KKgkCpuWObUiE-TzH8Oz6dDVQ2lsDTsPdzsn243QHuP7IDoEIlIec5qp7PZRRa5vmnqWELvGWiKuRDhr~5kVFrQIDv2ZbozYUesK213Qos~TK04gR4BcpjI4Qk9YEmC8ctoueICArTV595ly5JWDVcjXf2YhyQuA4AOYyx6FdVQo9z9W9KWiztpmg-A__&Key-Pair-Id=K2NXBXLF010TJW",
+    "clinica1": "https://le-cdn.website-editor.net/s/0bf85526e3744bad82f1e6cb0bf833f7/dms3rep/multi/opt/IMG_1636-1920w.jpeg?Expires=1793379861&Signature=JOPKiUUQrHPVtZVc677KIEye9~bodiM30McobZkHyxJaJgWSBGE8CQng9l1vZP5Pk~i1r-7wUPf5n0FBvhBKGVG2Se8S09g7nEu3TpO3hLalrUJkx74UOHP~yWeYybqDvq8lpBdzpIZULGzvfQ4n4PRYn-3Um2tJ8H9sowOUlgC8-F2hRX5UbNGQdShSjjlhNa0XBFsLK-9JMycv6xidUC12NT4S60PzwaWvo1hfkroy2TTeTQUlByI65zQWT96DwNL2GKGsnVtS1OHvNUdKORJWDAVTQOaefFlCPxYY4Icz3TteB0G~NaQkP0sSSYPp9UTjg-cwfaT10ZSy3oQIuQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "clinica2": "https://le-cdn.website-editor.net/0bf85526e3744bad82f1e6cb0bf833f7/dms3rep/multi/opt/507a612b4e70572302335628c5b30205205e228effdecf4e2ba91f6ff1ec589a-1920w.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PINTOR RIBERA, 10 · TORRENT",
+    "titulo": [
+      "«Este es el texto del párrafo.",
+      "Haga clic en él…»"
+    ],
+    "intro": "Más de 11 años creando sonrisas en Torrent, con presupuestos cerrados y sin publicidad engañosa: «no eres un número, eres nuestro paciente». Proponemos una web a vuestra altura, en la que el paciente reserve su cita en el momento.",
+    "hallazgos": [
+      "En vuestra portada aparece dos veces el texto de ejemplo de la plantilla: «Este es el texto del párrafo. Haga clic en él o presione el Button Administrar texto…», y un «Subscribe nowjsy».",
+      "En la página de contacto, el botón «Llámenos» marca el 961 19 29 18, pero el número de la clínica que se ve en la web es el 961 18 29 18.",
+      "La misma página da dos horarios: «de lunes a viernes de 9:00 a 17:00» y «Lun - Vie 9:30 - 20:30». Según Google, del viernes a las 20:00 al lunes a las 9:30 pasan 61 horas y media cerrados."
+    ],
+    "recomendacion": {
+      "vista": "landing",
+      "titulo": "Una web nueva, con la cita dentro.",
+      "texto": "Una web nueva con vuestras fotos y vuestra identidad, que explica cómo empezar y deja la cita reservada con día y hora. Con el WhatsApp de la clínica conectado al mismo asistente. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Sabíais que en la portada aparece el texto de ejemplo de la plantilla?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PINTOR RIBERA, 10 · TORRENT",
+    "telefono": "961 18 29 18",
+    "telefonos": "961 18 29 18 · WhatsApp 610 922 405",
+    "direccion": "C/ Pintor Ribera, 10 · 46900 Torrent (Valencia)",
+    "marca": "TODODENT",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Conoce nuestra consulta",
+    "heroEtiqueta": "TU CLÍNICA DE CONFIANZA EN TORRENT",
+    "heroTitulo": "No eres un número,",
+    "heroDestacado": "eres nuestro paciente.",
+    "heroTexto": "Claros y transparentes: tras un diagnóstico preciso, un presupuesto cerrado. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Huye de los descuentos agresivos.",
+    "nota": "Presupuesto cerrado tras el diagnóstico.",
+    "fotoEtiqueta": "CLÍNICA DENTAL TODODENT",
+    "fotoTitulo": "Tu consulta en Torrent.",
+    "cifra": "11",
+    "cifraEtiqueta": "AÑOS CREANDO SONRISAS",
+    "equipoTitulo": "Transparencia, antes que nada.",
+    "equipoTexto": "Más de 11 años en Torrent con una idea clara: diagnóstico preciso, presupuesto cerrado y ningún descuento engañoso. Nos preocupa tu salud dental.",
+    "valores": [
+      [
+        "Presupuesto cerrado.",
+        "Sin sorpresas."
+      ],
+      [
+        "Diagnóstico preciso.",
+        "Antes de empezar."
+      ],
+      [
+        "Cercanía.",
+        "Eres nuestro paciente."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CONSULTA",
+    "galeriaTitulo": "Madera y luz.",
+    "galeriaDestacado": "En el centro de Torrent.",
+    "pies": [
+      "La recepción",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Implantes",
+      "Ortodoncia",
+      "Estética dental",
+      "Endodoncia",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Me daréis un presupuesto cerrado?",
+        "Sí. Tras un diagnóstico preciso, te damos un presupuesto cerrado."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ Pintor Ribera, 10, 46900 Torrent."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 610 922 405 y la dejamos reservada."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia",
+      "Estética dental"
+    ],
+    "pieMarca": "Clínica dental en Torrent",
+    "notaDiseno": "La madera y la luz de su consulta, sus colores y una web sin textos de plantilla, con la cita dentro.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 292
+    }
+  }
+}

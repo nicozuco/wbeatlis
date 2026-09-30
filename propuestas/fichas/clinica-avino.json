@@ -1,0 +1,168 @@
+{
+  "slug": "clinica-avino",
+  "numero": 109,
+  "clinica": {
+    "nombre": "Clínica Dental Aviñó",
+    "nombreCorto": "Clínica Aviñó",
+    "dominio": "avino.es",
+    "web": "https://avino.es/",
+    "contacto": "https://avino.es/",
+    "decisor": "Dr. Juan M. Aviñó"
+  },
+  "colores": {
+    "acento": "#334155",
+    "tinta": "#192029",
+    "profundo": "#222c39",
+    "suave": "#f1f2f3",
+    "borde": "#dcdfe2",
+    "calido": "#e8612f",
+    "calidoSuave": "#fdefea"
+  },
+  "fotos": {
+    "principal": "https://avino.es/wp-content/uploads/2026/03/tres-doctores.jpg",
+    "clinica1": "https://avino.es/wp-content/uploads/2025/11/Equipo-dental-Avino.png",
+    "clinica2": "https://avino.es/wp-content/uploads/2026/04/gabinete.webp"
+  },
+  "propuesta": {
+    "etiqueta": "ARXIDUC CARLES, 46 · PATRAIX · DESDE 1985",
+    "titulo": [
+      "«Solicito que me llamen.»",
+      "Que la primera cita gratuita quede hecha."
+    ],
+    "intro": "Una familia de dentistas que cuida sonrisas en Valencia desde 1985, con odontología 360º para toda la familia y una conexión humana con cada paciente. Proponemos que la primera cita gratuita se reserve en el momento.",
+    "hallazgos": [
+      "El formulario «Solicita tu 1ª cita gratuita y personalizada» termina en el botón «Solicito que me llamen»: el paciente se va sin cita, esperando vuestra llamada.",
+      "El otro camino para reservar, «Llámanos y reserva tu cita», es una llamada: fuera de horario o si la línea está ocupada, no hay forma de dejar la cita hecha.",
+      "Según vuestro horario en Google, del viernes a las 18:30 al lunes a las 9:00 pasan 62 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera cita.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Y a los más pequeños les puede contar el Club Ratoncito Pérez antes de venir. Lo clínico sigue siendo cosa de los doctores Aviñó y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas devolvéis cada día a quien pide la primera cita gratuita?",
+    "tema": "primera cita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ ARXIDUC CARLES, 46 · PATRAIX",
+    "telefono": "963 53 13 13",
+    "telefonos": "963 53 13 13 · WhatsApp 640 119 915",
+    "direccion": "C/ de l’Arxiduc Carles, 46 · 46014 Valencia",
+    "marca": "AVIÑÓ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA CON TODAS LAS ESPECIALIDADES",
+    "heroTitulo": "Odontología avanzada 360º",
+    "heroDestacado": "para toda tu familia.",
+    "heroTexto": "El mejor tratamiento empieza por un buen diagnóstico y una buena conexión humana. Elige día y hora y tu primera cita gratuita queda reservada.",
+    "ctaHero": "Reservar 1ª cita gratuita",
+    "frase": "Mucho más que una clínica dental: una familia contigo.",
+    "nota": "Desde 1985 en Valencia.",
+    "fotoEtiqueta": "DR. JUAN M. AVIÑÓ, DR. JUAN AVIÑÓ Y DR. IGNACIO AVIÑÓ",
+    "fotoTitulo": "Dos generaciones de dentistas.",
+    "cifra": "1985",
+    "cifraEtiqueta": "UNA FAMILIA CONTIGO",
+    "equipoTitulo": "Más de 40 años de excelencia dental.",
+    "equipoTexto": "Una odontología de excelencia, humana y personalizada, mínimamente invasiva y con tratamientos duraderos, de la mano de la familia Aviñó y su equipo.",
+    "valores": [
+      [
+        "Calidad.",
+        "Odontología de excelencia."
+      ],
+      [
+        "Mínimamente invasiva.",
+        "Lo justo y necesario."
+      ],
+      [
+        "Duradera.",
+        "Tratamientos que perduran."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Una familia contigo.",
+    "galeriaDestacado": "En Patraix.",
+    "pies": [
+      "El equipo de Clínica Aviñó",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Implantes",
+      "Ortodoncia e invisible",
+      "Estética y carillas",
+      "Periodoncia",
+      "Odontopediatría",
+      "Bruxismo y antirronquidos"
+    ],
+    "faq": [
+      [
+        "¿La primera cita tiene coste?",
+        "No. La primera cita es gratuita y personalizada."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tenemos odontopediatría y el Club Ratoncito Pérez."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 640 119 915 y la dejamos reservada."
+      ]
+    ],
+    "motivos": [
+      "1ª cita gratuita",
+      "Revisión y limpieza",
+      "Implantes",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental familiar en Valencia desde 1985",
+    "notaDiseno": "El pizarra y el naranja de Aviñó, tres doctores de la familia y una primera cita gratuita que no espera una llamada.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:00",
+        "17:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 320
+    }
+  }
+}
