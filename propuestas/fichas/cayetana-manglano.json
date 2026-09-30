@@ -1,0 +1,167 @@
+{
+  "slug": "cayetana-manglano",
+  "numero": 80,
+  "clinica": {
+    "nombre": "Clínica Cayetana Manglano",
+    "nombreCorto": "Cayetana Manglano",
+    "dominio": "cayetanamanglano.com",
+    "web": "https://cayetanamanglano.com/",
+    "contacto": "https://cayetanamanglano.com/pedir-cita/",
+    "decisor": "Dra. Cayetana Manglano"
+  },
+  "colores": {
+    "acento": "#2f5d86",
+    "tinta": "#16222d",
+    "profundo": "#192f43",
+    "suave": "#f0f4f7",
+    "borde": "#dce3ea",
+    "calido": "#c2a075",
+    "calidoSuave": "#f9f6f1"
+  },
+  "fotos": {
+    "principal": "https://cayetanamanglano.com/wp-content/uploads/2021/11/CayetanaM_jun20_GarayGreen-144-scaled.jpg",
+    "clinica1": "https://cayetanamanglano.com/wp-content/uploads/2021/10/tanavillena_GG_jun21_0036@2x.png",
+    "clinica2": "https://cayetanamanglano.com/wp-content/uploads/2021/10/tanavillena_GG_jun21_0016@2x.png"
+  },
+  "propuesta": {
+    "etiqueta": "ORTODONCIA · VALENCIA Y VILLENA",
+    "titulo": [
+      "Vuestro formulario ofrece las mismas horas cada día.",
+      "Que ofrezca las que de verdad están libres."
+    ],
+    "intro": "Más de 25 años de ortodoncia para adultos y niños, con dos clínicas y una doctora que investiga y enseña. Proponemos que el paciente elija un hueco real de vuestra agenda y salga con la cita confirmada.",
+    "hallazgos": [
+      "El formulario de cita de vuestra portada pide clínica, motivo, día y una hora de una lista fija de 9:30 a 18:30, igual para cualquier fecha: no mira vuestra agenda, así que cada solicitud queda pendiente de confirmar.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 9:30 pasan 62 horas y media con la clínica de Valencia cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que el formulario enseñe los huecos libres.",
+      "texto": "Un asistente en vuestra web, en lugar del formulario, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta primero si es para Valencia o Villena y lleva cada cita a su agenda. Lo clínico sigue siendo cosa de la Dra. Manglano y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario acabáis cambiando de hora al llamar para confirmar?",
+    "tema": "primera consulta gratuita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ UNIVERSIDAD, 3 · VALENCIA",
+    "telefono": "963 523 017",
+    "telefonos": "Valencia 963 523 017 · Villena 965 813 860",
+    "direccion": "C/ Universidad, 3 · 46003 Valencia",
+    "marca": "CAYETANA MANGLANO",
+    "submarca": "ORTODONCIA",
+    "menuEquipo": "Quiénes somos",
+    "heroEtiqueta": "CLÍNICA EXCLUSIVA DE ORTODONCIA EN VALENCIA",
+    "heroTitulo": "Ortodoncia",
+    "heroDestacado": "para adultos y niños.",
+    "heroTexto": "Más de 25 años de experiencia, trato personalizado y ética profesional. Elige clínica, día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Trato personalizado y ética profesional.",
+    "nota": "Primera consulta gratuita.",
+    "fotoEtiqueta": "EL EQUIPO DE CAYETANA MANGLANO",
+    "fotoTitulo": "Grandes profesionales a tu disposición.",
+    "cifra": "1997",
+    "cifraEtiqueta": "ESPECIALISTA EN ORTODONCIA",
+    "equipoTitulo": "Una ortodoncista que investiga y enseña.",
+    "equipoTexto": "La Dra. Cayetana Manglano se licenció en Odontología en la Universidad de Valencia en 1993, se especializó en ortodoncia en 1997 y se doctoró en 2002, con el premio Juan Carol a la mejor comunicación científica en 2003.",
+    "valores": [
+      [
+        "Ética profesional.",
+        "Solo el tratamiento que necesitas."
+      ],
+      [
+        "Invisalign.",
+        "Ortodoncia invisible para adultos."
+      ],
+      [
+        "Consulta online.",
+        "Una primera valoración sin desplazarte."
+      ]
+    ],
+    "galeriaEtiqueta": "LAS CLÍNICAS",
+    "galeriaTitulo": "Valencia y Villena.",
+    "galeriaDestacado": "El mismo trato en las dos.",
+    "pies": [
+      "La recepción en Villena",
+      "Un gabinete en Villena"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Ortodoncia infantil",
+      "Revisión dental",
+      "Análisis de la sonrisa",
+      "Higiene dental",
+      "Blanqueamiento dental"
+    ],
+    "faq": [
+      [
+        "¿La primera consulta tiene coste?",
+        "No. La primera consulta es gratuita."
+      ],
+      [
+        "¿Qué horario tenéis en Valencia?",
+        "De lunes a viernes, de 9:30 a 19:00. En Villena, de 9:00 a 20:00."
+      ],
+      [
+        "¿Puedo hacer una consulta sin ir a la clínica?",
+        "Sí. Con la consulta online te enviamos un informe de tu sonrisa y las posibles soluciones."
+      ]
+    ],
+    "motivos": [
+      "Primera consulta · Valencia",
+      "Primera consulta · Villena",
+      "Ortodoncia infantil",
+      "Ortodoncia invisible",
+      "Revisión"
+    ],
+    "pieMarca": "Ortodoncia en Valencia y Villena",
+    "notaDiseno": "Tonos azul y arena, el equipo de la Dra. Manglano y un calendario que solo ofrece las horas que de verdad están libres.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "viernes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:30–19:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 539
+    }
+  }
+}

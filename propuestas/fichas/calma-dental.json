@@ -1,0 +1,168 @@
+{
+  "slug": "calma-dental",
+  "numero": 74,
+  "clinica": {
+    "nombre": "Calma Dental Llíria",
+    "nombreCorto": "Calma Dental",
+    "dominio": "clinicadentalcalma.com",
+    "web": "https://clinicadentalcalma.com/",
+    "contacto": "https://clinicadentalcalma.com/contact/",
+    "decisor": "Dra. Cristina García Delaney"
+  },
+  "colores": {
+    "acento": "#6f7b44",
+    "tinta": "#272b18",
+    "profundo": "#353b21",
+    "suave": "#f5f6f2",
+    "borde": "#e7e9df",
+    "calido": "#a88e72",
+    "calidoSuave": "#f6f4f1"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalcalma.com/wp-content/uploads/2024/08/Clinica-Dental-Calma-copia-1-scaled.jpg",
+    "clinica1": "https://clinicadentalcalma.com/wp-content/uploads/2024/10/Instalaciones-Clinica-Calma-Dental-12.jpg",
+    "clinica2": "https://clinicadentalcalma.com/wp-content/uploads/2024/10/Instalaciones-Clinica-Calma-Dental-16.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ODONTOLOGÍA CON (C)ALMA · LLÍRIA",
+    "titulo": [
+      "Ocho botones de «Quiero una cita».",
+      "Que alguno termine en una cita."
+    ],
+    "intro": "Más de 15 años y más de 10.000 pacientes en Llíria, en una clínica pensada para la calma y con la única unidad de odontopediatría del municipio. Proponemos que pedir cita sea igual de tranquilo: día y hora en el momento.",
+    "hallazgos": [
+      "Los botones «Quiero una cita» y «Pide tu cita» de vuestra portada llevan a la página de contacto, donde el paciente deja un mensaje en un formulario de siete campos y espera vuestra respuesta: no hay forma de reservar.",
+      "Vuestro móvil y WhatsApp, 683 66 59 21, aparece en la web como texto: solo el fijo se puede pulsar para llamar desde el móvil.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 10:00 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve con la misma calma.",
+      "texto": "Ya tenéis el WhatsApp en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. También reserva la primera visita gratuita y distingue si es para un niño, para llevarla a odontopediatría. Lo clínico sigue siendo cosa de la Dra. García Delaney y su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes del formulario de contacto contestáis cada lunes?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ RASCAYA, 14 · LLÍRIA",
+    "telefono": "963 94 18 44",
+    "telefonos": "963 94 18 44 · WhatsApp 683 66 59 21",
+    "direccion": "C/ Rascaya, 14 · 46160 Llíria (Valencia)",
+    "marca": "CALMA",
+    "submarca": "DENTAL · DRA. GARCÍA DELANEY",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "CENTRO ODONTOLÓGICO EN LLÍRIA",
+    "heroTitulo": "Descubre una odontología",
+    "heroDestacado": "con (c)alma.",
+    "heroTexto": "Tu bienestar es nuestro propósito: un equipo multidisciplinar y un espacio pensado para la calma. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Quiero una cita",
+    "frase": "Un lujo que te puedes permitir.",
+    "nota": "Primera visita gratuita y sin compromiso.",
+    "fotoEtiqueta": "CALMA DENTAL",
+    "fotoTitulo": "Un espacio para la calma.",
+    "cifra": "+10.000",
+    "cifraEtiqueta": "PACIENTES EN MÁS DE 15 AÑOS",
+    "equipoTitulo": "Un equipo que cuida de ti.",
+    "equipoTexto": "La Dra. Cristina García Delaney, directora médica y especialista en cirugía, implantes, prótesis y estética, con máster en Cirugía Bucal e Implantología por la Universidad de Barcelona, lidera un equipo que estudia cada caso desde todos los ángulos.",
+    "valores": [
+      [
+        "Calma.",
+        "Un ambiente de confianza y relax."
+      ],
+      [
+        "Odontopediatría.",
+        "La única unidad especializada en Llíria."
+      ],
+      [
+        "Primera visita gratuita.",
+        "Y sin compromiso."
+      ]
+    ],
+    "galeriaEtiqueta": "LAS INSTALACIONES",
+    "galeriaTitulo": "Luz, madera y verde.",
+    "galeriaDestacado": "Para que la visita sea un respiro.",
+    "pies": [
+      "La entrada de Calma Dental",
+      "El gabinete infantil"
+    ],
+    "servicios": [
+      "Implantes y cirugía",
+      "Prótesis",
+      "Estética dental",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿La primera visita tiene coste?",
+        "No. La primera visita es gratuita y sin compromiso."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Somos la única clínica especializada en odontopediatría en Llíria."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 10:00 a 14:00 y de 15:00 a 20:00."
+      ]
+    ],
+    "motivos": [
+      "Primera visita gratuita",
+      "Revisión e higiene",
+      "Odontopediatría",
+      "Implantes",
+      "Estética dental"
+    ],
+    "pieMarca": "Odontología con (c)alma en Llíria",
+    "notaDiseno": "Los tonos arena y oliva de Calma, su olivo en el centro de la clínica y una cita que se reserva sin prisa ni espera.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 15:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 759
+    }
+  }
+}

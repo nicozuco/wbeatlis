@@ -1,0 +1,167 @@
+{
+  "slug": "soldents",
+  "numero": 72,
+  "clinica": {
+    "nombre": "Soldents Clínica Dental",
+    "nombreCorto": "Soldents",
+    "dominio": "soldents.es",
+    "web": "https://soldents.es/",
+    "contacto": "https://soldents.es/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#00958f",
+    "tinta": "#162d2c",
+    "profundo": "#194341",
+    "suave": "#edf8f7",
+    "borde": "#d4edec",
+    "calido": "#7f9a52",
+    "calidoSuave": "#f2f5ee"
+  },
+  "fotos": {
+    "principal": "https://soldents.es/wp-content/uploads/2026/01/equipo-soldents.jpg",
+    "clinica1": "https://soldents.es/wp-content/uploads/2024/09/soldents012.jpg",
+    "clinica2": "https://soldents.es/wp-content/uploads/2026/01/equipo-soldents2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. AUSIÀS MARCH, 46 · ALAQUÀS",
+    "titulo": [
+      "Más de 15.000 pacientes.",
+      "Y un WhatsApp al que le falta el prefijo."
+    ],
+    "intro": "Más de 18 años de odontología de calidad en Alaquàs, con la primera visita gratuita y un equipo cercano. Proponemos que vuestro WhatsApp funcione desde cualquier móvil y deje la cita reservada en la misma conversación.",
+    "hallazgos": [
+      "El botón de WhatsApp de vuestra web abre wa.me/645408699, sin el prefijo de España (34). WhatsApp no lo reconoce como número español, así que el paciente puede no llegar a escribiros.",
+      "El formulario de la portada es «¿Quieres que te llamemos para agendar tu cita?»: el paciente deja sus datos y espera vuestra llamada para tener fecha.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 9:00 pasan 67 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Arreglar el WhatsApp y que atienda solo.",
+      "texto": "Con el prefijo corregido, vuestro WhatsApp puede atender a cualquier hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. También reserva la primera visita gratuita con el especialista. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Os escriben por WhatsApp desde la web, o casi todos llaman?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. AUSIÀS MARCH, 46 · ALAQUÀS",
+    "telefono": "96 198 85 85",
+    "telefonos": "96 198 85 85 · WhatsApp 645 408 699",
+    "direccion": "Av. Ausiàs March, 46, bajo dcha. · 46970 Alaquàs (Valencia)",
+    "marca": "SOLDENTS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo médico",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN ALAQUÀS",
+    "heroTitulo": "Somos",
+    "heroDestacado": "confianza.",
+    "heroTexto": "Endodoncia, ortodoncia, cirugía e implantología, con la tecnología más puntera. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Calidad humana y profesional.",
+    "nota": "La primera visita es gratuita.",
+    "fotoEtiqueta": "EL EQUIPO DE SOLDENTS",
+    "fotoTitulo": "Más de 18 años en Alaquàs.",
+    "cifra": "15.000",
+    "cifraEtiqueta": "PACIENTES HAN PASADO POR LA CLÍNICA",
+    "equipoTitulo": "Una odontología de calidad.",
+    "equipoTexto": "Más de 18 años dedicados a la odontología, con dos pilares: la calidad humana y profesional del equipo y una apuesta firme por la tecnología más puntera del sector.",
+    "valores": [
+      [
+        "Primera visita gratuita.",
+        "Con radiografías y escáner intraoral."
+      ],
+      [
+        "Tecnología.",
+        "Lo más puntero del sector."
+      ],
+      [
+        "Cercanía.",
+        "Un equipo que te conoce."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tu clínica en Alaquàs.",
+    "galeriaDestacado": "Luminosa y tranquila.",
+    "pies": [
+      "Uno de los gabinetes",
+      "El equipo de Soldents"
+    ],
+    "servicios": [
+      "Carillas y estética dental",
+      "Implantes dentales",
+      "Ortodoncia",
+      "Endodoncia",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿La primera visita tiene coste?",
+        "No. La primera visita con el especialista, con radiografías y escáner intraoral, es gratuita."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 14:00 y de 15:00 a 20:00; los viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Av. Ausiàs March, 46, bajo derecha, en Alaquàs."
+      ]
+    ],
+    "motivos": [
+      "Primera visita gratuita",
+      "Revisión e higiene",
+      "Ortodoncia",
+      "Implantes",
+      "Estética dental"
+    ],
+    "pieMarca": "Clínica dental en Alaquàs",
+    "notaDiseno": "El verde agua de Soldents, su equipo y un WhatsApp que por fin funciona desde cualquier móvil.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–14:00 y 15:00–20:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 845
+    }
+  }
+}

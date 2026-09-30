@@ -1,0 +1,168 @@
+{
+  "slug": "maestre-plaza",
+  "numero": 86,
+  "clinica": {
+    "nombre": "Clínica Dental Maestre Plaza",
+    "nombreCorto": "Maestre Plaza",
+    "dominio": "clinicadentalmaestreplaza.com",
+    "web": "https://clinicadentalmaestreplaza.com/",
+    "contacto": "https://clinicadentalmaestreplaza.com/contacto-dentista-picassent/",
+    "decisor": "Dra. Cristina Maestre y Dra. Alba Maestre"
+  },
+  "colores": {
+    "acento": "#8e1848",
+    "tinta": "#2d161f",
+    "profundo": "#43192a",
+    "suave": "#f7eff2",
+    "borde": "#ecd8e0",
+    "calido": "#b09a80",
+    "calidoSuave": "#f7f5f2"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalmaestreplaza.com/wp-content/uploads/2026/06/HORIZONTALES-MAESTRE-PLAZA-2026.jpg",
+    "clinica1": "https://clinicadentalmaestreplaza.com/wp-content/uploads/2022/03/7P8A0540-scaled.jpg",
+    "clinica2": "https://clinicadentalmaestreplaza.com/wp-content/uploads/2022/03/7P8A0512-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ LA ERMITA, 42 · PICASSENT",
+    "titulo": [
+      "«Quisiera que contactarais conmigo",
+      "para pedir una cita.»"
+    ],
+    "intro": "Una clínica dirigida por las doctoras Cristina y Alba Maestre, con odontología preventiva, tratamientos no invasivos y sedación consciente para quien tiene miedo al dentista. Proponemos que el WhatsApp no pida que les llaméis: que deje la cita hecha.",
+    "hallazgos": [
+      "El botón «Pide una cita por WhatsApp» abre el chat con el mensaje «quisiera que contactarais conmigo para pedir una cita»: incluso por WhatsApp, el paciente pide que le llaméis en lugar de reservar.",
+      "El formulario de la web pregunta «¿En qué horario te viene mejor que te contactemos?», por franjas de dos horas: la cita no queda reservada hasta esa llamada.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 10:00 pasan 63 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que el WhatsApp dé la cita, no la llamada.",
+      "texto": "Ya tenéis el botón «Pide una cita por WhatsApp». El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Y si el paciente tiene miedo, le explica la sedación consciente antes de venir. Lo clínico sigue siendo cosa de las doctoras Maestre y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas devolvéis cada día a quien os escribe por WhatsApp?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ LA ERMITA, 42 · PICASSENT",
+    "telefono": "963 687 802",
+    "telefonos": "963 687 802 · WhatsApp 622 716 891",
+    "direccion": "C/ La Ermita, 42, bajo · 46220 Picassent (Valencia)",
+    "marca": "MAESTRE PLAZA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN PICASSENT",
+    "heroTitulo": "La odontología,",
+    "heroDestacado": "un compromiso con el paciente.",
+    "heroTexto": "Máxima calidad y autoexigencia, con tecnología avanzada y un espacio pensado para relajarte. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide una cita",
+    "frase": "Hay pacientes que forman parte de nuestra historia.",
+    "nota": "Sedación consciente para quien tiene miedo.",
+    "fotoEtiqueta": "CLÍNICA DENTAL MAESTRE PLAZA",
+    "fotoTitulo": "Dirigida por las doctoras Maestre.",
+    "cifra": "2",
+    "cifraEtiqueta": "ODONTÓLOGAS AL FRENTE DE LA CLÍNICA",
+    "equipoTitulo": "Una odontología cercana y ética.",
+    "equipoTexto": "La Dra. Cristina Maestre y la Dra. Alba Maestre, odontólogas y directoras, apuestan por la prevención, los tratamientos no invasivos y los materiales biológicos, con una alta calidad en cada tratamiento.",
+    "valores": [
+      [
+        "Prevención.",
+        "Una boca sana, más fácil de mantener."
+      ],
+      [
+        "No invasiva.",
+        "Lo justo y necesario."
+      ],
+      [
+        "Sin miedo.",
+        "Sedación consciente en la clínica."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Pensada para relajarte.",
+    "galeriaDestacado": "En el centro de Picassent.",
+    "pies": [
+      "La entrada, en C/ La Ermita",
+      "La recepción"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Implantes y dientes en 1 día",
+      "Ortodoncia e invisible",
+      "Odontopediatría",
+      "Periodoncia y endodoncia",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 10:00 a 14:00 y de 15:00 a 19:00."
+      ],
+      [
+        "Me da miedo el dentista, ¿qué puedo hacer?",
+        "Tenemos sedación consciente: te relaja durante el tratamiento. Te lo explicamos antes de la cita."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 622 716 891 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión e higiene",
+      "Implantes",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Picassent",
+    "notaDiseno": "El granate de Maestre Plaza, su clínica luminosa y un WhatsApp que reserva en lugar de pedir que os llamen.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 15:00–19:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 457
+    }
+  }
+}

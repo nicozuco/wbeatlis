@@ -1,0 +1,158 @@
+{
+  "slug": "ruiz-navarro",
+  "numero": 91,
+  "clinica": {
+    "nombre": "Clínica Dental Ruiz & Navarro",
+    "nombreCorto": "Ruiz & Navarro",
+    "dominio": "clinicaruiznavarro.com",
+    "web": "https://www.clinicaruiznavarro.com/",
+    "contacto": "https://clinicaruiznavarro.com/contacto/",
+    "decisor": "Dr. Germán Ruiz y Dra. Carlota Navarro"
+  },
+  "colores": {
+    "acento": "#1799b8",
+    "tinta": "#16282d",
+    "profundo": "#193b43",
+    "suave": "#eff8fa",
+    "borde": "#d8eef3",
+    "calido": "#b7936a",
+    "calidoSuave": "#f8f4f0"
+  },
+  "fotos": {
+    "principal": "https://clinicaruiznavarro.com/wp-content/uploads/2025/07/285A469E-2550-4E92-9655-A54E182B0A51-2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ SAN RAFAEL, 20 · ALAQUÀS",
+    "titulo": [
+      "«1ª cita gratis», dice el botón.",
+      "Y termina en «Te llamamos nosotros»."
+    ],
+    "intro": "Más de 15.000 pacientes han confiado en vuestra clínica de Alaquàs, dirigida por el Dr. Germán Ruiz y la Dra. Carlota Navarro. Proponemos que la primera cita gratuita quede reservada en el momento, en la web o en el WhatsApp.",
+    "hallazgos": [
+      "El botón «1ª cita gratis» de vuestra portada lleva a la página de contacto, donde el formulario es «Te llamamos nosotros»: el paciente se va sin fecha, esperando vuestra llamada.",
+      "Vuestra web da dos horarios distintos de lunes a jueves: la portada dice que cerráis a las 21:00 y la página de contacto, a las 20:30.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 9:30 pasan 67 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera cita.",
+      "texto": "Ya invitáis a escribir por WhatsApp al Dr. Ruiz o a la Dra. Navarro. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Si la consulta es de implantes la lleva a la agenda del Dr. Ruiz, y si es de ortodoncia o de un niño, a la de la Dra. Navarro. Lo clínico sigue siendo cosa de el Dr. Ruiz, la Dra. Navarro y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas hacéis cada semana a quien pide la primera cita gratis?",
+    "tema": "primera cita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ SAN RAFAEL, 20 · ALAQUÀS",
+    "telefono": "961 081 293",
+    "telefonos": "961 081 293 · WhatsApp 722 123 814",
+    "direccion": "C/ San Rafael, 20 · 46970 Alaquàs (Valencia)",
+    "marca": "RUIZ & NAVARRO",
+    "submarca": "ODONTÓLOGOS",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "TU DENTISTA DE REFERENCIA EN ALAQUÀS Y VALENCIA",
+    "heroTitulo": "El tiempo pasa.",
+    "heroDestacado": "Nuestros valores permanecen.",
+    "heroTexto": "Técnicas novedosas y tecnología puntera para conservar tu salud oral. Elige día y hora y tu primera cita gratuita queda reservada.",
+    "ctaHero": "1ª cita gratis",
+    "frase": "Hoy puede ser un buen día para dar el paso.",
+    "nota": "Más de 15.000 pacientes confían en nosotros.",
+    "fotoEtiqueta": "CLÍNICA DENTAL RUIZ & NAVARRO",
+    "fotoTitulo": "Luz cálida y trato cercano.",
+    "cifra": "15.000",
+    "cifraEtiqueta": "PACIENTES HAN CONFIADO EN NOSOTROS",
+    "equipoTitulo": "Dos directores, dos especialidades.",
+    "equipoTexto": "El Dr. Germán Ruiz, en implantología, cirugía mucogingival y prótesis, y la Dra. Carlota Navarro, en ortodoncia, estética y odontopediatría, dirigen la clínica con un equipo completo.",
+    "valores": [
+      [
+        "Implantes sin miedo.",
+        "Dientes desde el primer día."
+      ],
+      [
+        "Ortodoncia invisible.",
+        "Un tratamiento personalizado."
+      ],
+      [
+        "Estética natural.",
+        "Procedimientos poco invasivos."
+      ]
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Implantes dentales",
+      "Estética dental",
+      "Odontopediatría",
+      "Cirugía mucogingival",
+      "Prótesis"
+    ],
+    "faq": [
+      [
+        "¿La primera cita tiene coste?",
+        "No. La primera cita es gratis."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves desde las 9:30 por la mañana hasta la tarde, y los viernes de 10:00 a 14:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 722 123 814 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "1ª cita gratis",
+      "Revisión",
+      "Ortodoncia invisible",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Odontólogos en Alaquàs",
+    "notaDiseno": "El turquesa de Ruiz & Navarro, su clínica de luz cálida y una primera cita gratis que se reserva sin esperar llamadas.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: desde las 9:30",
+      "Viernes: 10:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 425
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "maria-jose-sanchez",
+  "numero": 70,
+  "clinica": {
+    "nombre": "María José Sánchez Odontología Avanzada",
+    "nombreCorto": "María José Sánchez",
+    "dominio": "mariajosesanchezortodoncia.com",
+    "web": "https://www.mariajosesanchezortodoncia.com/",
+    "contacto": "https://www.mariajosesanchezortodoncia.com/contacto/",
+    "decisor": "Dra. María José Sánchez García"
+  },
+  "colores": {
+    "acento": "#3b8e99",
+    "tinta": "#162a2d",
+    "profundo": "#1a3d42",
+    "suave": "#f1f7f8",
+    "borde": "#deecee",
+    "calido": "#b58d63",
+    "calidoSuave": "#f8f4ef"
+  },
+  "fotos": {
+    "principal": "https://www.mariajosesanchezortodoncia.com/wp-content/uploads/2021/02/Maria-Jose_09_Web.jpg",
+    "clinica1": "https://www.mariajosesanchezortodoncia.com/wp-content/uploads/2021/02/contacto-1.jpg",
+    "clinica2": "https://www.mariajosesanchezortodoncia.com/wp-content/uploads/2021/02/maria-jose-sanchez-gal2-2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ORTODONCIA · GENERAL PALANCA, 3",
+    "titulo": [
+      "«Aquí te lo ponemos fácil.»",
+      "Que la cita quede hecha en ese momento."
+    ],
+    "intro": "Una clínica dedicada a la ortodoncia de niños, adolescentes y adultos, con unidades de periodoncia y odontopediatría y casos complejos con cirugía. Proponemos que vuestro WhatsApp deje la cita reservada en la misma conversación.",
+    "hallazgos": [
+      "El formulario «Pide cita» de vuestra web solo pide nombre, teléfono y email, y la página de contacto dice que responderéis «y concretaremos una cita»: el paciente se va sin fecha.",
+      "En vuestra página de contacto el móvil aparece con dos números distintos: 627 069 724 junto a la dirección y 626 069 724 en el aviso de urgencias. Uno de los dos no es el vuestro.",
+      "Vuestra web dice que los viernes abrís hasta las 20:00, pero en Google cerráis a las 16:00 y no abrís hasta el lunes a las 10:00: 66 horas seguidas."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp atienda al momento.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web, con el 627 069 724. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Distingue si es una primera visita de ortodoncia, una revisión o una urgencia, y la lleva a la agenda que toca. Lo clínico sigue siendo cosa de la Dra. Sánchez y su equipo."
+    },
+    "pregunta": "¿Qué número de móvil es el bueno, el 627 o el 626?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ GENERAL PALANCA, 3 · CENTRO DE VALENCIA",
+    "telefono": "961 916 189",
+    "telefonos": "961 916 189 · WhatsApp 627 069 724",
+    "direccion": "C/ General Palanca, 3, bajo · 46003 Valencia",
+    "marca": "MARÍA JOSÉ SÁNCHEZ",
+    "submarca": "ORTODONCIA AVANZADA",
+    "menuEquipo": "Somos",
+    "heroEtiqueta": "ORTODONCIA EN EL CENTRO DE VALENCIA",
+    "heroTitulo": "Cada paciente,",
+    "heroDestacado": "un plan diferente.",
+    "heroTexto": "Ortodoncia para niños, adolescentes y adultos, con el diagnóstico como clave. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Me encanta cuidar de mis pacientes.",
+    "nota": "Junto a la Porta de la Mar.",
+    "fotoEtiqueta": "DRA. MARÍA JOSÉ SÁNCHEZ GARCÍA",
+    "fotoTitulo": "Ortodoncia de forma exclusiva.",
+    "cifra": "2005",
+    "cifraEtiqueta": "ESPECIALIZÁNDOSE EN ORTODONCIA",
+    "equipoTitulo": "Tratamientos totalmente individualizados.",
+    "equipoTexto": "Doctora Cum Laude por la Universidad de Murcia, máster en Ortodoncia por la Universidad de Valencia y diez años profesora del máster del CEU Cardenal Herrera. Casos complejos, cirugía ortognática y ortodoncia lingual.",
+    "valores": [
+      [
+        "Diagnóstico.",
+        "La clave de cada tratamiento."
+      ],
+      [
+        "Casos complejos.",
+        "Cirugía ortognática y lingual."
+      ],
+      [
+        "A cualquier edad.",
+        "Niños, adolescentes y adultos."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CONSULTA",
+    "galeriaTitulo": "Madera, luz y calma.",
+    "galeriaDestacado": "En General Palanca, 3.",
+    "pies": [
+      "La entrada de la clínica",
+      "Una de las salas de espera"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Ortodoncia invisible y lingual",
+      "Odontopediatría",
+      "Periodoncia",
+      "Blanqueamiento dental",
+      "Estética facial"
+    ],
+    "faq": [
+      [
+        "¿Tratáis a niños?",
+        "Sí. Hacemos ortodoncia a niños, adolescentes y adultos, y tenemos una unidad de odontopediatría."
+      ],
+      [
+        "¿Dónde puedo aparcar?",
+        "En el Interparking Porta de la Mar o La Paz. También llegan las líneas 3, 5, 7 y 9 de metro (Colón y Alameda)."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 627 069 724 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita de ortodoncia",
+      "Revisión",
+      "Odontopediatría",
+      "Periodoncia",
+      "Blanqueamiento"
+    ],
+    "pieMarca": "Ortodoncia en el centro de Valencia",
+    "notaDiseno": "La madera y la luz de su consulta, la doctora en primer plano y una cita que se concreta en el momento.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "viernes": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30–20:00",
+      "Viernes: 10:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 1018
+    }
+  }
+}

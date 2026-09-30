@@ -1,0 +1,166 @@
+{
+  "slug": "tamdental",
+  "numero": 93,
+  "clinica": {
+    "nombre": "Tamdental Clínica Dental",
+    "nombreCorto": "Tamdental",
+    "dominio": "tamdental.es",
+    "web": "https://www.tamdental.es/",
+    "contacto": "https://www.tamdental.es/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1c9fcf",
+    "tinta": "#16272d",
+    "profundo": "#193743",
+    "suave": "#eff8fc",
+    "borde": "#d8eff7",
+    "calido": "#b58e62",
+    "calidoSuave": "#f8f4ef"
+  },
+  "fotos": {
+    "principal": "https://tamdental.es/wp-content/uploads/2024/12/1-18.jpg",
+    "clinica1": "https://tamdental.es/wp-content/uploads/2024/11/11.jpg",
+    "clinica2": "https://tamdental.es/wp-content/uploads/2024/12/1-62.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "SUECA · PATERNA",
+    "titulo": [
+      "«¿En qué horario te viene mejor",
+      "que te contactemos?»"
+    ],
+    "intro": "Dos clínicas, en Sueca y en Paterna, con odontología conservadora e implantología avanzada y más de 20 años de trayectoria. Proponemos que el paciente elija clínica, día y hora y salga con la cita reservada, sin esperar vuestra llamada.",
+    "hallazgos": [
+      "Los dos formularios de vuestra web terminan preguntando «¿En qué horario te viene mejor que te contactemos?»: el paciente elige clínica y motivo, pero se va sin cita.",
+      "El botón «Contacta por WhatsApp» abre el chat con «quisiera más información sobre un tratamiento y pedir cita»: la conversación empieza bien, pero alguien tiene que contestarla a mano.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 10:00 pasan 68 horas con la clínica de Sueca cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp conteste y reserve.",
+      "texto": "Ya tenéis el botón «Contacta por WhatsApp» con el mensaje preparado. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si es para Sueca o Paterna y lleva la cita a la agenda de esa clínica. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp de «quisiera pedir cita» contestáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "SUECA · PATERNA",
+    "telefono": "633 695 405",
+    "telefonos": "Sueca 633 695 405 · Paterna 691 582 657",
+    "direccion": "C/ del Mercat, 1 · 46410 Sueca (Valencia)",
+    "marca": "TAMDENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN SUECA Y PATERNA",
+    "heroTitulo": "Queremos",
+    "heroDestacado": "tu mejor sonrisa.",
+    "heroTexto": "Tratamientos integrales, con ciencia y tecnología para diagnósticos más rápidos y precisos. Elige clínica, día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Mantener tus dientes naturales el máximo tiempo posible.",
+    "nota": "Más de 20 años de trayectoria.",
+    "fotoEtiqueta": "EL EQUIPO DE TAMDENTAL",
+    "fotoTitulo": "Expertos en devolver la sonrisa.",
+    "cifra": "2",
+    "cifraEtiqueta": "CLÍNICAS: SUECA Y PATERNA",
+    "equipoTitulo": "Odontología conservadora, de verdad.",
+    "equipoTexto": "Un equipo con más de 20 años de trayectoria, con un cirujano experto en rehabilitaciones orales y atención al paciente dedicada en cada clínica: Amparo en Sueca y Janina en Paterna.",
+    "valores": [
+      [
+        "Conservadora.",
+        "Tus dientes naturales, primero."
+      ],
+      [
+        "Tecnología.",
+        "Diagnósticos rápidos y precisos."
+      ],
+      [
+        "Cercanía.",
+        "Atención al paciente en cada clínica."
+      ]
+    ],
+    "galeriaEtiqueta": "LAS CLÍNICAS",
+    "galeriaTitulo": "Sueca y Paterna.",
+    "galeriaDestacado": "El mismo cuidado en las dos.",
+    "pies": [
+      "La atención al paciente",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Implantología y All-on-4",
+      "Ortodoncia e invisible",
+      "Estética dental",
+      "Periodoncia",
+      "Odontopediatría",
+      "Diseño digital de sonrisa"
+    ],
+    "faq": [
+      [
+        "¿Tenéis dos clínicas?",
+        "Sí: en Sueca (C/ del Mercat, 1) y en Paterna. Elige la que te venga mejor al reservar."
+      ],
+      [
+        "¿Hacéis implantes en un día?",
+        "Hacemos implantología avanzada e inmediata (All-on-4). Te lo explicamos en la primera visita."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 633 695 405 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita · Sueca",
+      "Primera visita · Paterna",
+      "Revisión adulto",
+      "Revisión niño",
+      "Implantes"
+    ],
+    "pieMarca": "Clínicas dentales en Sueca y Paterna",
+    "notaDiseno": "El azul de Tamdental, su equipo en la clínica y un WhatsApp que contesta y reserva en la misma conversación.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 409
+    }
+  }
+}

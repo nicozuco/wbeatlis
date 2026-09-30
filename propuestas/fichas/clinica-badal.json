@@ -1,0 +1,167 @@
+{
+  "slug": "clinica-badal",
+  "numero": 87,
+  "clinica": {
+    "nombre": "Clínica Badal",
+    "nombreCorto": "Clínica Badal",
+    "dominio": "clinicabadal.es",
+    "web": "https://clinicabadal.es/",
+    "contacto": "https://clinicabadal.es/contacto",
+    "decisor": "Dra. Charo Badal Manrique"
+  },
+  "colores": {
+    "acento": "#2595c0",
+    "tinta": "#16262d",
+    "profundo": "#193743",
+    "suave": "#f0f8fb",
+    "borde": "#daedf4",
+    "calido": "#9a8f86",
+    "calidoSuave": "#f5f4f3"
+  },
+  "fotos": {
+    "principal": "https://clinicabadal.es/wp-content/uploads/2022/10/Banner1-scaled.webp",
+    "clinica1": "https://clinicabadal.es/wp-content/uploads/2022/11/Banner7-scaled.webp",
+    "clinica2": "https://clinicabadal.es/wp-content/uploads/2022/11/Cl%C3%ADnica.Badal67-scaled.webp"
+  },
+  "propuesta": {
+    "etiqueta": "LLANO DE ZAIDÍA, 14 · VALENCIA",
+    "titulo": [
+      "Más de 30 años de odontología.",
+      "Y una cita que todavía se pide por formulario."
+    ],
+    "intro": "Una clínica que nace de una familia pionera de la prótesis y la higiene dental en España, con más de 30 años de experiencia en estética, implantes y ortodoncia invisible. Proponemos que vuestro WhatsApp deje la cita reservada en el momento.",
+    "hallazgos": [
+      "Los botones «Reserva tu cita» y «Pide tu cita» llevan a un formulario que dice «Para pedir una cita lo antes posible rellena el siguiente formulario»: el paciente se va sin fecha, esperando vuestra respuesta.",
+      "El fijo 963 481 642 aparece en la web como texto: desde el móvil solo se puede pulsar para llamar al 601 083 519.",
+      "Según vuestro horario, el viernes cerráis a las 14:00 y no abrís hasta el lunes a las 9:30: 67 horas y media seguidas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 601 083 519 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Y distingue una urgencia de una revisión, para que la urgencia llegue al equipo al momento. Lo clínico sigue siendo cosa de la Dra. Badal y su equipo."
+    },
+    "pregunta": "¿Cuántas peticiones del formulario tenéis que llamar cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ LLANO DE ZAIDÍA, 14 · VALENCIA",
+    "telefono": "601 083 519",
+    "telefonos": "601 083 519 · 963 481 642",
+    "direccion": "C/ Llano de Zaidía, 14, bajo · 46009 Valencia",
+    "marca": "CLÍNICA BADAL",
+    "submarca": "ODONTOLOGÍA",
+    "menuEquipo": "Sobre nosotras",
+    "heroEtiqueta": "CLÍNICA DENTAL EN EL CENTRO DE VALENCIA",
+    "heroTitulo": "Tu clínica dental",
+    "heroDestacado": "de confianza.",
+    "heroTexto": "Más de 30 años en odontología estética, implantes y ortodoncia invisible, con atención personalizada. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "Una evolución familiar de dedicación a la profesión.",
+    "nota": "Valenbisi a 90 m y parking a 100 m.",
+    "fotoEtiqueta": "EL EQUIPO DE CLÍNICA BADAL",
+    "fotoTitulo": "Más de 30 años cuidando sonrisas.",
+    "cifra": "1972",
+    "cifraEtiqueta": "UNA FAMILIA PIONERA EN LA PROFESIÓN",
+    "equipoTitulo": "Tradición familiar y tecnología.",
+    "equipoTexto": "El Centro J. Badal March fue el primero en España en impartir Prótesis Dental e Higiene Dental, y el Laboratorio Juan Badal, un referente de la prótesis. La clínica sigue fiel a esa filosofía, con las últimas tecnologías.",
+    "valores": [
+      [
+        "Experiencia.",
+        "Más de 30 años en odontología."
+      ],
+      [
+        "Atención personalizada.",
+        "Cada paciente, su plan."
+      ],
+      [
+        "Tecnología.",
+        "Escáner intraoral y odontología digital."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y calma.",
+    "galeriaDestacado": "Junto a Marxalenes.",
+    "pies": [
+      "La recepción",
+      "Uno de los boxes"
+    ],
+    "servicios": [
+      "Estética dental",
+      "Ortodoncia invisible",
+      "Implantes y carga inmediata",
+      "Endodoncia y conservadora",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:30 a 14:00 y de 15:00 a 19:30; los viernes de 9:30 a 14:00."
+      ],
+      [
+        "¿Cómo llego?",
+        "Autobuses 6, 16, 26, 79, 80, 94 y 95, tranvía en Marxalenes, Valenbisi a 90 m y parking La Torreta a 100 m."
+      ],
+      [
+        "¿Atendéis urgencias?",
+        "Sí. Escríbenos por WhatsApp al 601 083 519 y te decimos cuándo puedes venir."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia invisible",
+      "Implantes"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul de Clínica Badal, su equipo en su clínica luminosa y una cita que no espera un formulario.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30–14:00 y 15:00–19:30",
+      "Viernes: 9:30–14:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 452
+    }
+  }
+}

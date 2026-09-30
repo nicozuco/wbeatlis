@@ -1,0 +1,159 @@
+{
+  "slug": "clinica-cubells",
+  "numero": 82,
+  "clinica": {
+    "nombre": "Clínica Dental Cubells",
+    "nombreCorto": "Clínica Cubells",
+    "dominio": "clinicacubells.com",
+    "web": "https://clinicacubells.com/",
+    "contacto": "https://clinicacubells.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#4f8a70",
+    "tinta": "#182a22",
+    "profundo": "#213a2f",
+    "suave": "#f3f7f5",
+    "borde": "#e1ebe7",
+    "calido": "#b8a07e",
+    "calidoSuave": "#f8f6f2"
+  },
+  "fotos": {
+    "principal": "https://clinicacubells.com/wp-content/uploads/2022/02/slider-9-primera-visita.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "EXPERIENCIA CUBELLS · C/ CHILE, 6",
+    "titulo": [
+      "«Facilítanos tus datos y nos pondremos en contacto.»",
+      "Que la primera visita gratuita se reserve sola."
+    ],
+    "intro": "Una clínica especialista en ortodoncia invisible y en técnicas mínimamente invasivas, que cuida que cada paciente se sienta cómodo y seguro. Proponemos que vuestro WhatsApp deje la primera visita reservada en el momento.",
+    "hallazgos": [
+      "El bloque «Reserva tu 1ª visita gratuita» de vuestra portada dice «Facilítanos tus datos y nos pondremos en contacto contigo»: el paciente deja nombre, teléfono y email, y se va sin cita.",
+      "Los teléfonos de la cabecera, 963 936 912 y 656 673 767, aparecen como texto: desde el móvil no se pueden pulsar para llamar.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 9:00 pasan 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera visita.",
+      "texto": "Ya tenéis el botón de WhatsApp, con el 656 673 767, en toda la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. También explica el Club Cubells, la financiación y los seguros con los que trabajáis. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes de primera visita gratuita tenéis que llamar cada semana?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ CHILE, 6 · VALENCIA",
+    "telefono": "963 936 912",
+    "telefonos": "963 936 912 · WhatsApp 656 673 767",
+    "direccion": "C/ Chile, 6 · 46021 Valencia",
+    "marca": "CUBELLS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "DENTISTA EN VALENCIA",
+    "heroTitulo": "La experiencia",
+    "heroDestacado": "Cubells.",
+    "heroTexto": "Ortodoncia invisible, estética y odontología mínimamente invasiva, con un equipo multidisciplinar. Elige día y hora y tu primera visita gratuita queda reservada.",
+    "ctaHero": "Reservar 1ª visita gratuita",
+    "frase": "Que te sientas cómodo y seguro.",
+    "nota": "La primera visita es gratuita.",
+    "fotoEtiqueta": "CLÍNICA DENTAL CUBELLS",
+    "fotoTitulo": "Tu primera visita, con calma.",
+    "cifra": "1ª",
+    "cifraEtiqueta": "VISITA GRATUITA",
+    "equipoTitulo": "Un equipo especialista y multidisciplinar.",
+    "equipoTexto": "La mejor tecnología y un equipo especialista para ofrecer la mejor experiencia: ortodoncia invisible, diseño de sonrisa con mock-up y cirugías guiadas mínimamente invasivas.",
+    "valores": [
+      [
+        "Filosofía no invasiva.",
+        "Lo mínimo necesario."
+      ],
+      [
+        "Tecnología digital.",
+        "Ves tu resultado antes de empezar."
+      ],
+      [
+        "Club Cubells.",
+        "Ventajas para pacientes."
+      ]
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Estética y carillas",
+      "Implantes en un día",
+      "Odontopediatría",
+      "Periodoncia",
+      "Rehabilitación neuro-oclusal"
+    ],
+    "faq": [
+      [
+        "¿La primera visita tiene coste?",
+        "No. La primera visita es gratuita."
+      ],
+      [
+        "¿Trabajáis con seguros?",
+        "Sí. Pregúntanos por el tuyo y te contamos las condiciones."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ Chile, 6, 46021 Valencia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita gratuita",
+      "Revisión",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Implantes"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El verde salvia de Cubells, su equipo y una primera visita gratuita que se reserva sin esperar llamadas.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 481
+    }
+  }
+}

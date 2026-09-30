@@ -1,0 +1,169 @@
+{
+  "slug": "branz-ortodoncia",
+  "numero": 71,
+  "clinica": {
+    "nombre": "Branz Ortodoncia",
+    "nombreCorto": "Branz",
+    "dominio": "branzortodoncia.com",
+    "web": "https://www.branzortodoncia.com/",
+    "contacto": "https://www.branzortodoncia.com/contacto",
+    "decisor": "Miguel y Álex (dirección)"
+  },
+  "colores": {
+    "acento": "#2a8fc4",
+    "tinta": "#181443",
+    "profundo": "#1e1b42",
+    "suave": "#f0f7fb",
+    "borde": "#dbecf5",
+    "calido": "#d9588e",
+    "calidoSuave": "#fbeef4"
+  },
+  "fotos": {
+    "principal": "https://cdn.prod.website-files.com/637f29b3235fb617b71a8f1f/63bd10b88eab05e16e064c69_raga%202.webp",
+    "clinica1": "https://cdn.prod.website-files.com/637f29b3235fb617b71a8f1f/63bd0d85e4b5305f07906e90_dentista-infantil-catarroja.webp",
+    "clinica2": "https://cdn.prod.website-files.com/637f29b3235fb617b71a8f1f/63bd0dfce512514c18c8383b_odontopediatria-catarroja.webp"
+  },
+  "propuesta": {
+    "etiqueta": "ORTODONCIA · PATERNA Y CATARROJA",
+    "titulo": [
+      "Los botones de llamar de vuestra web",
+      "llaman a números de plantilla."
+    ],
+    "intro": "Dos clínicas de ortodoncia y odontopediatría para toda la familia, con un Planeta Branz que a los niños les encanta. Proponemos que la web y el WhatsApp lleven directamente a la cita, sin pasos que fallen.",
+    "hallazgos": [
+      "En la cabecera de vuestra web, los botones «Branz Paterna» y «Branz Catarroja» llaman al (147) 870-7040, y el botón «Teléfono» de «Contáctanos» al (870) 870-2104: son números de ejemplo de la plantilla, no los vuestros.",
+      "Los botones «Email» de la portada y del pie abren un correo a contact@dentalic.com, una dirección de la plantilla cuyo dominio ni siquiera recibe correo. Esos mensajes no os llegan.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 10:00 pasan 63 horas con la clínica cerrada, y el WhatsApp de fin de semana es solo para urgencias."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que los botones de la web lleven a la cita.",
+      "texto": "Corregir esos enlaces y añadir un asistente en vuestra web que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta si es para Paterna o Catarroja y si es para un niño o un adulto, y lleva cada cita a su agenda. Lo clínico sigue siendo cosa de vuestros ortodoncistas."
+    },
+    "pregunta": "¿Sabíais que los botones de llamar de la cabecera no llevan a vuestras clínicas?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PATERNA · CATARROJA",
+    "telefono": "960 643 463",
+    "telefonos": "Paterna 960 643 463 · 601 011 317",
+    "direccion": "Av. de Vicent Mortes Alfonso, 68 · 46980 Paterna",
+    "marca": "BRANZ",
+    "submarca": "ORTODONCIA",
+    "menuEquipo": "Branz",
+    "heroEtiqueta": "CLÍNICAS ODONTOLÓGICAS PARA TODAS LAS EDADES",
+    "heroTitulo": "¡Bienvenido",
+    "heroDestacado": "a Planeta Branz!",
+    "heroTexto": "Ortodoncia y odontopediatría para niños, adolescentes y adultos, en Paterna y Catarroja. Elige clínica, día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita ahora",
+    "frase": "Una familia de expertos y una misión: verte sonreír.",
+    "nota": "Primera visita gratis en Paterna.",
+    "fotoEtiqueta": "DR. CARLOS B. RAGA · ORTODONCISTA",
+    "fotoTitulo": "Líderes en ortodoncia en Valencia.",
+    "cifra": "2",
+    "cifraEtiqueta": "CLÍNICAS: PATERNA Y CATARROJA",
+    "equipoTitulo": "Una clínica dental fuera de lo habitual.",
+    "equipoTexto": "Ortodoncistas con máster por las universidades de Barcelona y Valencia, odontopediatras, cirujanos y coordinadoras que acompañan cada tratamiento, en un ambiente seguro y acogedor para los más pequeños.",
+    "valores": [
+      [
+        "Ortodoncia a diario.",
+        "Olvídate de cuadrar agenda."
+      ],
+      [
+        "Para toda la familia.",
+        "Niños, adolescentes y adultos."
+      ],
+      [
+        "Un ambiente seguro.",
+        "Confianza en cada visita."
+      ]
+    ],
+    "galeriaEtiqueta": "PLANETA BRANZ",
+    "galeriaTitulo": "Un espacio para los peques.",
+    "galeriaDestacado": "Y para toda la familia.",
+    "pies": [
+      "La zona infantil",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Ortodoncia infantil",
+      "Odontopediatría",
+      "Higiene y periodoncia",
+      "Estética y blanqueamiento",
+      "Cirugía e implantología"
+    ],
+    "faq": [
+      [
+        "¿Tenéis dos clínicas?",
+        "Sí: Branz Paterna, en la Av. de Vicent Mortes Alfonso, 68, y Branz Catarroja."
+      ],
+      [
+        "¿Y si tengo una urgencia el fin de semana?",
+        "Sábados y domingos atendemos urgencias por WhatsApp en el 621 249 922."
+      ],
+      [
+        "¿La primera visita tiene coste?",
+        "En Branz Paterna, la primera visita es gratis."
+      ]
+    ],
+    "motivos": [
+      "Primera visita · Paterna",
+      "Primera visita · Catarroja",
+      "Ortodoncia infantil",
+      "Revisión de ortodoncia",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Ortodoncia para toda la familia en Paterna y Catarroja",
+    "notaDiseno": "El universo de colores de Planeta Branz, sus dos clínicas y unos botones que por fin llaman a la clínica.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:00",
+        "17:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa",
+      "Urgencias por WhatsApp: sábados y domingos"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 884
+    }
+  }
+}

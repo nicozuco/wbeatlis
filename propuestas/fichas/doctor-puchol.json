@@ -1,0 +1,168 @@
+{
+  "slug": "doctor-puchol",
+  "numero": 66,
+  "clinica": {
+    "nombre": "Centro Odontológico Dr. Puchol",
+    "nombreCorto": "Dr. Puchol",
+    "dominio": "doctorpuchol.es",
+    "web": "https://www.doctorpuchol.es/",
+    "contacto": "https://www.doctorpuchol.es/cita-previa/",
+    "decisor": "Dr. Emilio Puchol Álvarez"
+  },
+  "colores": {
+    "acento": "#1f9fac",
+    "tinta": "#162b2d",
+    "profundo": "#193f43",
+    "suave": "#eff8f9",
+    "borde": "#d9eff1",
+    "calido": "#a8906a",
+    "calidoSuave": "#f6f4f0"
+  },
+  "fotos": {
+    "principal": "https://www.doctorpuchol.es/wp-content/uploads/img/galeria/interior/03-clinica-dental-valencia-doctor-puchol-sala-espera-1b.jpg",
+    "clinica1": "https://www.doctorpuchol.es/wp-content/uploads/img/galeria/exterior/01-clinica-dental-valencia-doctor-puchol-fachada-noche-detalle-1.jpg",
+    "clinica2": "https://www.doctorpuchol.es/wp-content/uploads/img/galeria/gabinetes/02-clinica-dental-valencia-doctor-puchol-gabinete-2-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ODONTOTERAPIA® · C/ DE JESÚS, 97",
+    "titulo": [
+      "Primera visita gratuita.",
+      "Y confirmada en el momento."
+    ],
+    "intro": "Un centro que nació en 2009 para no ser una clínica dental más en Valencia, con la Odontoterapia® y un equipo sin rotación de personal. Proponemos que el paciente elija día y hora y salga con la cita confirmada, sin esperar un correo.",
+    "hallazgos": [
+      "Vuestro formulario de cita previa pide doce datos, entre ellos una franja horaria y una fecha alternativa, y termina en «Le confirmaremos por correo electrónico la fecha y hora de su cita previa»: el paciente se va sin cita.",
+      "En vuestra web el teléfono 96 379 66 55 aparece como texto, no como enlace: desde el móvil no se puede pulsar para llamar. Y no hay WhatsApp.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 9:00 pasan 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que la cita previa quede confirmada al momento.",
+      "texto": "Un asistente en vuestra web, junto al formulario de cita previa, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Sirve igual para la primera visita gratuita que para las revisiones. Lo clínico sigue siendo cosa de vuestro equipo médico."
+    },
+    "pregunta": "¿Cuántas citas previas tenéis que confirmar por correo cada semana?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ DE JESÚS, 97 · VALENCIA",
+    "telefono": "96 379 66 55",
+    "telefonos": "96 379 66 55",
+    "direccion": "C/ de Jesús, 97, bajo · 46007 Valencia",
+    "marca": "DR. PUCHOL",
+    "submarca": "CENTRO ODONTOLÓGICO",
+    "menuEquipo": "Centro odontológico",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Su salud dental,",
+    "heroDestacado": "en las mejores manos.",
+    "heroTexto": "Odontología integral con la Odontoterapia®: tratamiento excelente, relajación y bienestar. Elija día y hora y su cita queda confirmada.",
+    "ctaHero": "Pedir cita previa",
+    "frase": "No ser una clínica dental más en Valencia.",
+    "nota": "Primera visita, revisiones y diagnóstico gratuitos.",
+    "fotoEtiqueta": "CENTRO ODONTOLÓGICO DR. PUCHOL",
+    "fotoTitulo": "Espacios diáfanos, pensados para relajarse.",
+    "cifra": "2009",
+    "cifraEtiqueta": "CUIDANDO SONRISAS EN VALENCIA",
+    "equipoTitulo": "Un equipo estable, con trato familiar.",
+    "equipoTexto": "Dirigido por el Dr. Emilio Puchol, con profesionales en formación continua, aparatología de última generación y la Odontoterapia®, que une el tratamiento odontológico con la relajación del paciente.",
+    "valores": [
+      [
+        "Odontoterapia®.",
+        "Tratamiento y relajación, a la vez."
+      ],
+      [
+        "Sin rotación.",
+        "El mismo equipo en cada visita."
+      ],
+      [
+        "Primera visita gratuita.",
+        "Revisión y diagnóstico sin coste."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz, vidrio y calma.",
+    "galeriaDestacado": "Reinaugurada en 2014.",
+    "pies": [
+      "La fachada, en C/ de Jesús",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Invisalign y ortodoncia",
+      "Prótesis dental",
+      "Endodoncia",
+      "Periodoncia",
+      "Estética y blanqueamiento"
+    ],
+    "faq": [
+      [
+        "¿La primera visita tiene coste?",
+        "No. La primera visita, las revisiones y el diagnóstico son gratuitos."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 9:00 a 14:00 y de 15:00 a 20:00."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ de Jesús, 97, bajo, 46007 Valencia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita gratuita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia",
+      "Otra consulta"
+    ],
+    "pieMarca": "Centro odontológico en Valencia desde 2009",
+    "notaDiseno": "El turquesa de su marca, la clínica de vidrio y luz que proyectaron en 2014 y una cita previa que se confirma sola.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00–14:00 y 15:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 2534
+    }
+  }
+}
