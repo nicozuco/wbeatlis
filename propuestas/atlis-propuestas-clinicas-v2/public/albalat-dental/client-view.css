@@ -179,3 +179,18 @@ body.client-demo-visible .client-sticky{transform:translate(-50%,140%)!important
 @keyframes bp-nudge-pulse{0%{box-shadow:0 8px 28px #142d3333,0 0 0 0 color-mix(in srgb,var(--bp-accent) 45%,transparent)}70%{box-shadow:0 8px 28px #142d3333,0 0 0 14px transparent}100%{box-shadow:0 8px 28px #142d3333,0 0 0 0 transparent}}
 @media(max-width:600px){.bp-agent-nudge{max-width:230px;padding:10px 6px 10px 14px}.bp-agent-nudge-text{font-size:12.5px}}
 @media(prefers-reduced-motion:reduce){.bp-agent-nudge,.bp-floating-assistant.has-nudge .bp-chat-launcher{animation:none}}
+
+/* Franja de otro tono para «Qué os hemos preparado» (recorrido, demo y modos de gestión). */
+body.client-view{--tono-1:#fafbf9;--tono-2:color-mix(in srgb,var(--client-accent) 10%,#f1f4ef)}
+#recorrido{border-image:linear-gradient(var(--tono-1),var(--tono-2) 150px) fill 0//0 100vmax;padding-top:110px!important}
+#demo{border-image:linear-gradient(var(--tono-2),var(--tono-2)) fill 0//0 100vmax}
+.client-modes{border-image:linear-gradient(var(--tono-2) calc(100% - 140px),var(--tono-1)) fill 0//0 100vmax;padding-bottom:120px!important}
+.client-modes+.client-close{margin-top:10px!important}
+body.client-view .client-demo .demo-toolbar{background:var(--tono-2)}
+#recorrido .client-eyebrow{color:color-mix(in srgb,var(--client-accent) 85%,#1d2f2a)}
+#recorrido .client-cards>button{box-shadow:0 18px 40px -30px color-mix(in srgb,var(--client-accent) 75%,#0000)}
+.client-modes-grid article{background:#fff}
+@media(max-width:600px){#recorrido{padding-top:80px!important}.client-modes{padding-bottom:90px!important}}
+#demo{padding-bottom:36px;margin-bottom:0!important}#demo>*:last-child{margin-bottom:0!important}.client-modes{margin-top:0!important}
+/* Móvil: la web de referencia deja un margen mínimo a los lados para que se lea como vista previa. */
+@media(max-width:600px){.bespoke-window.is-open{border-radius:12px!important;border:1px solid #d5dfda!important;overflow:hidden;box-shadow:0 10px 30px -18px #0000004d!important}}
