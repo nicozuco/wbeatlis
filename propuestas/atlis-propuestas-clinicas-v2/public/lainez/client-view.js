@@ -42,7 +42,7 @@
   const title=document.querySelector('.section-kicker');
   if(tab==='landing'){document.querySelector('#stage-label').textContent='03 · UNA NUEVA PÁGINA PARA VUESTRA CLÍNICA';document.querySelector('#stage-intro').textContent=c.web;}
  };
- const collapseSite=()=>{document.body.classList.remove('client-site-open');const win=document.querySelector('.bespoke-window');if(!win||innerWidth>600||win.dataset.collapsible)return;win.dataset.collapsible='1';win.classList.add('is-collapsed');const more=document.createElement('button');more.type='button';more.className='client-site-more';more.textContent='Ver la web completa ↓';const bleed=()=>{if(!win.classList.contains('is-open')){win.style.marginLeft='';win.style.width='';return;}win.style.marginLeft='0px';win.style.width='';const r=win.getBoundingClientRect();win.style.marginLeft=(-r.left)+'px';win.style.width=document.documentElement.clientWidth+'px';};more.addEventListener('click',()=>{win.classList.remove('is-collapsed');win.classList.add('is-open');document.body.classList.add('client-site-open');more.remove();bleed();});addEventListener('resize',bleed);win.after(more);};
+ const collapseSite=()=>{document.body.classList.remove('client-site-open');const win=document.querySelector('.bespoke-window');if(!win||innerWidth>600||win.dataset.collapsible)return;win.dataset.collapsible='1';const bleed=()=>{if(!win.isConnected)return;win.style.marginLeft='0px';win.style.width='';const r=win.getBoundingClientRect();win.style.marginLeft=(-r.left)+'px';win.style.width=document.documentElement.clientWidth+'px';};win.classList.add('is-open');document.body.classList.add('client-site-open');bleed();requestAnimationFrame(bleed);addEventListener('resize',bleed);};
  const baseSetTab=window.setTab;window.setTab=(tab)=>{baseSetTab(tab);collapseSite();};
  document.addEventListener('click',async e=>{const b=e.target.closest('[data-share]');if(!b)return;const data={title:`Propuesta de Atlis para ${c.name}`,text:`Mira la propuesta que nos ha preparado Atlis para ${c.name}:`,url:location.href.split('#')[0]};try{if(navigator.share){await navigator.share(data);return;}await navigator.clipboard.writeText(data.url);const old=b.innerHTML;b.textContent='Enlace copiado ✓';setTimeout(()=>{b.innerHTML=old;},2200);}catch(err){}});
  // Avisos de visita (van a /api/visita y de ahí a GoHighLevel). Las visitas propias no cuentan:
@@ -61,9 +61,12 @@
   if(close&&'IntersectionObserver'in window)new IntersectionObserver((es,o)=>{if(es.some(e=>e.isIntersecting)){send('leida');o.disconnect();}},{threshold:.35}).observe(close);
   document.addEventListener('click',e=>{if(e.target.closest('.client-close-primary,.client-close-secondary'))send('demo_pulsada');if(e.target.closest('[data-share]'))send('compartida');});
  })();
+ const realPlay=window.playWhatsAppDemo;let waIO=null; window.playWhatsAppDemo=function(){if(waIO){waIO.disconnect();waIO=null;}const el=document.querySelector('#stage-content .phone-frame');if(!el||!('IntersectionObserver'in window))return realPlay();waIO=new IntersectionObserver(es=>{if(es.some(x=>x.isIntersecting)){waIO.disconnect();waIO=null;if(el.isConnected)realPlay();}},{threshold:.45});waIO.observe(el);};
+ const focusDemo=()=>{const d=document.querySelector('#demo');if(!d)return;window.scrollTo({top:d.getBoundingClientRect().top+scrollY-8,behavior:'smooth'});};
+ document.addEventListener('click',e=>{if(e.target.closest('#demo [data-tab]'))requestAnimationFrame(focusDemo);});
  setTab(c.recView||'landing');
  document.addEventListener('click',e=>{
   const view=e.target.closest('[data-client-view]');
-  if(view){setTab(view.dataset.clientView);document.querySelector('#demo').scrollIntoView({behavior:'smooth',block:'start'});}
+  if(view){setTab(view.dataset.clientView);requestAnimationFrame(focusDemo);}
  });
 })();
