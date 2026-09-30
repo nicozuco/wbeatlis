@@ -36,8 +36,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Arreglar el enlace y que WhatsApp reserve.",
-      "texto": "Que el botón lleve al +34 613 050 077 y que el asistente conteste al momento, ofrezca los huecos libres y deje reservada la revisión inicial. Lo clínico sigue siendo cosa del Dr. Bellido y la Dra. Lara."
+      "titulo": "Arreglar el enlace y que WhatsApp atienda solo.",
+      "texto": "Que el botón lleve al +34 613 050 077 y que el asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa del Dr. Bellido y la Dra. Lara."
     },
     "pregunta": "¿Os escriben por WhatsApp desde la web, o casi todos llaman?",
     "tema": "revisión inicial"

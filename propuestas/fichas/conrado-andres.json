@@ -38,7 +38,7 @@
     "recomendacion": {
       "vista": "whatsapp",
       "titulo": "Un único asistente para las seis clínicas.",
-      "texto": "Vuestros botones de WhatsApp ya abren con «Me gustaría pedir cita en…». El asistente contesta al momento, consulta la agenda de ese centro y deja la cita reservada. Lo clínico y la cirugía siguen siendo del equipo del Dr. Conrado Andrés."
+      "texto": "Vuestros botones de WhatsApp ya abren con «Me gustaría pedir cita en…». El asistente sabe de qué centro le escriben, responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico y la cirugía siguen siendo del equipo del Dr. Conrado Andrés."
     },
     "pregunta": "¿Cuántas llamadas os llegan a la clínica equivocada cada semana?",
     "tema": "primera visita"

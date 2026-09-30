@@ -37,7 +37,7 @@
     "recomendacion": {
       "vista": "whatsapp",
       "titulo": "Corregir el enlace y empezar por WhatsApp.",
-      "texto": "El asistente atiende vuestro WhatsApp, enseña los huecos libres y deja la cita reservada a cualquier hora. Lo clínico, las urgencias y los presupuestos pasan a la Dra. Amelia y a su equipo."
+      "texto": "El asistente atiende vuestro WhatsApp a cualquier hora: responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico y los presupuestos pasan a la Dra. Amelia y a su equipo."
     },
     "pregunta": "¿Cuántas peticiones de cita os llegan por email o WhatsApp el fin de semana?",
     "tema": "primera visita"

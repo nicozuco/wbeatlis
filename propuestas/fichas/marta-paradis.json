@@ -37,7 +37,7 @@
     "recomendacion": {
       "vista": "whatsapp",
       "titulo": "Empezar por el WhatsApp que ya tenéis en la web.",
-      "texto": "El asistente responde al 661 435 733 al momento, en el idioma del paciente, enseña los huecos libres y deja la cita reservada. Las dudas clínicas pasan a la Dra. Paradís y a su equipo."
+      "texto": "El asistente atiende el 661 435 733 al momento y en el idioma del paciente: responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Las dudas clínicas pasan a la Dra. Paradís y a su equipo."
     },
     "pregunta": "¿El horario de los viernes es el de la web o el de Google?",
     "tema": "primera visita"

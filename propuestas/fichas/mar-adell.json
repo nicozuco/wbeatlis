@@ -34,8 +34,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Que vuestro WhatsApp reserve la cita.",
-      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente contesta al momento, ofrece los huecos libres y deja la primera consulta reservada. Lo clínico sigue siendo cosa de la Dra. Adell y su equipo."
+      "titulo": "Que vuestro WhatsApp atienda al momento.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas (también la primera consulta), envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa de la Dra. Adell y su equipo."
     },
     "pregunta": "¿Qué horario es el bueno, el de la web o el de Google?",
     "tema": "primera consulta"

@@ -36,8 +36,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Que la cita salga confirmada.",
-      "texto": "Un asistente en la web y en WhatsApp que conoce vuestra agenda real, ofrece solo los huecos libres y deja la primera visita gratuita confirmada. Lo clínico sigue siendo cosa de los doctores Portaceli y su equipo."
+      "titulo": "Que vuestro WhatsApp lo resuelva al momento.",
+      "texto": "Un asistente en WhatsApp y en la web que conoce vuestra agenda real: responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, con la primera visita gratuita confirmada al momento, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa de los doctores Portaceli y su equipo."
     },
     "pregunta": "¿Cuántas citas online tenéis que llamar para confirmar cada semana?",
     "tema": "primera visita gratuita"

@@ -37,7 +37,7 @@
     "recomendacion": {
       "vista": "whatsapp",
       "titulo": "Empezar por el WhatsApp que ya tenéis en la web.",
-      "texto": "El asistente contesta en vuestro WhatsApp, enseña los huecos libres y deja la cita reservada, a cualquier hora. Las dudas sobre tratamientos y presupuestos pasan a la Dra. Gil y a su equipo."
+      "texto": "El asistente atiende vuestro WhatsApp a cualquier hora: responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Las dudas sobre tratamientos y presupuestos pasan a la Dra. Gil y a su equipo."
     },
     "pregunta": "¿Cuántas solicitudes del formulario tenéis que confirmar por teléfono cada semana?",
     "tema": "primera visita"

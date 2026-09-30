@@ -36,8 +36,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Que vuestro WhatsApp confirme la cita.",
-      "texto": "Ya invitáis a escribir al 640 17 02 10. El asistente contesta al momento, ofrece los huecos libres y deja la cita confirmada. Lo clínico, y cada diagnóstico, sigue siendo cosa de la Dra. Serrano y su equipo."
+      "titulo": "Que vuestro WhatsApp resuelva al momento.",
+      "texto": "Ya invitáis a escribir al 640 17 02 10. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico, y cada diagnóstico, sigue siendo cosa de la Dra. Serrano y su equipo."
     },
     "pregunta": "¿Cuántas peticiones de cita tenéis que llamar para confirmar cada lunes?",
     "tema": "primera visita"

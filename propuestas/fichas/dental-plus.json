@@ -36,8 +36,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Empezar por el WhatsApp de «pedir una cita».",
-      "texto": "Vuestro botón de WhatsApp ya abre con «Me gustaría pedir una cita». El asistente contesta a ese mensaje al momento, ofrece los huecos libres y deja la cita reservada. Lo clínico sigue siendo cosa del Dr. Collalti y su equipo."
+      "titulo": "Empezar por vuestro WhatsApp.",
+      "texto": "Vuestro botón de WhatsApp ya abre con «Me gustaría pedir una cita». El asistente contesta a ese mensaje al momento y, además, responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa del Dr. Collalti y su equipo."
     },
     "pregunta": "¿Cuántos formularios y WhatsApp tenéis que contestar a primera hora del lunes?",
     "tema": "primera consulta gratuita"

@@ -1,0 +1,13 @@
+/* Prueba solo en Sant Isidre: el bloque «Qué os hemos preparado» (recorrido, demo y modos de gestión)
+   va sobre una franja de otro tono, a todo el ancho, que entra y sale con un degradado suave. */
+body.client-view{--tono-1:#fafbf9;--tono-2:color-mix(in srgb,var(--client-accent) 10%,#f1f4ef)}
+#recorrido{border-image:linear-gradient(var(--tono-1),var(--tono-2) 150px) fill 0//0 100vmax;padding-top:110px!important}
+#demo{border-image:linear-gradient(var(--tono-2),var(--tono-2)) fill 0//0 100vmax}
+.client-modes{border-image:linear-gradient(var(--tono-2) calc(100% - 140px),var(--tono-1)) fill 0//0 100vmax;padding-bottom:120px!important}
+.client-modes+.client-close{margin-top:10px!important}
+body.client-view .client-demo .demo-toolbar{background:var(--tono-2)}
+#recorrido .client-eyebrow{color:color-mix(in srgb,var(--client-accent) 85%,#1d2f2a)}
+#recorrido .client-cards>button{box-shadow:0 18px 40px -30px color-mix(in srgb,var(--client-accent) 75%,#0000)}
+.client-modes-grid article{background:#fff}
+@media(max-width:600px){#recorrido{padding-top:80px!important}.client-modes{padding-bottom:90px!important}}
+#demo{padding-bottom:36px;margin-bottom:0!important}#demo>*:last-child{margin-bottom:0!important}.client-modes{margin-top:0!important}

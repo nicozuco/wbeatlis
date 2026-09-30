@@ -37,7 +37,7 @@
     "recomendacion": {
       "vista": "whatsapp",
       "titulo": "Empezar por vuestro WhatsApp.",
-      "texto": "El asistente contesta al momento, distingue si es una urgencia para avisar al equipo y, si es una cita, ofrece los huecos libres y la deja reservada. Lo clínico sigue siendo cosa de la Dra. Temes y su equipo."
+      "texto": "El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa de la Dra. Temes y su equipo."
     },
     "pregunta": "¿Cuántas urgencias os escriben durante el fin de semana?",
     "tema": "primera visita"

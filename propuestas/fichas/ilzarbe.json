@@ -38,7 +38,7 @@
     "recomendacion": {
       "vista": "whatsapp",
       "titulo": "Un asistente de WhatsApp para las dos clínicas.",
-      "texto": "Pregunta en qué clínica prefiere el paciente, enseña los huecos libres de esa agenda y deja la cita reservada. Urgencias y dudas clínicas pasan directamente a vuestro equipo."
+      "texto": "Pregunta en qué clínica prefiere el paciente y, con la agenda de ese centro, responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico pasa directamente a vuestro equipo."
     },
     "pregunta": "¿Cuántas llamadas devolvéis cada día por el formulario de «Pide cita»?",
     "tema": "revisión dental"

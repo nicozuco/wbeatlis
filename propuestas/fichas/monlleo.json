@@ -34,8 +34,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Que vuestro WhatsApp reserve la cita.",
-      "texto": "Ya tenéis el chat de WhatsApp en la web. El asistente contesta al momento, ofrece los huecos libres y deja la cita reservada, con un único horario, el real. Lo clínico sigue siendo cosa de los doctores Monlleó."
+      "titulo": "Que vuestro WhatsApp atienda al momento.",
+      "texto": "Ya tenéis el chat de WhatsApp en la web. El asistente, con un único horario, el real, responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa de los doctores Monlleó."
     },
     "pregunta": "¿Qué horario le decís hoy a un paciente que pregunta si abrís el viernes por la tarde?",
     "tema": "primera visita"

@@ -36,8 +36,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Que el WhatsApp confirme la cita al momento.",
-      "texto": "Ya tenéis el WhatsApp directo en la web. El asistente contesta al momento, ofrece las horas libres reales y deja la cita confirmada, sin pasos pendientes. Lo clínico sigue siendo cosa de la Dra. Pérez Manrique y su equipo."
+      "titulo": "Que vuestro WhatsApp resuelva al momento.",
+      "texto": "Ya tenéis el WhatsApp directo en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, con la cita confirmada sin pasos pendientes, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa de la Dra. Pérez Manrique y su equipo."
     },
     "pregunta": "¿Cuántas solicitudes de cita confirmáis a mano cada día?",
     "tema": "primera visita"

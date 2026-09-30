@@ -38,7 +38,7 @@
     "recomendacion": {
       "vista": "whatsapp",
       "titulo": "Un único asistente de WhatsApp para las tres clínicas.",
-      "texto": "Pregunta qué clínica le queda mejor al paciente, consulta esa agenda y deja la cita reservada con la confirmación en la misma conversación. Urgencias, presupuestos y lo clínico pasan al equipo del Dr. Lorente."
+      "texto": "Pregunta qué clínica le queda mejor al paciente y, con esa agenda, responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Presupuestos y lo clínico pasan al equipo del Dr. Lorente."
     },
     "pregunta": "¿Cuántas confirmaciones de cita se pierden en la carpeta de spam de los pacientes?",
     "tema": "primera cita"

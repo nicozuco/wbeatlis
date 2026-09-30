@@ -36,8 +36,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Que el WhatsApp que ya recomendáis dé la cita.",
-      "texto": "Si el formulario manda al paciente a WhatsApp, que en WhatsApp le contesten al momento: el asistente ofrece los huecos libres y deja la cita reservada. Las dudas clínicas pasan al Dr. Cots y a su equipo."
+      "titulo": "Que el WhatsApp que ya recomendáis lo resuelva.",
+      "texto": "Si el formulario manda al paciente a WhatsApp, que allí le atiendan al momento: el asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Las dudas clínicas pasan al Dr. Cots y a su equipo."
     },
     "pregunta": "¿Cuántos mensajes de WhatsApp os esperan cada lunes a primera hora?",
     "tema": "primera visita"

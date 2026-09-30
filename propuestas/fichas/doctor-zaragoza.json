@@ -34,8 +34,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Que el WhatsApp confirme la cita al momento.",
-      "texto": "Si ya pedís a los pacientes que escriban por WhatsApp, que el asistente les conteste en el acto, ofrezca los huecos libres y deje la cita confirmada, también en inglés. Lo clínico sigue siendo cosa del Dr. Zaragozá y su equipo."
+      "titulo": "Que vuestro WhatsApp conteste al momento.",
+      "texto": "Si ya pedís a los pacientes que escriban por WhatsApp, que el asistente les atienda en el acto, también en inglés: responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Lo clínico sigue siendo cosa del Dr. Zaragozá y su equipo."
     },
     "pregunta": "¿Cuántos WhatsApp de «quiero cita tal día» contestáis cada lunes?",
     "tema": "primera visita"

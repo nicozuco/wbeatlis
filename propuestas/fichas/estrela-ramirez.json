@@ -37,8 +37,8 @@
     ],
     "recomendacion": {
       "vista": "whatsapp",
-      "titulo": "Arreglar el botón y dejar que WhatsApp reserve.",
-      "texto": "Que «Pide cita» abra vuestro WhatsApp en cualquier dispositivo y que el asistente conteste al momento con los huecos libres, a cualquier hora. El diagnóstico y los tratamientos siguen siendo cosa de la Dra. Ramírez, el Dr. Estrela y su equipo."
+      "titulo": "Arreglar el botón y que WhatsApp atienda solo.",
+      "texto": "Que «Pide cita» abra vuestro WhatsApp en cualquier dispositivo y que el asistente, a cualquier hora, responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. El diagnóstico y los tratamientos siguen siendo cosa de la Dra. Ramírez, el Dr. Estrela y su equipo."
     },
     "pregunta": "¿Cuántos pacientes os escriben a WhatsApp fuera de horario para pedir la primera visita?",
     "tema": "primera visita gratuita"

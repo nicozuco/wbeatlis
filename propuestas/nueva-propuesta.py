@@ -174,7 +174,7 @@ def main():
         'benefit': prop.get('beneficio', 'Más tiempo para atender.<br>Menos interrupciones para coordinar.'),
         'pain': prop.get('problema', 'Pedir, mover o cancelar una cita no debería requerir varios mensajes y llamadas. El agente resuelve esos pasos y pasa al equipo lo que salga de las reglas acordadas.'),
         'web': prop.get('textoNuevaPagina', 'Una web con vuestra identidad y un recorrido claro hasta la primera visita.'),
-        'agent': prop.get('textoWhatsapp', 'Atiende las gestiones de reserva, cambio y cancelación. La valoración clínica sigue siendo cosa de vuestro equipo.'),
+        'agent': prop.get('textoWhatsapp', 'Responde dudas, reserva, cambia y cancela citas, envía recordatorios y avisa al equipo de lo urgente. La valoración clínica sigue siendo cosa de vuestro equipo.'),
         'photo': fotos.get('principal'), 'accent': col['acento'],
         'question': prop.get('pregunta', '¿Qué gestiones de agenda os gustaría delegar primero?'),
         'findings': prop['hallazgos'], 'recView': rec['vista'], 'recTitle': rec['titulo'], 'recText': rec['texto'],
