@@ -21,7 +21,7 @@ Comandos habituales:
 ```sh
 npm run db:generate  # regenera Prisma Client
 npm run db:migrate   # aplica migraciones pendientes al proyecto enlazado
-npm run db:seed      # carga los datos iniciales si la base está vacía
+SEED_DEMO=1 npm run db:seed  # solo desarrollo: carga datos ficticios si la base está vacía
 npm run db:verify    # verifica las tablas, RLS y los registros principales
 ```
 

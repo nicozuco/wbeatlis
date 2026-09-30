@@ -3,6 +3,11 @@ import { PrismaClient } from "@prisma/client";
 const prisma = new PrismaClient();
 
 async function main() {
+  // Datos ficticios solo para desarrollo: no se cargan salvo con SEED_DEMO=1.
+  if (process.env.SEED_DEMO !== "1") {
+    console.log("Seed de ejemplo omitido. Usa SEED_DEMO=1 para cargar datos ficticios.");
+    return;
+  }
   const existing = await prisma.clinic.count();
   if (existing > 0) return;
 
