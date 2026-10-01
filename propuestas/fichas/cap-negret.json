@@ -1,0 +1,165 @@
+{
+  "slug": "cap-negret",
+  "numero": 723,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Cap Negret",
+    "nombreCorto": "Cap Negret",
+    "dominio": "dentalcapnegret.com",
+    "web": "http://www.dentalcapnegret.com/",
+    "contacto": "https://dentalcapnegret.com/es/contactenos/",
+    "decisor": "Dr. Marco Hahn"
+  },
+  "colores": {
+    "acento": "#2b7fa6",
+    "tinta": "#16252d",
+    "profundo": "#193543",
+    "suave": "#f0f6f9",
+    "borde": "#dbe9f0",
+    "calido": "#9cc7d9",
+    "calidoSuave": "#f5f9fb"
+  },
+  "fotos": {
+    "principal": "https://dentalcapnegret.com/wp-content/uploads/2019/12/recepcion.jpg",
+    "clinica1": "https://dentalcapnegret.com/wp-content/uploads/2019/09/Clinica-Dental-CapNegret-50.jpg",
+    "clinica2": "https://dentalcapnegret.com/wp-content/uploads/2019/11/work1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "ED. COSTA BELLA · ALTEA",
+    "titulo": [
+      "Vuestro formulario de contacto empieza preguntando «Señora» o «Señor»",
+      "y termina preguntando por la intensidad del dolor."
+    ],
+    "intro": "Una clínica dental en Altea con el Dr. Marco Hahn, con endodoncia, prevención, implantología y cirugía, y un 4,8 en Google. Proponemos que «Concertar una cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto empieza por «Señora / Señor», pide nombre, correo, asunto, teléfono y mensaje, y pregunta la intensidad del dolor (ligero, medio, fuerte, muy fuerte): no se puede elegir día ni hora.",
+      "La web publica un horario de oficina «requiere inscripción previa» y otro «oficina del secretario», con emergencias solo por teléfono o WhatsApp, y ninguno de los dos es el horario de consulta.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Concertar una cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 621 36 03 11 en la web: solo falta que reserve con día y hora y pregunte por el dolor antes de dar cita. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Cap Negret."
+    },
+    "pregunta": "¿Cuántas personas habrán dejado el formulario sin acabar de rellenar la intensidad del dolor?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "ED. COSTA BELLA · ALTEA",
+    "telefono": "965 843 921",
+    "telefonos": "965 843 921 · WhatsApp 621 360 311",
+    "direccion": "Ed. Costa Bella, Partida Cap Negret, 17, local 10 · 03590 Altea (Alicante)",
+    "marca": "CAP NEGRET",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALTEA",
+    "heroTitulo": "Precisión hasta",
+    "heroDestacado": "el último detalle.",
+    "heroTexto": "En nuestra clínica dental conseguiremos que tengas una bonita sonrisa. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Concertar una cita",
+    "frase": "Dentistas en Altea.",
+    "nota": "En Cap Negret, Altea.",
+    "fotoEtiqueta": "CAP NEGRET",
+    "fotoTitulo": "Una clínica luminosa en Altea.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Marco Hahn y su equipo.",
+    "equipoTexto": "El Dr. Marco Hahn, director, el Dr. Casto Maci y el equipo, con endodoncia, prevención, estética e implantología.",
+    "valores": [
+      [
+        "Endodoncia.",
+        "Y prevención."
+      ],
+      [
+        "Implantología.",
+        "Y cirugía."
+      ],
+      [
+        "Altea.",
+        "Cap Negret."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Altea,",
+    "galeriaDestacado": "Cap Negret.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Endodoncia",
+      "Prevención",
+      "Limpieza de dientes",
+      "Blanqueamiento",
+      "Implantología",
+      "Cirugía"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Edificio Costa Bella, Cap Negret, 17, local 10, en Altea."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 621 36 03 11 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Altea",
+    "notaDiseno": "El azul de Cap Negret, su recepción y una cita con día y hora sin preguntas de más.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 52
+    }
+  }
+}

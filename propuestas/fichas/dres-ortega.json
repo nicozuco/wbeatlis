@@ -1,0 +1,168 @@
+{
+  "slug": "dres-ortega",
+  "numero": 797,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Dres. Ortega Centro Médico y Dental",
+    "nombreCorto": "Dres. Ortega",
+    "dominio": "institutobocca.com",
+    "web": "https://institutobocca.com/clinica-orihuela/",
+    "contacto": "https://institutobocca.com/contacto/",
+    "decisor": "Dr. José Juan Ortega y Dra. Ana Ortega"
+  },
+  "colores": {
+    "acento": "#0f7a5a",
+    "tinta": "#162d26",
+    "profundo": "#194336",
+    "suave": "#eef6f3",
+    "borde": "#d6e8e3",
+    "calido": "#d9b84a",
+    "calidoSuave": "#fbf8ed"
+  },
+  "fotos": {
+    "principal": "https://institutobocca.com/wp-content/uploads/2024/10/R6_3381-HDR.jpg",
+    "clinica1": "https://institutobocca.com/wp-content/uploads/2025/11/Fachada-de-la-clinica-dental-Dres-Ortega-en-Orihuela-1024x725.jpg",
+    "clinica2": "https://institutobocca.com/wp-content/uploads/2024/10/R6_3376-HDR.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ CALDERÓN DE LA BARCA, 7 · ORIHUELA",
+    "titulo": [
+      "Uno de los botones «Pedir cita en Orihuela» de vuestra web",
+      "no lleva a ninguna parte: su enlace es «#»."
+    ],
+    "intro": "Una clínica de Orihuela, en un centro médico y dental con otra clínica en Murcia, con odontología honesta y preventiva, implantes, ortodoncia invisible y estética dental. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la página de la clínica de Orihuela, el botón «Pedir cita en Orihuela» tiene como enlace «#»: se pulsa y no pasa nada. El otro botón de cita de esa página sí abre WhatsApp.",
+      "El formulario de contacto pide nombre, teléfono, correo y las dudas, sin elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:30 y no abrís hasta el lunes a las 10:00: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 622 39 31 54 en el botón «Pedir cita Orihuela»: solo falta que reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dres. Ortega."
+    },
+    "pregunta": "¿Cuántas personas habrán pulsado «Pedir cita en Orihuela» y se habrán quedado esperando?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ CALDERÓN DE LA BARCA, 7 · ORIHUELA",
+    "telefono": "966 740 308",
+    "telefonos": "Orihuela 966 740 308 · Murcia 868 942 349 · WhatsApp 622 393 154",
+    "direccion": "C/ Calderón de la Barca, 7 · 03300 Orihuela (Alicante)",
+    "marca": "DRES. ORTEGA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ORIHUELA",
+    "heroTitulo": "Una odontología",
+    "heroDestacado": "honesta y preventiva.",
+    "heroTexto": "Tratamientos dentales integrales para que no dejes de ser tú. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Soluciones personalizadas para cada necesidad.",
+    "nota": "Orihuela y Murcia.",
+    "fotoEtiqueta": "DRES. ORTEGA",
+    "fotoTitulo": "Una clínica moderna en Orihuela.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. José Juan Ortega y la Dra. Ana Ortega.",
+    "equipoTexto": "Un equipo de odontólogos con odontología preventiva, ortodoncia invisible e implantes dentales.",
+    "valores": [
+      [
+        "Preventiva.",
+        "Y honesta."
+      ],
+      [
+        "Implantes.",
+        "Dentales."
+      ],
+      [
+        "Dos clínicas.",
+        "Orihuela y Murcia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Orihuela.",
+    "pies": [
+      "La sala de espera",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia e Invisalign",
+      "Estética dental",
+      "Periodoncia",
+      "Odontología general",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Calderón de la Barca, 7, en Orihuela."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 622 39 31 54 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Orihuela",
+    "notaDiseno": "El verde y el dorado de los Dres. Ortega, su clínica y un botón de cita que sí lleva a algún sitio.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00 a 20:00",
+      "Viernes: 10:00 a 14:30"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 23
+    }
+  }
+}

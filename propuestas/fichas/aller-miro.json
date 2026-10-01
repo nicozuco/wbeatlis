@@ -1,0 +1,167 @@
+{
+  "slug": "aller-miro",
+  "numero": 699,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Aller Miró Clínica Dental",
+    "nombreCorto": "Aller Miró",
+    "dominio": "allerclinicadental.com",
+    "web": "http://allerclinicadental.com/",
+    "contacto": "http://allerclinicadental.com/",
+    "decisor": "Dra. Aller Miró"
+  },
+  "colores": {
+    "acento": "#1f4f8f",
+    "tinta": "#161f2d",
+    "profundo": "#192b43",
+    "suave": "#eff3f7",
+    "borde": "#d9e1ec",
+    "calido": "#6fb3d9",
+    "calidoSuave": "#f1f7fb"
+  },
+  "fotos": {
+    "principal": "https://allerclinicadental.com/site/wp-content/uploads/2019/02/CDAller_-exportadas_lightroom-6039-C.jpg",
+    "clinica1": "https://allerclinicadental.com/site/wp-content/uploads/2019/02/CDAller_-exportadas_lightroom-6335-B.jpg",
+    "clinica2": "https://allerclinicadental.com/site/wp-content/uploads/2012/07/CDAller_-exportadas_lightroom-6561-B.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. ALAMEDA CAMILO SESTO, 58 · ALCOY",
+    "titulo": [
+      "«Pedir cita» en vuestra web es un enlace de llamada.",
+      "No hay formulario, ni WhatsApp, ni horario."
+    ],
+    "intro": "Una clínica de Alcoy con la Dra. Aller Miró, la Dra. Albero (ortodoncia) y la Dra. Pons (cirugía oral), centrada en conocerte y en el tiempo necesario, y un 4,9 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón «Pedir cita» de la cabecera llama por teléfono al 96 552 13 76: no hay formulario de cita ni WhatsApp, así que si nadie coge el teléfono, la cita se queda en el aire.",
+      "En ninguna página de la web aparece vuestro horario: el paciente no sabe cuándo llamar ni cuándo le van a contestar.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que «Pedir cita» la deje reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Aller Miró."
+    },
+    "pregunta": "¿Cuántas llamadas se pierden cuando la clínica está con pacientes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. ALAMEDA CAMILO SESTO, 58 · ALCOY",
+    "telefono": "965 521 376",
+    "telefonos": "965 521 376 · WhatsApp",
+    "direccion": "Av. Alameda Camilo Sesto, 58, entresuelo (Pasaje Capitol) · 03803 Alcoy (Alicante)",
+    "marca": "ALLER MIRÓ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN ALCOY",
+    "heroTitulo": "Tu salud dental",
+    "heroDestacado": "empieza por conocerte.",
+    "heroTexto": "Buscamos tu confianza, con el tiempo necesario. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Un entorno amable asegura el éxito del tratamiento.",
+    "nota": "En Alcoy.",
+    "fotoEtiqueta": "ALLER MIRÓ",
+    "fotoTitulo": "Un entorno amable en Alcoy.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Tu equipo.",
+    "equipoTexto": "La Dra. Aller Miró en odontología, la Dra. Albero Barceló en ortodoncia y la Dra. Pons Vicente en cirugía oral.",
+    "valores": [
+      [
+        "Te escuchamos.",
+        "Tu salud empieza por conocerte."
+      ],
+      [
+        "Tranquilidad.",
+        "Saber con quién hablas."
+      ],
+      [
+        "Tiempo.",
+        "El necesario."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alcoy.",
+    "pies": [
+      "La consulta",
+      "El equipo"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Cirugía oral",
+      "Diseño de sonrisas con carillas",
+      "Férulas dentales",
+      "Invisalign",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Alameda Camilo Sesto, 58, entresuelo, en Alcoy."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 965 52 13 76 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alcoy",
+    "notaDiseno": "El azul de Aller Miró, su consulta y una cita que no depende de que alguien coja el teléfono.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 64
+    }
+  }
+}

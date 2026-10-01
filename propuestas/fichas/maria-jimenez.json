@@ -1,0 +1,167 @@
+{
+  "slug": "maria-jimenez",
+  "numero": 717,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental María Jiménez",
+    "nombreCorto": "María Jiménez",
+    "dominio": "clinicadentalmariajimenez.es",
+    "web": "https://www.clinicadentalmariajimenez.es/",
+    "contacto": "https://www.clinicadentalmariajimenez.es/contacto/",
+    "decisor": "Dra. María Jiménez"
+  },
+  "colores": {
+    "acento": "#1f4f6f",
+    "tinta": "#16232d",
+    "profundo": "#193243",
+    "suave": "#eff3f5",
+    "borde": "#d9e1e7",
+    "calido": "#c9b8a0",
+    "calidoSuave": "#faf8f6"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalmariajimenez.es/wp-content/uploads/2025/02/Cli%CC%81nica-dental-en-Alicante-Mari%CC%81a-Jime%CC%81nez-5.webp",
+    "clinica1": "https://clinicadentalmariajimenez.es/wp-content/uploads/2025/02/Cli%CC%81nica-dental-en-Alicante-Mari%CC%81a-Jime%CC%81nez-02-900x900.webp",
+    "clinica2": "https://clinicadentalmariajimenez.es/wp-content/uploads/2026/01/Clinica-dental-Alicante-Maria-Jimenez-nuevo-gabinete-900x900.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ GENERAL O'DONNELL, 14 · ALICANTE",
+    "titulo": [
+      "Vuestro formulario de contacto pide nombre, correo,",
+      "teléfono y mensaje: ni día ni hora."
+    ],
+    "intro": "Una clínica de Alicante desde 1995, con la Dra. María Jiménez, un nuevo escáner TRIOS 3Shape sin moldes, implantes y ortodoncia invisible y metálica, y un 4,8 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, correo, teléfono y mensaje: no se puede elegir día ni hora, así que cada solicitud acaba en una llamada para cerrar la cita.",
+      "La web tiene un botón de WhatsApp (619 61 41 26), pero no indica en ninguna página cuándo contestan.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:30: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 619 61 41 26 en la web: solo falta que conteste al momento y reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de María Jiménez."
+    },
+    "pregunta": "¿Cuántos pacientes escriben fuera de horario y no reciben respuesta hasta el día siguiente?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ GENERAL O'DONNELL, 14 · ALICANTE",
+    "telefono": "965 144 878",
+    "telefonos": "965 144 878 · WhatsApp 619 614 126",
+    "direccion": "C/ General O'Donnell, 14, 1º H · 03003 Alicante",
+    "marca": "MARÍA JIMÉNEZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALICANTE",
+    "heroTitulo": "Di adiós",
+    "heroDestacado": "a los moldes incómodos.",
+    "heroTexto": "Nuevo escáner dental TRIOS 3Shape, ortodoncia e implantes. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Desde 1995.",
+    "nota": "Con escáner dental nuevo.",
+    "fotoEtiqueta": "MARÍA JIMÉNEZ",
+    "fotoTitulo": "Una clínica luminosa en Alicante.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. María Jiménez y su equipo.",
+    "equipoTexto": "La Dra. María Jiménez, el Dr. Alberto Pomares, la Dra. Luz Morote y el equipo, con 30 años de experiencia.",
+    "valores": [
+      [
+        "Desde 1995.",
+        "En Alicante."
+      ],
+      [
+        "Sin moldes.",
+        "Con escáner 3D."
+      ],
+      [
+        "Implantes.",
+        "De una pieza."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alicante.",
+    "pies": [
+      "El gabinete",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Escáner dental TRIOS 3Shape",
+      "Ortodoncia invisible y metálica",
+      "Implantes dentales y prótesis",
+      "Cirugía oral",
+      "Endodoncia",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle General O'Donnell, 14, 1º H, en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 619 61 41 26 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El azul marino y el beige de María Jiménez, su gabinete y un WhatsApp que reserva a cualquier hora.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 54
+    }
+  }
+}

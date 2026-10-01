@@ -1,0 +1,170 @@
+{
+  "slug": "happy-teeth",
+  "numero": 701,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Happy Teeth Dental Clinic",
+    "nombreCorto": "Happy Teeth",
+    "dominio": "happyteeth.es",
+    "web": "http://www.happyteeth.es/",
+    "contacto": "https://happyteeth.es/contact",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1f3a5f",
+    "tinta": "#161f2d",
+    "profundo": "#192b43",
+    "suave": "#eff1f4",
+    "borde": "#d9dee4",
+    "calido": "#e8b840",
+    "calidoSuave": "#fdf8ec"
+  },
+  "fotos": {
+    "principal": "https://happyteeth.es/wp-content/uploads/2026/05/WhatsApp-Image-2026-04-16-at-21.16.32.jpeg",
+    "clinica1": "https://happyteeth.es/wp-content/uploads/2026/05/WhatsApp-Image-2026-04-16-at-21.16.323.jpeg",
+    "clinica2": "https://happyteeth.es/wp-content/uploads/2026/05/WhatsApp-Image-2026-04-16-at-21.16.337.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ NAZARIES, 5 · ORIHUELA",
+    "titulo": [
+      "«Make Appointment» lleva a un formulario",
+      "de tres campos, sin teléfono."
+    ],
+    "intro": "Una clínica de Orihuela que cuida sonrisas desde 2005, con tratamiento en cinco idiomas, tecnología dental avanzada y un enfoque cálido y personalizado, y un 4,8 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón «Make Appointment» lleva a un formulario con nombre, correo y mensaje: no pide teléfono, y no se puede elegir día ni hora. Además, las páginas de la web están escritas en inglés.",
+      "El horario de la página de contacto dice «Friday 09:00 – 16:00», y Google Maps cierra el viernes a las 17:00.",
+      "Según Google Maps cerráis el viernes a las 17:00 y no abrís hasta el lunes a las 9:00: 64 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno, en varios idiomas, que reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Happy Teeth."
+    },
+    "pregunta": "¿Cuántos pacientes se encuentran un formulario sin teléfono y se rinden?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ NAZARIES, 5 · ORIHUELA",
+    "telefono": "966 393 639",
+    "telefonos": "966 393 639 · WhatsApp",
+    "direccion": "C/ Nazaries, 5 · 03189 Orihuela (Alicante)",
+    "marca": "HAPPY TEETH",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ORIHUELA",
+    "heroTitulo": "Un equipo en el que",
+    "heroDestacado": "confiar tu sonrisa.",
+    "heroTexto": "Tecnología dental avanzada con un enfoque cálido y personalizado. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Happy Teeth, our passion.",
+    "nota": "Desde 2005 en Orihuela.",
+    "fotoEtiqueta": "HAPPY TEETH",
+    "fotoTitulo": "Instalaciones modernas, pensadas para tu comodidad.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de confianza.",
+    "equipoTexto": "Un equipo que trata a pacientes en cinco idiomas, con bienestar del paciente en el centro de todo lo que hace.",
+    "valores": [
+      [
+        "Cinco idiomas.",
+        "En consulta."
+      ],
+      [
+        "Desde 2005.",
+        "Cuidando sonrisas."
+      ],
+      [
+        "Tecnología.",
+        "Avanzada."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Orihuela.",
+    "pies": [
+      "La recepción",
+      "En consulta"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Periodoncia",
+      "Endodoncia",
+      "Ortodoncia",
+      "Estética dental",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Nazaries, 5, en Orihuela."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 966 39 36 39 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Orihuela",
+    "notaDiseno": "El azul marino y el amarillo de Happy Teeth, su recepción y una cita en tu idioma.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "15:00",
+        "16:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00",
+        "15:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "15:00",
+        "16:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00",
+        "15:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00",
+        "15:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00 a 17:00",
+      "Viernes: 9:00 a 16:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 63
+    }
+  }
+}

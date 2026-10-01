@@ -1,0 +1,169 @@
+{
+  "slug": "clinica10",
+  "numero": 708,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica10",
+    "nombreCorto": "Clínica10",
+    "dominio": "clinica10.es",
+    "web": "https://clinica10.es/",
+    "contacto": "https://clinica10.es/localizacion-y-contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#c62828",
+    "tinta": "#2d1616",
+    "profundo": "#431919",
+    "suave": "#fbf0f0",
+    "borde": "#f5dada",
+    "calido": "#6a8aa8",
+    "calidoSuave": "#f0f3f6"
+  },
+  "fotos": {
+    "principal": "https://clinica10.es/wp-content/uploads/2021/05/ESCANER4-scaled.jpg",
+    "clinica1": "https://clinica10.es/wp-content/uploads/2017/10/foto-gabinete-nuevo-clinica-10.jpg",
+    "clinica2": "https://clinica10.es/wp-content/uploads/2021/05/BOX2.1-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE ONIL, 105 · CASTALLA",
+    "titulo": [
+      "«Pide tu cita» te lleva a un formulario",
+      "sin elegir día ni hora."
+    ],
+    "intro": "Clínica dental y maxilofacial en Castalla, una experiencia diferente con implantes, ortodoncia, odontopediatría, cirugía maxilofacial y medicina estética, y un 4,8 en Google. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de «Pide tu cita» pide nombre, correo, teléfono, asunto y mensaje: no se puede elegir día ni hora, así que cada solicitud acaba en una llamada para cerrar la cita.",
+      "El botón de WhatsApp lleva a WhatsApp Web en el ordenador, con un mensaje largo ya escrito («Hola, me he puesto en contacto con vosotros porque deseo más información sobre …»), sin reservar nada.",
+      "Según Google Maps cerráis el viernes a las 15:00 y no abrís hasta el lunes a las 9:30: 66,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 670 59 51 10 en la web: solo falta que deje la cita reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica10."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario esperan una llamada de vuelta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE ONIL, 105 · CASTALLA",
+    "telefono": "965 561 403",
+    "telefonos": "965 561 403 · WhatsApp 670 595 110",
+    "direccion": "Av. de Onil, 105 · 03420 Castalla (Alicante)",
+    "marca": "CLÍNICA10",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL Y MAXILOFACIAL EN CASTALLA",
+    "heroTitulo": "Una experiencia",
+    "heroDestacado": "diferente.",
+    "heroTexto": "Pide tu cita y revisamos tu boca sin compromiso. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Clínica10, una experiencia diferente.",
+    "nota": "Dental, maxilofacial y medicina estética.",
+    "fotoEtiqueta": "CLÍNICA10",
+    "fotoTitulo": "Un gabinete moderno en Castalla.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de especialistas.",
+    "equipoTexto": "La Dra. Alicia Melgarejo y el Dr. Mathieu Compére en ortodoncia, la Dra. Laura Cifuentes en odontología y el resto del equipo.",
+    "valores": [
+      [
+        "Desde 2007.",
+        "En Castalla."
+      ],
+      [
+        "Revisión.",
+        "Sin compromiso."
+      ],
+      [
+        "Ortodoncia.",
+        "Con especialistas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Castalla.",
+    "pies": [
+      "El escáner",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Odontología preventiva y conservadora",
+      "Odontopediatría",
+      "Endodoncia",
+      "Estética dental",
+      "Cirugía maxilofacial"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. de Onil, 105, en Castalla."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 670 59 51 10 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Castalla",
+    "notaDiseno": "El rojo y el azul grisáceo de Clínica10, su gabinete y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30 a 19:00",
+      "Viernes: 9:30 a 15:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 60
+    }
+  }
+}
