@@ -1,0 +1,165 @@
+{
+  "slug": "isabel-cadroy",
+  "numero": 930,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Infantil Isabel Cadroy",
+    "nombreCorto": "Isabel Cadroy",
+    "dominio": "isabelcadroy.com",
+    "web": "http://www.isabelcadroy.com/",
+    "contacto": "http://www.isabelcadroy.com/",
+    "decisor": "Dra. Isabel Cadroy"
+  },
+  "colores": {
+    "acento": "#e8602c",
+    "tinta": "#2d1c16",
+    "profundo": "#432519",
+    "suave": "#fdf4f0",
+    "borde": "#fbe4db",
+    "calido": "#2f8f7a",
+    "calidoSuave": "#eaf4f2"
+  },
+  "fotos": {
+    "principal": "https://www.isabelcadroy.com/wp-content/uploads/2023/06/DSC04812-VERO-ENTRADAx.jpg",
+    "clinica1": "https://www.isabelcadroy.com/wp-content/uploads/2023/06/DSC04691-ISABEL-CADROY-REPECIO.jpg",
+    "clinica2": "https://www.isabelcadroy.com/wp-content/uploads/2023/06/DSC04696-ISABEL-CADROY-RECEPCIO.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER DE NAVARRA, 60 · CASTELLÓN DE LA PLANA",
+    "titulo": [
+      "«Pide tu cita» abre un correo en blanco,",
+      "y la web sigue con el horario de verano."
+    ],
+    "intro": "Una clínica de odontología infantil en Castellón con la Dra. Isabel Cadroy, con técnicas y tecnologías avanzadas para que cada visita sea agradable y sin estrés, y un 4,3 en Google. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Los dos botones «Pide tu cita» abren un correo a consulta@isabelcadroy.com en lugar de dejar la cita reservada: quien lo toca desde el móvil se encuentra con un correo en blanco.",
+      "La web sigue publicando el «horario de verano» («lunes a viernes mañanas de 9:00 a 13:00 y tardes de 14:30 a 18:00»), y Google Maps cierra el viernes a las 19:00.",
+      "Según Google Maps cerráis el viernes a las 19:00 y no abrís hasta el lunes a las 14:30: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que figura en la web (641 52 25 41). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Isabel Cadroy."
+    },
+    "pregunta": "¿Cuántos padres habrán tocado «Pide tu cita» y se habrán encontrado con un correo en blanco?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER DE NAVARRA, 60 · CASTELLÓN DE LA PLANA",
+    "telefono": "964 244 615",
+    "telefonos": "964 244 615 · WhatsApp 641 522 541",
+    "direccion": "Carrer de Navarra, 60 · 12002 Castellón de la Plana",
+    "marca": "ISABEL CADROY",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "ODONTOLOGÍA INFANTIL EN CASTELLÓN",
+    "heroTitulo": "Una atención dental",
+    "heroDestacado": "de calidad para tus hijos.",
+    "heroTexto": "Cada visita es agradable y sin estrés. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Puedes consultarnos cuando quieras.",
+    "nota": "Odontología infantil.",
+    "fotoEtiqueta": "ISABEL CADROY",
+    "fotoTitulo": "Una clínica pensada para niños.",
+    "cifra": "4,3",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Isabel Cadroy y su equipo.",
+    "equipoTexto": "La Dra. Isabel Cadroy y su equipo, con técnicas y tecnologías avanzadas para que cada visita sea agradable.",
+    "valores": [
+      [
+        "Para niños.",
+        "Sin estrés."
+      ],
+      [
+        "Técnicas.",
+        "Y tecnologías avanzadas."
+      ],
+      [
+        "Visitas.",
+        "Agradables."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Para los más",
+    "galeriaDestacado": "pequeños.",
+    "pies": [
+      "La clínica",
+      "La recepción"
+    ],
+    "servicios": [
+      "Odontología infantil",
+      "Revisión y prevención",
+      "Selladores",
+      "Ortodoncia infantil",
+      "Primera visita",
+      "Urgencias"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer de Navarra, 60, en Castellón de la Plana."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 641 52 25 41 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Castellón de la Plana",
+    "notaDiseno": "El naranja y el verde de la Dra. Cadroy, su clínica infantil y una cita que no abre un correo en blanco.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:00",
+        "16:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:00",
+        "16:30"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00 a 13:00 y 14:30 a 18:00"
+    ]
+  }
+}

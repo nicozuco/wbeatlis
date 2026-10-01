@@ -1,0 +1,167 @@
+{
+  "slug": "plaza-y-tena",
+  "numero": 907,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Plaza & Tena Dental",
+    "nombreCorto": "Plaza & Tena",
+    "dominio": "plazatena.com",
+    "web": "http://www.plazatena.com/",
+    "contacto": "http://www.plazatena.com/contacto",
+    "decisor": "Dr. Javier Plaza y Dra. Arantxa Tena"
+  },
+  "colores": {
+    "acento": "#2f4f5f",
+    "tinta": "#16252c",
+    "profundo": "#1e333d",
+    "suave": "#f0f3f4",
+    "borde": "#dce1e4",
+    "calido": "#7a2f4f",
+    "calidoSuave": "#f2eaed"
+  },
+  "fotos": {
+    "principal": "https://www.plazatena.com/app/uploads/2020/12/REV-7004-copia.jpg",
+    "clinica1": "https://www.plazatena.com/app/uploads/2020/12/DSC5378.jpg",
+    "clinica2": "https://www.plazatena.com/app/uploads/2020/12/DSC5254-e1609086447478.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER DE SANT VICENT, 2 · CASTELLÓN DE LA PLANA",
+    "titulo": [
+      "El enlace de vuestro correo en la cabecera de la web es",
+      "«tel:info@plazatena.com»."
+    ],
+    "intro": "Una clínica de Castellón con el Dr. Javier Plaza y la Dra. Arantxa Tena, ortodoncia, rehabilitación oral, implantología y tratamiento de la migraña y el dolor orofacial, y un 4,9 en Google. Proponemos que «Contacto» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la web, el enlace del correo info@plazatena.com es en realidad un enlace de llamada («tel:info@plazatena.com»): quien lo toque desde el móvil intenta llamar a una dirección de correo.",
+      "El formulario de contacto pide nombre, apellidos, teléfono, correo y mensaje, sin elegir día ni hora, y la web no tiene WhatsApp.",
+      "Según Google Maps cerráis el viernes a las 13:30 y no abrís hasta el lunes a las 9:30: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Contacto» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que la cita quede reservada, con día y hora, en la misma conversación. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Plaza & Tena."
+    },
+    "pregunta": "¿Cuántas personas habrán tocado el correo y se habrán encontrado con una llamada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER DE SANT VICENT, 2 · CASTELLÓN DE LA PLANA",
+    "telefono": "964 242 635",
+    "telefonos": "964 242 635 · WhatsApp",
+    "direccion": "Carrer de Sant Vicent, 2, entresuelo · 12002 Castellón de la Plana",
+    "marca": "PLAZA & TENA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CASTELLÓN",
+    "heroTitulo": "Odontología integral",
+    "heroDestacado": "con experiencia.",
+    "heroTexto": "Una clínica con el Dr. Javier Plaza y la Dra. Arantxa Tena. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Contacto",
+    "frase": "Odontología integral.",
+    "nota": "Ortodoncia, rehabilitación e implantes.",
+    "fotoEtiqueta": "PLAZA & TENA",
+    "fotoTitulo": "Instalaciones amplias en Castellón.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Javier Plaza y la Dra. Arantxa Tena.",
+    "equipoTexto": "Los doctores Plaza y Tena, con especialistas en ortodoncia, odontopediatría, implantología y dolor orofacial.",
+    "valores": [
+      [
+        "Dos doctores.",
+        "Un mismo equipo."
+      ],
+      [
+        "Dolor orofacial.",
+        "Y migrañas."
+      ],
+      [
+        "Rehabilitación.",
+        "Oral integral."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Castellón.",
+    "pies": [
+      "La sala de espera",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Ortodoncia y odontopediatría",
+      "Rehabilitación oral integral",
+      "Implantología",
+      "Estética dental",
+      "Migraña y dolor orofacial",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer de Sant Vicent, 2, entresuelo, en Castellón de la Plana."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 964 24 26 35 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Castellón de la Plana",
+    "notaDiseno": "El azul petróleo y el granate de Plaza & Tena, su clínica y un enlace de correo que abre el correo.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 103
+    }
+  }
+}

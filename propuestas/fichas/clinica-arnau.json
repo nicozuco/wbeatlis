@@ -1,0 +1,167 @@
+{
+  "slug": "clinica-arnau",
+  "numero": 910,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Arnau",
+    "nombreCorto": "Clínica Arnau",
+    "dominio": "clinicadentalarnau.com",
+    "web": "https://clinicadentalarnau.com/",
+    "contacto": "https://clinicadentalarnau.com/",
+    "decisor": "Dra. María José Arnau"
+  },
+  "colores": {
+    "acento": "#1f3a6e",
+    "tinta": "#161d2d",
+    "profundo": "#192743",
+    "suave": "#eff1f5",
+    "borde": "#d9dee6",
+    "calido": "#c9873a",
+    "calidoSuave": "#faf3eb"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalarnau.com/wp-content/uploads/2022/02/arnau-clinica-dental-1.jpg",
+    "clinica1": "https://www.clinicadentalarnau.com/wp-content/uploads/2021/10/Arnau-A-077.jpg",
+    "clinica2": "https://www.clinicadentalarnau.com/wp-content/uploads/2021/04/dr-arnau.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER MAJOR, 95 · CASTELLÓN DE LA PLANA",
+    "titulo": [
+      "«Solicitar cita» abre una ventana emergente con un formulario",
+      "que no deja elegir día ni hora."
+    ],
+    "intro": "Tu clínica dental en Castellón desde 2001, con la Dra. María José Arnau, el Dr. Alejandro Arnau y su equipo, con CBCT 3D, microscopio y escáner intraoral, y un 4,8 en Google. Proponemos que «Solicitar cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón «Solicitar cita» abre una ventana emergente con un formulario de nombre, teléfono, correo, un desplegable y mensaje: no se puede elegir día ni hora, y alguien tiene que llamar para cerrar la cita.",
+      "La web no tiene WhatsApp: el único camino además del formulario es llamar al 964 22 55 49.",
+      "Según Google Maps cerráis el viernes a las 17:00 y no abrís hasta el lunes a las 9:00: 64 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Solicitar cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que «Solicitar cita» la deje reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Arnau."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario esperan una llamada de vuelta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER MAJOR, 95 · CASTELLÓN DE LA PLANA",
+    "telefono": "964 225 549",
+    "telefonos": "964 225 549 · WhatsApp",
+    "direccion": "Carrer Major, 95 · 12001 Castellón de la Plana",
+    "marca": "CLÍNICA ARNAU",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN CASTELLÓN",
+    "heroTitulo": "Siempre",
+    "heroDestacado": "a tu servicio.",
+    "heroTexto": "Tecnología avanzada y un equipo de profesionales. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Solicitar cita",
+    "frase": "Tu clínica dental en Castellón.",
+    "nota": "Desde 2001.",
+    "fotoEtiqueta": "CLÍNICA ARNAU",
+    "fotoTitulo": "Una clínica cálida en Castellón.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. María José Arnau y su equipo.",
+    "equipoTexto": "La Dra. María José Arnau, el Dr. Alejandro Arnau, el Dr. Alberto Vericat y el Dr. Pau Micó, con tecnología de vanguardia.",
+    "valores": [
+      [
+        "Desde 2001.",
+        "En Castellón."
+      ],
+      [
+        "Tecnología.",
+        "CBCT, microscopio y escáner."
+      ],
+      [
+        "Siempre.",
+        "A tu servicio."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Castellón.",
+    "pies": [
+      "La recepción",
+      "El equipo"
+    ],
+    "servicios": [
+      "CBCT 3D",
+      "Microscopio dental",
+      "Escáner intraoral",
+      "Fotografía clínica",
+      "Lámpara de blanqueamiento",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer Major, 95, en Castellón de la Plana."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 964 22 55 49 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Castellón de la Plana",
+    "notaDiseno": "El azul marino y el ámbar de Clínica Arnau, su recepción y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 99
+    }
+  }
+}

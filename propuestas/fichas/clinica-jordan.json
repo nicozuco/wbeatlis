@@ -1,0 +1,167 @@
+{
+  "slug": "clinica-jordan",
+  "numero": 921,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Jordán",
+    "nombreCorto": "Clínica Jordán",
+    "dominio": "clinicadentaljordan.com",
+    "web": "https://clinicadentaljordan.com/",
+    "contacto": "https://clinicadentaljordan.com/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#c9a24a",
+    "tinta": "#2d2616",
+    "profundo": "#433619",
+    "suave": "#fbf8f2",
+    "borde": "#f6efe0",
+    "calido": "#1f3a5f",
+    "calidoSuave": "#e9ebef"
+  },
+  "fotos": {
+    "principal": "https://clinicadentaljordan.com/wp-content/uploads/2026/03/02-Sesion-26-03-10-scaled-e1774455757489.jpg",
+    "clinica1": "https://clinicadentaljordan.com/wp-content/uploads/2026/03/IMG_3550-768x1024.jpeg",
+    "clinica2": "https://clinicadentaljordan.com/wp-content/uploads/2026/03/IMG_3553-768x1024.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DEL PAÍS VALENCIÀ, 94 · ONDA",
+    "titulo": [
+      "Los botones «Llámanos» y «Agenda tu cita hoy» de vuestra portada",
+      "tienen como enlace «#»: no llevan a ninguna parte."
+    ],
+    "intro": "Una clínica de Onda con odontología general, prótesis, cirugía e implantes, ortodoncia, odontopediatría, periodoncia y medicina estética, y un 4,8 en Google. Proponemos que «Agenda tu cita hoy» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Los botones «Llámanos» y «Agenda tu cita hoy» de la portada tienen como enlace «#»: se pulsan y no pasa nada. Solo el número 652 06 16 15 de la cabecera es un enlace de llamada.",
+      "El formulario de la portada pide nombre, correo, teléfono y el interés, sin elegir día ni hora, y no hay WhatsApp en la web.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Agenda tu cita hoy» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (652 06 16 15), para que «Agenda tu cita hoy» agende de verdad. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Jordán."
+    },
+    "pregunta": "¿Cuántas personas habrán pulsado «Agenda tu cita hoy» y se habrán quedado esperando?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DEL PAÍS VALENCIÀ, 94 · ONDA",
+    "telefono": "652 061 615",
+    "telefonos": "652 061 615 · WhatsApp",
+    "direccion": "Av. del País Valencià, 94, piso 3ºB · 12200 Onda (Castellón)",
+    "marca": "CLÍNICA JORDÁN",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ONDA",
+    "heroTitulo": "Bienvenidos",
+    "heroDestacado": "a Clínica Jordán.",
+    "heroTexto": "Odontología y medicina estética en Onda. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Agenda tu cita hoy",
+    "frase": "Conoce a nuestro equipo.",
+    "nota": "En Onda, Castellón.",
+    "fotoEtiqueta": "CLÍNICA JORDÁN",
+    "fotoTitulo": "Una clínica cuidada en Onda.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Nuestro equipo.",
+    "equipoTexto": "Un equipo de odontología general, cirugía e implantes, ortodoncia y medicina estética, con trato cercano.",
+    "valores": [
+      [
+        "Odontología.",
+        "Y medicina estética."
+      ],
+      [
+        "Implantes.",
+        "Y prótesis."
+      ],
+      [
+        "Niños.",
+        "Odontopediatría."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Onda.",
+    "pies": [
+      "La recepción",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Prótesis dentales",
+      "Cirugía e implantes",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. del País Valencià, 94, piso 3ºB, en Onda."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 652 06 16 15 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Onda",
+    "notaDiseno": "El dorado y el azul marino de Clínica Jordán, su recepción y un botón de cita que sí agenda.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 64
+    }
+  }
+}

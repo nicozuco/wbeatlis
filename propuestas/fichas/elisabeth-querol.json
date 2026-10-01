@@ -1,0 +1,167 @@
+{
+  "slug": "elisabeth-querol",
+  "numero": 915,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Elisabeth Querol",
+    "nombreCorto": "Elisabeth Querol",
+    "dominio": "clinicadentalelisabethquerol.es",
+    "web": "http://clinicadentalelisabethquerol.es/",
+    "contacto": "http://clinicadentalelisabethquerol.es/#contacto",
+    "decisor": "Dra. Elisabeth Querol"
+  },
+  "colores": {
+    "acento": "#a8335c",
+    "tinta": "#2d161e",
+    "profundo": "#431928",
+    "suave": "#f9f1f4",
+    "borde": "#f0dce3",
+    "calido": "#2b2b2b",
+    "calidoSuave": "#eaeaea"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalelisabethquerol.es/wp-content/uploads/3.jpg",
+    "clinica1": "https://www.clinicadentalelisabethquerol.es/wp-content/uploads/1.jpg",
+    "clinica2": "https://www.clinicadentalelisabethquerol.es/wp-content/uploads/recepcion.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE LA CONSTITUCIÓ, 2 · SANT MATEU",
+    "titulo": [
+      "«Pide cita» baja a una zona de la misma página",
+      "con el teléfono y un formulario."
+    ],
+    "intro": "La clínica dental de Sant Mateu con la Dra. Elisabeth Querol y especialistas en ortodoncia, implantología y bruxismo, con escáner intraoral y financiación, y un 5,0 en Google. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Los tres botones «PIDE CITA» solo bajan a la zona de contacto de la misma página, con un formulario de nombre, teléfono, correo y mensaje: no se puede elegir día ni hora.",
+      "La web no tiene WhatsApp: el único camino además del formulario es llamar al 964 20 31 13 o al 654 19 98 84.",
+      "Según Google Maps cerráis el viernes a las 17:00 y no abrís hasta el lunes a las 9:30: 64,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (654 19 98 84). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Elisabeth Querol."
+    },
+    "pregunta": "¿Cuántas personas dejan el formulario y esperan una llamada de vuelta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE LA CONSTITUCIÓ, 2 · SANT MATEU",
+    "telefono": "964 203 113",
+    "telefonos": "964 203 113 · WhatsApp 654 199 884",
+    "direccion": "Av. de la Constitució, 2 · 12170 Sant Mateu (Castellón)",
+    "marca": "ELISABETH QUEROL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN SANT MATEU",
+    "heroTitulo": "Conoce nuestra",
+    "heroDestacado": "clínica dental.",
+    "heroTexto": "Especialistas en ortodoncia, implantología y bruxismo en Sant Mateu. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Tu clínica dental en el Maestrat.",
+    "nota": "Sant Mateu, Castellón.",
+    "fotoEtiqueta": "ELISABETH QUEROL",
+    "fotoTitulo": "Una clínica cercana en Sant Mateu.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Elisabeth Querol y su equipo.",
+    "equipoTexto": "La Dra. Elisabeth Querol, la Dra. Irina Forés, el Dr. Jacobo Castell y el Dr. Pablo Sisin, entre otros especialistas.",
+    "valores": [
+      [
+        "Especialistas.",
+        "Ortodoncia e implantes."
+      ],
+      [
+        "Escáner.",
+        "Intraoral."
+      ],
+      [
+        "Financiación.",
+        "Para tu tratamiento."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Sant Mateu.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantología",
+      "Invisalign",
+      "Ortodoncia de baja fricción",
+      "Ortodoncia para niños",
+      "Bruxismo",
+      "Escáner intraoral"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. de la Constitució, 2, en Sant Mateu."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 654 19 98 84 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Sant Mateu",
+    "notaDiseno": "El fucsia y el negro de la Dra. Querol, su recepción y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 83
+    }
+  }
+}

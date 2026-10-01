@@ -1,0 +1,167 @@
+{
+  "slug": "dental-ruixo",
+  "numero": 919,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Dental Ruixó",
+    "nombreCorto": "Dental Ruixó",
+    "dominio": "dentalruixo.com",
+    "web": "https://dentalruixo.com/",
+    "contacto": "https://dentalruixo.com/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1f3f6f",
+    "tinta": "#161f2d",
+    "profundo": "#192a43",
+    "suave": "#eff2f5",
+    "borde": "#d9dee7",
+    "calido": "#e8b840",
+    "calidoSuave": "#fdf8ec"
+  },
+  "fotos": {
+    "principal": "https://dentalruixo.com/wp-content/uploads/2025/12/190625_DentalRuixo_04.jpg",
+    "clinica1": "https://dentalruixo.com/wp-content/uploads/2025/12/190625_DentalRuixo_26.jpg",
+    "clinica2": "https://dentalruixo.com/wp-content/uploads/2025/12/190625_DentalRuixo_59.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER DEL 9 D'OCTUBRE, 127 · ALMASSORA",
+    "titulo": [
+      "Vuestra cabecera tiene cuatro números de teléfono",
+      "para dos clínicas, sin explicar cuál es cuál."
+    ],
+    "intro": "Una clínica dental especializada en estética dental y rehabilitación oral en Almassora y Puçol, con garantía Ruixó, implantes, Invisalign y carillas, y un 4,8 en Google. Proponemos que «¿Hablamos?» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La cabecera enseña cuatro números (964 551 113, 961 421 751, 651 703 470 y 621 161 657): hay que adivinar cuál es el de Almassora, cuál el de Puçol y cuáles son de WhatsApp.",
+      "El formulario pide nombre, teléfono, correo, un campo más y la clínica, pero no se puede elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «¿Hablamos?» reserve de verdad.",
+      "texto": "Ya tenéis dos WhatsApp en la cabecera (651 70 34 70 y 621 16 16 57): proponemos uno solo que pregunte la clínica y reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dental Ruixó."
+    },
+    "pregunta": "¿Cuántas llamadas se pierden por no saber qué número es el de cada clínica?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER DEL 9 D'OCTUBRE, 127 · ALMASSORA",
+    "telefono": "964 551 113",
+    "telefonos": "Almassora 964 551 113 · Puçol 961 421 751 · WhatsApp 651 703 470",
+    "direccion": "Carrer del 9 d'Octubre, 127 · 12550 Almassora (Castellón)",
+    "marca": "DENTAL RUIXÓ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN ALMASSORA Y PUÇOL",
+    "heroTitulo": "¿Por qué somos",
+    "heroDestacado": "diferentes?",
+    "heroTexto": "Estética dental y rehabilitación oral, con garantía Ruixó. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "¿Hablamos?",
+    "frase": "Tu clínica dental en Almassora y Puçol.",
+    "nota": "Dos clínicas, una garantía.",
+    "fotoEtiqueta": "DENTAL RUIXÓ",
+    "fotoTitulo": "Instalaciones luminosas en Almassora.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo especializado.",
+    "equipoTexto": "Un equipo con estética dental y rehabilitación oral, con implantes, Invisalign, carillas y prótesis.",
+    "valores": [
+      [
+        "Dos clínicas.",
+        "Almassora y Puçol."
+      ],
+      [
+        "Garantía.",
+        "Ruixó."
+      ],
+      [
+        "Estética.",
+        "Y rehabilitación oral."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Almassora",
+    "galeriaDestacado": "y Puçol.",
+    "pies": [
+      "La sala de espera",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Invisalign",
+      "Carillas dentales",
+      "Prótesis dentales",
+      "Estética dental",
+      "Rehabilitación oral"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer del 9 d'Octubre, 127, en Almassora, y en Puçol."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 651 70 34 70 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Almassora",
+    "notaDiseno": "El azul y el amarillo de Ruixó, sus dos clínicas y un único WhatsApp que pregunta cuál.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 71
+    }
+  }
+}

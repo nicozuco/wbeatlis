@@ -1,0 +1,163 @@
+{
+  "slug": "dentibela",
+  "numero": 929,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Dentibela",
+    "nombreCorto": "Dentibela",
+    "dominio": "dentibela.com",
+    "web": "http://www.dentibela.com/",
+    "contacto": "https://dentibela.com/contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#8a6f55",
+    "tinta": "#292119",
+    "profundo": "#392e23",
+    "suave": "#f7f5f3",
+    "borde": "#ebe7e2",
+    "calido": "#c97a4a",
+    "calidoSuave": "#faf2ed"
+  },
+  "fotos": {
+    "principal": "https://dentibela.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-07-30-at-12.23.13-11.jpeg",
+    "clinica1": "https://dentibela.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-07-30-at-12.23.13-7.jpeg",
+    "clinica2": "https://dentibela.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-07-30-at-12.23.12-1.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER DE AUSIÀS MARCH, 26 · BURRIANA",
+    "titulo": [
+      "Vuestro teléfono con enlace de llamada es el 34652501410,",
+      "sin el + del prefijo y distinto del que se lee."
+    ],
+    "intro": "Una clínica en Burriana con odontología amable, que cuida tu salud bucodental y tu bienestar emocional, con la Dra. Sara Muñoz, la Dra. Vanessa Beltrán y un equipo de expertas, y un 4,4 en Google. Proponemos que «Reservar cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El enlace de llamada de la web es «tel:34652501410», sin el + del prefijo, y es un número distinto de los dos que se leen en la web (601 07 40 00 y 964 51 06 90): quien lo toque desde el móvil no llama a la clínica.",
+      "«PIDE UNA CITA» solo baja a la zona de contacto y «Reservar Cita» lleva a un formulario sin día ni hora: la cita no se reserva en el momento.",
+      "Según Google Maps cerráis el viernes a las 19:00 y no abrís hasta el lunes a las 9:30: 62,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reservar cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 601 07 40 00 en la web, con un mensaje de saludo preparado: solo falta que reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dentibela."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil habrán ido a un número que no es el de la clínica?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER DE AUSIÀS MARCH, 26 · BURRIANA",
+    "telefono": "964 510 690",
+    "telefonos": "964 510 690 · WhatsApp 601 074 000",
+    "direccion": "Carrer de Ausiàs March, 26 · 12530 Burriana (Castellón)",
+    "marca": "DENTIBELA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN BURRIANA",
+    "heroTitulo": "Odontología",
+    "heroDestacado": "amable.",
+    "heroTexto": "Cuidamos tu salud bucodental y tu bienestar emocional. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reservar cita",
+    "frase": "Las personas que cuidarán de tu salud bucodental.",
+    "nota": "En Burriana.",
+    "fotoEtiqueta": "DENTIBELA",
+    "fotoTitulo": "Una clínica serena en Burriana.",
+    "cifra": "4,4",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de expertas.",
+    "equipoTexto": "La Dra. Sara Muñoz, la Dra. Vanessa Beltrán, la Dra. Adriana Reinés y la Dra. Inmaculada Romero, entre otras.",
+    "valores": [
+      [
+        "Amable.",
+        "Odontología emocional."
+      ],
+      [
+        "Tecnología.",
+        "Más precisa."
+      ],
+      [
+        "Equipo.",
+        "De expertas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Burriana.",
+    "pies": [
+      "La recepción",
+      "La clínica"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia avanzada",
+      "Estética dental",
+      "Cirugía oral guiada",
+      "Prótesis dentales",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer de Ausiàs March, 26, en Burriana."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 601 07 40 00 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Burriana",
+    "notaDiseno": "El beige y el terracota de Dentibela, su clínica serena y un teléfono que llama a la clínica.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ]
+  }
+}
