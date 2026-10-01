@@ -1,0 +1,168 @@
+{
+  "slug": "juan-margarit",
+  "numero": 479,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Juan Margarit",
+    "nombreCorto": "Juan Margarit",
+    "dominio": "juanmargarit.es",
+    "web": "http://www.juanmargarit.es/",
+    "contacto": "http://www.juanmargarit.es/contacto",
+    "decisor": "Dr. Juan Margarit"
+  },
+  "colores": {
+    "acento": "#0056a7",
+    "tinta": "#16212d",
+    "profundo": "#192f43",
+    "suave": "#edf3f9",
+    "borde": "#d4e2f0",
+    "calido": "#7cbdeb",
+    "calidoSuave": "#f2f8fd"
+  },
+  "fotos": {
+    "principal": "http://juanmargarit.es/wp-content/uploads/2022/06/clinica-juan-margarit.jpg",
+    "clinica1": "https://juanmargarit.es/wp-content/uploads/2022/06/2021-IMG_0642-edit-volteada.jpg",
+    "clinica2": "https://juanmargarit.es/wp-content/uploads/2022/06/2021-IMG_0614-edit.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER DE CULLERA, 51 · SUECA",
+    "titulo": [
+      "Vuestra web promete tardes de lunes a viernes.",
+      "Google Maps cierra el viernes a las 14:00."
+    ],
+    "intro": "Una clínica en Sueca con el Dr. Juan Margarit, un equipo especialista, instalaciones de diseño y la última tecnología, con un 5,0 en Google. Proponemos que «1ª visita gratuita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La web indica «De lunes a viernes: mañanas de 9:00 a 14:00, tardes de 15:30 a 20:00», pero Google Maps cierra el viernes a las 14:00: el paciente no sabe si el viernes por la tarde hay alguien.",
+      "La «1ª visita gratuita» se pide con un formulario de cinco campos (tipo de consulta, nombre, correo, teléfono y mensaje), sin elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:30: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «1ª visita gratuita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 644 16 53 97 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Juan Margarit."
+    },
+    "pregunta": "¿Cuántos pacientes pedirán la 1ª visita gratuita un viernes por la tarde?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER DE CULLERA, 51 · SUECA",
+    "telefono": "961 711 824",
+    "telefonos": "961 711 824 · WhatsApp 644 16 53 97",
+    "direccion": "Carrer de Cullera, 51, 46410 Sueca, Valencia",
+    "marca": "JUAN MARGARIT",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN SUECA",
+    "heroTitulo": "Nos gusta",
+    "heroDestacado": "verte sonreír.",
+    "heroTexto": "Un equipo especialista, instalaciones de diseño y la última tecnología. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "1ª visita gratuita",
+    "frase": "¡1ª visita gratuita!",
+    "nota": "Financiación a tu medida.",
+    "fotoEtiqueta": "JUAN MARGARIT",
+    "fotoTitulo": "Instalaciones de diseño en Sueca.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Juan Margarit y su equipo.",
+    "equipoTexto": "Un equipo especialista, con la Dra. Laura Bosch en odontopediatría, para escucharte y encontrar la solución a tu salud y estética bucodental.",
+    "valores": [
+      [
+        "1ª visita.",
+        "Gratuita."
+      ],
+      [
+        "Financiación.",
+        "A tu medida."
+      ],
+      [
+        "Instalaciones.",
+        "De diseño."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Sueca,",
+    "galeriaDestacado": "con diseño.",
+    "pies": [
+      "La clínica",
+      "El equipo"
+    ],
+    "servicios": [
+      "Cirugía",
+      "Ortodoncia",
+      "Implantes",
+      "Odontopediatría",
+      "Otros tratamientos",
+      "Financiación a tu medida"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle de Cullera, 51B, en Sueca."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 644 16 53 97 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Sueca",
+    "notaDiseno": "El azul de Juan Margarit, sus instalaciones de diseño y un horario de viernes que dice lo mismo en todas partes.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00 a 14:00 y 15:30 a 20:00",
+      "Viernes: 9:00 a 14:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 23
+    }
+  }
+}

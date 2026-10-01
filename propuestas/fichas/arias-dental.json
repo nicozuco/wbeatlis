@@ -1,0 +1,169 @@
+{
+  "slug": "arias-dental",
+  "numero": 605,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Arias Dental",
+    "nombreCorto": "Arias Dental",
+    "dominio": "clinicaariasdental.es",
+    "web": "http://www.clinicaariasdental.es/",
+    "contacto": "http://www.clinicaariasdental.es/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#003388",
+    "tinta": "#161e2d",
+    "profundo": "#192943",
+    "suave": "#edf1f7",
+    "borde": "#d4dceb",
+    "calido": "#13aff0",
+    "calidoSuave": "#e7f7fe"
+  },
+  "fotos": {
+    "principal": "https://clinicaariasdental.es/wp-content/uploads/2021/10/okDSC00249-1.jpg",
+    "clinica1": "https://clinicaariasdental.es/wp-content/uploads/2021/10/grupo1.jpg",
+    "clinica2": "https://clinicaariasdental.es/wp-content/uploads/2021/10/okDSC00104-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C. DE ANTONIO RAMOS CARRATALÁ, 5 · BENIDORM",
+    "titulo": [
+      "En la cabecera, el teléfono de Benidorm marca +34 96267116:",
+      "le falta un dígito."
+    ],
+    "intro": "Dos clínicas, en Benidorm y La Vilajoyosa, con más de 25 años de experiencia cuidando sonrisas, diagnóstico, radiografía y presupuesto gratis y sin compromiso, y financiación a 36 meses sin intereses. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Los botones de llamada de la web enlazan a «tel://+3496267116» para Benidorm: le falta un dígito al 966 267 116, así que la llamada no llega a la clínica.",
+      "La web indica «Lunes a Viernes de 10.00 a 18.30» en Benidorm, y Google Maps cierra el viernes a las 19:00: el paciente no sabe cuál de las dos horas es la buena.",
+      "Según Google Maps cerráis el viernes a las 19:00 y no abrís hasta el lunes a las 10:00: 63 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "Ya tenéis un teléfono para cada clínica: proponemos un WhatsApp que reserve en la que corresponda. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Arias Dental."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil habrán fallado por un dígito de menos?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C. DE ANTONIO RAMOS CARRATALÁ, 5 · BENIDORM",
+    "telefono": "966 267 116",
+    "telefonos": "Benidorm 966 267 116 · La Vilajoyosa 965 862 776",
+    "direccion": "C. de Antonio Ramos Carratalá, 5, 03501 Benidorm, Alicante",
+    "marca": "ARIAS DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN BENIDORM Y LA VILAJOYOSA",
+    "heroTitulo": "Salud y estética",
+    "heroDestacado": "dental.",
+    "heroTexto": "Los mejores tratamientos al alcance de todos. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Más de 25 años cuidando tu sonrisa.",
+    "nota": "Diagnóstico, radiografía y presupuesto gratis.",
+    "fotoEtiqueta": "ARIAS DENTAL",
+    "fotoTitulo": "Dos clínicas, una forma de cuidarte.",
+    "cifra": "4,7",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo familiar.",
+    "equipoTexto": "Un equipo que cuida de toda la familia en Benidorm y La Vilajoyosa, con presupuesto gratis y sin compromiso.",
+    "valores": [
+      [
+        "Diagnóstico gratis.",
+        "Sin compromiso."
+      ],
+      [
+        "Financiación.",
+        "A 36 meses sin intereses."
+      ],
+      [
+        "Dos clínicas.",
+        "Benidorm y La Vilajoyosa."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Benidorm",
+    "galeriaDestacado": "y La Vilajoyosa.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Periodoncia",
+      "Ortodoncia",
+      "Prótesis",
+      "Endodoncia",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Antonio Ramos Carratalá, 5, en Benidorm, y en la calle Ciudad de Valencia, 14, en La Vilajoyosa."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Escríbenos en la web y la dejamos reservada, con día y hora, en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Benidorm",
+    "notaDiseno": "El azul marino de Arias Dental, sus dos clínicas y un teléfono que llega a la primera.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00 a 18:30"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 132
+    }
+  }
+}

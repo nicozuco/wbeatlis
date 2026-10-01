@@ -1,0 +1,167 @@
+{
+  "slug": "mayte-montesinos",
+  "numero": 504,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Centro Dental Dra. Mayte Montesinos",
+    "nombreCorto": "Mayte Montesinos",
+    "dominio": "centrodentalmaytemontesinos.com",
+    "web": "https://www.centrodentalmaytemontesinos.com/",
+    "contacto": "https://centrodentalmaytemontesinos.com/contacto",
+    "decisor": "Dra. Mayte Montesinos"
+  },
+  "colores": {
+    "acento": "#a82f53",
+    "tinta": "#2d161c",
+    "profundo": "#431926",
+    "suave": "#f9f0f3",
+    "borde": "#f0dce2",
+    "calido": "#475467",
+    "calidoSuave": "#edeef0"
+  },
+  "fotos": {
+    "principal": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/y3qxAor90uG7weKgCGzG/media/6a1d4371045e32379f33fc0c.png",
+    "clinica1": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_320/u_https://assets.cdn.filesafe.space/y3qxAor90uG7weKgCGzG/media/6aaea52d4091fa65e67a7297.jpg",
+    "clinica2": "https://assets.cdn.filesafe.space/y3qxAor90uG7weKgCGzG/media/6a1d6d03d7322952d1784327.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C. TRIANA, 17A · PILAR DE LA HORADADA",
+    "titulo": [
+      "El enlace «Política de cookies» de vuestra web abre",
+      "una página de asesoría energética."
+    ],
+    "intro": "Una clínica en Pilar de la Horadada con la Dra. Mayte Montesinos, más de 10 años de experiencia, diseño digital de sonrisa y un 5,0 en Google con más de 600 reseñas. Proponemos que «Pide una cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El enlace «Política de cookies» del pie de la web lleva a una página titulada «O3 Energy | Asesoría Energética y Ahorro en España», con «Reduce tu factura hasta un 40%»: no es vuestra política de cookies.",
+      "Los botones «Pide una cita» llevan a una página de contacto sin formulario: para pedir cita hay que llamar o escribir por WhatsApp, sin poder elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:30: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide una cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 693 92 44 27 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Mayte Montesinos."
+    },
+    "pregunta": "¿Cuántas personas habrán hecho clic en «Política de cookies» y habrán acabado en una web de energía?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C. TRIANA, 17A · PILAR DE LA HORADADA",
+    "telefono": "966 392 095",
+    "telefonos": "966 392 095 · WhatsApp 693 92 44 27",
+    "direccion": "C. Triana, 17A, bajo, 03190 Pilar de la Horadada, Alicante",
+    "marca": "MAYTE MONTESINOS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PILAR DE LA HORADADA",
+    "heroTitulo": "Diseñamos",
+    "heroDestacado": "sonrisas.",
+    "heroTexto": "Innovamos para cuidarte, con las últimas tecnologías. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide una cita",
+    "frase": "Calidad de vida, autoestima y salud.",
+    "nota": "Más de 10 años de experiencia.",
+    "fotoEtiqueta": "MAYTE MONTESINOS",
+    "fotoTitulo": "Un equipo cercano en Pilar de la Horadada.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Mayte Montesinos y su equipo.",
+    "equipoTexto": "Un equipo de especialistas, con el Dr. Alejandro Colmena y la Dra. Marta Pérez, que prioriza siempre la salud bucodental.",
+    "valores": [
+      [
+        "Diseño digital.",
+        "De la sonrisa."
+      ],
+      [
+        "Ortodoncia.",
+        "Y carillas."
+      ],
+      [
+        "Implantología.",
+        "Y odontopediatría."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Pilar",
+    "galeriaDestacado": "de la Horadada.",
+    "pies": [
+      "La clínica",
+      "El equipo"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Implantología",
+      "Odontopediatría",
+      "Diseño digital de sonrisas",
+      "Carillas",
+      "Blanqueamiento dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Triana, 17A, bajo, en Pilar de la Horadada."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 693 92 44 27 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Pilar de la Horadada",
+    "notaDiseno": "El granate y el gris de la Dra. Montesinos, su equipo y una política de cookies que sea la suya.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 602
+    }
+  }
+}

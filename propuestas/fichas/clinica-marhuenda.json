@@ -1,0 +1,170 @@
+{
+  "slug": "clinica-marhuenda",
+  "numero": 565,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Marhuenda",
+    "nombreCorto": "Marhuenda",
+    "dominio": "marhuendadental.es",
+    "web": "https://marhuendadental.es/",
+    "contacto": "https://marhuendadental.es/contacto/",
+    "decisor": "Dr. José Luis Marhuenda"
+  },
+  "colores": {
+    "acento": "#343d5c",
+    "tinta": "#181c2a",
+    "profundo": "#21273b",
+    "suave": "#f1f1f4",
+    "borde": "#dcdee3",
+    "calido": "#85bff2",
+    "calidoSuave": "#f3f9fe"
+  },
+  "fotos": {
+    "principal": "https://marhuendadental.es/wp-content/uploads/2024/10/01-la-clinica-MARHUENDA.jpg",
+    "clinica1": "https://marhuendadental.es/wp-content/uploads/2024/10/02-Instalaciones-MARHUENDA.jpg",
+    "clinica2": "https://marhuendadental.es/wp-content/uploads/2024/10/01-equipo-MARHUENDA.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C. JAIME SEGARRA, 75 · ALICANTE",
+    "titulo": [
+      "El botón de WhatsApp de vuestra web abre api.whatsapp.com/send?phone=666604926,",
+      "sin el prefijo 34."
+    ],
+    "intro": "Una clínica en Carolinas con más de 20 años ofreciendo la máxima calidad, en una experiencia de odontología cercana y familiar, con un 4,9 en Google. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El enlace de WhatsApp apunta a «phone=666604926», sin el 34 del prefijo de España, y uno de ellos termina además en espacios: el chat puede no abrirse. «Pide tu cita» solo llama por teléfono.",
+      "No hay formulario en la portada: para pedir cita hay que llamar al 965 21 03 08, sin elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 15:00 y no abrís hasta el lunes a las 9:00: 66 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 666 60 49 26 en la web: solo falta que abra bien y reserve. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Marhuenda."
+    },
+    "pregunta": "¿Cuántos mensajes de WhatsApp no habrán llegado a abrirse?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C. JAIME SEGARRA, 75 · ALICANTE",
+    "telefono": "965 210 308",
+    "telefonos": "965 210 308 · WhatsApp 666 604 926",
+    "direccion": "C. Jaime Segarra, 75, 1ºC, 03012 Alicante",
+    "marca": "MARHUENDA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CENTRO ODONTOLÓGICO EN CAROLINAS",
+    "heroTitulo": "Consigue la sonrisa",
+    "heroDestacado": "perfecta.",
+    "heroTexto": "Una experiencia en odontología cercana y familiar. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Más de 20 años ofreciendo la máxima calidad.",
+    "nota": "En Carolinas, Alicante.",
+    "fotoEtiqueta": "MARHUENDA",
+    "fotoTitulo": "Una clínica familiar en Alicante.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de profesionales especializado.",
+    "equipoTexto": "Dentistas especializados en distintas ramas de la odontología, con formación continua y trato cercano.",
+    "valores": [
+      [
+        "Implantes.",
+        "Dentales."
+      ],
+      [
+        "Ortodoncia.",
+        "Y estética."
+      ],
+      [
+        "Bruxismo.",
+        "Y periodoncia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Carolinas,",
+    "galeriaDestacado": "Alicante.",
+    "pies": [
+      "La clínica",
+      "Las instalaciones"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia",
+      "Endodoncia",
+      "Estética dental",
+      "Periodoncia",
+      "Bruxismo"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Jaime Segarra, 75, 1ºC, en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 666 60 49 26 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El azul marino de Marhuenda, su clínica y un WhatsApp que abre a la primera.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a miércoles: 9:00 a 20:00",
+      "Jueves: 10:00 a 14:00 y 16:00 a 20:00",
+      "Viernes: 9:00 a 15:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 162
+    }
+  }
+}
