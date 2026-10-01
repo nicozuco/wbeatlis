@@ -1,0 +1,167 @@
+{
+  "slug": "girbes-miguel",
+  "numero": 446,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Girbés Miguel",
+    "nombreCorto": "Girbés Miguel",
+    "dominio": "clinicadentalgm.es",
+    "web": "http://www.clinicadentalgm.es/",
+    "contacto": "https://www.clinicadentalgm.es/contacto",
+    "decisor": "Dra. Mercedes Miguel"
+  },
+  "colores": {
+    "acento": "#c63457",
+    "tinta": "#2d161b",
+    "profundo": "#431923",
+    "suave": "#fbf1f3",
+    "borde": "#f5dce2",
+    "calido": "#d9a3b3",
+    "calidoSuave": "#fbf6f7"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalgm.es/img/galerias/5/1/imagen.jpg",
+    "clinica1": "https://www.clinicadentalgm.es/img/galerias/3/3/imagen.jpg",
+    "clinica2": "https://www.clinicadentalgm.es/img/galerias/3/1/imagen.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CAMÍ REAL, 59 · CATARROJA",
+    "titulo": [
+      "Vuestros dos teléfonos están escritos en la web,",
+      "pero ninguno se puede tocar para llamar."
+    ],
+    "intro": "Una clínica en Catarroja abierta desde 1993, con la Dra. Ana Girbés y la Dra. Mercedes Miguel, y una hora de parking gratuito. Proponemos que «Pídenos cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la página de contacto aparecen el 961 264 806 y el 681 291 769 como texto, sin enlace para llamar ni botón de WhatsApp: desde el móvil hay que copiar el número a mano.",
+      "El formulario pide nombre, correo, asunto y mensaje, sin teléfono, día ni hora, así que cada solicitud acaba en una llamada para cerrar la cita.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pídenos cita» reserve de verdad.",
+      "texto": "Ya tenéis el móvil 681 29 17 69 en la web: solo falta convertirlo en un WhatsApp que reserve. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Girbés, la Dra. Miguel y su equipo."
+    },
+    "pregunta": "¿Cuántas personas habrán querido llamaros desde el móvil y no han podido?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CAMÍ REAL, 59 · CATARROJA",
+    "telefono": "961 264 806",
+    "telefonos": "961 264 806 · 681 291 769",
+    "direccion": "Camí Real, 59, bajo · 46470 Catarroja (Valencia)",
+    "marca": "GIRBÉS MIGUEL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CATARROJA",
+    "heroTitulo": "La mejor relación",
+    "heroDestacado": "profesional y humana.",
+    "heroTexto": "Tu clínica dental de referencia en Catarroja, abierta desde 1993. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pídenos cita",
+    "frase": "Una hora de parking gratuito.",
+    "nota": "Abiertos desde 1993.",
+    "fotoEtiqueta": "CLÍNICA GIRBÉS MIGUEL",
+    "fotoTitulo": "Tu clínica de referencia en Catarroja.",
+    "cifra": "1993",
+    "cifraEtiqueta": "ABIERTOS DESDE",
+    "equipoTitulo": "La Dra. Ana Girbés y la Dra. Mercedes Miguel.",
+    "equipoTexto": "Un equipo que trabaja desde hace más de 25 años con una atención profesional y cercana.",
+    "valores": [
+      [
+        "Desde 1993.",
+        "En Catarroja."
+      ],
+      [
+        "Cercanía.",
+        "Trato humano."
+      ],
+      [
+        "Parking.",
+        "Una hora gratuita."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Catarroja.",
+    "pies": [
+      "La clínica",
+      "La fachada"
+    ],
+    "servicios": [
+      "Endodoncia rotatoria",
+      "Ortodoncia",
+      "Estética dental",
+      "Odontopediatría",
+      "Periodoncia",
+      "Implantología"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Camí Real, 59, bajo, en Catarroja."
+      ],
+      [
+        "¿Hay parking?",
+        "Sí, os ofrecemos una hora de parking gratuito."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 681 29 17 69 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Catarroja",
+    "notaDiseno": "El granate de Girbés Miguel, su clínica y un WhatsApp que se puede tocar.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 31
+    }
+  }
+}

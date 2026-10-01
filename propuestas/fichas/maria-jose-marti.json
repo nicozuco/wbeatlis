@@ -1,0 +1,169 @@
+{
+  "slug": "maria-jose-marti",
+  "numero": 469,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental María José Martí",
+    "nombreCorto": "Clínica María José Martí",
+    "dominio": "clinicadentalmjmarti.com",
+    "web": "http://clinicadentalmjmarti.com/",
+    "contacto": "https://clinicadentalmjmarti.com/contacto",
+    "decisor": "Dra. María José Martí"
+  },
+  "colores": {
+    "acento": "#6b7a3a",
+    "tinta": "#272d16",
+    "profundo": "#373e1e",
+    "suave": "#f5f6f1",
+    "borde": "#e6e8de",
+    "calido": "#c9bfa0",
+    "calidoSuave": "#faf9f6"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalmjmarti.com/wp-content/uploads/2019/09/clinica-dental-valencia-estetica-dental-maria-jose-marti.jpg",
+    "clinica1": "https://clinicadentalmjmarti.com/wp-content/uploads/2019/09/MJMARTI_ENTRADA.jpg",
+    "clinica2": "https://clinicadentalmjmarti.com/wp-content/uploads/2019/09/MJMARTI_BOX.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. PERIS I VALERO, 32 · VALENCIA",
+    "titulo": [
+      "Para escribiros desde vuestra web hay que resolver",
+      "una suma de comprobación."
+    ],
+    "intro": "Una odontología responsable y cercana en Quatre Carreres, con odontopediatría, ortodoncia, estética dental e implantes, y un 5,0 en Google. Proponemos que vuestra web deje la cita reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, correo y mensaje, y antes de enviarlo hay que resolver una suma de comprobación (por ejemplo, «2 + 7 =»). No pide teléfono, ni día, ni hora.",
+      "El 963 736 072 aparece escrito en la web, sin enlace para llamar, y no hay botón de WhatsApp.",
+      "Según Google Maps cerráis el viernes a las 15:00 y no abrís hasta el lunes a las 9:00: 66 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Contacto» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno, para pedir cita sin sumas ni formularios. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de la Dra. Martí."
+    },
+    "pregunta": "¿Cuántas personas habrán dejado el formulario a medias por la suma de comprobación?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. PERIS I VALERO, 32 · VALENCIA",
+    "telefono": "963 736 072",
+    "telefonos": "963 736 072 · WhatsApp",
+    "direccion": "Av. de Peris i Valero, 32, piso 1, puerta 1 · 46006 Valencia",
+    "marca": "MARÍA JOSÉ MARTÍ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Una odontología",
+    "heroDestacado": "responsable y cercana.",
+    "heroTexto": "Acércate a conocernos y te asesoraremos sobre tu salud dental. Elige día y hora y tu cita queda reservada, sin sumas de comprobación.",
+    "ctaHero": "Contacto",
+    "frase": "Odontología responsable y cercana.",
+    "nota": "En Quatre Carreres.",
+    "fotoEtiqueta": "CLÍNICA MARÍA JOSÉ MARTÍ",
+    "fotoTitulo": "Una clínica luminosa en Quatre Carreres.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. María José Martí.",
+    "equipoTexto": "Odontopediatría y ortodoncia, estética dental con carillas de cerámica y composite, blanqueamiento e implantes.",
+    "valores": [
+      [
+        "Odontopediatría.",
+        "Y ortodoncia."
+      ],
+      [
+        "Estética dental.",
+        "Carillas y blanqueamiento."
+      ],
+      [
+        "Implantes.",
+        "Dentales."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Quatre",
+    "galeriaDestacado": "Carreres.",
+    "pies": [
+      "La entrada",
+      "El box"
+    ],
+    "servicios": [
+      "Odontopediatría",
+      "Ortodoncia",
+      "Estética dental",
+      "Carillas de cerámica",
+      "Blanqueamiento dental",
+      "Implantes dentales"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. de Peris i Valero, 32, piso 1, en Valencia."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, somos expertos en el manejo de conducta y tratamiento del paciente infantil."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 963 736 072 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El verde oliva de los bancos de la Dra. Martí, su clínica blanca y una cita sin sumas.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ],
+      "jueves": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00 a 19:00",
+      "Viernes: 9:00 a 15:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 26
+    }
+  }
+}

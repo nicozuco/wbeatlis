@@ -1,0 +1,169 @@
+{
+  "slug": "sagunt-dental",
+  "numero": 397,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Sagunt Dental",
+    "nombreCorto": "Sagunt Dental",
+    "dominio": "saguntdental.es",
+    "web": "https://saguntdental.es/",
+    "contacto": "https://saguntdental.es/contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#7a2119",
+    "tinta": "#2d1716",
+    "profundo": "#431d19",
+    "suave": "#f6efef",
+    "borde": "#e8d9d8",
+    "calido": "#ffcd57",
+    "calidoSuave": "#fffaee"
+  },
+  "fotos": {
+    "principal": "https://saguntdental.es/wp-content/uploads/2023/06/clinica-Sagunt-Dental-1-2048x1536.jpg",
+    "clinica1": "https://saguntdental.es/wp-content/uploads/2023/06/clinica-Sagunt-Dental-3-2048x1536.jpg",
+    "clinica2": "https://saguntdental.es/wp-content/uploads/2023/06/Romina-Sagunt-Dental.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. SANTS DE LA PEDRA, 79 · SAGUNT",
+    "titulo": [
+      "Vuestra web dice que abrís el viernes hasta las 20:00.",
+      "Google Maps dice que cerráis a las 17:00."
+    ],
+    "intro": "Un equipo joven y multidisciplinario en Sagunt, con más de 10 años de experiencia, que ayuda a quitar el miedo y a sonreír con confianza. Proponemos que vuestra web deje la cita reservada, con día y hora.",
+    "hallazgos": [
+      "La web indica «Lunes a viernes: 10:00 – 14:00 y 16:00 – 20:00», y Google Maps cierra el viernes a las 17:00: el paciente no sabe cuál de las dos horas es la buena.",
+      "El formulario de contacto pide nombre, apellidos, correo y mensaje, sin teléfono, día ni hora, y el teléfono de la clínica aparece escrito, sin enlace para llamar con un toque.",
+      "Según Google Maps cerráis el viernes a las 17:00 y no abrís hasta el lunes a las 9:30: 64,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Contacto» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 640 61 94 47 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Sagunt Dental."
+    },
+    "pregunta": "¿Cuántos pacientes llegan un viernes por la tarde y se encuentran la clínica cerrada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. SANTS DE LA PEDRA, 79 · SAGUNT",
+    "telefono": "640 619 447",
+    "telefonos": "640 619 447 · WhatsApp",
+    "direccion": "Av. Sants de la Pedra, 79 · 46500 Sagunt (Valencia)",
+    "marca": "SAGUNT",
+    "submarca": "DENTAL",
+    "menuEquipo": "Servicios",
+    "heroEtiqueta": "CLÍNICA DENTAL EN SAGUNT",
+    "heroTitulo": "Experiencia",
+    "heroDestacado": "y profesionalidad.",
+    "heroTexto": "Un equipo joven y multidisciplinario, con más de 10 años de experiencia. Elimina el miedo y sonríe con confianza. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Contacto",
+    "frase": "Elimina el miedo y sonríe con confianza.",
+    "nota": "Primeras marcas y tecnología avanzada.",
+    "fotoEtiqueta": "SAGUNT DENTAL",
+    "fotoTitulo": "Tecnología avanzada en Sagunt.",
+    "cifra": "10",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "Un equipo joven y multidisciplinario.",
+    "equipoTexto": "Cirugía e implantología, ortodoncia, odontopediatría, periodoncia, endodoncia y odontología estética y conservadora.",
+    "valores": [
+      [
+        "Implantología.",
+        "Y cirugía."
+      ],
+      [
+        "Ortodoncia.",
+        "Para todas las edades."
+      ],
+      [
+        "Odontopediatría.",
+        "Sin miedo."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Sagunt.",
+    "pies": [
+      "La sala de espera",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Cirugía e implantología",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Periodoncia",
+      "Endodoncia",
+      "Odontología estética"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Sants de la Pedra, 79, en Sagunt."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 640 61 94 47 y la dejamos reservada en la misma conversación."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 640 61 94 47 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Sagunt",
+    "notaDiseno": "El granate y el amarillo de Sagunt Dental, su sala de espera y un horario que dice lo mismo en todas partes.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00 a 14:00 y 16:00 a 20:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 45
+    }
+  }
+}

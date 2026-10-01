@@ -1,0 +1,169 @@
+{
+  "slug": "pilar-rico",
+  "numero": 468,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Pilar Rico",
+    "nombreCorto": "Clínica Pilar Rico",
+    "dominio": "clinicadentalpilarrico.es",
+    "web": "https://clinicadentalpilarrico.es/",
+    "contacto": "https://clinicadentalpilarrico.es/contactar",
+    "decisor": "Dra. Pilar Rico"
+  },
+  "colores": {
+    "acento": "#0d8080",
+    "tinta": "#162d2d",
+    "profundo": "#194343",
+    "suave": "#eef6f6",
+    "borde": "#d6e9e9",
+    "calido": "#0fa1a1",
+    "calidoSuave": "#e7f6f6"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalpilarrico.es/wp-content/uploads/2026/07/Equipo-clinica-dental-pilar-rico.jpg",
+    "clinica1": "https://clinicadentalpilarrico.es/wp-content/uploads/2018/04/GABINETE-DENTAL-PILAR-RICO.jpg",
+    "clinica2": "https://clinicadentalpilarrico.es/wp-content/uploads/2018/05/fachada-clinica-dental-pilar-rico-495x400.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ COFRENTES, 22 · VALENCIA",
+    "titulo": [
+      "En la portada: «Nos trasladamos a calle Cofrentes 22».",
+      "En la página de contacto: «Albocacer 23, Benimaclet»."
+    ],
+    "intro": "Una clínica de Valencia con la Dra. Pilar Rico y su equipo, con odontología general, Invisalign y ortodoncia, que se ha trasladado a nuevas instalaciones. Proponemos que «Cita online» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La portada anuncia el traslado a la calle Cofrentes 22, pero la página de contacto sigue mostrando la dirección anterior, «Albocacer 23, Benimaclet», en varios sitios: quien busque cómo llegar puede ir al sitio equivocado.",
+      "El formulario de la página de contacto pide nombre, correo, asunto y mensaje, sin teléfono, día ni hora; el de «Cita online» es otro distinto.",
+      "Según Google Maps cerráis el viernes a las 20:30 y no abrís hasta el lunes a las 10:00: 61,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Cita online» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 693 49 76 03 en la web, escrito como texto. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Rico y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes habrán ido a la dirección antigua?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ COFRENTES, 22 · VALENCIA",
+    "telefono": "961 336 183",
+    "telefonos": "961 336 183 · WhatsApp 693 497 603",
+    "direccion": "C/ Cofrentes, 22 · 46010 Valencia",
+    "marca": "PILAR RICO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Quiénes somos",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Nuevas instalaciones,",
+    "heroDestacado": "la misma Dra. Rico.",
+    "heroTexto": "Odontología general, Invisalign y ortodoncia en nuestras nuevas instalaciones de la calle Cofrentes. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Cita online",
+    "frase": "Nos trasladamos a calle Cofrentes 22.",
+    "nota": "Os esperamos en nuestras nuevas instalaciones.",
+    "fotoEtiqueta": "CLÍNICA PILAR RICO",
+    "fotoTitulo": "Un equipo en tus nuevas instalaciones.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Pilar Rico y su equipo.",
+    "equipoTexto": "Un equipo con odontología general, Invisalign y ortodoncia, y casos clínicos que puedes ver en su web.",
+    "valores": [
+      [
+        "General.",
+        "Y preventiva."
+      ],
+      [
+        "Invisalign.",
+        "Casi invisible."
+      ],
+      [
+        "Ortodoncia.",
+        "Para todas las edades."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En la calle",
+    "galeriaDestacado": "Cofrentes.",
+    "pies": [
+      "El gabinete",
+      "La fachada"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Invisalign",
+      "Ortodoncia",
+      "Implantología",
+      "Blanqueamiento dental",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Cofrentes, 22, en Valencia."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 693 49 76 03 y la dejamos reservada en la misma conversación."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 693 49 76 03 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El verde azulado de Pilar Rico, su gabinete y una dirección que dice lo mismo en toda la web.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "17:00",
+        "18:30",
+        "20:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "17:00",
+        "18:30",
+        "20:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00 a 13:30 y 16:30 a 20:30"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 26
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "clinica-villalvilla",
+  "numero": 399,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Villalvilla",
+    "nombreCorto": "Clínica Villalvilla",
+    "dominio": "clinicadentalvillalvilla.es",
+    "web": "http://www.clinicadentalvillalvilla.es/",
+    "contacto": "https://clinicadentalvillalvilla.es/contacto/",
+    "decisor": "Dr. Antonio Villalvilla"
+  },
+  "colores": {
+    "acento": "#2b6f8f",
+    "tinta": "#16252d",
+    "profundo": "#193543",
+    "suave": "#f0f5f7",
+    "borde": "#dbe7ec",
+    "calido": "#38b6c4",
+    "calidoSuave": "#ebf8f9"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalvillalvilla.es/wp-content/uploads/2025/04/equipo_clinica_villalvilla.webp",
+    "clinica1": "https://clinicadentalvillalvilla.es/wp-content/uploads/2025/04/Dentista_utilizando_progama_3D.webp",
+    "clinica2": "https://clinicadentalvillalvilla.es/wp-content/uploads/2025/04/Dentista_atendiendo_paciente.webp"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DEL CAMÍ NOU, 32 · XIRIVELLA",
+    "titulo": [
+      "Vuestra web escribe el 96 350 08 40,",
+      "pero al tocarlo llama al 96 123 45 67."
+    ],
+    "intro": "Más de 30 años cuidando de la salud dental de cada generación en Xirivella, con un centro familiar dirigido por el Dr. Villalvilla. Proponemos que «Quiero una primera cita gratuita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En el pie de la web se lee «Telf. +34 96 350 08 40», pero el enlace marca +34 961 234 567: desde el móvil, quien toque el número llama a otro.",
+      "El botón «Quiero una primera cita gratuita» lleva a una página de contacto sin formulario y sin WhatsApp: solo quedan el teléfono y el correo.",
+      "Según Google Maps cerráis el viernes a las 20:04 y no abrís hasta el lunes a las 10:00: 61,9 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Quiero una primera cita gratuita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil de urgencias que ya publicáis (652 863 240), para reservar la primera cita gratuita sin llamar. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el Dr. Villalvilla y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil habrán ido al número equivocado?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DEL CAMÍ NOU, 32 · XIRIVELLA",
+    "telefono": "963 500 840",
+    "telefonos": "963 500 840 · Urgencias 652 863 240",
+    "direccion": "Av. del Camí Nou, 32 · 46950 Xirivella (Valencia)",
+    "marca": "VILLALVILLA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "TU DENTISTA EN XIRIVELLA",
+    "heroTitulo": "Tu sonrisa y la de tu familia,",
+    "heroDestacado": "en las mejores manos.",
+    "heroTexto": "Más de 30 años cuidando de la salud dental de cada generación. Elige día y hora y tu primera cita gratuita queda reservada.",
+    "ctaHero": "Quiero una primera cita gratuita",
+    "frase": "Un centro odontológico familiar.",
+    "nota": "Más de 30 años en Xirivella.",
+    "fotoEtiqueta": "CLÍNICA VILLALVILLA",
+    "fotoTitulo": "Tu clínica de confianza en Xirivella.",
+    "cifra": "30",
+    "cifraEtiqueta": "AÑOS CUIDANDO LA SALUD DENTAL",
+    "equipoTitulo": "Un equipo familiar.",
+    "equipoTexto": "Un centro odontológico familiar dirigido por el Dr. Villalvilla, con una larga trayectoria en todas las especialidades dentales.",
+    "valores": [
+      [
+        "Ortodoncia invisible.",
+        "Discreta."
+      ],
+      [
+        "Implantología.",
+        "Con tecnología 3D."
+      ],
+      [
+        "Estética dental.",
+        "A tu medida."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Xirivella.",
+    "pies": [
+      "El equipo",
+      "En consulta"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Implantología",
+      "Estética dental",
+      "Prevención",
+      "Primera cita gratuita",
+      "Casos clínicos"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. del Camí Nou, 32, en Xirivella."
+      ],
+      [
+        "¿La primera cita es gratuita?",
+        "Sí, la primera cita es gratuita."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 652 863 240 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Xirivella",
+    "notaDiseno": "El azul y el turquesa de Villalvilla, su equipo y un teléfono que llama al número que se lee.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00 a 14:00 y 17:00 a 20:00"
+    ]
+  }
+}
