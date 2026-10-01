@@ -20,8 +20,8 @@
     "calidoSuave": "#eaeaeb"
   },
   "fotos": {
-    "principal": "https://insaridental.com/wp-content/uploads/2026/06/DSC9103-scaled.jpg",
-    "clinica1": "https://insaridental.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-08-a-las-12.50.28.png",
+    "principal": "https://insaridental.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-08-a-las-12.50.28.png",
+    "clinica1": "https://insaridental.com/wp-content/uploads/2026/06/DSC9103-scaled.jpg",
     "clinica2": "https://insaridental.com/wp-content/uploads/2026/06/CLINICA-DENTAL-scaled.jpg"
   },
   "propuesta": {
@@ -87,7 +87,7 @@
     "galeriaTitulo": "Luz y diseño.",
     "galeriaDestacado": "En Quatre Carreres.",
     "pies": [
-      "La fachada",
+      "La recepción",
       "La clínica"
     ],
     "servicios": [
