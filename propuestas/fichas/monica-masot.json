@@ -1,0 +1,171 @@
+{
+  "slug": "monica-masot",
+  "numero": 590,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Mónica Masot",
+    "nombreCorto": "Mónica Masot",
+    "dominio": "clinicadentalmasot.com",
+    "web": "http://www.clinicadentalmasot.com/",
+    "contacto": "http://www.clinicadentalmasot.com/contacto",
+    "decisor": "Dra. Mónica Masot"
+  },
+  "colores": {
+    "acento": "#2b2b2b",
+    "tinta": "#212121",
+    "profundo": "#2e2e2e",
+    "suave": "#f0f0f0",
+    "borde": "#dbdbdb",
+    "calido": "#c9a24a",
+    "calidoSuave": "#faf6ed"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalmasot.com/recurso/pagina/4.jpg",
+    "clinica1": "https://www.clinicadentalmasot.com/recurso/pagina/_dsc0005_enhanced_nra.jpg",
+    "clinica2": "https://www.clinicadentalmasot.com/recurso/pagina/dsc_0270_1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ ÁNGEL LOZANO, 6 · ALICANTE",
+    "titulo": [
+      "«Pide cita» lleva a un formulario de cuatro campos,",
+      "sin día ni hora."
+    ],
+    "intro": "Una clínica en Alicante fundada en 2004 por la Dra. Mónica Masot, con odontología avanzada, trato personalizado y un 4,8 en Google. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de la página de contacto pide nombre, teléfono, correo y mensaje, y no se puede elegir día ni hora: después alguien tiene que llamar para cerrar la cita.",
+      "La web publica un único horario, de lunes a viernes, con martes y miércoles hasta las 21:00, sin forma de ver qué huecos hay libres.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 8:00: 60 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve de verdad.",
+      "texto": "Ya tenéis un botón de WhatsApp con el 965 20 08 00 en la web: solo falta que reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Mónica Masot."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario esperan una llamada hasta el día siguiente?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ ÁNGEL LOZANO, 6 · ALICANTE",
+    "telefono": "965 200 800",
+    "telefonos": "965 200 800 · WhatsApp",
+    "direccion": "C/ Ángel Lozano, 6, bajo, local 1 · 03001 Alicante",
+    "marca": "MÓNICA MASOT",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALICANTE",
+    "heroTitulo": "Tu dentista",
+    "heroDestacado": "de confianza.",
+    "heroTexto": "Odontología avanzada y un trato personalizado único. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Nacimos en 2004.",
+    "nota": "Odontología avanzada.",
+    "fotoEtiqueta": "MÓNICA MASOT",
+    "fotoTitulo": "Un espacio cuidado en Alicante.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Mónica Masot y su equipo.",
+    "equipoTexto": "Un equipo con trato personalizado único y odontología avanzada, desde 2004.",
+    "valores": [
+      [
+        "Desde 2004.",
+        "En Alicante."
+      ],
+      [
+        "Trato personalizado.",
+        "Único."
+      ],
+      [
+        "Facilidades.",
+        "De pago."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alicante.",
+    "pies": [
+      "La sala de espera",
+      "El equipo"
+    ],
+    "servicios": [
+      "Especialidades",
+      "Coronas dentales",
+      "Cirugía oral",
+      "Endodoncia",
+      "Facilidades de pago",
+      "Promociones"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Ángel Lozano, 6, bajo, local 1, en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 965 20 08 00 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El negro y el dorado de Mónica Masot, su recepción y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "20:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 9:00 a 20:00",
+      "Martes y miércoles: 9:00 a 21:00",
+      "Jueves y viernes: 9:00 a 20:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 143
+    }
+  }
+}

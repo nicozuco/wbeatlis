@@ -1,0 +1,174 @@
+{
+  "slug": "eva-soler",
+  "numero": 650,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Dra. Eva Soler",
+    "nombreCorto": "Eva Soler",
+    "dominio": "clinicadentalevasoler.com",
+    "web": "http://www.clinicadentalevasoler.com/",
+    "contacto": "http://www.clinicadentalevasoler.com/contacto",
+    "decisor": "Dra. Eva Soler"
+  },
+  "colores": {
+    "acento": "#5b4636",
+    "tinta": "#2a2019",
+    "profundo": "#3a2c22",
+    "suave": "#f4f2f1",
+    "borde": "#e3e0dd",
+    "calido": "#c9a24a",
+    "calidoSuave": "#faf6ed"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalevasoler.com/wp-content/uploads/2025/05/galeria_02.png",
+    "clinica1": "https://www.clinicadentalevasoler.com/wp-content/uploads/2025/05/galeria_09.png",
+    "clinica2": "https://www.clinicadentalevasoler.com/wp-content/uploads/2025/05/galeria_11.png"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER CRONISTA DON JOSÉ CREMADES SELLER, 3 · NOVELDA",
+    "titulo": [
+      "Los teléfonos de vuestra web llaman a 34966195020",
+      "y a 34607831486, sin el +."
+    ],
+    "intro": "Más de 20 años de odontología avanzada y medicina estética en Novelda, con la Dra. Eva Soler y su equipo, bajo la idea «sonrisa y belleza en armonía». Proponemos que «Solicita cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Los enlaces de llamada de la web son «tel:34966195020» y «tel:34607831486», sin el + del prefijo: desde el móvil, el teléfono marca el número tal cual y no conecta.",
+      "El formulario de contacto pide nombre, correo, teléfono y mensaje, sin elegir día ni hora, y hay dos WhatsApp (dental y medicina estética) que el paciente tiene que distinguir.",
+      "Según Google Maps cerráis el sábado a las 14:00 y no abrís hasta el lunes a las 9:30: 43,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Solicita cita» reserve de verdad.",
+      "texto": "Ya tenéis un WhatsApp para odontología (671 71 43 45) y otro para medicina estética en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Eva Soler."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil no han conectado por faltar el +?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER CRONISTA DON JOSÉ CREMADES SELLER, 3 · NOVELDA",
+    "telefono": "966 195 020",
+    "telefonos": "966 195 020 · 607 831 486 · WhatsApp 671 714 345",
+    "direccion": "Carrer Cronista Don José Cremades Seller, 3, bajo · 03660 Novelda (Alicante)",
+    "marca": "EVA SOLER",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN NOVELDA",
+    "heroTitulo": "Sonrisa y belleza",
+    "heroDestacado": "en armonía.",
+    "heroTexto": "Odontología avanzada y medicina estética. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Solicita cita",
+    "frase": "Nos encanta cuidaros con lo mejor.",
+    "nota": "Más de 20 años en Novelda.",
+    "fotoEtiqueta": "EVA SOLER",
+    "fotoTitulo": "Una clínica cálida en Novelda.",
+    "cifra": "4,7",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Eva Soler y su equipo.",
+    "equipoTexto": "La Dra. Eva Soler, la Dra. Victoria Maciá en ortodoncia y todo el equipo, desde hace más de 20 años.",
+    "valores": [
+      [
+        "Más de 20 años.",
+        "De experiencia."
+      ],
+      [
+        "Dental.",
+        "Y medicina estética."
+      ],
+      [
+        "Armonía.",
+        "Sonrisa y belleza."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Novelda.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Estética dental",
+      "Ortodoncia",
+      "Medicina estética",
+      "Implantes",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Cronista Don José Cremades Seller, 3, bajo, en Novelda."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 671 71 43 45 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Novelda",
+    "notaDiseno": "El marrón y el dorado de Eva Soler, su recepción y teléfonos que conectan a la primera.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "sabado": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a sábado, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 88
+    }
+  }
+}

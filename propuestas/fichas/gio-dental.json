@@ -1,0 +1,167 @@
+{
+  "slug": "gio-dental",
+  "numero": 683,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Gio Dental Redován",
+    "nombreCorto": "Gio Dental",
+    "dominio": "giodentalredovan.com",
+    "web": "https://giodentalredovan.com/",
+    "contacto": "https://giodentalredovan.com/contacto/",
+    "decisor": "Dr. Joaquín Gío Villalgordo"
+  },
+  "colores": {
+    "acento": "#2a91b5",
+    "tinta": "#16272d",
+    "profundo": "#193843",
+    "suave": "#f0f7fa",
+    "borde": "#dbecf2",
+    "calido": "#d9c3a0",
+    "calidoSuave": "#fbf9f6"
+  },
+  "fotos": {
+    "principal": "https://giodentalredovan.com/wp-content/uploads/2024/12/Pizarra-GioDental-4-1.jpg",
+    "clinica1": "https://giodentalredovan.com/wp-content/uploads/2024/12/Pizarra-GioDental-47.jpg",
+    "clinica2": "https://giodentalredovan.com/wp-content/uploads/2024/12/Pizarra-GioDental-11-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PINTOR MURILLO, 2 · REDOVÁN",
+    "titulo": [
+      "Entre los teléfonos de vuestra web hay uno que marca",
+      "+0069665633."
+    ],
+    "intro": "El centro odontológico de Redován con el Dr. Joaquín Gío, dedicado a la excelencia mediante la formación continua, la tecnología de vanguardia y un trato personalizado. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Uno de los enlaces de llamada de la web marca «+0069665633», un número que no existe, junto a los dos enlaces del 641 588 589.",
+      "El formulario de contacto pide nombre, correo, asunto y mensaje; el otro pide nombre y teléfono: ninguno deja elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 17:30 y no abrís hasta el lunes a las 9:30: 64 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (641 58 85 89). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Gio Dental."
+    },
+    "pregunta": "¿Cuántas llamadas habrán ido a un número que no existe?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PINTOR MURILLO, 2 · REDOVÁN",
+    "telefono": "641 588 589",
+    "telefonos": "641 588 589 · WhatsApp",
+    "direccion": "C/ Pintor Murillo, 2 · 03370 Redován (Alicante)",
+    "marca": "GIO DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU DENTISTA EN REDOVÁN",
+    "heroTitulo": "Odontología",
+    "heroDestacado": "avanzada.",
+    "heroTexto": "Un trato personalizado y tecnología de vanguardia. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "La búsqueda constante de la excelencia.",
+    "nota": "Tu dentista en Redován.",
+    "fotoEtiqueta": "GIO DENTAL",
+    "fotoTitulo": "Una clínica luminosa en Redován.",
+    "cifra": "4,6",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Joaquín Gío y su equipo.",
+    "equipoTexto": "Un equipo en formación continua, con tecnología de vanguardia y un trato personalizado.",
+    "valores": [
+      [
+        "Odontología avanzada.",
+        "En Redován."
+      ],
+      [
+        "Formación.",
+        "Continua."
+      ],
+      [
+        "Trato.",
+        "Personalizado."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Redován.",
+    "pies": [
+      "La clínica",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Implantología oral",
+      "Ortodoncia",
+      "Estética dental",
+      "Odontopediatría",
+      "Endodoncia",
+      "Sedación consciente"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Pintor Murillo, 2, en Redován."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 641 58 85 89 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Redován",
+    "notaDiseno": "El azul agua y el beige de Gio Dental, su fachada luminosa y un teléfono que marca un número real.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 69
+    }
+  }
+}

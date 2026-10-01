@@ -1,0 +1,174 @@
+{
+  "slug": "clinica-martos",
+  "numero": 581,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Martos",
+    "nombreCorto": "Clínica Martos",
+    "dominio": "clinicadentalmartos.com",
+    "web": "https://clinicadentalmartos.com/",
+    "contacto": "https://clinicadentalmartos.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#0b7fb7",
+    "tinta": "#16252d",
+    "profundo": "#193543",
+    "suave": "#eef6fa",
+    "borde": "#d6e9f3",
+    "calido": "#c9a24a",
+    "calidoSuave": "#faf6ed"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalmartos.com/wp-content/uploads/2025/09/CTM5814-2048x1366.jpg",
+    "clinica1": "https://clinicadentalmartos.com/wp-content/uploads/2023/03/IMG_20220825_193203-1536x691.jpg",
+    "clinica2": "https://clinicadentalmartos.com/wp-content/uploads/2023/03/FACHADA.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER SANT TOMÀS, 11 · CREVILLENT",
+    "titulo": [
+      "Para pedir cita en vuestra web hay que llamar",
+      "o rellenar un formulario que no deja elegir día ni hora."
+    ],
+    "intro": "Una clínica dental en Crevillent con la más avanzada tecnología odontológica, un equipo con la Dra. Marta Cases y el Dr. Galo Conesa, y un 5,0 en Google. Proponemos que «Llámanos» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La portada invita a «¡Llámanos!», y la página de contacto tiene un formulario con nombre, teléfono, correo y «Dinos qué necesitas»: no se puede elegir día ni hora.",
+      "En ninguna página de la web aparece vuestro horario: el paciente no sabe cuándo llamar ni cuándo le van a contestar.",
+      "Según Google Maps cerráis el sábado a las 14:00 y no abrís hasta el lunes a las 9:30: 43,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Llámanos» reserve de verdad.",
+      "texto": "Ya tenéis el teléfono 966 577 335 en la web. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Martos."
+    },
+    "pregunta": "¿Cuántas personas llaman fuera de horario sin saber cuándo abrís?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER SANT TOMÀS, 11 · CREVILLENT",
+    "telefono": "966 577 335",
+    "telefonos": "966 577 335 · WhatsApp",
+    "direccion": "Carrer Sant Tomàs, 11, bajo · 03330 Crevillent (Alicante)",
+    "marca": "CLÍNICA MARTOS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CREVILLENT",
+    "heroTitulo": "El mejor cuidado",
+    "heroDestacado": "para tu sonrisa.",
+    "heroTexto": "Con la más avanzada tecnología odontológica. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Llámanos",
+    "frase": "¿Necesitas ayuda? No dudes en llamarnos.",
+    "nota": "Atención de urgencias.",
+    "fotoEtiqueta": "CLÍNICA MARTOS",
+    "fotoTitulo": "Una clínica luminosa en Crevillent.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo cercano.",
+    "equipoTexto": "La Dra. Marta Cases, el Dr. Galo Conesa y todo el equipo, con trato cercano y tecnología avanzada.",
+    "valores": [
+      [
+        "Tecnología.",
+        "La más avanzada."
+      ],
+      [
+        "Urgencias.",
+        "Llámanos."
+      ],
+      [
+        "Equipo.",
+        "Cercano."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Crevillent.",
+    "pies": [
+      "El equipo",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Urgencias dentales",
+      "Estética dental",
+      "Ortodoncia",
+      "Implantes",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer Sant Tomàs, 11, bajo, en Crevillent."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Escríbenos en la web y la dejamos reservada, con día y hora, en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Crevillent",
+    "notaDiseno": "El azul de la Clínica Martos, su sala de espera y una cita que se reserva sin esperar una llamada.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "sabado": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a sábado, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 150
+    }
+  }
+}
