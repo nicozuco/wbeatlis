@@ -1,0 +1,165 @@
+{
+  "slug": "ivana-bonet",
+  "numero": 962,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Ivana Bonet Cárdenas",
+    "nombreCorto": "Clínica Ivana Bonet",
+    "dominio": "ivanabonet.es",
+    "web": "https://www.ivanabonet.es/",
+    "contacto": "https://www.ivanabonet.es/contacto",
+    "decisor": "Dra. Ivana Bonet Cárdenas"
+  },
+  "colores": {
+    "acento": "#1e73be",
+    "tinta": "#16222d",
+    "profundo": "#192f43",
+    "suave": "#eff5fa",
+    "borde": "#d9e7f4",
+    "calido": "#2a7a5c",
+    "calidoSuave": "#eaf2ef"
+  },
+  "fotos": {
+    "principal": "https://www.ivanabonet.es/wp-content/uploads/SON4733b-1-scaled.webp",
+    "clinica1": "https://www.ivanabonet.es/wp-content/uploads/La-clinica-dental-Ivana-Bonet-1.jpg",
+    "clinica2": "https://www.ivanabonet.es/wp-content/uploads/La-clinica-dental-Ivana-Bonet-6.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CALLE ANCHA, 25 · NULES",
+    "titulo": [
+      "El formulario de vuestra web no pregunta día ni hora",
+      "y el Google Maps de la clínica no recoge el fin de semana."
+    ],
+    "intro": "Una clínica de Nules con la Dra. Ivana Bonet Cárdenas, la Dra. Laila Zanabili y la Dra. Beatriz Tarazona Álvarez, y un 5,0 en Google. Proponemos que «¿Te ayudamos?» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, correo, teléfono, asunto y mensaje, pero ni día ni hora: la cita queda sin fijar hasta que alguien devuelve la llamada.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 9:30: 61,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «¿Te ayudamos?» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el teléfono que ya publicáis (964 67 24 79). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Ivana Bonet."
+    },
+    "pregunta": "¿Cuántos pacientes escriben fuera de horario y no vuelven cuando por fin les devolvéis la llamada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CALLE ANCHA, 25 · NULES",
+    "telefono": "964 67 24 79",
+    "telefonos": "964 67 24 79",
+    "direccion": "Calle Ancha, 25, bajo · 12520 Nules, Castellón",
+    "marca": "CLÍNICA IVANA BONET",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN NULES",
+    "heroTitulo": "Cuidamos",
+    "heroDestacado": "tu salud bucal.",
+    "heroTexto": "Una clínica dental de referencia en Nules. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "¿Te ayudamos?",
+    "frase": "¿Te ayudamos?",
+    "nota": "En Nules, Castellón.",
+    "fotoEtiqueta": "CLÍNICA IVANA BONET",
+    "fotoTitulo": "Una clínica cercana en Nules.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Ivana Bonet y su equipo.",
+    "equipoTexto": "La Dra. Ivana Bonet Cárdenas, la Dra. Laila Zanabili y la Dra. Beatriz Tarazona Álvarez, con implantología, estética y ortodoncia.",
+    "valores": [
+      [
+        "Ética.",
+        "Innovación y excelencia."
+      ],
+      [
+        "Digital.",
+        "Diagnóstico 3D y escáner."
+      ],
+      [
+        "En Nules.",
+        "Calle Ancha, 25."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Nules.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantología y cirugía oral",
+      "Estética dental y rehabilitación oral",
+      "Ortodoncia",
+      "Endodoncia",
+      "Odontología biológica",
+      "Diagnóstico 3D"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Calle Ancha, 25, bajo, en Nules (Castellón)."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 964 67 24 79 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Nules",
+    "notaDiseno": "El azul de la Clínica Ivana Bonet, su recepción y una agenda que se llena sola.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes, miércoles y viernes: 9:30 a 13:30 y 15:30 a 20:00",
+      "Martes y jueves: 9:30 a 13:30"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 22
+    }
+  }
+}
