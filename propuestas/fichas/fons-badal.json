@@ -1,0 +1,170 @@
+{
+  "slug": "fons-badal",
+  "numero": 408,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Fons Badal",
+    "nombreCorto": "Fons Badal",
+    "dominio": "clinicafonsbadal.com",
+    "web": "https://www.clinicafonsbadal.com/",
+    "contacto": "https://clinicafonsbadal.com/contacto",
+    "decisor": "Dra. Badal"
+  },
+  "colores": {
+    "acento": "#1f3a30",
+    "tinta": "#172b24",
+    "profundo": "#203c32",
+    "suave": "#eff1f1",
+    "borde": "#d9dedc",
+    "calido": "#e8b84a",
+    "calidoSuave": "#fdf8ed"
+  },
+  "fotos": {
+    "principal": "https://clinicafonsbadal.com/wp-content/uploads/2023/06/fons-badal-recibidor.jpg",
+    "clinica1": "https://clinicafonsbadal.com/wp-content/uploads/2023/06/fons-badal-equipo-doctoras.jpg",
+    "clinica2": "https://clinicafonsbadal.com/wp-content/uploads/2023/06/nuestras-instalaciones-3.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "GRAN VIA DE FERRAN EL CATÒLIC, 66 · VALENCIA",
+    "titulo": [
+      "«Pide cita» lleva a una página de contacto",
+      "sin formulario: solo teléfono y WhatsApp."
+    ],
+    "intro": "La clínica dental del futuro en Valencia, con 40 años de experiencia y especialización al servicio de tu sonrisa, con la Dra. Badal, la Dra. Fons, el Dr. Herrero y la Dra. Carles, y un 4,9 en Google. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón «Pide cita» lleva a una página con el horario, el teléfono 963 91 37 74 y un enlace de WhatsApp, pero sin ningún formulario: no se puede elegir día ni hora.",
+      "El horario de la web es distinto cada día (el lunes de 9:00 a 17:00, de martes a jueves con tarde de 16:30 a 19:30 y el viernes hasta las 14:00): difícil de recordar para quien quiere pedir cita.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 680 84 77 71 en la página de contacto: solo falta que reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Fons Badal."
+    },
+    "pregunta": "¿Cuántas personas habrán pulsado «Pide cita» y se habrán quedado sin formulario?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "GRAN VIA DE FERRAN EL CATÒLIC, 66 · VALENCIA",
+    "telefono": "963 913 774",
+    "telefonos": "963 913 774 · WhatsApp 680 847 771",
+    "direccion": "Gran Via de Ferran el Catòlic, 66, 1º-1ª · 46008 Valencia",
+    "marca": "FONS BADAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "LA CLÍNICA DENTAL DEL FUTURO EN VALENCIA",
+    "heroTitulo": "Te acompañamos",
+    "heroDestacado": "en tu bienestar.",
+    "heroTexto": "40 años de experiencia y especialización al servicio de tu sonrisa. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Somos amigables, innovadoras, académicas y tu respaldo.",
+    "nota": "En Extramurs, Valencia.",
+    "fotoEtiqueta": "FONS BADAL",
+    "fotoTitulo": "Una clínica luminosa en Valencia.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de mujeres especialistas.",
+    "equipoTexto": "La Dra. Badal, la Dra. Fons, el Dr. Herrero y la Dra. Carles, con periodoncia, endodoncia, implantología, ortodoncia y odontopediatría.",
+    "valores": [
+      [
+        "40 años.",
+        "De experiencia."
+      ],
+      [
+        "Amigables.",
+        "Innovadoras."
+      ],
+      [
+        "Académicas.",
+        "Tu respaldo."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Extramurs,",
+    "galeriaDestacado": "Valencia.",
+    "pies": [
+      "La recepción",
+      "El equipo"
+    ],
+    "servicios": [
+      "Periodoncia",
+      "Endodoncia y odontología conservadora",
+      "Prótesis y estética dental",
+      "Implantología y cirugía oral",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Gran Via de Ferran el Catòlic, 66, 1º-1ª, en Valencia."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 680 84 77 71 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El verde oscuro y el amarillo de Fons Badal, su recepción de madera y una cita que no depende de memorizar el horario.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "15:00",
+        "16:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 9:00 a 17:00",
+      "Martes a jueves: 9:00 a 14:00 y 16:30 a 19:30",
+      "Viernes: 9:00 a 14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 40
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "vicdental",
+  "numero": 596,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Vicdental",
+    "nombreCorto": "Vicdental",
+    "dominio": "vicdental.es",
+    "web": "https://vicdental.es/",
+    "contacto": "https://vicdental.es/contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#7b2a5a",
+    "tinta": "#2d1623",
+    "profundo": "#431932",
+    "suave": "#f6f0f3",
+    "borde": "#e9dbe3",
+    "calido": "#8fc96a",
+    "calidoSuave": "#f4faf0"
+  },
+  "fotos": {
+    "principal": "https://vicdental.es/wp-content/uploads/2026/02/3.jpg",
+    "clinica1": "https://vicdental.es/wp-content/uploads/2026/02/4.png",
+    "clinica2": "https://vicdental.es/wp-content/uploads/2026/02/4-1.png"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MAYOR, 38 · BIGASTRO",
+    "titulo": [
+      "«Reserva cita» lleva a un formulario de cuatro campos:",
+      "nombre, correo, teléfono y mensaje."
+    ],
+    "intro": "Una clínica en Bigastro que mejora sonrisas cada día, con tratamientos para todas las edades y necesidades, y un 4,8 en Google con 140 reseñas. Proponemos que «Reserva cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, correo, teléfono y mensaje: no se puede elegir día ni hora, así que cada solicitud acaba en una llamada para cerrar la cita.",
+      "La web no tiene WhatsApp ni horario: el paciente no sabe cuándo llamar al 619 67 17 75 ni cuándo le van a contestar.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 9:00: 61 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reserva cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (619 67 17 75). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Vicdental."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario esperan una llamada de vuelta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MAYOR, 38 · BIGASTRO",
+    "telefono": "619 671 775",
+    "telefonos": "619 671 775 · WhatsApp",
+    "direccion": "C/ Mayor, 38, bajo · 03380 Bigastro (Alicante)",
+    "marca": "VICDENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN BIGASTRO",
+    "heroTitulo": "Mejoramos sonrisas",
+    "heroDestacado": "cada día.",
+    "heroTexto": "Tratamientos dentales para todas las edades y necesidades. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva cita",
+    "frase": "Tu sonrisa está en buenas manos.",
+    "nota": "En Bigastro.",
+    "fotoEtiqueta": "VICDENTAL",
+    "fotoTitulo": "Una clínica cercana en Bigastro.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo cercano.",
+    "equipoTexto": "Un proceso claro y personalizado para que sonrías sin preocupaciones, desde la primera visita.",
+    "valores": [
+      [
+        "Todas las edades.",
+        "Y necesidades."
+      ],
+      [
+        "Proceso claro.",
+        "Y personalizado."
+      ],
+      [
+        "Resultados.",
+        "A la vista."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Bigastro.",
+    "pies": [
+      "El gabinete",
+      "El equipo"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Estética dental",
+      "Implantes",
+      "Primera visita"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Mayor, 38, bajo, en Bigastro."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 619 67 17 75 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Bigastro",
+    "notaDiseno": "El granate y el verde de Vicdental, su gabinete y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 140
+    }
+  }
+}

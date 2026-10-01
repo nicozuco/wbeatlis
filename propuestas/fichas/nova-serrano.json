@@ -1,0 +1,167 @@
+{
+  "slug": "nova-serrano",
+  "numero": 394,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Dental Nova Serrano",
+    "nombreCorto": "Nova Serrano",
+    "dominio": "dentalnovaserrano.es",
+    "web": "https://dentalnovaserrano.es/",
+    "contacto": "https://dentalnovaserrano.es/contacto/",
+    "decisor": "Dra. Concha Serrano"
+  },
+  "colores": {
+    "acento": "#c2185b",
+    "tinta": "#2d161f",
+    "profundo": "#43192a",
+    "suave": "#fbeff4",
+    "borde": "#f5d8e3",
+    "calido": "#3b5ea8",
+    "calidoSuave": "#ebeff6"
+  },
+  "fotos": {
+    "principal": "https://dentalnovaserrano.es/wp-content/uploads/2016/10/DSC08395-scaled.jpg",
+    "clinica1": "https://dentalnovaserrano.es/wp-content/uploads/2016/10/DSC08399-scaled.jpg",
+    "clinica2": "https://dentalnovaserrano.es/wp-content/uploads/2025/12/DentalNovaSerrano-La-mejor-atencion-bucodental-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PLAÇA DE L'ALQUERIA NOVA, 12 · XIRIVELLA",
+    "titulo": [
+      "«Reserva tu cita» lleva a un formulario de seis campos",
+      "sin día ni hora."
+    ],
+    "intro": "Una clínica en Xirivella con más de 25 años de experiencia, con la Dra. Concha Serrano y un equipo de especialistas con tratamientos generales, estéticos y urgentes. Proponemos que «Reserva tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, apellidos, teléfono, correo, mensaje y una opción más: no se puede elegir día ni hora, así que alguien tiene que llamar después.",
+      "La web no tiene WhatsApp: los móviles y el fijo (629 95 55 51 y 963 83 32 14) aparecen escritos y el paciente tiene que llamar.",
+      "Según Google Maps cerráis el viernes a las 14:30 y no abrís hasta el lunes a las 9:00: 66,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reserva tu cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (629 95 55 51). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Nova Serrano."
+    },
+    "pregunta": "¿Cuántos formularios se quedan esperando una llamada de vuelta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PLAÇA DE L'ALQUERIA NOVA, 12 · XIRIVELLA",
+    "telefono": "963 833 214",
+    "telefonos": "963 833 214 · WhatsApp 629 955 551",
+    "direccion": "Plaça de l'Alqueria Nova, 12 · 46950 Xirivella (Valencia)",
+    "marca": "NOVA SERRANO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN XIRIVELLA",
+    "heroTitulo": "Bienvenidos",
+    "heroDestacado": "a nuestra clínica.",
+    "heroTexto": "Un equipo de especialistas con tratamientos generales, estéticos y urgentes. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "La galería de las sonrisas.",
+    "nota": "Más de 25 años en Xirivella.",
+    "fotoEtiqueta": "NOVA SERRANO",
+    "fotoTitulo": "Un equipo cercano en Xirivella.",
+    "cifra": "4,6",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Nuestro equipo de especialistas.",
+    "equipoTexto": "La Dra. Concha Serrano y un equipo de especialistas con ortodoncia invisible, implantes, endodoncia y consulta de salud bucal.",
+    "valores": [
+      [
+        "25 años.",
+        "De experiencia."
+      ],
+      [
+        "Urgencias.",
+        "Tratamientos urgentes."
+      ],
+      [
+        "Estética.",
+        "Y reconstrucción."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Xirivella.",
+    "pies": [
+      "El equipo",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Tratamientos generales",
+      "Prevención",
+      "Tratamientos urgentes",
+      "Blanqueamiento dental",
+      "Ortodoncia invisible",
+      "Implantes"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la plaza de l'Alqueria Nova, 12, en Xirivella."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 629 95 55 51 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Xirivella",
+    "notaDiseno": "El rosa y el azul de Nova Serrano, su equipo y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 47
+    }
+  }
+}

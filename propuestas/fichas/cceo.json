@@ -1,0 +1,171 @@
+{
+  "slug": "cceo",
+  "numero": 559,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental CCEO",
+    "nombreCorto": "CCEO",
+    "dominio": "cceo.es",
+    "web": "https://www.cceo.es/",
+    "contacto": "https://www.cceo.es/contacto",
+    "decisor": "Dr. Javier E. Daguiar Montero"
+  },
+  "colores": {
+    "acento": "#1b6e96",
+    "tinta": "#16252d",
+    "profundo": "#193543",
+    "suave": "#eff5f8",
+    "borde": "#d8e6ed",
+    "calido": "#7ec3d9",
+    "calidoSuave": "#f2f9fb"
+  },
+  "fotos": {
+    "principal": "https://www.cceo.es/wp-content/uploads/2026/03/1.-Javier-E.-Daguiar-Montero-scaled.jpg",
+    "clinica1": "https://www.cceo.es/wp-content/uploads/2026/03/CCEO-0106-scaled.jpg",
+    "clinica2": "https://www.cceo.es/wp-content/uploads/2026/03/FotoMision1-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. ESPORTISTA MIRIAM BLASCO, 14 · ALICANTE",
+    "titulo": [
+      "Para pedir cita en vuestra web hay que escribir un mensaje",
+      "o llamar: no se puede elegir día ni hora."
+    ],
+    "intro": "Una clínica en Alicante con más de 40 años de experiencia, especializada en implantes dentales y en la técnica All-On-4, con el Dr. Javier Daguiar, el Dr. Ricardo Daguiar y un equipo de expertos, y un 4,9 en Google. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide email, nombre, teléfono (opcional) y mensaje: no se puede elegir día ni hora, así que cada solicitud acaba en un correo que alguien tiene que contestar.",
+      "La web no tiene WhatsApp: el único camino además del formulario es llamar al 966 37 82 73 o al 601 22 16 03.",
+      "Según Google Maps cerráis el viernes a las 15:00 y no abrís hasta el lunes a las 9:00: 66 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (601 22 16 03). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de CCEO."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario esperan respuesta hasta el día siguiente?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. ESPORTISTA MIRIAM BLASCO, 14 · ALICANTE",
+    "telefono": "966 378 273",
+    "telefonos": "966 378 273 · WhatsApp 601 221 603",
+    "direccion": "Av. Esportista Miriam Blasco, 14 · 03540 Alicante",
+    "marca": "CCEO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALICANTE",
+    "heroTitulo": "Nuestra pasión",
+    "heroDestacado": "por la odontología.",
+    "heroTexto": "Se refleja en cada sonrisa que transformamos. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Implantes dentales y técnica All-On-4.",
+    "nota": "Más de 40 años de experiencia.",
+    "fotoEtiqueta": "CCEO",
+    "fotoTitulo": "Una clínica luminosa en Alicante.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de expertos.",
+    "equipoTexto": "El Dr. Javier Daguiar, el Dr. Ricardo Daguiar y el Dr. Daniel Serrano, entre otros especialistas, con más de 40 años de experiencia.",
+    "valores": [
+      [
+        "Más de 40 años.",
+        "De experiencia."
+      ],
+      [
+        "All-On-4.",
+        "Técnica avanzada."
+      ],
+      [
+        "Equipo.",
+        "De expertos."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alicante.",
+    "pies": [
+      "La consulta",
+      "La recepción"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Técnica All-On-4",
+      "Endodoncia",
+      "Periodoncia",
+      "Ortodoncia",
+      "Cirugía dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Esportista Miriam Blasco, 14, en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 601 22 16 03 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El azul de CCEO, su consulta luminosa y un WhatsApp que reserva con día y hora.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "8:30",
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30"
+      ],
+      "jueves": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
+    },
+    "horario": [
+      "Lunes y martes: 9:00 a 13:00 y 16:00 a 20:30",
+      "Miércoles: 8:00 a 16:00",
+      "Jueves: 9:00 a 13:00 y 16:00 a 20:30",
+      "Viernes: 9:00 a 15:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 169
+    }
+  }
+}

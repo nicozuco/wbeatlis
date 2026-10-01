@@ -1,0 +1,169 @@
+{
+  "slug": "clinica-llobell",
+  "numero": 402,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Llobell",
+    "nombreCorto": "Clínica Llobell",
+    "dominio": "clinicallobell.es",
+    "web": "http://www.clinicallobell.es/",
+    "contacto": "http://clinicallobell.es/contacto/",
+    "decisor": "Dr. Andrés Llobell"
+  },
+  "colores": {
+    "acento": "#1e3a8a",
+    "tinta": "#161c2d",
+    "profundo": "#192443",
+    "suave": "#eff1f7",
+    "borde": "#d9deeb",
+    "calido": "#c9b458",
+    "calidoSuave": "#faf8ee"
+  },
+  "fotos": {
+    "principal": "https://clinicallobell.es/wp-content/uploads/2020/01/Andre%CC%81s-LLobell-en-consulta-1024x688-1.jpg",
+    "clinica1": "https://clinicallobell.es/wp-content/uploads/2024/09/andres-llobell-dentista.jpg",
+    "clinica2": "https://clinicallobell.es/wp-content/uploads/2023/03/implantes.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ DE CAVANILLES, 20 · VALENCIA",
+    "titulo": [
+      "«Reserva tu cita» te lleva a un formulario",
+      "que no deja elegir día ni hora."
+    ],
+    "intro": "Una clínica familiar de Valencia, con odontólogos desde 1934, pionera en implantología y con un servicio de alta gama, con el Dr. Andrés Llobell y la Dra. Lucía Marqués, y un 4,8 en Google. Proponemos que «Reserva tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El teléfono 963 69 68 62 aparece escrito en la web, sin enlace para llamar ni botón de WhatsApp: desde el móvil hay que copiarlo a mano.",
+      "El formulario de «Reserva tu cita» pide nombre, apellido, correo, teléfono, si eres paciente o nuevo y un mensaje: no se puede elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 15:00 y no abrís hasta el lunes a las 9:00: 66 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reserva tu cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que «Reserva tu cita» reserve de verdad, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Llobell."
+    },
+    "pregunta": "¿Cuántas personas habrán querido llamaros desde el móvil y no han podido?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ DE CAVANILLES, 20 · VALENCIA",
+    "telefono": "963 696 862",
+    "telefonos": "963 696 862 · WhatsApp",
+    "direccion": "C/ Botánico Cavanilles, 20, frente a los Jardines de Viveros · 46010 Valencia",
+    "marca": "CLÍNICA LLOBELL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Servicios odontológicos",
+    "heroDestacado": "de total confianza.",
+    "heroTexto": "Pioneros en implantología con materiales de última generación. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "Desde 1934.",
+    "nota": "Frente a los Jardines de Viveros.",
+    "fotoEtiqueta": "CLÍNICA LLOBELL",
+    "fotoTitulo": "Una clínica con historia en Valencia.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Andrés Llobell y la Dra. Lucía Marqués.",
+    "equipoTexto": "Un equipo médico con diagnóstico global, seguimiento y control del estado del paciente, en una clínica familiar con historia.",
+    "valores": [
+      [
+        "Desde 1934.",
+        "Odontólogos."
+      ],
+      [
+        "Pioneros.",
+        "En implantología."
+      ],
+      [
+        "Alta gama.",
+        "Con seguimiento."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Pla",
+    "galeriaDestacado": "del Real.",
+    "pies": [
+      "En consulta",
+      "El Dr. Llobell"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Odontología estética",
+      "Odontología general",
+      "Periodoncia",
+      "Ortodoncia",
+      "Diagnóstico global"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Botánico Cavanilles, 20, frente a los Jardines de Viveros, en Valencia."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 963 69 68 62 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul y el dorado de Clínica Llobell, su consulta y una reserva que de verdad reserva.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "20:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "20:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00 a 21:00",
+      "Viernes: 9:00 a 15:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 42
+    }
+  }
+}
