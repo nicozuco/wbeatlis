@@ -1,0 +1,167 @@
+{
+  "slug": "gmd-ambrosio-bernabeu",
+  "numero": 807,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "GMD Ambrosio Bernabeu",
+    "nombreCorto": "GMD Ambrosio Bernabeu",
+    "dominio": "ambrosiobernabeu.com",
+    "web": "http://www.ambrosiobernabeu.com/",
+    "contacto": "https://ambrosiobernabeu.com/contacto/",
+    "decisor": "Dr. Ambrosio Bernabeu"
+  },
+  "colores": {
+    "acento": "#3a8f5c",
+    "tinta": "#162d1f",
+    "profundo": "#1a412a",
+    "suave": "#f1f7f4",
+    "borde": "#deece3",
+    "calido": "#c9d34a",
+    "calidoSuave": "#fafbed"
+  },
+  "fotos": {
+    "principal": "https://ambrosiobernabeu.com/wp-content/uploads/cab2018.jpg",
+    "clinica1": "https://ambrosiobernabeu.com/wp-content/uploads/gabinete-1-570x570.jpg",
+    "clinica2": "https://ambrosiobernabeu.com/wp-content/uploads/gabinete-4-570x570.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PASSEIG ERES DE SANTA LLÚCIA, 6 · ELCHE",
+    "titulo": [
+      "El teléfono de vuestra portada se lee 96 545 29 71,",
+      "pero al tocarlo llama al +34 000000000."
+    ],
+    "intro": "Grupo Médico Dental desde 1992 en Elche, con el Dr. Ambrosio Bernabeu y la Dra. Ana Pina, alta tecnología y eficacia en los resultados, y un 4,8 en Google. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la portada, el teléfono «96 545 29 71» es un enlace de llamada a «tel:+34000000000», un número que no existe: quien lo toque desde el móvil no llega a la clínica.",
+      "La portada sigue diciendo que «seguimos tratando a nuestros pacientes… bajo medidas extraordinarias de protección, seguridad e higiene», un mensaje de la época del COVID.",
+      "Según Google Maps cerráis el viernes a las 19:00 y no abrís hasta el lunes a las 9:00: 62 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno, para que «Pide tu cita» la deje reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de GMD Ambrosio Bernabeu."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil habrán ido a un número que no existe?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PASSEIG ERES DE SANTA LLÚCIA, 6 · ELCHE",
+    "telefono": "965 452 971",
+    "telefonos": "965 452 971 · WhatsApp",
+    "direccion": "Passeig Eres de Santa Llúcia, 6 · 03202 Elche (Alicante)",
+    "marca": "GMD AMBROSIO BERNABEU",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "GRUPO MÉDICO DENTAL EN ELCHE",
+    "heroTitulo": "Alta tecnología,",
+    "heroDestacado": "eficacia en los resultados.",
+    "heroTexto": "Grupo Médico Dental desde 1992. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Desde 1992 en Elche.",
+    "nota": "Grupo Médico Dental.",
+    "fotoEtiqueta": "GMD AMBROSIO BERNABEU",
+    "fotoTitulo": "Una clínica moderna en Elche.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Ambrosio Bernabeu y la Dra. Ana Pina.",
+    "equipoTexto": "Un equipo de profesionales con implantes, cirugía, ortodoncia, periodoncia y endodoncia, en un grupo médico dental desde 1992.",
+    "valores": [
+      [
+        "Desde 1992.",
+        "Grupo médico dental."
+      ],
+      [
+        "Implantes.",
+        "Alta tecnología."
+      ],
+      [
+        "Equipo.",
+        "De profesionales."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Elche.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Cirugía oral",
+      "Ortodoncia",
+      "Periodoncia",
+      "Endodoncia",
+      "Salud bucodental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Passeig Eres de Santa Llúcia, 6, en Elche."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 965 45 29 71 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Elche",
+    "notaDiseno": "El verde y el lima de GMD, su recepción y un teléfono que llama a la clínica.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 20
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "slug": "abel-martinez-gambin",
+  "numero": 763,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Dr. Abel Martínez Gambín",
+    "nombreCorto": "Dr. Abel Martínez",
+    "dominio": "clinicadentalabelmartinez.com",
+    "web": "https://clinicadentalabelmartinez.com/",
+    "contacto": "https://clinicadentalabelmartinez.com/",
+    "decisor": "Dr. Abel Martínez Gambín"
+  },
+  "colores": {
+    "acento": "#3a4a52",
+    "tinta": "#1b2327",
+    "profundo": "#263136",
+    "suave": "#f1f2f3",
+    "borde": "#dee0e2",
+    "calido": "#c9a86a",
+    "calidoSuave": "#faf6f0"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalabelmartinez.com/wp-content/uploads/2025/03/sala-de-espera-5.webp",
+    "clinica1": "https://clinicadentalabelmartinez.com/wp-content/uploads/2025/03/recepcion-2.webp",
+    "clinica2": "https://clinicadentalabelmartinez.com/wp-content/uploads/2025/03/box-2-2.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ NUESTRA SEÑORA DEL CARMEN, 2 · CALLOSA DE SEGURA",
+    "titulo": [
+      "El enlace de llamada de vuestra web junta dos teléfonos:",
+      "«966191239-633274856»."
+    ],
+    "intro": "Una clínica en Callosa de Segura con el Dr. Abel Martínez Gambín, con la última tecnología para tratamientos exitosos, primera visita con exploración oral y un 5,0 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El enlace de llamada de «966 191 239 - 633 274 856» es «tel:966191239-633274856», con los dos números pegados: desde el móvil no conecta con ninguno de los dos.",
+      "El formulario de contacto pide nombre, teléfono, correo y mensaje: no se puede elegir día ni hora, así que cada solicitud acaba en una llamada para cerrar la cita.",
+      "Según Google Maps cerráis el viernes a las 17:30 y no abrís hasta el lunes a las 9:30: 64 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "Ya tenéis un WhatsApp (633 27 48 56) en la web: solo falta que reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dr. Abel Martínez."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil no habrán conectado con el enlace de dos números?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ NUESTRA SEÑORA DEL CARMEN, 2 · CALLOSA DE SEGURA",
+    "telefono": "966 191 239",
+    "telefonos": "966 191 239 · WhatsApp 633 274 856",
+    "direccion": "C/ Nuestra Señora del Carmen, 2, bajo · 03360 Callosa de Segura (Alicante)",
+    "marca": "DR. ABEL MARTÍNEZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CALLOSA DE SEGURA",
+    "heroTitulo": "Tu sonrisa",
+    "heroDestacado": "en buenas manos.",
+    "heroTexto": "Con la última tecnología para desarrollar los tratamientos de manera exitosa. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Odontología conservadora y estética.",
+    "nota": "En Callosa de Segura.",
+    "fotoEtiqueta": "DR. ABEL MARTÍNEZ",
+    "fotoTitulo": "Una clínica luminosa en Callosa.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Abel Martínez Gambín.",
+    "equipoTexto": "Un equipo con ortodoncia, blanqueamiento, implantes, odontopediatría, periodoncia y tecnología avanzada.",
+    "valores": [
+      [
+        "Primera visita.",
+        "Con exploración oral."
+      ],
+      [
+        "Tecnología.",
+        "Avanzada."
+      ],
+      [
+        "Implantes.",
+        "Y prótesis."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Callosa.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Primera visita y exploración oral",
+      "Ortodoncia",
+      "Blanqueamiento dental",
+      "Implantes dentales y prótesis",
+      "Odontopediatría",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Nuestra Señora del Carmen, 2, bajo, en Callosa de Segura."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 633 27 48 56 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Callosa de Segura",
+    "notaDiseno": "El gris azulado y el dorado del Dr. Martínez, su recepción y un teléfono que llama a un solo número.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30",
+        "16:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30 a 13:30 y 16:00 a 20:00",
+      "Viernes: 9:30 a 17:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 35
+    }
+  }
+}

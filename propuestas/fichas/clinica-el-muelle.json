@@ -1,0 +1,168 @@
+{
+  "slug": "clinica-el-muelle",
+  "numero": 736,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental El Muelle",
+    "nombreCorto": "El Muelle",
+    "dominio": "dentistasantapola.com",
+    "web": "http://www.dentistasantapola.com/",
+    "contacto": "https://dentistasantapola.com/contacto/",
+    "decisor": "Dr. Pablo Chapapría García"
+  },
+  "colores": {
+    "acento": "#2f8f5b",
+    "tinta": "#162d20",
+    "profundo": "#19432c",
+    "suave": "#f0f7f4",
+    "borde": "#dcece3",
+    "calido": "#6b2f8f",
+    "calidoSuave": "#f0eaf4"
+  },
+  "fotos": {
+    "principal": "https://dentistasantapola.com/wp-content/uploads/2015/12/sobre_nosotros_1200x800.jpg",
+    "clinica1": "https://dentistasantapola.com/wp-content/uploads/2015/12/sala_espera.jpg",
+    "clinica2": "https://dentistasantapola.com/wp-content/uploads/2015/12/gabinete1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CALLE MUELLE, 12 · SANTA POLA",
+    "titulo": [
+      "Vuestra web dice que el viernes abrís por la tarde.",
+      "Google Maps dice que cerráis a las 14:00."
+    ],
+    "intro": "Una clínica de Santa Pola fundada por el Dr. Joaquín García Pertusa en 1975, que continúa el Dr. Pablo Chapapría García con un equipo multidisciplinar, y un 4,8 en Google. Proponemos que «Contáctenos» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El horario de la web es «Lunes – Viernes 9:15-13:30 y 16:00-19:30» (con «Jueves tarde cerrado» aparte), pero Google Maps cierra el viernes a las 14:00: el paciente no sabe si el viernes por la tarde hay alguien.",
+      "El teléfono 965 41 27 87 aparece escrito, sin enlace para llamar ni botón de WhatsApp, y el formulario de contacto no deja elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:30: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Contáctenos» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que la cita quede reservada, con día y hora, y con el horario correcto. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de El Muelle."
+    },
+    "pregunta": "¿Cuántos pacientes llegan un viernes por la tarde y se encuentran la clínica cerrada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CALLE MUELLE, 12 · SANTA POLA",
+    "telefono": "965 412 787",
+    "telefonos": "965 412 787 · WhatsApp",
+    "direccion": "Calle Muelle, 12, entresuelo izquierda · 03130 Santa Pola (Alicante)",
+    "marca": "EL MUELLE",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN SANTA POLA",
+    "heroTitulo": "Cuidando de su salud",
+    "heroDestacado": "desde 1975.",
+    "heroTexto": "Un equipo multidisciplinar de odontólogos y una amplia gama de tratamientos integrados. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Contáctenos",
+    "frase": "Tradición familiar, equipamiento de vanguardia.",
+    "nota": "Desde 1975 en Santa Pola.",
+    "fotoEtiqueta": "EL MUELLE",
+    "fotoTitulo": "Instalaciones equipadas en Santa Pola.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Pablo Chapapría y su equipo.",
+    "equipoTexto": "La Dra. Tatiana Román, la Dra. Belén Mudarra y el resto del equipo continúan la tradición familiar fundada en 1975.",
+    "valores": [
+      [
+        "Desde 1975.",
+        "Tradición familiar."
+      ],
+      [
+        "Multidisciplinar.",
+        "Equipo de odontólogos."
+      ],
+      [
+        "Citas urgentes.",
+        "Con equipamiento de vanguardia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Santa Pola.",
+    "pies": [
+      "El equipo",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Blanqueamiento dental",
+      "Carillas estéticas",
+      "Implantes dentales",
+      "Ortodoncia",
+      "Injertos de encía",
+      "Coronas o «fundas»"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Muelle, 12, entresuelo izquierda, en Santa Pola."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 965 41 27 87 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Santa Pola",
+    "notaDiseno": "El verde y el violeta de El Muelle, su sala de espera y un horario sin contradicciones.",
+    "huecos": {
+      "lunes": [
+        "9:15",
+        "10:45",
+        "12:15",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "9:45",
+        "11:15",
+        "12:45",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "9:15",
+        "10:45",
+        "12:15",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "9:45",
+        "11:15",
+        "12:45"
+      ],
+      "viernes": [
+        "9:15",
+        "10:45",
+        "12:15",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes, martes, miércoles y viernes: 9:15 a 13:30 y 16:00 a 19:30",
+      "Jueves: 9:15 a 13:30"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 45
+    }
+  }
+}

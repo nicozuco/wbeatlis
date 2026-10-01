@@ -1,0 +1,167 @@
+{
+  "slug": "clinica-19-de-marzo",
+  "numero": 898,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica 19 de Marzo",
+    "nombreCorto": "19 de Marzo",
+    "dominio": "clinica19marzo.es",
+    "web": "http://www.clinica19marzo.es/",
+    "contacto": "http://www.clinica19marzo.es/contacto/",
+    "decisor": "Dr. José Manuel Lozano"
+  },
+  "colores": {
+    "acento": "#8a1f4a",
+    "tinta": "#2d161f",
+    "profundo": "#43192a",
+    "suave": "#f7eff2",
+    "borde": "#ebd9e0",
+    "calido": "#c9a86a",
+    "calidoSuave": "#faf6f0"
+  },
+  "fotos": {
+    "principal": "https://clinica19marzo.es/wp-content/uploads/2026/06/19MARZO_FACHADA.jpg",
+    "clinica1": "https://clinica19marzo.es/wp-content/uploads/2024/10/GABINETE3-scaled.jpg",
+    "clinica2": "https://clinica19marzo.es/wp-content/uploads/2025/01/IMG_4223-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. ESPAÑA, 117 · SEGORBE",
+    "titulo": [
+      "Vuestro formulario de contacto pide nombre, correo, asunto y mensaje:",
+      "ni teléfono, ni día, ni hora."
+    ],
+    "intro": "Tu clínica odontológica de confianza en el Alto Palancia, con el Dr. José Manuel Lozano y un equipo de odontólogos, y un 4,9 en Google con 157 reseñas. Proponemos que «Contacto» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, correo, asunto y mensaje: no pide teléfono, así que para devolver la llamada hay que contestar por correo, y no se puede elegir día ni hora.",
+      "La web no tiene WhatsApp ni horario, y el 964 04 14 02 aparece escrito, sin enlace para llamar.",
+      "Según Google Maps cerráis el viernes a las 18:00 y no abrís hasta el lunes a las 10:00: 64 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Contacto» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que la cita quede reservada, con día y hora, en la misma conversación. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de 19 de Marzo."
+    },
+    "pregunta": "¿Cuántas personas habrán dejado el formulario sin que nadie les pueda llamar?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. ESPAÑA, 117 · SEGORBE",
+    "telefono": "964 041 402",
+    "telefonos": "964 041 402 · WhatsApp",
+    "direccion": "Av. España, 117 · 12400 Segorbe (Castellón)",
+    "marca": "19 DE MARZO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA ODONTOLÓGICA EN SEGORBE",
+    "heroTitulo": "Tu sonrisa es lo más",
+    "heroDestacado": "importante para nosotros.",
+    "heroTexto": "Tu clínica odontológica de confianza en el Alto Palancia. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Contacto",
+    "frase": "Odontología de confianza.",
+    "nota": "En el Alto Palancia.",
+    "fotoEtiqueta": "19 DE MARZO",
+    "fotoTitulo": "Una clínica luminosa en Segorbe.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. José Manuel Lozano y su equipo.",
+    "equipoTexto": "El Dr. José Manuel Lozano, el Dr. Javier Rangel, el Dr. Gonzalo Julián y el Dr. Antonio Flichy, entre otros.",
+    "valores": [
+      [
+        "Tu sonrisa.",
+        "Lo más importante."
+      ],
+      [
+        "Equipo.",
+        "De odontólogos."
+      ],
+      [
+        "Alto Palancia.",
+        "Cerca de ti."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Segorbe,",
+    "galeriaDestacado": "Alto Palancia.",
+    "pies": [
+      "La fachada",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Odontopediatría",
+      "Ortodoncia",
+      "Implantología",
+      "Ortodoncia invisible",
+      "Prótesis"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. España, 117, en Segorbe."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 964 04 14 02 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Segorbe",
+    "notaDiseno": "El granate y el dorado de 19 de Marzo, su fachada y una cita que no depende del correo.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 157
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "casas-y-suarez",
+  "numero": 688,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Casas y Suárez",
+    "nombreCorto": "Casas y Suárez",
+    "dominio": "casasysuarez.com",
+    "web": "https://www.casasysuarez.com/",
+    "contacto": "https://www.casasysuarez.com/",
+    "decisor": "Dr. Javier Casas y Dra. Cristina Suárez"
+  },
+  "colores": {
+    "acento": "#1f3f8f",
+    "tinta": "#161c2d",
+    "profundo": "#192543",
+    "suave": "#eff2f7",
+    "borde": "#d9deec",
+    "calido": "#9aa7b8",
+    "calidoSuave": "#f5f6f8"
+  },
+  "fotos": {
+    "principal": "https://www.casasysuarez.com/wp-content/uploads/2022/08/galeria-destacada-c1-es_grande.jpg",
+    "clinica1": "https://www.casasysuarez.com/wp-content/uploads/2022/08/galeria-destacada-tipo-2-c11-es_grande.jpg",
+    "clinica2": "https://www.casasysuarez.com/wp-content/uploads/2022/12/IMG_1953b-1-1024x461.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER CASTAÑOS, 43 · ALICANTE",
+    "titulo": [
+      "Un enlace de llamada de vuestra web contiene dos teléfonos:",
+      "«965 215 172 / 619 444 982»."
+    ],
+    "intro": "Una clínica de odontólogos especialistas en Alicante con el Dr. Javier Casas y la Dra. Cristina Suárez, en implantes y prótesis dentales, estética, periodoncia y ortodoncia, y un 4,9 en Google. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Uno de los enlaces de llamada es «tel:965 215 172 / 619 444 982», con los dos números juntos: desde el móvil no se puede llamar a ninguno de los dos con ese enlace.",
+      "«Pide cita» solo llama por teléfono: no hay formulario de cita, ni WhatsApp, ni horario en la web, así que el paciente no sabe cuándo van a contestar.",
+      "Según Google Maps cerráis el viernes a las 13:00 y no abrís hasta el lunes a las 9:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (619 44 49 82). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Casas y Suárez."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil se habrán quedado sin conectar con el enlace de dos números?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER CASTAÑOS, 43 · ALICANTE",
+    "telefono": "965 215 172",
+    "telefonos": "965 215 172 · 619 444 982 · WhatsApp",
+    "direccion": "Carrer Castaños, 43, 2º dcha. · 03001 Alicante",
+    "marca": "CASAS Y SUÁREZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALICANTE",
+    "heroTitulo": "Cuidamos de tu",
+    "heroDestacado": "salud dental.",
+    "heroTexto": "Odontología estética y ortodoncia en Alicante. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Odontólogos especialistas.",
+    "nota": "Desde 2005 en Alicante.",
+    "fotoEtiqueta": "CASAS Y SUÁREZ",
+    "fotoTitulo": "Una clínica luminosa en Alicante.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Javier Casas y la Dra. Cristina Suárez.",
+    "equipoTexto": "Un equipo humano de odontólogos especialistas, con implantes y prótesis, estética, periodoncia y ortodoncia.",
+    "valores": [
+      [
+        "Odontólogos.",
+        "Especialistas."
+      ],
+      [
+        "Implantes.",
+        "Y prótesis."
+      ],
+      [
+        "Estética.",
+        "Y ortodoncia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alicante.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantes y prótesis dentales",
+      "Estética dental",
+      "Prótesis dental",
+      "Periodoncia",
+      "Ortodoncia",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer Castaños, 43, 2º dcha., en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 619 44 49 82 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El azul y el gris de Casas y Suárez, su clínica y un teléfono que llama a un solo número.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 66
+    }
+  }
+}

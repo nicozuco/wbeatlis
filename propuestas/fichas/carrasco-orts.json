@@ -1,0 +1,168 @@
+{
+  "slug": "carrasco-orts",
+  "numero": 705,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Carrasco Orts",
+    "nombreCorto": "Carrasco Orts",
+    "dominio": "clinicadentalcarrascoorts.es",
+    "web": "https://clinicadentalcarrascoorts.es/",
+    "contacto": "https://clinicadentalcarrascoorts.es/",
+    "decisor": "Dra. Milagros Bravo y Dr. Jaime Vilar"
+  },
+  "colores": {
+    "acento": "#3a7d3a",
+    "tinta": "#162d16",
+    "profundo": "#1d3f1d",
+    "suave": "#f1f6f1",
+    "borde": "#dee9de",
+    "calido": "#8aa09a",
+    "calidoSuave": "#f3f6f5"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalcarrascoorts.es/images/bg_3_5.jpg",
+    "clinica1": "https://clinicadentalcarrascoorts.es/images/doc-2.jpg",
+    "clinica2": "https://clinicadentalcarrascoorts.es/images/doc-4.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE LA VILA JOIOSA, 19 · BENIDORM",
+    "titulo": [
+      "El teléfono de vuestra web marca «34966808673»,",
+      "sin el + del prefijo."
+    ],
+    "intro": "Dentistas de confianza en La Cala de Benidorm, con más de 20 años de experiencia, implantología, estética dental, carillas, blanqueamiento e Invisalign, y un 4,8 en Google. Proponemos que «Solicite su cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El enlace de llamada de la web es «tel:34966808673», sin el + del prefijo: desde el móvil se marca el número tal cual y no conecta. ",
+      "La web no tiene formulario ni WhatsApp: para pedir cita hay que llamar en el horario de la clínica, de lunes a jueves de 9:30 a 20:00 y viernes de 9:30 a 14:30.",
+      "Según Google Maps cerráis el viernes a las 14:30 y no abrís hasta el lunes a las 9:30: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Solicite su cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que «Solicite su cita» la deje reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Carrasco Orts."
+    },
+    "pregunta": "¿Cuántas llamadas desde el móvil no habrán conectado por faltar el +?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE LA VILA JOIOSA, 19 · BENIDORM",
+    "telefono": "966 808 673",
+    "telefonos": "966 808 673 · WhatsApp",
+    "direccion": "Av. de la Vila Joiosa, 19, Edf. Calanias 1 · 03502 La Cala de Benidorm (Alicante)",
+    "marca": "CARRASCO ORTS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "DENTISTAS DE CONFIANZA EN BENIDORM",
+    "heroTitulo": "Nos preocupamos",
+    "heroDestacado": "por tu salud dental.",
+    "heroTexto": "Descubre la diferencia que puede hacer en tu sonrisa la Clínica Dental Carrasco Orts. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Solicite su cita",
+    "frase": "Dentistas de confianza en Benidorm.",
+    "nota": "En La Cala de Benidorm.",
+    "fotoEtiqueta": "CARRASCO ORTS",
+    "fotoTitulo": "Una clínica luminosa en La Cala.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Milagros Bravo y el Dr. Jaime Vilar.",
+    "equipoTexto": "Un equipo de odontólogos con más de 20 años de experiencia en implantología, estética dental e Invisalign.",
+    "valores": [
+      [
+        "Más de 20 años.",
+        "De experiencia."
+      ],
+      [
+        "Implantología.",
+        "Y carillas."
+      ],
+      [
+        "Invisalign.",
+        "Ortodoncia invisible."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En La Cala",
+    "galeriaDestacado": "de Benidorm.",
+    "pies": [
+      "La recepción",
+      "La clínica"
+    ],
+    "servicios": [
+      "Implantología",
+      "Estética dental",
+      "Carillas",
+      "Blanqueamiento",
+      "Invisalign",
+      "Ortodoncia invisible"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. de la Vila Joiosa, 19, Edf. Calanias 1, en La Cala de Benidorm."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 966 80 86 73 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Benidorm",
+    "notaDiseno": "El verde y el gris de Carrasco Orts, su clínica blanca y un móvil que conecta a la primera.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30 a 20:00",
+      "Viernes: 9:30 a 14:30"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 60
+    }
+  }
+}

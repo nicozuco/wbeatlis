@@ -1,0 +1,167 @@
+{
+  "slug": "agullo-dental",
+  "numero": 806,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Agulló Dental",
+    "nombreCorto": "Agulló Dental",
+    "dominio": "agullodental.es",
+    "web": "https://www.agullodental.es/",
+    "contacto": "https://www.agullodental.es/contacto/",
+    "decisor": "Dr. Ramón Agulló"
+  },
+  "colores": {
+    "acento": "#1b75bb",
+    "tinta": "#16232d",
+    "profundo": "#193043",
+    "suave": "#eff5fa",
+    "borde": "#d8e8f3",
+    "calido": "#2fb5b0",
+    "calidoSuave": "#eaf8f7"
+  },
+  "fotos": {
+    "principal": "https://www.agullodental.es/wp-content/uploads/elementor/thumbs/IMG_1970-scaled-pxsi6yxoa41tkuein8diwkd7wtf8nus5zq8wecuqi8.jpg",
+    "clinica1": "https://www.agullodental.es/wp-content/uploads/2022/11/IMG_2086-scaled.jpg",
+    "clinica2": "https://www.agullodental.es/wp-content/uploads/2021/06/20210504_123032.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER SANTA BÁRBERA, 6 · ELCHE",
+    "titulo": [
+      "En el pie de vuestra web hay enlaces a casinos online:",
+      "«tiradas gratis sin depósito» y «mejores slots online»."
+    ],
+    "intro": "30 años de experiencia en dos generaciones, con el Dr. Ramón Agulló, en implantes dentales, carillas, Invisalign y ortodoncia, y un 4,8 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la portada de la web aparece un bloque de enlaces a páginas sobre casinos online («tiradas gratis sin depósito», «mejores slots online en España»), que no tienen nada que ver con la clínica.",
+      "El formulario de «Reserva una cita» pide datos de contacto, sin elegir día ni hora, y no hay WhatsApp en la web: para cerrar la cita alguien tiene que llamar.",
+      "Según Google Maps cerráis el viernes a las 13:00 y no abrís hasta el lunes a las 9:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (638 83 85 77). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Agulló Dental."
+    },
+    "pregunta": "¿Cuántas personas habrán visto esos enlaces a casinos al visitar vuestra web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER SANTA BÁRBERA, 6 · ELCHE",
+    "telefono": "965 456 888",
+    "telefonos": "965 456 888 · WhatsApp 638 838 577",
+    "direccion": "Carrer Santa Bárbera, 6, entresuelo izda. · 03203 Elche (Alicante)",
+    "marca": "AGULLÓ DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "ODONTOLOGÍA EN ELCHE",
+    "heroTitulo": "Confianza",
+    "heroDestacado": "en cada sonrisa.",
+    "heroTexto": "Implantes, carillas e Invisalign en Elche. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "30 años de experiencia en 2 generaciones.",
+    "nota": "Odontología en Elche.",
+    "fotoEtiqueta": "AGULLÓ DENTAL",
+    "fotoTitulo": "Una clínica familiar en Elche.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Ramón Agulló y su equipo.",
+    "equipoTexto": "Una clínica familiar con 30 años de experiencia en dos generaciones, financiación para tu tratamiento y trato cercano.",
+    "valores": [
+      [
+        "30 años.",
+        "En dos generaciones."
+      ],
+      [
+        "Invisalign.",
+        "Y carillas."
+      ],
+      [
+        "Implantes.",
+        "Dentales."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Elche.",
+    "pies": [
+      "La recepción",
+      "El equipo"
+    ],
+    "servicios": [
+      "Invisalign",
+      "Carillas dentales",
+      "Implantes dentales",
+      "Ortodoncia convencional",
+      "Odontopediatría",
+      "Blanqueamiento dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer Santa Bárbera, 6, entresuelo izquierda, en Elche."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 638 83 85 77 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Elche",
+    "notaDiseno": "El azul y el turquesa de Agulló Dental, su recepción y una web que solo habla de dientes.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 20
+    }
+  }
+}

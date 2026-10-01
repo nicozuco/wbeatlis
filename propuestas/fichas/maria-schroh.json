@@ -1,0 +1,163 @@
+{
+  "slug": "maria-schroh",
+  "numero": 722,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Centro Odontológico María Schröh",
+    "nombreCorto": "María Schröh",
+    "dominio": "odontologiamariaschroh.es",
+    "web": "http://odontologiamariaschroh.es/",
+    "contacto": "http://odontologiamariaschroh.es/",
+    "decisor": "Dra. María Schröh"
+  },
+  "colores": {
+    "acento": "#3f6b4a",
+    "tinta": "#192a1d",
+    "profundo": "#223a28",
+    "suave": "#f2f5f2",
+    "borde": "#dee6e0",
+    "calido": "#d98c7a",
+    "calidoSuave": "#fbf4f2"
+  },
+  "fotos": {
+    "principal": "https://odontologiamariaschroh.es/wp-content/uploads/2025/05/recepcion-3-maria-schroh.jpg",
+    "clinica1": "https://odontologiamariaschroh.es/wp-content/uploads/2025/05/chica-maria-schroh.jpg",
+    "clinica2": "https://odontologiamariaschroh.es/wp-content/uploads/2025/05/maria-schroh-presentacion.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER PORTUGAL, 34 · ALICANTE",
+    "titulo": [
+      "Todos los botones «Pide cita» de vuestra web abren WhatsApp",
+      "con el 689699134, sin el prefijo 34."
+    ],
+    "intro": "Una clínica dental en el centro de Alicante liderada por la Dra. María Schröh, con ortodoncia invisible, implantes, estética dental y odontología integral, con financiación a medida. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Los tres botones «Pide cita» y «Reserva tu cita» abren api.whatsapp.com/send?phone=689699134, sin el 34 del prefijo de España: el chat puede no abrirse, y es el único camino para pedir cita.",
+      "La web no tiene formulario ni horario: el paciente no sabe cuándo van a contestar ni puede elegir día y hora, y el único camino alternativo es llamar al 965 94 61 67.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 10:00: 62 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 689 69 91 34 en todos los botones: solo falta que abra bien y reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de María Schröh."
+    },
+    "pregunta": "¿Cuántos mensajes de WhatsApp no habrán llegado a abrirse por faltar el 34?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER PORTUGAL, 34 · ALICANTE",
+    "telefono": "965 946 167",
+    "telefonos": "965 946 167 · WhatsApp 689 699 134",
+    "direccion": "Carrer Portugal, 34 · 03003 Alicante",
+    "marca": "MARÍA SCHRÖH",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN EL CENTRO DE ALICANTE",
+    "heroTitulo": "Ortodoncia invisible,",
+    "heroDestacado": "implantes y estética.",
+    "heroTexto": "De la mano de nuestra doctora, un enfoque cercano y profesional. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Odontología integral.",
+    "nota": "En el centro de Alicante.",
+    "fotoEtiqueta": "MARÍA SCHRÖH",
+    "fotoTitulo": "Una clínica cálida en Alicante.",
+    "cifra": "4,2",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. María Schröh y su equipo.",
+    "equipoTexto": "La Dra. María Schröh, con especialistas en ortodoncia como la Dra. Penarrocha y el Dr. Faus, y un enfoque cercano y profesional.",
+    "valores": [
+      [
+        "Odontología integral.",
+        "Un solo equipo."
+      ],
+      [
+        "Ortodoncia invisible.",
+        "Y estética."
+      ],
+      [
+        "Financiación.",
+        "A tu medida."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alicante.",
+    "pies": [
+      "La sala de espera",
+      "El equipo"
+    ],
+    "servicios": [
+      "Endodoncia",
+      "Restauración",
+      "Implantología y cirugía",
+      "Blanqueamiento dental",
+      "Ortodoncia invisible",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Portugal, 34, en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 689 69 91 34 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El verde y el rosa de María Schröh, su sala de espera y un WhatsApp que abre y reserva.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ]
+  }
+}

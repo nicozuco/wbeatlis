@@ -1,0 +1,167 @@
+{
+  "slug": "segarra-vidal",
+  "numero": 897,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Segarra Vidal",
+    "nombreCorto": "Segarra Vidal",
+    "dominio": "clinicasegarravidal.com",
+    "web": "http://www.clinicasegarravidal.com/",
+    "contacto": "http://www.clinicasegarravidal.com/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#6b2d4a",
+    "tinta": "#2d1620",
+    "profundo": "#411b2d",
+    "suave": "#f5f0f2",
+    "borde": "#e6dbe0",
+    "calido": "#8a9aa5",
+    "calidoSuave": "#f3f5f6"
+  },
+  "fotos": {
+    "principal": "https://clinicasegarravidal.com/wp-content/uploads/2025/05/segarravidal-nuevo-equipo-2024-1.jpg",
+    "clinica1": "https://clinicasegarravidal.com/wp-content/uploads/elementor/thumbs/segarravidal-50_websize-qhfcx98k84wz645mcxr88iviafm5zpndwsd59a6814.jpg",
+    "clinica2": "https://clinicasegarravidal.com/wp-content/uploads/2023/12/instalaciones-11.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER MOLÍ, 15 · VILA-REAL",
+    "titulo": [
+      "«Pide tu cita» abre un WhatsApp: no hay formulario,",
+      "ni teléfono, ni horario."
+    ],
+    "intro": "Clínica dental y medicina estética en Vila-real, con odontología integral y estética especializada, con el Dr. García, el Dr. Perera y la Dra. Eva Mayo, y un 4,7 en Google. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón «Pide tu cita» abre un chat de WhatsApp con el 602 56 45 09 y es el único camino para pedir cita en la portada: no hay formulario ni horario, y si nadie contesta en ese momento, no hay cita.",
+      "El teléfono fijo 964 52 56 81 aparece escrito, sin enlace para llamar con un toque.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 602 56 45 09 en el botón «Pide tu cita»: solo falta que conteste al momento y reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Segarra Vidal."
+    },
+    "pregunta": "¿Cuántos mensajes de WhatsApp esperan respuesta hasta el día siguiente?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER MOLÍ, 15 · VILA-REAL",
+    "telefono": "964 525 681",
+    "telefonos": "964 525 681 · WhatsApp 602 564 509",
+    "direccion": "Carrer Molí, 15, entresuelo · 12540 Vila-real (Castellón)",
+    "marca": "SEGARRA VIDAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VILA-REAL",
+    "heroTitulo": "Expertos en potenciar",
+    "heroDestacado": "lo mejor de ti.",
+    "heroTexto": "Odontología integral y estética especializada para tu salud y bienestar. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Resultado de armonizar salud y belleza.",
+    "nota": "Clínica dental y medicina estética.",
+    "fotoEtiqueta": "SEGARRA VIDAL",
+    "fotoTitulo": "Una clínica cercana en Vila-real.",
+    "cifra": "4,7",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de profesionales acreditados.",
+    "equipoTexto": "El Dr. García, el Dr. Perera, la Dra. Eva Mayo y el equipo, con calidad humana y profesional.",
+    "valores": [
+      [
+        "Salud.",
+        "Y bienestar."
+      ],
+      [
+        "Calidad.",
+        "Humana y profesional."
+      ],
+      [
+        "Estética.",
+        "Especializada."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Vila-real.",
+    "pies": [
+      "El equipo",
+      "Las instalaciones"
+    ],
+    "servicios": [
+      "Odontología integral",
+      "Tratamiento OB-RMR",
+      "Estética dental",
+      "Medicina estética",
+      "Nuevas tecnologías",
+      "Implantes"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer Molí, 15, entresuelo, en Vila-real."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 602 56 45 09 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Vila-real",
+    "notaDiseno": "El burdeos y el gris de Segarra Vidal, su equipo y un WhatsApp que reserva a cualquier hora.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 157
+    }
+  }
+}

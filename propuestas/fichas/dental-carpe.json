@@ -1,0 +1,167 @@
+{
+  "slug": "dental-carpe",
+  "numero": 747,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Dental Carpe",
+    "nombreCorto": "Dental Carpe",
+    "dominio": "dentalcarpe.com",
+    "web": "https://dentalcarpe.com/",
+    "contacto": "https://dentalcarpe.com/contacta",
+    "decisor": "Dr. Francisco Cabrera"
+  },
+  "colores": {
+    "acento": "#c62828",
+    "tinta": "#2d1616",
+    "profundo": "#431919",
+    "suave": "#fbf0f0",
+    "borde": "#f5dada",
+    "calido": "#c9a77c",
+    "calidoSuave": "#faf6f2"
+  },
+  "fotos": {
+    "principal": "https://dentalcarpe.com/wp-content/uploads/recepcion-clinica-85.jpg",
+    "clinica1": "https://dentalcarpe.com/wp-content/uploads/despachos-clinica.jpg",
+    "clinica2": "https://dentalcarpe.com/wp-content/uploads/box-luz-frontal.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER GREGORI CASASEMPERE JUAN, 21 · ALCOY",
+    "titulo": [
+      "El teléfono de vuestra web está escrito,",
+      "pero no se puede tocar para llamar."
+    ],
+    "intro": "Tu clínica dental en Alcoy, con el Dr. Francisco Cabrera, implantología y cirugía, ortodoncia invisible y primera visita gratuita, y un 4,5 en Google. Proponemos que «Solicita tu primera visita gratis» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El 96 654 02 20 aparece como texto en la web, sin enlace para llamar ni botón de WhatsApp: desde el móvil hay que copiar el número a mano.",
+      "En ninguna página de la web aparece vuestro horario: el paciente no sabe cuándo llamar ni cuándo le van a contestar.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:30: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Solicita tu primera visita gratis» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que «Solicita tu primera visita gratis» la deje reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dental Carpe."
+    },
+    "pregunta": "¿Cuántas personas habrán querido llamaros desde el móvil y no han podido?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER GREGORI CASASEMPERE JUAN, 21 · ALCOY",
+    "telefono": "966 540 220",
+    "telefonos": "966 540 220 · WhatsApp",
+    "direccion": "C/ Gregori Casasempere Juan, 21, bajo · 03802 Alcoy (Alicante)",
+    "marca": "DENTAL CARPE",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN ALCOY",
+    "heroTitulo": "Tendrás una sonrisa",
+    "heroDestacado": "de foto.",
+    "heroTexto": "Implantes, ortodoncia invisible y estética dental. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Solicita tu primera visita gratis",
+    "frase": "Solicita tu primera visita gratis.",
+    "nota": "En Alcoy.",
+    "fotoEtiqueta": "DENTAL CARPE",
+    "fotoTitulo": "Una clínica luminosa en Alcoy.",
+    "cifra": "4,5",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Francisco Cabrera y su equipo.",
+    "equipoTexto": "Un equipo con odontología general, implantología y cirugía, estética dental, endodoncia y periodoncia.",
+    "valores": [
+      [
+        "Primera visita.",
+        "Gratis."
+      ],
+      [
+        "Implantes.",
+        "Y cirugía."
+      ],
+      [
+        "Ortodoncia.",
+        "Invisible."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alcoy.",
+    "pies": [
+      "La recepción",
+      "El box"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Implantología y cirugía",
+      "Estética dental",
+      "Blanqueamiento dental",
+      "Endodoncia",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Gregori Casasempere Juan, 21, bajo, en Alcoy."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 966 54 02 20 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alcoy",
+    "notaDiseno": "El rojo y el beige de Dental Carpe, su recepción de madera y un teléfono que se toca y llama.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,5",
+      "resenas": 41
+    }
+  }
+}

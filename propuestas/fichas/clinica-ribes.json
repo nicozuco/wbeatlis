@@ -1,0 +1,165 @@
+{
+  "slug": "clinica-ribes",
+  "numero": 779,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Ribes",
+    "nombreCorto": "Clínica Ribes",
+    "dominio": "clinicadentalribes.com",
+    "web": "https://www.clinicadentalribes.com/",
+    "contacto": "https://clinicadentalribes.com/contacta/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1f3a6e",
+    "tinta": "#161d2d",
+    "profundo": "#192743",
+    "suave": "#eff1f5",
+    "borde": "#d9dee6",
+    "calido": "#d98f3e",
+    "calidoSuave": "#fbf4ec"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalribes.com/wp-content/uploads/2018/11/clinica-dental-ribes-sala-espera-1.jpg",
+    "clinica1": "https://clinicadentalribes.com/wp-content/uploads/2018/11/clinica-dental-ribes-pasillo-la-clinica-2.jpg",
+    "clinica2": "https://clinicadentalribes.com/wp-content/uploads/2018/11/clinica-dental-ribes-pasillo-la-clinica.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. REI EN JAUME I, 16 · ALTEA",
+    "titulo": [
+      "En el móvil, el menú de vuestra web muestra",
+      "«(01) 123 456 7890» e «info@example.com»."
+    ],
+    "intro": "Una clínica en Altea desde 2005, con implantes, financiación a medida y primera cita y presupuesto gratuitos, y un 4,3 en Google. Proponemos que «Pide una cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la versión móvil, el menú de la web enseña un teléfono «(01) 123 456 7890», que es un enlace de llamada, un correo «info@example.com» y un horario «Mon-Fri 8:00 - 17:00»: los datos de ejemplo de la plantilla.",
+      "El enlace de llamada de «965840530 - 606097401» marca «tel:965840530606097401», los dos números pegados, y el botón de WhatsApp abre WhatsApp Web con una URL como mensaje.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide una cita» reserve de verdad.",
+      "texto": "Ya tenéis el móvil 606 09 74 01 en la web: solo falta convertirlo en un WhatsApp que abra bien y reserve. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Ribes."
+    },
+    "pregunta": "¿Cuántas personas habrán llamado al «(01) 123 456 7890» desde el menú del móvil?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. REI EN JAUME I, 16 · ALTEA",
+    "telefono": "965 840 530",
+    "telefonos": "965 840 530 · WhatsApp 606 097 401",
+    "direccion": "Av. Rei en Jaume I, 16, 1º C · 03590 Altea (Alicante)",
+    "marca": "CLÍNICA RIBES",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALTEA",
+    "heroTitulo": "Una sonrisa puede",
+    "heroDestacado": "cambiar tu vida.",
+    "heroTexto": "Tratamientos de alta calidad a precios muy competitivos. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide una cita",
+    "frase": "Nuestra prioridad es tu bienestar.",
+    "nota": "Desde 2005 en Altea.",
+    "fotoEtiqueta": "CLÍNICA RIBES",
+    "fotoTitulo": "Una clínica cercana en Altea.",
+    "cifra": "4,3",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo cercano.",
+    "equipoTexto": "Un equipo que pone la satisfacción del paciente en primer lugar, con tratamientos de alta calidad y financiación a medida.",
+    "valores": [
+      [
+        "Implantes.",
+        "Recupera tu sonrisa."
+      ],
+      [
+        "Financiación.",
+        "A medida."
+      ],
+      [
+        "Primera cita.",
+        "Y presupuesto gratis."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Altea.",
+    "pies": [
+      "La sala de espera",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Financiación a medida",
+      "Primera cita y presupuesto gratuito",
+      "Tarjeta de fidelidad",
+      "Estética dental",
+      "Ortodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Rei en Jaume I, 16, 1º C, en Altea."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 606 09 74 01 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Altea",
+    "notaDiseno": "El azul marino y el naranja de la Clínica Ribes, su sala de espera y un menú con los datos de verdad.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00 a 13:30 y 16:00 a 20:00"
+    ]
+  }
+}
