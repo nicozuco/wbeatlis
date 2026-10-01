@@ -1,0 +1,168 @@
+{
+  "slug": "se-tu-clinica",
+  "numero": 901,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Sé Tú",
+    "nombreCorto": "Sé Tú",
+    "dominio": "setuclinica.es",
+    "web": "https://setuclinica.es/",
+    "contacto": "https://setuclinica.es/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#a8335c",
+    "tinta": "#2d161e",
+    "profundo": "#431928",
+    "suave": "#f9f1f4",
+    "borde": "#f0dce3",
+    "calido": "#d9a0b4",
+    "calidoSuave": "#fbf6f8"
+  },
+  "fotos": {
+    "principal": "https://setuclinica.es/wp-content/uploads/2025/04/WhatsApp-Image-2025-02-11-at-12.12.17-1024x576.jpeg",
+    "clinica1": "https://setuclinica.es/wp-content/uploads/2021/04/24.jpg",
+    "clinica2": "https://setuclinica.es/wp-content/uploads/2021/04/31.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. PIUS XII, 30 · VILA-REAL",
+    "titulo": [
+      "En vuestra web aparece «Ortodoncia o Invisaling 20% dto»,",
+      "con una errata en el nombre de la marca."
+    ],
+    "intro": "Odontología y medicina estética en Vila-real, con más de 15 años de experiencia, un 4,9 en Google y promociones en ortodoncia e implantes. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la página de promociones aparece «Ortodoncia o Invisaling 20% dto»: el nombre correcto es Invisalign, una errata en una de las ofertas más importantes.",
+      "El formulario de la portada solo pide nombre y teléfono, y no hay WhatsApp en la web: la cita se cierra después en una llamada, sin elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 18:00 y no abrís hasta el lunes a las 10:00: 64 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que las promociones se reserven con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Sé Tú."
+    },
+    "pregunta": "¿Cuántos pacientes habrán buscado «Invisaling» y no habrán encontrado la oferta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. PIUS XII, 30 · VILA-REAL",
+    "telefono": "964 506 745",
+    "telefonos": "964 506 745 · WhatsApp",
+    "direccion": "Av. Pius XII, 30 · 12540 Vila-real (Castellón)",
+    "marca": "SÉ TÚ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VILA-REAL",
+    "heroTitulo": "Sé tú,",
+    "heroDestacado": "sonríe.",
+    "heroTexto": "Odontología y medicina estética en Vila-real. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Más de 15 años de experiencia.",
+    "nota": "Odontología y medicina estética.",
+    "fotoEtiqueta": "SÉ TÚ",
+    "fotoTitulo": "Una clínica cuidada en Vila-real.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de confianza.",
+    "equipoTexto": "Un equipo de odontología y medicina estética, con las opiniones de sus pacientes como mejor carta de presentación.",
+    "valores": [
+      [
+        "Más de 15 años.",
+        "De experiencia."
+      ],
+      [
+        "Promociones.",
+        "En ortodoncia e implantes."
+      ],
+      [
+        "Medicina estética.",
+        "Y odontología."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Vila-real.",
+    "pies": [
+      "La clínica",
+      "La fachada"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Invisalign",
+      "Implantes dentales",
+      "Odontología general",
+      "Medicina estética",
+      "Ácido hialurónico"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Pius XII, 30, en Vila-real."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 964 50 67 45 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Vila-real",
+    "notaDiseno": "El rosa y el gris de Sé Tú, su fachada y una oferta con el nombre bien escrito.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 140
+    }
+  }
+}

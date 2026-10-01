@@ -1,0 +1,168 @@
+{
+  "slug": "almela-dental",
+  "numero": 905,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Almela Clínica Dental",
+    "nombreCorto": "Almela Dental",
+    "dominio": "almeladental.com",
+    "web": "https://www.almeladental.com/",
+    "contacto": "https://www.almeladental.com/contacto/",
+    "decisor": "Dra. Nuria Almela"
+  },
+  "colores": {
+    "acento": "#c47a5a",
+    "tinta": "#2d1d16",
+    "profundo": "#432619",
+    "suave": "#fbf6f3",
+    "borde": "#f5e8e3",
+    "calido": "#d9b8a0",
+    "calidoSuave": "#fbf8f6"
+  },
+  "fotos": {
+    "principal": "https://www.almeladental.com/wp-content/uploads/2026/09/brackets-castellon-consulta-ortodoncia-almela.jpg",
+    "clinica1": "https://www.almeladental.com/wp-content/uploads/2024/11/HOME-4.jpg",
+    "clinica2": "https://www.almeladental.com/wp-content/uploads/2025/01/IMG_5839-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ DE LLUÍS BELLVER SANZ, 22 · CASTELLÓN DE LA PLANA",
+    "titulo": [
+      "«Reserva tu cita» te lleva a un formulario de siete campos",
+      "sin elegir día ni hora."
+    ],
+    "intro": "Una clínica en Castellón con la Dra. Nuria Almela, dentistas expertos, tecnología avanzada y atención humana, con parking gratuito y un 5,0 en Google. Proponemos que «Reserva tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón «Reserva tu cita» lleva a un formulario con nombre completo, correo, asunto, teléfono y mensaje: no se puede elegir día ni hora, así que cada solicitud acaba en una llamada para cerrarla.",
+      "Ya tenéis un WhatsApp (679 82 98 54) en la web, pero «Reserva tu cita» lleva al formulario y no al chat: la cita no se reserva en el momento.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reserva tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 679 82 98 54 en la web: solo falta que conteste al momento y reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Almela Dental."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario esperan una llamada de vuelta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ DE LLUÍS BELLVER SANZ, 22 · CASTELLÓN DE LA PLANA",
+    "telefono": "964 195 548",
+    "telefonos": "964 195 548 · WhatsApp 679 829 854",
+    "direccion": "C/ de Lluís Bellver Sanz, 22, bajo · 12003 Castellón de la Plana",
+    "marca": "ALMELA DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN CASTELLÓN",
+    "heroTitulo": "Cuidamos tu sonrisa",
+    "heroDestacado": "con dedicación y experiencia.",
+    "heroTexto": "Dentistas expertos, tecnología avanzada y atención humana. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "Transformamos tu sonrisa con cuidado y experiencia.",
+    "nota": "Con parking gratuito.",
+    "fotoEtiqueta": "ALMELA DENTAL",
+    "fotoTitulo": "Una clínica cálida en Castellón.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Nuria Almela y su equipo.",
+    "equipoTexto": "La Dra. Nuria Almela, la Dra. Silvia Martí, el Dr. Joaquín Gavaldá y el Dr. Joan Sánchez, con tecnología de vanguardia.",
+    "valores": [
+      [
+        "Parking.",
+        "Gratuito."
+      ],
+      [
+        "Tecnología.",
+        "Avanzada."
+      ],
+      [
+        "Atención.",
+        "Humana."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Castellón.",
+    "pies": [
+      "La consulta",
+      "El equipo"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia",
+      "Ortodoncia invisible",
+      "Endodoncia",
+      "Periodoncia",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Lluís Bellver Sanz, 22, bajo, en Castellón de la Plana."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 679 82 98 54 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Castellón de la Plana",
+    "notaDiseno": "El terracota y el beige de Almela, su consulta cálida y un WhatsApp que reserva con día y hora.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00 a 14:00 y 16:00 a 20:00",
+      "Viernes: 10:00 a 14:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 117
+    }
+  }
+}
