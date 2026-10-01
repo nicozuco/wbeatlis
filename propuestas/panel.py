@@ -51,7 +51,7 @@ def main():
         lugar = m.group(1).strip() if m else ''
         vista = {'whatsapp': 'WhatsApp', 'web': 'Agente web', 'landing': 'Nueva web'}.get(d.get('recView') or f.get('propuesta', {}).get('recomendacion', {}).get('vista'), '')
         filas.append({'num': num, 'slug': slug, 'nombre': d.get('name') or slug, 'web': d.get('source', ''),
-                      'lugar': lugar, 'dom': re.sub(r'^https?://(www\.)?', '', d.get('source', '')).strip('/'), 'vista': vista, 'url': url, 'tanda': 1 if num <= 65 else 2 + (num - 66) // 60})
+                      'lugar': lugar, 'dom': re.sub(r'^https?://(www\.)?', '', d.get('source', '')).strip('/'), 'vista': vista, 'url': url, 'tanda': f.get('tanda') or (1 if num <= 65 else 2)})
     filas.sort(key=lambda x: x['num'])
     tandas = sorted({f['tanda'] for f in filas})
     e = html.escape
