@@ -1,0 +1,167 @@
+{
+  "slug": "andrea-compte",
+  "numero": 941,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Andrea Compte",
+    "nombreCorto": "Andrea Compte",
+    "dominio": "clinicadentalandreacompte.com",
+    "web": "http://www.clinicadentalandreacompte.com/",
+    "contacto": "http://www.clinicadentalandreacompte.com/contacto/",
+    "decisor": "Dra. Andrea Compte"
+  },
+  "colores": {
+    "acento": "#a07a4a",
+    "tinta": "#2d2216",
+    "profundo": "#3f301d",
+    "suave": "#f8f6f2",
+    "borde": "#efe8e0",
+    "calido": "#4a6a5a",
+    "calidoSuave": "#edf0ee"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalandreacompte.com/wp-content/uploads/2019/11/2-andrea-compte-clinica-dental-benicarlo-vinaros-peniscola-centro-odontologico.jpg",
+    "clinica1": "https://clinicadentalandreacompte.com/wp-content/uploads/2019/11/12-andrea-compte-clinica-dental-benicarlo-vinaros-peniscola-centro-odontologico-odontopediatria-cirugia-estetica-ortodoncia.jpg",
+    "clinica2": "https://clinicadentalandreacompte.com/wp-content/uploads/2019/11/9-andrea-compte-clinica-dental-benicarlo-vinaros-peniscola-centro-odontologico-odontopediatria-cirugia-estetica-ortodoncia.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PASSEIG MARÍTIM, 12 · BENICARLÓ",
+    "titulo": [
+      "«Cita previa» en vuestra web es un teléfono.",
+      "No hay formulario de cita, ni WhatsApp."
+    ],
+    "intro": "Un centro dental en Benicarló con la Dra. Andrea Compte, especializado en odontología general, ortodoncia e implantes, en pleno Paseo Marítimo, y un 4,6 en Google. Proponemos que «Cita previa» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La sección «Cita Previa» de la portada es solo el teléfono 964 82 61 81: no hay formulario de cita ni WhatsApp, así que si nadie coge el teléfono, la cita se queda en el aire.",
+      "El formulario de la página de contacto pide nombre, correo, asunto y comentario, sin teléfono, día ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Cita previa» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que «Cita previa» deje la cita reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Andrea Compte."
+    },
+    "pregunta": "¿Cuántas llamadas se pierden cuando la clínica está con pacientes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PASSEIG MARÍTIM, 12 · BENICARLÓ",
+    "telefono": "964 826 181",
+    "telefonos": "964 826 181 · WhatsApp",
+    "direccion": "Passeig Marítim, 12 · 12580 Benicarló (Castellón)",
+    "marca": "ANDREA COMPTE",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CENTRO DENTAL EN BENICARLÓ",
+    "heroTitulo": "Un centro dental",
+    "heroDestacado": "en el Paseo Marítimo.",
+    "heroTexto": "Odontología general, ortodoncia e implantes en Benicarló. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Cita previa",
+    "frase": "Cita previa, sin esperas.",
+    "nota": "En el Paseo Marítimo de Benicarló.",
+    "fotoEtiqueta": "ANDREA COMPTE",
+    "fotoTitulo": "Un centro luminoso en Benicarló.",
+    "cifra": "4,6",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Andrea Compte y su equipo.",
+    "equipoTexto": "La Dra. Andrea Compte y un equipo de especialistas en odontología general, ortodoncia y colocación de implantes.",
+    "valores": [
+      [
+        "Odontología general.",
+        "Y ortodoncia."
+      ],
+      [
+        "Implantes.",
+        "Dentales."
+      ],
+      [
+        "Paseo Marítimo.",
+        "En Benicarló."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el Paseo",
+    "galeriaDestacado": "Marítimo.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Ortodoncia",
+      "Colocación de implantes",
+      "Cirugía bucal",
+      "Estética dental",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Passeig Marítim, 12, en Benicarló."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 964 82 61 81 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Benicarló",
+    "notaDiseno": "El dorado y el verde de Andrea Compte, su centro luminoso y una cita sin esperar al teléfono.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 41
+    }
+  }
+}

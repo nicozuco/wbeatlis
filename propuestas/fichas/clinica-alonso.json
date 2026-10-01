@@ -1,0 +1,169 @@
+{
+  "slug": "clinica-alonso",
+  "numero": 944,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Alonso",
+    "nombreCorto": "Clínica Alonso",
+    "dominio": "clinicadentalalonso.es",
+    "web": "http://www.clinicadentalalonso.es/",
+    "contacto": "http://www.clinicadentalalonso.es/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#2f8f8f",
+    "tinta": "#162d2d",
+    "profundo": "#194343",
+    "suave": "#f0f7f7",
+    "borde": "#dcecec",
+    "calido": "#c9d9d9",
+    "calidoSuave": "#fafbfb"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalalonso.es/wp-content/uploads/2024/09/clinica_alonso_036.webp",
+    "clinica1": "https://clinicadentalalonso.es/wp-content/uploads/2024/02/clinica_alonso_023-3.webp",
+    "clinica2": "https://clinicadentalalonso.es/wp-content/uploads/2024/02/clinica_alonso_040-1.webp"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER DE SANTA QUITÈRIA (L'ALCORA), 246 · ALMASSORA",
+    "titulo": [
+      "Vuestra web tiene dos clínicas, cuatro teléfonos",
+      "y un formulario sin teléfono."
+    ],
+    "intro": "Dos clínicas dentales, Alonso y Albadent, en Almassora, con el Dr. Jorge Cantero (endodoncia), odontopediatría y un equipo de higienistas, y un 4,7 en Google. Proponemos que «Contacta con nosotros» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La web publica dos clínicas con sus horarios distintos (Alonso: «lunes a jueves de 12:00 a 20:00, viernes de 9:00 a 15:00»; Albadent: otro horario por día) y cuatro teléfonos: el paciente tiene que adivinar a cuál llamar.",
+      "El formulario de contacto pide nombre, correo, asunto y mensaje, sin teléfono, clínica, día ni hora.",
+      "Según Google Maps cerráis el viernes a las 15:00 y no abrís hasta el lunes a las 12:00: 69 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Contacta con nosotros» reserve de verdad.",
+      "texto": "Ya tenéis un WhatsApp para cada clínica (653 03 56 32 y 606 41 62 17): proponemos uno que pregunte la clínica y reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Alonso."
+    },
+    "pregunta": "¿Cuántas llamadas van a la clínica equivocada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER DE SANTA QUITÈRIA (L'ALCORA), 246 · ALMASSORA",
+    "telefono": "964 563 050",
+    "telefonos": "Alonso 964 563 050 · Albadent 964 320 282 · WhatsApp 653 035 632",
+    "direccion": "Carrer de Santa Quitèria (l'Alcora), 246 · 12550 Almassora (Castellón)",
+    "marca": "CLÍNICA ALONSO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN ALMASSORA",
+    "heroTitulo": "Para nosotros tu sonrisa",
+    "heroDestacado": "es lo primero.",
+    "heroTexto": "Dos clínicas, un mismo equipo cercano. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Contacta con nosotros",
+    "frase": "La vida es mejor cuando ríes.",
+    "nota": "Alonso y Albadent.",
+    "fotoEtiqueta": "CLÍNICA ALONSO",
+    "fotoTitulo": "Una clínica luminosa en Almassora.",
+    "cifra": "4,7",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo grande y cercano.",
+    "equipoTexto": "El Dr. Jorge Cantero en endodoncia, la Dra. Carmen, la Dra. Eva y un equipo de higienistas y auxiliares.",
+    "valores": [
+      [
+        "Dos clínicas.",
+        "Alonso y Albadent."
+      ],
+      [
+        "Tu sonrisa.",
+        "Es lo primero."
+      ],
+      [
+        "Higienistas.",
+        "Un equipo grande."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Almassora,",
+    "galeriaDestacado": "con color.",
+    "pies": [
+      "La sala de espera",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Endodoncia",
+      "Odontopediatría",
+      "Ortodoncia",
+      "Implantes",
+      "Estética dental",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer de Santa Quitèria (l'Alcora), 246, en Almassora."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 653 03 56 32 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Almassora",
+    "notaDiseno": "El turquesa y el gris claro de Alonso, su sala de espera y un WhatsApp que pregunta la clínica.",
+    "huecos": {
+      "lunes": [
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00",
+        "19:30"
+      ],
+      "martes": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00",
+        "19:30"
+      ],
+      "jueves": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 12:00 a 20:00",
+      "Viernes: 9:00 a 15:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 39
+    }
+  }
+}

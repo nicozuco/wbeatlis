@@ -1,0 +1,168 @@
+{
+  "slug": "clinica-gil",
+  "numero": 955,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Gil",
+    "nombreCorto": "Clínica Gil",
+    "dominio": "clinicadentalgilcastellon.es",
+    "web": "https://www.clinicadentalgilcastellon.es/",
+    "contacto": "https://www.clinicadentalgilcastellon.es/contacto",
+    "decisor": "Dr. José Gil Flor"
+  },
+  "colores": {
+    "acento": "#e07a1f",
+    "tinta": "#2d2016",
+    "profundo": "#432d19",
+    "suave": "#fdf6ef",
+    "borde": "#fae8d9",
+    "calido": "#1f5f8f",
+    "calidoSuave": "#e9eff4"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalgilcastellon.es/wp-content/uploads/2020/05/gabinete-1-clinica-dental-gil-castellon.jpg?ver=1590507513",
+    "clinica1": "https://clinicadentalgilcastellon.es/wp-content/uploads/2020/05/recepcion-clinica-dental-gil-castellon.jpg?ver=1590478833",
+    "clinica2": "https://clinicadentalgilcastellon.es/wp-content/uploads/2020/05/sala-de-espera-2-clinica-dental-gil-castellon.jpg?ver=1590479265"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER DE L'ESCULTOR VICIANO, 13 · CASTELLÓN DE LA PLANA",
+    "titulo": [
+      "La página de horario de vuestra web dice dos cosas distintas",
+      "y escribe «Ortondoncia» en los servicios."
+    ],
+    "intro": "Una clínica de Castellón desde 2003, con el Dr. José Gil Flor, la Dra. Inma Gil Flor y el Dr. Pablo Gómez Giménez, y un 5,0 en Google. Proponemos que «¿Te ayudamos?» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La página de horario muestra «Lunes a jueves 08:00 - 19:00 con descanso de 13:00 a 15:00, viernes 09:00 - 13:00» y, justo debajo, «Lunes a jueves: 8:00 - 13:00 …»: dos horarios distintos en la misma página, con un contador de «6 min. para cerrar».",
+      "En la lista de servicios aparece «Ortondoncia», y el formulario de la portada pide teléfono, correo y la necesidad, sin nombre, día ni hora.",
+      "Según Google Maps cerráis el viernes a las 13:00 y no abrís hasta el lunes a las 8:00: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «¿Te ayudamos?» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (679 73 08 52). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Gil."
+    },
+    "pregunta": "¿Cuántos pacientes llegan a las 14:00 y no saben si la clínica está abierta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER DE L'ESCULTOR VICIANO, 13 · CASTELLÓN DE LA PLANA",
+    "telefono": "964 221 245",
+    "telefonos": "964 221 245 · WhatsApp 679 730 852",
+    "direccion": "Carrer de l'Escultor Viciano, 13, 1ºA · 12001 Castellón de la Plana",
+    "marca": "CLÍNICA GIL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CASTELLÓN",
+    "heroTitulo": "Nuestra",
+    "heroDestacado": "filosofía.",
+    "heroTexto": "Una clínica familiar en el centro de Castellón. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "¿Te ayudamos?",
+    "frase": "¿Te ayudamos?",
+    "nota": "Desde 2003 en Castellón.",
+    "fotoEtiqueta": "CLÍNICA GIL",
+    "fotoTitulo": "Una clínica cálida en Castellón.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. José Gil Flor y su equipo.",
+    "equipoTexto": "El Dr. José Gil Flor, la Dra. Inma Gil Flor y el Dr. Pablo Gómez Giménez, con odontología preventiva, implantes y estética.",
+    "valores": [
+      [
+        "Desde 2003.",
+        "En Castellón."
+      ],
+      [
+        "Familiar.",
+        "Dos hermanos y un equipo."
+      ],
+      [
+        "Digital.",
+        "Odontología digital."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Castellón.",
+    "pies": [
+      "El gabinete",
+      "La recepción"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Odontología preventiva",
+      "Odontopediatría",
+      "Prostodoncia",
+      "Blanqueamiento dental",
+      "Ortodoncia invisible"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer de l'Escultor Viciano, 13, 1ºA, en Castellón de la Plana."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 679 73 08 52 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Castellón de la Plana",
+    "notaDiseno": "El naranja y el azul de la Clínica Gil, su gabinete y un horario que dice una sola cosa.",
+    "huecos": {
+      "lunes": [
+        "8:00",
+        "11:00",
+        "12:30",
+        "15:00",
+        "18:00"
+      ],
+      "martes": [
+        "8:30",
+        "10:00",
+        "11:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "8:00",
+        "11:00",
+        "12:30",
+        "15:00",
+        "18:00"
+      ],
+      "jueves": [
+        "8:30",
+        "10:00",
+        "11:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 8:00 a 13:00 y 15:00 a 19:00",
+      "Viernes: 9:00 a 13:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 28
+    }
+  }
+}
