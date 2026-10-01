@@ -1,0 +1,164 @@
+{
+  "slug": "clinica-blasco",
+  "numero": 670,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Blasco",
+    "nombreCorto": "Clínica Blasco",
+    "dominio": "clinicablasco.com",
+    "web": "http://www.clinicablasco.com/",
+    "contacto": "https://clinicablasco.com/contacto",
+    "decisor": "Dr. Ramón Blasco"
+  },
+  "colores": {
+    "acento": "#c2185b",
+    "tinta": "#2d161f",
+    "profundo": "#43192a",
+    "suave": "#fbeff4",
+    "borde": "#f5d8e3",
+    "calido": "#f0a04b",
+    "calidoSuave": "#fef6ed"
+  },
+  "fotos": {
+    "principal": "https://clinicablasco.com/wp-content/uploads/2022/12/DM32856-1-scaled.jpg",
+    "clinica1": "https://clinicablasco.com/wp-content/uploads/2022/12/DM32676-scaled.jpg",
+    "clinica2": "https://clinicablasco.com/wp-content/uploads/2022/12/DM32594-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER CAPITÀ GASPAR ORTIZ, 46 · ELCHE",
+    "titulo": [
+      "«¿Quieres pedir cita?» te propone llamar",
+      "o rellenar un formulario de cuatro campos."
+    ],
+    "intro": "Una clínica de Elche con el Dr. Ramón Blasco y un equipo profesional y humano, referencia en odontología desde 1988: tu sonrisa es única, tu tratamiento también. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La portada dice «¿Quieres pedir cita? Llámanos al 662 55 46 76 o rellena el formulario», y el formulario pide nombre, teléfono, correo y motivo de la consulta: no se puede elegir día ni hora.",
+      "La web no tiene WhatsApp: el único camino además del formulario es llamar al 662 55 46 76.",
+      "Según Google Maps cerráis el viernes a las 15:00 y no abrís hasta el lunes a las 10:00: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que ya publicáis (662 55 46 76), para reservar sin llamar. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Blasco."
+    },
+    "pregunta": "¿Cuántas personas dejan el formulario sin día ni hora y esperan una llamada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER CAPITÀ GASPAR ORTIZ, 46 · ELCHE",
+    "telefono": "662 554 676",
+    "telefonos": "662 554 676 · WhatsApp",
+    "direccion": "Carrer Capità Gaspar Ortiz, 46 · 03201 Elche (Alicante)",
+    "marca": "CLÍNICA BLASCO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN ELCHE",
+    "heroTitulo": "Expertos en recuperar",
+    "heroDestacado": "tu sonrisa.",
+    "heroTexto": "Un equipo profesional y humano, referencia en odontología. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Tu sonrisa es única, tu tratamiento también.",
+    "nota": "Desde 1988 en Elche.",
+    "fotoEtiqueta": "CLÍNICA BLASCO",
+    "fotoTitulo": "Una clínica luminosa en Elche.",
+    "cifra": "4,2",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Ramón Blasco y su equipo.",
+    "equipoTexto": "La Dra. Elena Mora, el Dr. Víctor Cañizares, la Dra. Eugenia Terol y todo el equipo, con odontología general y especialidades.",
+    "valores": [
+      [
+        "Desde 1988.",
+        "En Elche."
+      ],
+      [
+        "Equipo humano.",
+        "Profesional."
+      ],
+      [
+        "Implantes.",
+        "Y ortodoncia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Elche.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Implantes dentales",
+      "Ortodoncia",
+      "Endodoncia",
+      "Periodoncia",
+      "Prótesis dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer Capità Gaspar Ortiz, 46, en Elche."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 662 55 46 76 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Elche",
+    "notaDiseno": "El fucsia y el naranja de Clínica Blasco, su recepción y una cita sin esperar la llamada.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00 a 20:00",
+      "Viernes: 10:00 a 15:00"
+    ]
+  }
+}

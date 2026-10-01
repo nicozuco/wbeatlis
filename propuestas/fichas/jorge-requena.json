@@ -1,0 +1,167 @@
+{
+  "slug": "jorge-requena",
+  "numero": 654,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Dr. Jorge Requena",
+    "nombreCorto": "Dr. Jorge Requena",
+    "dominio": "torreviejaclinicadental.com",
+    "web": "http://torreviejaclinicadental.com/",
+    "contacto": "http://torreviejaclinicadental.com/contacto",
+    "decisor": "Dr. Jorge Requena"
+  },
+  "colores": {
+    "acento": "#1d3557",
+    "tinta": "#161f2d",
+    "profundo": "#192a43",
+    "suave": "#eff1f3",
+    "borde": "#d9dde2",
+    "calido": "#c9a24a",
+    "calidoSuave": "#faf6ed"
+  },
+  "fotos": {
+    "principal": "https://torreviejaclinicadental.com/wp-content/uploads/2023/07/Coger-citas-en-Clinicas-dentales-en-Torrevieja.jpeg",
+    "clinica1": "https://torreviejaclinicadental.com/wp-content/uploads/2026/01/20211004_121711-1-scaled.jpg",
+    "clinica2": "https://torreviejaclinicadental.com/wp-content/uploads/2019/07/Clinica-dental-en-Torrevieja-doctor-Jorge-Requena.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ DE ORIHUELA, 55 · TORREVIEJA",
+    "titulo": [
+      "Vuestra web tiene cuatro teléfonos y ningún WhatsApp:",
+      "dos móviles y dos fijos, para dos clínicas."
+    ],
+    "intro": "Dos clínicas, en Torrevieja y Dolores, con el Dr. Jorge Requena, más de 20 años de experiencia, ortodoncia, implantes, sedación y odontología infantil, y un 4,8 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La web publica cuatro teléfonos (603 738 494, 966 05 44 61, 625 080 146 y 965 72 64 14) para elegir clínica: el paciente tiene que adivinar a cuál llamar.",
+      "El formulario de contacto pide nombre, teléfono, correo, asunto y mensaje, sin elegir clínica, día ni hora.",
+      "Según Google Maps cerráis el viernes a las 18:30 y no abrís hasta el lunes a las 9:30: 63 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno que pregunte la clínica y reserve con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dr. Jorge Requena."
+    },
+    "pregunta": "¿Cuántas llamadas van a la clínica equivocada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ DE ORIHUELA, 55 · TORREVIEJA",
+    "telefono": "966 054 461",
+    "telefonos": "Torrevieja 966 054 461 · Dolores 965 726 414 · 603 738 494",
+    "direccion": "C/ de Orihuela, 55, bajo · 03181 Torrevieja (Alicante)",
+    "marca": "DR. JORGE REQUENA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN TORREVIEJA Y DOLORES",
+    "heroTitulo": "Lo que nos hace",
+    "heroDestacado": "diferentes.",
+    "heroTexto": "Elige la clínica que te venga mejor. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Dos clínicas adaptadas a tus necesidades.",
+    "nota": "Torrevieja y Dolores.",
+    "fotoEtiqueta": "DR. JORGE REQUENA",
+    "fotoTitulo": "Dos clínicas, una forma de cuidarte.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Jorge Requena y su equipo.",
+    "equipoTexto": "Un equipo con ortodoncia, endodoncia, implantología, periodoncia y cirugía oral, en dos clínicas totalmente adaptadas.",
+    "valores": [
+      [
+        "Dos clínicas.",
+        "Torrevieja y Dolores."
+      ],
+      [
+        "Sedación.",
+        "Dental."
+      ],
+      [
+        "Odontología infantil.",
+        "Y perinatal."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Torrevieja",
+    "galeriaDestacado": "y Dolores.",
+    "pies": [
+      "La sala de espera",
+      "El doctor"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Endodoncia",
+      "Implantología dental",
+      "Estética dental",
+      "Periodoncia",
+      "Odontología infantil"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle de Orihuela, 55, bajo, en Torrevieja, y en Dolores."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 603 73 84 94 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Torrevieja",
+    "notaDiseno": "El azul marino y el dorado del Dr. Requena, sus dos clínicas y un único WhatsApp que pregunta la clínica.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 85
+    }
+  }
+}

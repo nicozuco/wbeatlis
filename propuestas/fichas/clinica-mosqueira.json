@@ -1,0 +1,167 @@
+{
+  "slug": "clinica-mosqueira",
+  "numero": 677,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Mosqueira",
+    "nombreCorto": "Clínica Mosqueira",
+    "dominio": "clinicadentalmosqueira.com",
+    "web": "https://www.clinicadentalmosqueira.com/",
+    "contacto": "https://www.clinicadentalmosqueira.com/contacto",
+    "decisor": "Dr. Luis Mosqueira"
+  },
+  "colores": {
+    "acento": "#6b5a3a",
+    "tinta": "#2b2417",
+    "profundo": "#3c3220",
+    "suave": "#f5f3f1",
+    "borde": "#e6e3de",
+    "calido": "#d9a43b",
+    "calidoSuave": "#fbf6eb"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalmosqueira.com/wp-content/uploads/2020/04/clinica-dental-alicante-2.jpg",
+    "clinica1": "https://www.clinicadentalmosqueira.com/wp-content/uploads/2020/04/slider-urgencias-dentales.jpg",
+    "clinica2": "https://www.clinicadentalmosqueira.com/wp-content/uploads/2020/04/clinica-dental-alicante-7.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. MAISONNAVE, 38 · ALICANTE",
+    "titulo": [
+      "«Pida cita con su dentista en Alicante» lleva",
+      "a un formulario de siete campos sin día ni hora."
+    ],
+    "intro": "Una clínica en la avenida Maisonnave con el Dr. Luis Mosqueira, especialista en implantes dentales y odontología estética, con más de 20 años al servicio de los pacientes de Alicante. Proponemos que «Pida cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, correo, teléfono, asunto, el caso y dos preguntas más: no se puede elegir día ni hora, así que alguien tiene que llamar después.",
+      "La web no tiene WhatsApp y el teléfono aparece escrito de dos maneras («966. 300.028» y dos enlaces distintos, 0034 y +34): para pedir cita hay que llamar.",
+      "Según Google Maps cerráis el viernes a las 19:30 y no abrís hasta el lunes a las 9:30: 62 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pida cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para pedir cita sin llamar ni rellenar formularios. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Clínica Mosqueira."
+    },
+    "pregunta": "¿Cuántas llamadas se pierden fuera del horario de la clínica?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. MAISONNAVE, 38 · ALICANTE",
+    "telefono": "966 300 028",
+    "telefonos": "966 300 028 · WhatsApp",
+    "direccion": "Av. Maisonnave, 38, entresuelo 1 · 03003 Alicante",
+    "marca": "CLÍNICA MOSQUEIRA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALICANTE",
+    "heroTitulo": "Dentista especialista",
+    "heroDestacado": "en implantes.",
+    "heroTexto": "Más de 20 años al servicio de nuestros pacientes en Alicante. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pida cita",
+    "frase": "Trato directo con su odontólogo.",
+    "nota": "En la avenida Maisonnave.",
+    "fotoEtiqueta": "CLÍNICA MOSQUEIRA",
+    "fotoTitulo": "Una clínica luminosa en Alicante.",
+    "cifra": "4,7",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Luis Mosqueira.",
+    "equipoTexto": "Dentista especialista en implantes dentales y odontología estética, con trato directo con su odontólogo y un planteamiento honesto y realista.",
+    "valores": [
+      [
+        "Implantes.",
+        "La más alta tasa de éxito."
+      ],
+      [
+        "Trato directo.",
+        "Con su odontólogo."
+      ],
+      [
+        "Planteamiento.",
+        "Honesto y realista."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alicante.",
+    "pies": [
+      "El gabinete",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Prótesis dentales",
+      "Estética dental",
+      "Ortodoncia invisible",
+      "Endodoncia",
+      "Urgencias dentales"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Maisonnave, 38, entresuelo 1, en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 966 30 00 28 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El marrón y el dorado de Mosqueira, su clínica y un teléfono que se pide con día y hora.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 71
+    }
+  }
+}
