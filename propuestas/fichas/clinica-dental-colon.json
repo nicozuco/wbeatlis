@@ -1,0 +1,167 @@
+{
+  "slug": "clinica-dental-colon",
+  "numero": 142,
+  "clinica": {
+    "nombre": "Clínica Dental Colón",
+    "nombreCorto": "Clínica Colón",
+    "dominio": "colonclinicadental.com",
+    "web": "https://www.colonclinicadental.com/",
+    "contacto": "https://www.colonclinicadental.com/contacto/",
+    "decisor": "Amparo Cascant"
+  },
+  "colores": {
+    "acento": "#1d6b45",
+    "tinta": "#162d21",
+    "profundo": "#19432e",
+    "suave": "#eff5f2",
+    "borde": "#d9e6df",
+    "calido": "#a3243b",
+    "calidoSuave": "#f6e9eb"
+  },
+  "fotos": {
+    "principal": "https://www.colonclinicadental.com/wp-content/uploads/2017/12/atencion-personalizada-clinica-dental-colon-burjassot.jpg",
+    "clinica1": "https://www.colonclinicadental.com/wp-content/uploads/2020/05/mampara-recepci%C3%B3n.jpg",
+    "clinica2": "https://www.colonclinicadental.com/wp-content/uploads/2020/05/seperaci%C3%B3n-sala-de-espera.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ COLÓN, 8 · BURJASSOT",
+    "titulo": [
+      "El botón «Pedir cita online»",
+      "lleva a una página que no existe."
+    ],
+    "intro": "Vuestra clínica de confianza en Burjassot, con Amparo Cascant al frente y especialistas en cirugía, implantes y endodoncia. Proponemos que pedir cita online funcione de verdad: con día y hora, en el momento.",
+    "hallazgos": [
+      "El botón «Pedir cita online» de la portada y el «Contacto» del menú llevan a una página que responde «404 - Página no encontrada». Quien quiere pedir cita desde la web se encuentra un error.",
+      "El menú todavía tiene una sección «COVID-19», justo al lado de «Contacto».",
+      "Según el horario de vuestra web, del viernes a las 20:30 al lunes a las 10:00 pasan 61 horas y media con la clínica cerrada, y el miércoles por la mañana tampoco abrís."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp en la web, que saluda con «¿En qué podemos ayudarte?». El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Conoce vuestro horario, así que nunca ofrece un miércoles por la mañana; y si es una urgencia, avisa al equipo al momento. Lo clínico sigue siendo cosa de Amparo y su equipo."
+    },
+    "pregunta": "¿Sabíais que vuestra página de contacto da error?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ COLÓN, 8 · BURJASSOT",
+    "telefono": "963 64 65 64",
+    "telefonos": "963 64 65 64",
+    "direccion": "C/ Colón, 8, bajo · 46100 Burjassot (Valencia)",
+    "marca": "CLÍNICA COLÓN",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN BURJASSOT",
+    "heroTitulo": "Tu clínica dental",
+    "heroDestacado": "de confianza.",
+    "heroTexto": "Atención personalizada con un equipo profesional y experimentado. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita online",
+    "frase": "Un equipo profesional y experimentado.",
+    "nota": "En el centro de Burjassot.",
+    "fotoEtiqueta": "CLÍNICA DENTAL COLÓN",
+    "fotoTitulo": "Atención personalizada.",
+    "cifra": "3",
+    "cifraEtiqueta": "ESPECIALIDADES: CIRUGÍA, IMPLANTES Y ENDODONCIA",
+    "equipoTitulo": "Un equipo profesional y experimentado.",
+    "equipoTexto": "Amparo Cascant, directora y odontóloga, junto a Hilario Pellicer en cirugía bucal e implantología, y José Lozano, endodoncista.",
+    "valores": [
+      [
+        "Cercanía.",
+        "Atención personalizada."
+      ],
+      [
+        "Especialistas.",
+        "Cirugía, implantes, endodoncia."
+      ],
+      [
+        "Seguridad.",
+        "Instalaciones preparadas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luminosa y cuidada.",
+    "galeriaDestacado": "En Burjassot.",
+    "pies": [
+      "La recepción",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Implantología dental",
+      "Ortodoncia",
+      "Endodoncia",
+      "Periodoncia",
+      "Prótesis fija",
+      "Prótesis removible"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes, martes, jueves y viernes de 10:00 a 14:00 y de 16:30 a 20:30; miércoles de 16:30 a 20:30."
+      ],
+      [
+        "¿Hacéis implantes?",
+        "Sí, con Hilario Pellicer, especialista en cirugía bucal e implantología."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en Burjassot",
+    "notaDiseno": "El verde de Clínica Colón, su clínica en Burjassot y una cita online que por fin funciona.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:30",
+        "20:00"
+      ],
+      "miercoles": [
+        "17:00",
+        "18:30",
+        "20:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:30",
+        "20:00"
+      ]
+    },
+    "horario": [
+      "Lunes, martes, jueves y viernes: 10:00–14:00 y 16:30–20:30",
+      "Miércoles: 16:30–20:30"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 210
+    }
+  }
+}

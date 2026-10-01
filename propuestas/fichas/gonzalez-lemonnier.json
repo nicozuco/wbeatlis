@@ -1,0 +1,167 @@
+{
+  "slug": "gonzalez-lemonnier",
+  "numero": 144,
+  "clinica": {
+    "nombre": "Clínica González Lemonnier",
+    "nombreCorto": "González Lemonnier",
+    "dominio": "clinicagonzalezlemonnier.com",
+    "web": "https://clinicagonzalezlemonnier.com/",
+    "contacto": "https://clinicagonzalezlemonnier.com/contacto/",
+    "decisor": "Dra. Sandra González Lemonnier"
+  },
+  "colores": {
+    "acento": "#16596b",
+    "tinta": "#16282d",
+    "profundo": "#193a43",
+    "suave": "#eff3f5",
+    "borde": "#d7e3e6",
+    "calido": "#16273a",
+    "calidoSuave": "#e8e9eb"
+  },
+  "fotos": {
+    "principal": "https://clinicagonzalezlemonnier.com/_astro/sala-espera-1.CeNzd4yv_ZTOWPK.webp",
+    "clinica1": "https://clinicagonzalezlemonnier.com/_astro/gabinete-interno.Bz37v4OG_Z2qXCBA.webp",
+    "clinica2": "https://clinicagonzalezlemonnier.com/_astro/sala-espera-2.zEYuLU0k_Z1wB8DQ.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ DUQUE DE MANDAS, 36 · VALENCIA",
+    "titulo": [
+      "«Pide tu primera cita».",
+      "Y después: «Déjanos tus datos y te llamamos»."
+    ],
+    "intro": "Más de 15 años cuidando sonrisas en Valencia, con profesionales con nombre y especialidad: cirugía, ortodoncia, estética y endodoncia. Proponemos que la primera cita quede reservada en el momento, sin esperar la llamada.",
+    "hallazgos": [
+      "El formulario «Pide tu primera cita» pide nombre, teléfono y especialidad, y termina con «te llamamos para valorar tu caso»: el paciente se va sin fecha.",
+      "Vuestro botón de WhatsApp ya abre con «Hola, me gustaría pedir cita»: la conversación empieza bien, pero alguien tiene que contestarla a mano.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 9:30 pasan 67 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp conteste y reserve.",
+      "texto": "Ya tenéis el WhatsApp 639 061 234 con «me gustaría pedir cita» preparado. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta la especialidad, igual que vuestro formulario, y lleva la cita a la agenda de la doctora que corresponde. Lo clínico sigue siendo cosa de la Dra. González Lemonnier y su equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp de «me gustaría pedir cita» contestáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ DUQUE DE MANDAS, 36 · VALENCIA",
+    "telefono": "963 650 098",
+    "telefonos": "963 650 098 · WhatsApp 639 061 234",
+    "direccion": "C/ Duque de Mandas, 36 · 46019 Valencia",
+    "marca": "GONZÁLEZ LEMONNIER",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Especialistas dentales",
+    "heroDestacado": "con nombre propio.",
+    "heroTexto": "Más de 15 años de experiencia, con una especialista para cada tratamiento. Elige día y hora y tu primera cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Estudiamos tu caso sin compromiso y te explicamos las opciones con claridad.",
+    "nota": "Desde 2009 en Valencia.",
+    "fotoEtiqueta": "CLÍNICA GONZÁLEZ LEMONNIER",
+    "fotoTitulo": "Un espacio pensado para ti.",
+    "cifra": "15",
+    "cifraEtiqueta": "AÑOS CUIDANDO SONRISAS EN VALENCIA",
+    "equipoTitulo": "Profesionales con nombre y especialidad.",
+    "equipoTexto": "La Dra. Sandra González Lemonnier, en cirugía e implantes, junto a la Dra. Laura Marín en ortodoncia, la Dra. Sara Romero en estética y la Dra. Aroa Bautista en endodoncia.",
+    "valores": [
+      [
+        "Claridad.",
+        "Te explicamos cada opción."
+      ],
+      [
+        "Especialistas.",
+        "Una para cada tratamiento."
+      ],
+      [
+        "Sin compromiso.",
+        "Primero, estudiamos tu caso."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Calma y diseño.",
+    "galeriaDestacado": "En Duque de Mandas.",
+    "pies": [
+      "Uno de los gabinetes",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Cirugía e implantes",
+      "Ortodoncia e Invisalign",
+      "Estética dental",
+      "Prótesis fija y removible",
+      "Endodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Cuándo abrís?",
+        "De lunes a viernes. Elige el hueco que te venga mejor al reservar."
+      ],
+      [
+        "¿Hacéis Invisalign?",
+        "Sí, con la Dra. Laura Marín, nuestra ortodoncista."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 639 061 234 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera cita",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia",
+      "Estética",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul petróleo de González Lemonnier, su clínica de diseño y un WhatsApp que deja la primera cita reservada.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 209
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "paloma-valero",
+  "numero": 152,
+  "clinica": {
+    "nombre": "Clínica Dental Paloma Valero",
+    "nombreCorto": "Paloma Valero",
+    "dominio": "clinicapalomavalero.com",
+    "web": "https://clinicapalomavalero.com/",
+    "contacto": "https://clinicapalomavalero.com/contacto/",
+    "decisor": "Dra. Paloma Valero"
+  },
+  "colores": {
+    "acento": "#9c4f5e",
+    "tinta": "#2c161b",
+    "profundo": "#3d1f25",
+    "suave": "#f8f3f4",
+    "borde": "#eee1e4",
+    "calido": "#d9779b",
+    "calidoSuave": "#fbf1f5"
+  },
+  "fotos": {
+    "principal": "https://clinicapalomavalero.com/wp-content/uploads/2023/06/dentista-en-valencia-1.jpg",
+    "clinica1": "https://clinicapalomavalero.com/wp-content/uploads/2023/09/clinica-dental-paloma-valero_02.jpg",
+    "clinica2": "https://clinicapalomavalero.com/wp-content/uploads/2023/09/clinica-dental-paloma-valero_04.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ POETA ANTONINO CHOCOMELI, 6 · VALENCIA",
+    "titulo": [
+      "«Miércoles y juaves de 10 a 19 h»,",
+      "dice la cabecera de toda vuestra web."
+    ],
+    "intro": "Una clínica llena de luz, acogedora y familiar en el corazón de Campanar, con odontología avanzada, honesta y slow. Proponemos que pedir cita sea igual de cuidado: con día y hora, en el momento.",
+    "hallazgos": [
+      "En la cabecera de todas las páginas, el horario dice «Miércoles y juaves de 10 a 19 h». Es lo primero que lee un paciente nuevo.",
+      "El botón «Pide tu cita» abre un formulario de nombre, teléfono, tratamiento y motivo: en ningún momento se elige día ni hora, y el paciente se va esperando vuestra llamada.",
+      "Vuestro horario cambia según el día (el martes solo abrís por la tarde) y, según Google, del viernes a las 14:00 al lunes a las 10:00 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 650 614 382 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Conoce vuestro horario de cada día, así que nunca ofrece un martes por la mañana; y pregunta el motivo, igual que vuestro formulario. Lo clínico sigue siendo cosa de la Dra. Valero y su equipo."
+    },
+    "pregunta": "¿Cuántas peticiones de «Pide tu cita» llamáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ POETA ANTONINO CHOCOMELI, 6 · CAMPANAR",
+    "telefono": "963 487 871",
+    "telefonos": "963 487 871 · WhatsApp 650 614 382",
+    "direccion": "C/ Poeta Antonino Chocomeli, 6, bajo · 46015 Valencia",
+    "marca": "PALOMA VALERO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU DENTISTA EN CAMPANAR",
+    "heroTitulo": "Tu dentista en Campanar",
+    "heroDestacado": "para toda la vida.",
+    "heroTexto": "Odontología avanzada, honesta y de calidad, dedicando a cada paciente el tiempo que merece. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Personas cuidando de personas.",
+    "nota": "Odontología slow, sin prisas.",
+    "fotoEtiqueta": "DRA. PALOMA VALERO",
+    "fotoTitulo": "Una clínica acogedora y familiar.",
+    "cifra": "Slow",
+    "cifraEtiqueta": "ODONTOLOGÍA SIN PRISAS",
+    "equipoTitulo": "Un equipo altamente cualificado.",
+    "equipoTexto": "La Dra. Paloma Valero tomó el testigo de una clínica de muchos años en Campanar, y la ha renovado con las últimas técnicas y un equipo de especialistas.",
+    "valores": [
+      [
+        "Honesta.",
+        "Solo lo que necesitas."
+      ],
+      [
+        "Avanzada.",
+        "Las últimas tecnologías."
+      ],
+      [
+        "Familiar.",
+        "Para toda la vida."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Llena de luz.",
+    "galeriaDestacado": "En el corazón de Campanar.",
+    "pies": [
+      "En el gabinete",
+      "El rincón de los peques"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Ortodoncia",
+      "Estética dental",
+      "Implantes dentales",
+      "Odontopediatría",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes de 10:00 a 20:00; martes de 15:00 a 20:00; miércoles y jueves de 10:00 a 19:00; viernes de 10:00 a 14:00."
+      ],
+      [
+        "¿Qué es la odontología slow?",
+        "Dedicar a cada paciente el tiempo y la atención que merece, sin prisas."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 650 614 382 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "Los tonos rosados de Paloma Valero, su clínica llena de luz y una cita que se reserva sin prisas pero al momento.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 10:00–20:00",
+      "Martes: 15:00–20:00",
+      "Miércoles y jueves: 10:00–19:00",
+      "Viernes: 10:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 190
+    }
+  }
+}

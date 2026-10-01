@@ -1,0 +1,166 @@
+{
+  "slug": "dental-germanies",
+  "numero": 140,
+  "clinica": {
+    "nombre": "Dental Germanies",
+    "nombreCorto": "Dental Germanies",
+    "dominio": "dentalgermanies.com",
+    "web": "https://dentalgermanies.com/",
+    "contacto": "https://dentalgermanies.com/contacto/",
+    "decisor": "Dra. Laia Rubió"
+  },
+  "colores": {
+    "acento": "#28578f",
+    "tinta": "#16202d",
+    "profundo": "#192c43",
+    "suave": "#f0f3f7",
+    "borde": "#dae2ec",
+    "calido": "#2ea3f2",
+    "calidoSuave": "#eaf6fe"
+  },
+  "fotos": {
+    "principal": "https://dentalgermanies.com/wp-content/uploads/2024/10/Captura-de-pantalla-2024-10-24-a-las-15.36.55.png",
+    "clinica1": "https://dentalgermanies.com/wp-content/uploads/2024/08/Dentista-carcaixent-dental-germanies6.jpg",
+    "clinica2": "https://dentalgermanies.com/wp-content/uploads/2024/08/Dentista-carcaixent-dental-germanies1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE LES GERMANIES, 28 · CARCAIXENT",
+    "titulo": [
+      "El enlace de vuestro móvil en la web",
+      "marca el +034, no el +34."
+    ],
+    "intro": "Un centro odontológico multidisciplinar en Carcaixent, con especialistas en ortodoncia e implantología y unas instalaciones de última tecnología. Proponemos que la cita quede reservada en el momento, sin depender de una llamada.",
+    "hallazgos": [
+      "El enlace «Teléfono: 627600733» de vuestra web marca el +034 627 600 733: con ese prefijo, la llamada desde el móvil no llega.",
+      "El botón «Reserva tu cita» lleva a un formulario de nombre, teléfono, email y consulta: el paciente se va sin fecha, esperando vuestra respuesta.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 9:30 pasan 67 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 627 600 733 flotante en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Si es de ortodoncia o implantes, la lleva a la agenda de la Dra. Rubió; si es una higiene, a la de las higienistas. Lo clínico sigue siendo cosa de la Dra. Rubió y su equipo."
+    },
+    "pregunta": "¿Cuántas consultas del formulario tenéis que llamar cada semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE LES GERMANIES, 28 · CARCAIXENT",
+    "telefono": "962 40 82 22",
+    "telefonos": "962 40 82 22 · WhatsApp 627 600 733",
+    "direccion": "Av. de les Germanies, 28 · 46740 Carcaixent (Valencia)",
+    "marca": "DENTAL GERMANIES",
+    "submarca": "CENTRO ODONTOLÓGICO",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN CARCAIXENT",
+    "heroTitulo": "Estar sano",
+    "heroDestacado": "comienza por tu boca.",
+    "heroTexto": "Especialistas en ortodoncia e implantología, con endodoncia, periodoncia y prótesis. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "No hay nada por encima de tu satisfacción y tu salud.",
+    "nota": "Instalaciones amplias y de última tecnología.",
+    "fotoEtiqueta": "DRA. LAIA RUBIÓ SALOM",
+    "fotoTitulo": "Ortodoncia, implantes y estética.",
+    "cifra": "15",
+    "cifraEtiqueta": "AÑOS CUIDANDO SONRISAS EN CARCAIXENT",
+    "equipoTitulo": "Un centro multidisciplinar.",
+    "equipoTexto": "La Dra. Laia Rubió Salom, con máster en implantología, periodoncia y cirugía oral y posgrado en ortodoncia, dirige un equipo de higienistas y atención al paciente.",
+    "valores": [
+      [
+        "Ortodoncia.",
+        "Brackets e invisible."
+      ],
+      [
+        "Implantes.",
+        "También carga inmediata."
+      ],
+      [
+        "Tecnología.",
+        "Diseño y escáner digital."
+      ]
+    ],
+    "galeriaEtiqueta": "LAS INSTALACIONES",
+    "galeriaTitulo": "Amplias y digitales.",
+    "galeriaDestacado": "En Carcaixent.",
+    "pies": [
+      "Uno de los gabinetes",
+      "Planificación digital"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Brackets",
+      "Implantología inmediata",
+      "Cirugía mucogingival",
+      "Odontopediatría",
+      "Blanqueamiento"
+    ],
+    "faq": [
+      [
+        "¿Hacéis ortodoncia invisible?",
+        "Sí, además de brackets y ortodoncia infantil."
+      ],
+      [
+        "¿Hacéis implantes inmediatos?",
+        "Sí. Te lo explicamos en la primera visita."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 627 600 733 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión e higiene",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Carcaixent",
+    "notaDiseno": "Los azules de Dental Germanies, la Dra. Rubió y un WhatsApp que deja la cita reservada.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 211
+    }
+  }
+}

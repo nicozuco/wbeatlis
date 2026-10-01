@@ -1,0 +1,167 @@
+{
+  "slug": "dental-fayos",
+  "numero": 138,
+  "clinica": {
+    "nombre": "Clínica Dental Fayos",
+    "nombreCorto": "Dental Fayos",
+    "dominio": "clinicadentalfayos.com",
+    "web": "https://clinicadentalfayos.com/",
+    "contacto": "https://clinicadentalfayos.com/contacto/",
+    "decisor": "Drs. Fayos"
+  },
+  "colores": {
+    "acento": "#2b6f8e",
+    "tinta": "#16252d",
+    "profundo": "#193643",
+    "suave": "#f0f5f7",
+    "borde": "#dbe7ec",
+    "calido": "#a8957c",
+    "calidoSuave": "#f6f4f2"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalfayos.com/wp-content/uploads/2018/04/entrada-retocada03.jpg",
+    "clinica1": "https://clinicadentalfayos.com/wp-content/uploads/2015/11/instalaciones-deltafayos15.jpg",
+    "clinica2": "https://clinicadentalfayos.com/wp-content/uploads/2015/11/instalaciones-deltafayos13.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ XIMEN DE TOVÍA, 8 · XÀTIVA",
+    "titulo": [
+      "Vuestra portada todavía avisa",
+      "de que cerráis en agosto de 2025."
+    ],
+    "intro": "Una clínica familiar con 40 años de experiencia en Xàtiva, donde los Doctores Fayos atienden personalmente a cada paciente, ya de segunda generación. Proponemos que pedir cita sea igual de cercano: con día y hora, en el momento.",
+    "hallazgos": [
+      "En la portada sigue el aviso «Vacaciones Agosto 2025. Clínica cerrada del 11 al 29 de agosto». Un paciente nuevo no sabe si está al día, y ahí mismo está el horario que tiene que consultar.",
+      "El formulario de la portada pide nombre, email, asunto y mensaje, pero no el teléfono; y el botón «Pedir cita» lleva a otro formulario de contacto: en ninguno se elige día ni hora.",
+      "En la página de contacto, el email que se lee es clinicadentalfayos@hotmail.com, pero al pulsarlo se abre un correo a otra dirección, xativa@clinicadentalfayos.com."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 644 42 58 92 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Conoce vuestro horario, también los cierres de vacaciones, así que nunca ofrece un hueco en un día cerrado. Lo clínico sigue siendo cosa de los Doctores Fayos y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes os preguntan todavía si estáis abiertos?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ XIMEN DE TOVÍA, 8 · XÀTIVA",
+    "telefono": "962 27 56 99",
+    "telefonos": "962 27 56 99 · WhatsApp 644 42 58 92",
+    "direccion": "C/ Ximen de Tovía, 8 · 46800 Xàtiva (Valencia)",
+    "marca": "DENTAL FAYOS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL FAMILIAR EN XÀTIVA",
+    "heroTitulo": "Al lado de",
+    "heroDestacado": "nuestros pacientes.",
+    "heroTexto": "Los Doctores Fayos atienden personalmente cada caso, de principio a fin. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Sin sobrediagnósticos, con odontología conservadora.",
+    "nota": "Pacientes de segunda generación.",
+    "fotoEtiqueta": "LOS DOCTORES FAYOS",
+    "fotoTitulo": "Una clínica familiar.",
+    "cifra": "40",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA EN XÀTIVA",
+    "equipoTitulo": "Ética profesional y pasión por la odontología.",
+    "equipoTexto": "El Dr. Teodoro Fayos Soler, fundador de la clínica, en odontología general y endodoncia, junto a la Dra. Mercedes Fayos Fons y el Dr. Teodoro Fayos Fons, siguen cada caso durante todo el tratamiento.",
+    "valores": [
+      [
+        "Personal.",
+        "Los doctores te atienden siempre."
+      ],
+      [
+        "Conservadora.",
+        "Tu salud, primero."
+      ],
+      [
+        "Familiar.",
+        "40 años de confianza."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y tecnología.",
+    "galeriaDestacado": "En el centro de Xàtiva.",
+    "pies": [
+      "La sala de espera",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Endodoncia",
+      "Implantes",
+      "Ortodoncia",
+      "Periodoncia",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 13:30 y de 14:30 a 19:00, y los viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Me atenderá un doctor Fayos?",
+        "Sí. Los Doctores Fayos atienden personalmente a todos los pacientes."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 644 42 58 92 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Endodoncia",
+      "Implantes"
+    ],
+    "pieMarca": "Clínica dental en Xàtiva",
+    "notaDiseno": "Los tonos serenos de Dental Fayos, sus doctores en la clínica y un WhatsApp que siempre sabe si estáis abiertos.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–13:30 y 14:30–19:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 213
+    }
+  }
+}

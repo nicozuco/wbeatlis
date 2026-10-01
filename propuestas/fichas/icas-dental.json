@@ -1,0 +1,166 @@
+{
+  "slug": "icas-dental",
+  "numero": 146,
+  "clinica": {
+    "nombre": "Icas Dental",
+    "nombreCorto": "Icas Dental",
+    "dominio": "icasdental.es",
+    "web": "https://icasdental.es/",
+    "contacto": "https://icasdental.es/contacta/",
+    "decisor": "Dra. Mamen Ibáñez"
+  },
+  "colores": {
+    "acento": "#115277",
+    "tinta": "#16242d",
+    "profundo": "#193443",
+    "suave": "#eef3f5",
+    "borde": "#d7e2e8",
+    "calido": "#8fbfc2",
+    "calidoSuave": "#f4f9f9"
+  },
+  "fotos": {
+    "principal": "https://icasdental.es/wp-content/uploads/2022/01/icasdental-intro.jpg",
+    "clinica1": "https://icasdental.es/wp-content/uploads/2026/01/icasdenta-clinica-dental-lliria-equipo-dentistas.jpg",
+    "clinica2": "https://icasdental.es/wp-content/uploads/2026/01/icas-denal-clinica-denatl-lliria-equipo-dentista-odontopediatria.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PLA DE RASCANYA, 1 · LLÍRIA",
+    "titulo": [
+      "«Pídenos una cita», dice el botón.",
+      "Y el formulario no pregunta el teléfono."
+    ],
+    "intro": "Una clínica dental integral para toda la familia en Llíria, dirigida por la Dra. Mamen Ibáñez, con un 5 de 5 en Google y un trato sin prisas. Proponemos que pedir cita sea igual de cercano: con día y hora, en el momento.",
+    "hallazgos": [
+      "Los botones «Pídenos una cita» y «Pide cita» llevan a un formulario de nombre, apellidos, email y comentarios: no pide teléfono ni deja elegir día ni hora.",
+      "Vuestro horario cambia según el día: el miércoles abrís solo por la tarde y el viernes solo por la mañana. Es justo lo que un paciente no sabe cuando escribe.",
+      "Según vuestro horario en Google, del viernes a las 13:30 al lunes a las 9:30 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 605 61 86 85 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Conoce vuestro horario de cada día, así que nunca ofrece un miércoles por la mañana ni un viernes por la tarde. Y si es para un niño, la lleva a la agenda de odontopediatría. Lo clínico sigue siendo cosa de la Dra. Ibáñez y su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes os llegan por la web sin un teléfono al que llamar?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PLA DE RASCANYA, 1 · LLÍRIA",
+    "telefono": "605 61 86 85",
+    "telefonos": "605 61 86 85",
+    "direccion": "C/ Pla de Rascanya, 1 · 46160 Llíria (Valencia)",
+    "marca": "ICAS DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Quiénes somos",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN LLÍRIA",
+    "heroTitulo": "Siempre hay un motivo",
+    "heroDestacado": "para sonreír.",
+    "heroTexto": "Atención cercana, tecnología avanzada y un equipo especializado para toda la familia. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pídenos una cita",
+    "frase": "Dentistas especializados en hacerte sentir bien.",
+    "nota": "Sin prisas y con un trato totalmente personalizado.",
+    "fotoEtiqueta": "ICAS DENTAL",
+    "fotoTitulo": "Cómodo, informado y bien acompañado.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo multidisciplinar.",
+    "equipoTexto": "La Dra. Mamen Ibáñez Castillo, especializada en cirugía, periodoncia, implantes y endodoncia, dirige un equipo con la Dra. Raquel Laparra en ortodoncia y el Dr. Marcus Bobocea en odontopediatría.",
+    "valores": [
+      [
+        "Familiar.",
+        "Para todas las edades."
+      ],
+      [
+        "Sin prisas.",
+        "Trato personalizado."
+      ],
+      [
+        "Integral.",
+        "Todas las áreas."
+      ]
+    ],
+    "galeriaEtiqueta": "EL EQUIPO",
+    "galeriaTitulo": "Estamos aquí",
+    "galeriaDestacado": "para que luzcas tu mejor sonrisa.",
+    "pies": [
+      "El equipo de Icas Dental",
+      "En la clínica"
+    ],
+    "servicios": [
+      "Implantes",
+      "Periodoncia",
+      "Endodoncia",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes, martes y jueves de 9:30 a 13:30 y de 15:30 a 19:30; miércoles de 15:30 a 19:30; viernes de 9:30 a 13:30."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, con el Dr. Marcus Bobocea, nuestro odontopediatra."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 605 61 86 85 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Llíria",
+    "notaDiseno": "El azul de Icas Dental, su equipo y un WhatsApp que conoce vuestro horario de cada día.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes, martes y jueves: 9:30–13:30 y 15:30–19:30",
+      "Miércoles: 15:30–19:30",
+      "Viernes: 9:30–13:30"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 205
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "rosalia-vega",
+  "numero": 159,
+  "clinica": {
+    "nombre": "Clínica Dental Rosalía Vega",
+    "nombreCorto": "Rosalía Vega",
+    "dominio": "clinicadentalrosaliavega.com",
+    "web": "https://www.clinicadentalrosaliavega.com/",
+    "contacto": "https://www.clinicadentalrosaliavega.com/contacto/",
+    "decisor": "Dra. Rosalía Vega"
+  },
+  "colores": {
+    "acento": "#2f7fb8",
+    "tinta": "#16232d",
+    "profundo": "#193143",
+    "suave": "#f0f6fa",
+    "borde": "#dce9f3",
+    "calido": "#5fc6c9",
+    "calidoSuave": "#eff9fa"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalrosaliavega.com/wp-content/uploads/2022/07/clinica-banner1.jpg",
+    "clinica1": "https://www.clinicadentalrosaliavega.com/wp-content/uploads/2022/07/tratamientos-ortodoncia.jpg",
+    "clinica2": "https://www.clinicadentalrosaliavega.com/wp-content/uploads/2022/07/gabinetes1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ FELIPE VALLS, 53 · BENIMAMET",
+    "titulo": [
+      "«Rellene el siguiente formulario para pedir cita».",
+      "Y debajo no hay ningún formulario."
+    ],
+    "intro": "Desde 2006 en Benimamet, con la Dra. Rosalía Vega en cirugía e implantes y un equipo de ortodoncia, endodoncia, odontopediatría e higiene. Proponemos que pedir cita desde la web funcione: con día y hora, en el momento.",
+    "hallazgos": [
+      "El botón «Pide cita» lleva a la página de contacto, que dice «Rellene el siguiente formulario para pedir cita»; pero debajo solo está el mapa: el formulario no aparece.",
+      "La cabecera de la web dice que el viernes por la tarde abrís hasta las 20:30, y la página de contacto, hasta las 20:00.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 9:30 pasan 62 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pide cita» dé la cita.",
+      "texto": "Un asistente en vuestra web, en el sitio de ese formulario, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Distingue si es de odontología, ortodoncia o podología, y lleva la cita a la agenda que toca. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de la Dra. Vega y su equipo."
+    },
+    "pregunta": "¿Sabíais que el formulario de vuestra página de contacto no se ve?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ FELIPE VALLS, 53 · BENIMAMET",
+    "telefono": "963 498 766",
+    "telefonos": "963 498 766",
+    "direccion": "C/ Felipe Valls, 53 · 46035 Benimamet (Valencia)",
+    "marca": "VEGA",
+    "submarca": "CLÍNICA DENTAL BENIMAMET",
+    "menuEquipo": "Nuestro equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN BENIMAMET",
+    "heroTitulo": "El servicio",
+    "heroDestacado": "más completo.",
+    "heroTexto": "Odontólogos, higienistas, ortodoncistas y podólogos en un mismo centro. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "El mejor equipo humano y profesional.",
+    "nota": "Desde 2006 en Benimamet.",
+    "fotoEtiqueta": "CLÍNICA DENTAL VEGA",
+    "fotoTitulo": "Luminosa y tecnológica.",
+    "cifra": "2006",
+    "cifraEtiqueta": "CUIDANDO SONRISAS EN BENIMAMET",
+    "equipoTitulo": "Un equipo completo.",
+    "equipoTexto": "La Dra. Rosalía Vega, en odontología general, cirugía e implantes, junto a especialistas en ortodoncia, endodoncia y odontopediatría, higienistas y podología.",
+    "valores": [
+      [
+        "Completo.",
+        "Todas las especialidades."
+      ],
+      [
+        "Para niños.",
+        "Odontopediatría."
+      ],
+      [
+        "Tecnología.",
+        "Diagnóstico digital."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Blanca y luminosa.",
+    "galeriaDestacado": "En Benimamet.",
+    "pies": [
+      "En el gabinete",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Implantes y cirugía",
+      "Endodoncia",
+      "Odontopediatría",
+      "Estética dental",
+      "Podología"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 9:30 a 13:30 y de 16:00 a 20:00."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, con Clara Serrano, nuestra odontopediatra."
+      ],
+      [
+        "¿También tenéis podología?",
+        "Sí, en el mismo centro."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Podología"
+    ],
+    "pieMarca": "Clínica dental en Benimamet",
+    "notaDiseno": "El azul de Clínica Vega, su clínica luminosa y un «Pide cita» que por fin lleva a la cita.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:30–13:30 y 16:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 177
+    }
+  }
+}

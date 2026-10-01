@@ -1,0 +1,174 @@
+{
+  "slug": "sonrisas-sanas",
+  "numero": 160,
+  "clinica": {
+    "nombre": "Clínica Dental Sonrisas Sanas",
+    "nombreCorto": "Sonrisas Sanas",
+    "dominio": "sonrisassanas.com",
+    "web": "https://sonrisassanas.com/",
+    "contacto": "https://sonrisassanas.com/contacto/",
+    "decisor": "Dra. Liliana Sarmiento"
+  },
+  "colores": {
+    "acento": "#c8176f",
+    "tinta": "#2d1621",
+    "profundo": "#43192e",
+    "suave": "#fbeff5",
+    "borde": "#f6d8e7",
+    "calido": "#3a3a44",
+    "calidoSuave": "#ebebec"
+  },
+  "fotos": {
+    "principal": "https://sonrisassanas.com/wp-content/uploads/2026/03/Diseno-sin-titulo-7.jpg",
+    "clinica1": "https://sonrisassanas.com/wp-content/uploads/2025/09/sobre-nosotors-2.jpg",
+    "clinica2": "https://sonrisassanas.com/wp-content/uploads/2026/03/DSC06917-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ RASCAYA, 2 · LLÍRIA",
+    "titulo": [
+      "«Pide tu cita», dice el botón.",
+      "Y lo único que hace es llamar."
+    ],
+    "intro": "Desde 1992 en Llíria, con un amplio equipo multidisciplinar y la única clínica dental del pueblo abierta los sábados. Proponemos que pedir cita esté igual de disponible: a cualquier hora, sin tener que llamar.",
+    "hallazgos": [
+      "El botón «Pide tu cita» de la portada marca el 962 79 86 69: si nadie puede coger el teléfono en ese momento, el paciente se queda sin cita.",
+      "El formulario de contacto pide nombre, teléfono, email y consulta: en ningún momento se elige día ni hora.",
+      "Según vuestro horario en Google, del sábado a las 13:00 al lunes a las 9:00 pasan 44 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp flotante en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Ofrece también los huecos del sábado, que es lo que os diferencia, y si es una urgencia avisa al momento al móvil de urgencias. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas llamadas de «Pide tu cita» se quedan sin contestar mientras estáis en el gabinete?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "LLÍRIA · ABIERTOS LOS SÁBADOS",
+    "telefono": "962 79 86 69",
+    "telefonos": "962 79 86 69 · Urgencias 635 33 93 05",
+    "direccion": "C/ Rascaya, 2, bajo · 46160 Llíria (Valencia)",
+    "marca": "SONRISAS SANAS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "TU DENTISTA DE CONFIANZA EN LLÍRIA",
+    "heroTitulo": "Odontología responsable,",
+    "heroDestacado": "también en sábado.",
+    "heroTexto": "Un amplio equipo multidisciplinar con todas las especialidades, y horarios flexibles. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Tu sonrisa y tu bienestar bucal, nuestra máxima prioridad.",
+    "nota": "La única clínica dental de Llíria abierta los sábados.",
+    "fotoEtiqueta": "EL EQUIPO DE SONRISAS SANAS",
+    "fotoTitulo": "Un equipo multidisciplinar.",
+    "cifra": "1992",
+    "cifraEtiqueta": "CUIDANDO SONRISAS EN LLÍRIA",
+    "equipoTitulo": "Todas las especialidades, un mismo equipo.",
+    "equipoTexto": "Odontólogas y odontólogos especializados en implantes, ortodoncia invisible, estética, endodoncia y odontopediatría, con un enfoque personalizado y un trato cercano.",
+    "valores": [
+      [
+        "Sábados.",
+        "Abiertos también en fin de semana."
+      ],
+      [
+        "Urgencias.",
+        "Un móvil solo para ellas."
+      ],
+      [
+        "Cercanía.",
+        "Desde 1992 en Llíria."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tecnología y cercanía.",
+    "galeriaDestacado": "En Llíria.",
+    "pies": [
+      "En la consulta",
+      "En el gabinete"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Carillas y estética",
+      "Odontopediatría",
+      "Endodoncia",
+      "Medicina estética"
+    ],
+    "faq": [
+      [
+        "¿Abrís los sábados?",
+        "Sí. Somos la única clínica dental de Llíria abierta los sábados."
+      ],
+      [
+        "¿Atendéis urgencias?",
+        "Sí. Llama al 635 33 93 05, nuestro teléfono de urgencias."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí. Consulta nuestras opciones de financiación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia invisible"
+    ],
+    "pieMarca": "Clínica dental en Llíria",
+    "notaDiseno": "El magenta de Sonrisas Sanas, su equipo y un WhatsApp que también reserva los sábados.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "sabado": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa",
+      "Sábados por la mañana"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 177
+    }
+  }
+}

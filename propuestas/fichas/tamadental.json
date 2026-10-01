@@ -1,0 +1,168 @@
+{
+  "slug": "tamadental",
+  "numero": 136,
+  "clinica": {
+    "nombre": "TAMADental Clínica Dental y Estética",
+    "nombreCorto": "TAMADental",
+    "dominio": "tamadental.com",
+    "web": "https://tamadental.com/",
+    "contacto": "https://tamadental.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1e5fa8",
+    "tinta": "#16202d",
+    "profundo": "#192d43",
+    "suave": "#eff4f9",
+    "borde": "#d9e4f0",
+    "calido": "#c9b08f",
+    "calidoSuave": "#faf7f4"
+  },
+  "fotos": {
+    "principal": "https://tamadental.com/wp-content/uploads/sb-instagram-feed-images/824653662_2171056623489125_4339429261174862367_nfull.webp",
+    "clinica1": "https://tamadental.com/wp-content/uploads/2024/12/8.png",
+    "clinica2": "https://tamadental.com/wp-content/uploads/2024/12/1-1.png"
+  },
+  "propuesta": {
+    "etiqueta": "C/ VELÁZQUEZ, 12 · ALDAIA",
+    "titulo": [
+      "El botón «Pedir cita» lleva a una página",
+      "sin formulario y sin botón de llamar."
+    ],
+    "intro": "Una clínica joven en Aldaia y ya con un 5 de 5 en Google con más de 200 reseñas, con prevención, estética y ortodoncia invisible. Proponemos que pedir cita desde la web sea igual de fácil que venir.",
+    "hallazgos": [
+      "Los botones «Pedir cita» llevan a la página de contacto, donde solo están el email y el teléfono escritos como texto: no hay formulario, y desde el móvil no se pueden pulsar.",
+      "El único canal para escribiros es el WhatsApp flotante, que saluda con «¿Cómo puedo ayudarte?»: la conversación espera a que alguien la conteste a mano.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 9:00 pasan 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pedir cita» dé la cita.",
+      "texto": "Un asistente en vuestra web, detrás del botón de «Pedir cita», que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Resuelve dudas de ortodoncia invisible o financiación antes de venir. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas personas os escriben por WhatsApp solo para pedir cita?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ VELÁZQUEZ, 12 · ALDAIA",
+    "telefono": "673 183 408",
+    "telefonos": "673 183 408",
+    "direccion": "C/ Velázquez, 12, bajo · 46960 Aldaia (Valencia)",
+    "marca": "TAMADENTAL",
+    "submarca": "CLÍNICA DENTAL Y ESTÉTICA",
+    "menuEquipo": "Quiénes somos",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALDAIA",
+    "heroTitulo": "Tu mejor sonrisa",
+    "heroDestacado": "es posible.",
+    "heroTexto": "Prevención, estética y ortodoncia invisible, con un equipo joven y cercano. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Confianza, honestidad, excelencia.",
+    "nota": "Financiación adaptada a tu tratamiento.",
+    "fotoEtiqueta": "EL EQUIPO DE TAMADENTAL",
+    "fotoTitulo": "Tu sonrisa, nuestra pasión.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Prevención y educación.",
+    "equipoTexto": "Un equipo joven que trabaja con confianza, honestidad y familiaridad: te explicamos cada paso para que cuides tu sonrisa también en casa.",
+    "valores": [
+      [
+        "Confianza.",
+        "Te lo explicamos todo."
+      ],
+      [
+        "Estética.",
+        "Resultados naturales."
+      ],
+      [
+        "Familiaridad.",
+        "Como en casa."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Nueva y luminosa.",
+    "galeriaDestacado": "En el centro de Aldaia.",
+    "pies": [
+      "Uno de los gabinetes",
+      "Diagnóstico por imagen"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Implantes",
+      "Odontología general",
+      "Muelas del juicio",
+      "Higiene y prevención"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 9:00 a 20:00."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí. Elige la financiación que se adapte a tu tratamiento."
+      ],
+      [
+        "¿Hacéis ortodoncia invisible?",
+        "Sí. Te resolvemos todas las dudas en la primera visita."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Aldaia",
+    "notaDiseno": "El azul de TAMADental, su equipo joven y un botón de pedir cita que por fin reserva.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 217
+    }
+  }
+}

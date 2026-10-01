@@ -1,0 +1,168 @@
+{
+  "slug": "clinic-art-dental",
+  "numero": 158,
+  "clinica": {
+    "nombre": "Clínica Dental Alboraya · Clinic Art Dental",
+    "nombreCorto": "Clinic Art",
+    "dominio": "clinicart.es",
+    "web": "https://clinicart.es/",
+    "contacto": "https://clinicart.es/contacto/",
+    "decisor": "Dr. David Soto Peñaloza"
+  },
+  "colores": {
+    "acento": "#8f6428",
+    "tinta": "#2d2316",
+    "profundo": "#433119",
+    "suave": "#f7f4f0",
+    "borde": "#ece5da",
+    "calido": "#1aa39a",
+    "calidoSuave": "#e8f6f5"
+  },
+  "fotos": {
+    "principal": "https://clinicart.es/media/home/equipo-dentistas-profesionales-dentista-valencia.jpg",
+    "clinica1": "https://clinicart.es/media/la-clinica/clinic-art.jpg",
+    "clinica2": "https://clinicart.es/media/la-clinica/Clinica-dental-clinic-art-alboraya-official-room.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ VICARI RICARDO BELENGUER, 4 · ALBORAYA",
+    "titulo": [
+      "«Reservar valoración», dice el botón.",
+      "Y debajo: «Respuesta en 24 h»."
+    ],
+    "intro": "Una clínica en Alboraya, a 8 minutos de Valencia, con el Dr. David Soto Peñaloza al frente, cirugía guiada 3D y carga inmediata, y más de 2.000 pacientes. Proponemos que la valoración quede reservada en el momento, no en 24 horas.",
+    "hallazgos": [
+      "Los botones «Reservar valoración» llevan a un formulario de nombre, teléfono, email, tratamiento y mensaje, con la promesa «Respuesta en 24 h»: el paciente se va sin fecha.",
+      "La web lo explica: «Respondemos en horario de clínica». Lo que llega por la tarde o el fin de semana espera al siguiente día laborable.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 9:00 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la valoración.",
+      "texto": "Ya tenéis el WhatsApp 657 133 155 con «Te respondemos hoy». El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta el tratamiento, igual que vuestro formulario, y deja la valoración reservada con el Dr. Soto o la Dra. Núñez. Lo clínico sigue siendo cosa de el Dr. Soto y su equipo."
+    },
+    "pregunta": "¿Cuántas valoraciones os piden cada fin de semana que esperan al lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ VICARI RICARDO BELENGUER, 4 · ALBORAYA",
+    "telefono": "657 133 155",
+    "telefonos": "657 133 155",
+    "direccion": "C/ Vicari Ricardo Belenguer, 4, bajo · 46120 Alboraya (Valencia)",
+    "marca": "CLINIC ART",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "TU DENTISTA EN ALBORAYA",
+    "heroTitulo": "Recupera la confianza",
+    "heroDestacado": "en tu sonrisa.",
+    "heroTexto": "Conversación real, plan por escrito y un equipo que te acompaña. Elige día y hora y tu valoración queda reservada.",
+    "ctaHero": "Reservar valoración",
+    "frase": "Una clínica dental pensada para cuidarte.",
+    "nota": "A solo 8 minutos de Valencia.",
+    "fotoEtiqueta": "EL EQUIPO DE CLINIC ART",
+    "fotoTitulo": "Un equipo que te acompaña.",
+    "cifra": "+2.000",
+    "cifraEtiqueta": "PACIENTES CONFÍAN EN NOSOTROS",
+    "equipoTitulo": "Cirugía guiada y carga inmediata.",
+    "equipoTexto": "El Dr. David Soto Peñaloza, en cirugía e implantología, y la Dra. Kiara Núñez Tolotti dirigen un equipo con planificación 3D y un plan por escrito para cada paciente.",
+    "valores": [
+      [
+        "Planificación 3D.",
+        "Cirugía guiada."
+      ],
+      [
+        "Por escrito.",
+        "Tu plan, claro."
+      ],
+      [
+        "Tranquilidad.",
+        "Salas pensadas para sentirse bien."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y calma.",
+    "galeriaDestacado": "En Alboraya.",
+    "pies": [
+      "La sala de espera",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Implantes y carga inmediata",
+      "Ortodoncia",
+      "Periodoncia y encías",
+      "Cirugía oral",
+      "Estética dental",
+      "Urgencias dentales"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 9:00 a 20:00."
+      ],
+      [
+        "¿La valoración tiene compromiso?",
+        "No. Te explicamos tu caso y te damos un plan por escrito, sin compromiso."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 657 133 155 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Valoración",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en Alboraya",
+    "notaDiseno": "Los dorados de Clinic Art, su equipo en Alboraya y una valoración que se reserva en el momento.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 179
+    }
+  }
+}

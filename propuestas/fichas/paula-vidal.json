@@ -1,0 +1,163 @@
+{
+  "slug": "paula-vidal",
+  "numero": 153,
+  "clinica": {
+    "nombre": "Clínica Dental Paula Vidal",
+    "nombreCorto": "Paula Vidal",
+    "dominio": "clinicapaulavidal.com",
+    "web": "https://clinicapaulavidal.com/",
+    "contacto": "https://clinicapaulavidal.com/contacto/",
+    "decisor": "Dra. Paula Vidal"
+  },
+  "colores": {
+    "acento": "#4a8b7c",
+    "tinta": "#172b27",
+    "profundo": "#203c35",
+    "suave": "#f2f7f6",
+    "borde": "#e0ebe9",
+    "calido": "#2b3550",
+    "calidoSuave": "#eaebee"
+  },
+  "fotos": {
+    "principal": "https://clinicapaulavidal.com/wp-content/uploads/2026/05/0363_f_2024_11_20-copia-scaled.jpg",
+    "clinica1": "https://clinicapaulavidal.com/wp-content/uploads/2026/05/0111_f_2024_11_20-copia-scaled.jpg",
+    "clinica2": "https://clinicapaulavidal.com/wp-content/uploads/2026/04/0019_f_2024_11_20-copia-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MORAN RODA, 22 · GANDIA",
+    "titulo": [
+      "«Solicitar cita», dice el botón.",
+      "Y lleva a una página sin formulario."
+    ],
+    "intro": "Más de 20 años cuidando sonrisas en Gandia, con la Dra. Paula Vidal, odontóloga y profesora universitaria, y una clínica pensada para los niños y toda la familia. Proponemos que pedir cita sea igual de cercano: con día y hora, en el momento.",
+    "hallazgos": [
+      "El botón «Solicitar cita» lleva a la página de contacto, donde solo están el teléfono, el email y el horario: no hay formulario, y el teléfono aparece como texto, sin poder pulsarlo desde el móvil.",
+      "Según el horario de vuestra web, el viernes no abrís y el lunes empezáis a las 14:30: del jueves a las 20:00 al lunes por la tarde pasan más de 90 horas sin nadie que conteste.",
+      "Vuestra web no tiene WhatsApp: fuera de horario, a quien quiere pedir cita solo le queda escribir un email y esperar."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Solicitar cita» dé la cita.",
+      "texto": "Un asistente en vuestra web, detrás del botón «Solicitar cita», que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Conoce vuestro horario de cada día, así que nunca ofrece un viernes ni un lunes por la mañana. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de la Dra. Vidal y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas os llegan el viernes, con la clínica cerrada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MORAN RODA, 22 · GANDIA",
+    "telefono": "962 86 82 06",
+    "telefonos": "962 86 82 06",
+    "direccion": "C/ Moran Roda, 22, bajo · 46701 Gandia (Valencia)",
+    "marca": "PAULA VIDAL",
+    "submarca": "ODONTOLOGÍA ESTÉTICA",
+    "menuEquipo": "Nuestro equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN GANDIA",
+    "heroTitulo": "Sonreír",
+    "heroDestacado": "con confianza.",
+    "heroTexto": "Una odontología cercana, estética y personalizada, en cada etapa de la vida. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Solicitar cita",
+    "frase": "Un trato humano, claro y profesional.",
+    "nota": "Una clínica pensada para los niños y toda la familia.",
+    "fotoEtiqueta": "DRA. PAULA VIDAL PEIRÓ",
+    "fotoTitulo": "Odontóloga y profesora de universidad.",
+    "cifra": "20+",
+    "cifraEtiqueta": "AÑOS CUIDANDO A NUESTROS PACIENTES",
+    "equipoTitulo": "Un equipo comprometido con tu sonrisa.",
+    "equipoTexto": "La Dra. Paula Vidal Peiró, junto al Dr. Aurelio Nicastro, periodoncista, la Dra. Sara Pérez, cirujana oral, y un equipo de auxiliares y atención al paciente.",
+    "valores": [
+      [
+        "Personalizada.",
+        "Cada caso, estudiado al detalle."
+      ],
+      [
+        "Estética.",
+        "Resultados naturales."
+      ],
+      [
+        "Familiar.",
+        "Pensada también para niños."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y calma.",
+    "galeriaDestacado": "En el centro de Gandia.",
+    "pies": [
+      "En el gabinete",
+      "La consulta"
+    ],
+    "servicios": [
+      "Estética dental",
+      "Ortodoncia invisible",
+      "Periodoncia",
+      "Cirugía oral",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes de 14:30 a 20:30; martes y jueves de 9:00 a 15:00 y de 16:00 a 20:00; miércoles de 9:00 a 19:30. Los viernes, cerrado."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Nuestra clínica está pensada para cuidar de los niños y de toda la familia."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ Moran Roda, 22, en Gandia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Estética dental",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Gandia",
+    "notaDiseno": "El verde suave de Paula Vidal, la doctora en su consulta y un «Solicitar cita» que por fin da la cita.",
+    "huecos": {
+      "lunes": [
+        "14:30",
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "16:30",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ],
+      "jueves": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 14:30–20:30",
+      "Martes y jueves: 9:00–15:00 y 16:00–20:00",
+      "Miércoles: 9:00–19:30",
+      "Viernes: cerrado"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 187
+    }
+  }
+}

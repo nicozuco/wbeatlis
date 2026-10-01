@@ -1,0 +1,158 @@
+{
+  "slug": "dra-adriana-saiz",
+  "numero": 151,
+  "clinica": {
+    "nombre": "Clínica Dental Dra. Adriana Saiz",
+    "nombreCorto": "Dra. Adriana Saiz",
+    "dominio": "draadrianasaiz.com",
+    "web": "https://draadrianasaiz.com/",
+    "contacto": "https://draadrianasaiz.com/contacto/",
+    "decisor": "Dra. Adriana Saiz"
+  },
+  "colores": {
+    "acento": "#a5645d",
+    "tinta": "#2b1a18",
+    "profundo": "#3b2321",
+    "suave": "#f9f4f4",
+    "borde": "#f0e5e3",
+    "calido": "#3f6b4f",
+    "calidoSuave": "#ecf0ed"
+  },
+  "fotos": {
+    "principal": "https://draadrianasaiz.com/wp-content/uploads/2023/02/clinica-dental-dra-adriana-saiz.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ VELÁZQUEZ, 8 · VALENCIA",
+    "titulo": [
+      "El email de vuestra web",
+      "apunta a un dominio que no existe."
+    ],
+    "intro": "Odontología avanzada y estética facial integral en Valencia, con 20 años de trayectoria y la Dra. Adriana Saiz al frente. Proponemos que el paciente reserve su primera visita en el momento, sin depender de un email ni de una llamada.",
+    "hallazgos": [
+      "En contacto, vuestra web muestra info@dradrianasaiz.com, sin la «a» de «adriana»: ese dominio no existe, así que lo que se escriba ahí no os llega.",
+      "La web da dos horarios distintos: la portada dice de 8:00 a 20:00 de lunes a jueves, y la página de contacto, de 9:00 a 14:00 y de 15:00 a 20:00.",
+      "El formulario de contacto pide nombre, email y consulta, pero no el teléfono, y los teléfonos aparecen como texto: desde el móvil no se pueden pulsar."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Una primera visita que se agenda sola.",
+      "texto": "Un asistente en vuestra web, junto a «Agenda aquí tu primera visita», que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Distingue si es de odontología o de estética facial, y lleva cada cita a la agenda que toca. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de la Dra. Saiz y su equipo."
+    },
+    "pregunta": "¿Sabíais que el email de la web tiene una letra de menos?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ VELÁZQUEZ, 8 · VALENCIA",
+    "telefono": "960 44 49 86",
+    "telefonos": "960 44 49 86 · WhatsApp 633 84 43 29",
+    "direccion": "C/ Velázquez, 8 · 46018 Valencia",
+    "marca": "DRA. ADRIANA SAIZ",
+    "submarca": "CLÍNICA DENTAL Y ESTÉTICA",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "CLÍNICA DENTAL Y ESTÉTICA EN VALENCIA",
+    "heroTitulo": "Odontología avanzada",
+    "heroDestacado": "y estética facial.",
+    "heroTexto": "20 años de trayectoria y formación continua, con cientos de pacientes felices. Elige día y hora y tu primera visita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Cientos de pacientes felices con sus resultados.",
+    "nota": "Hecho con cariño desde Valencia.",
+    "fotoEtiqueta": "CLÍNICA DRA. ADRIANA SAIZ",
+    "fotoTitulo": "Un espacio cálido y luminoso.",
+    "cifra": "20",
+    "cifraEtiqueta": "AÑOS DE TRAYECTORIA",
+    "equipoTitulo": "Sonrisa y rostro, en armonía.",
+    "equipoTexto": "La Dra. Adriana Saiz une la odontología avanzada (implantes, ortodoncia, carillas) con la estética facial integral, con formación profesional continua.",
+    "valores": [
+      [
+        "Avanzada.",
+        "Implantes y ortodoncia."
+      ],
+      [
+        "Estética.",
+        "Dental y facial."
+      ],
+      [
+        "Formación.",
+        "Siempre continua."
+      ]
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Implantes dentales",
+      "Carillas dentales",
+      "Blanqueamiento",
+      "Periodoncia",
+      "Estética facial"
+    ],
+    "faq": [
+      [
+        "¿Hacéis estética facial?",
+        "Sí: ácido hialurónico, labios, rejuvenecimiento facial y más, junto a la estética dental."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ Velázquez, 8, en Valencia."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 633 84 43 29 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Ortodoncia",
+      "Implantes",
+      "Estética facial"
+    ],
+    "pieMarca": "Clínica dental y estética en Valencia",
+    "notaDiseno": "Los rosas cálidos de la Dra. Adriana Saiz, su clínica luminosa y una primera visita que se agenda sola.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–14:00 y 15:00–20:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 191
+    }
+  }
+}
