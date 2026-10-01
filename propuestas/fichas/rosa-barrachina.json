@@ -1,0 +1,169 @@
+{
+  "slug": "rosa-barrachina",
+  "numero": 391,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Rosa Barrachina",
+    "nombreCorto": "Clínica Rosa Barrachina",
+    "dominio": "rbclinicadental.es",
+    "web": "https://www.rbclinicadental.es/",
+    "contacto": "https://www.rbclinicadental.es/contacto",
+    "decisor": "Dra. Rosa Barrachina"
+  },
+  "colores": {
+    "acento": "#1f5a94",
+    "tinta": "#16212d",
+    "profundo": "#192e43",
+    "suave": "#eff3f8",
+    "borde": "#d9e3ed",
+    "calido": "#7fb2d6",
+    "calidoSuave": "#f2f7fb"
+  },
+  "fotos": {
+    "principal": "https://www.rbclinicadental.es/wp-content/uploads/go-x/u/316c20e5-9733-4a9b-b025-2736e8e25617/image.jpg",
+    "clinica1": "https://www.rbclinicadental.es/wp-content/uploads/go-x/u/cdaae3ae-3f3c-4b64-b468-d8c4fbf7325a/image-607x455.jpg",
+    "clinica2": "https://www.rbclinicadental.es/wp-content/uploads/go-x/u/68069cd8-c931-4c8c-8f58-6754b17745a7/image-607x455.png"
+  },
+  "propuesta": {
+    "etiqueta": "AV. AUSIÀS MARCH, 9 · ROCAFORT",
+    "titulo": [
+      "Vuestra web tiene un formulario de contacto",
+      "de tres campos: sin teléfono, día ni hora."
+    ],
+    "intro": "La experiencia de cuatro generaciones cuidando de la salud bucodental en Rocafort, con la Dra. Rosa Barrachina y un equipo de especialistas en ortodoncia, implantología, periodoncia y prótesis. Proponemos que «Pídenos cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de la página de contacto tiene tres campos: un texto, un correo y un mensaje. No pide teléfono, ni día, ni hora, así que cada solicitud acaba en una llamada para cerrar la cita.",
+      "La web indica el horario de lunes a viernes de 12:00 a 20:00, y Google Maps cierra el viernes a las 19:00.",
+      "Según Google Maps cerráis el viernes a las 19:00 y no abrís hasta el lunes a las 12:00: 65 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pídenos cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno con el móvil que figura en vuestra ficha de Google (618 89 73 23). El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Barrachina y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario se quedan sin respuesta hasta que alguien os llama?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. AUSIÀS MARCH, 9 · ROCAFORT",
+    "telefono": "961 312 208",
+    "telefonos": "961 312 208 · 618 897 323",
+    "direccion": "Av. Ausiàs March, 9, bajo 2 · 46111 Rocafort (Valencia)",
+    "marca": "ROSA BARRACHINA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo profesional",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ROCAFORT",
+    "heroTitulo": "La experiencia de cuatro generaciones",
+    "heroDestacado": "cuidando tu sonrisa.",
+    "heroTexto": "Un equipo formado por especialistas en cada ámbito, con materiales de calidad y técnicas avanzadas. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pídenos cita",
+    "frase": "Resultados excelentes y duraderos.",
+    "nota": "Con trato amable y cercano.",
+    "fotoEtiqueta": "CLÍNICA ROSA BARRACHINA",
+    "fotoTitulo": "Tecnología de vanguardia en Rocafort.",
+    "cifra": "4",
+    "cifraEtiqueta": "GENERACIONES CUIDANDO LA SALUD BUCODENTAL",
+    "equipoTitulo": "Un equipo de especialistas.",
+    "equipoTexto": "La Dra. Rosa Barrachina Mataix, especialista en ortodoncia con máster por la Universidad de Valencia y un equipo de especialistas en cada ámbito.",
+    "valores": [
+      [
+        "Ortodoncia.",
+        "Con Invisalign."
+      ],
+      [
+        "Implantología.",
+        "Y periodoncia."
+      ],
+      [
+        "Para niños.",
+        "Odontología infantil."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Rocafort,",
+    "galeriaDestacado": "con tecnología.",
+    "pies": [
+      "La sala de espera",
+      "La clínica"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Implantología",
+      "Periodoncia",
+      "Prótesis",
+      "Estética",
+      "Endodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Ausiàs March, 9, bajo 2, en Rocafort."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, también odontología para niños."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 618 89 73 23 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Rocafort",
+    "notaDiseno": "El azul de la Clínica Barrachina, su sala de espera y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00",
+        "19:30"
+      ],
+      "martes": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00",
+        "19:30"
+      ],
+      "jueves": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "17:00",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 48
+    }
+  }
+}

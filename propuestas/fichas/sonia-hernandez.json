@@ -1,0 +1,169 @@
+{
+  "slug": "sonia-hernandez",
+  "numero": 420,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Clínica Dental Sonia Hernández",
+    "nombreCorto": "Clínica Sonia Hernández",
+    "dominio": "dentalsoniahernandez.es",
+    "web": "https://dentalsoniahernandez.es/",
+    "contacto": "https://dentalsoniahernandez.es/dentista-en-puerto-de-sagunto-contacto/",
+    "decisor": "Dra. Sonia Hernández"
+  },
+  "colores": {
+    "acento": "#0170b9",
+    "tinta": "#16242d",
+    "profundo": "#193243",
+    "suave": "#edf5fa",
+    "borde": "#d4e7f3",
+    "calido": "#8fb9d9",
+    "calidoSuave": "#f4f8fb"
+  },
+  "fotos": {
+    "principal": "https://dentalsoniahernandez.es/wp-content/uploads/sonia5.jpg",
+    "clinica1": "https://dentalsoniahernandez.es/wp-content/uploads/sonia3.jpg",
+    "clinica2": "https://dentalsoniahernandez.es/wp-content/uploads/sonia6.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. CAMP DE MORVEDRE, 54 · PUERTO DE SAGUNTO",
+    "titulo": [
+      "El botón «Whatsapp» de vuestra web abre wa.me/962674553:",
+      "sin el 34 y con el teléfono fijo."
+    ],
+    "intro": "Una clínica dental en Puerto de Sagunto con la Dra. Sonia Hernández, centrada en el paciente: odontología general, estética, ortodoncia e implantología. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En la cabecera y en la página de contacto, el botón «Whatsapp» abre wa.me/962674553: sin el prefijo 34, así que el chat no abre. Los botones «Pide cita» solo llaman por teléfono.",
+      "El formulario de contacto pide nombre, correo, asunto y mensaje: ni teléfono, ni día, ni hora.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 9:30: 61,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "Ya tenéis un botón de WhatsApp en la cabecera de la web: solo falta que abra el chat y deje la cita reservada. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Hernández y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes habrán tocado el botón de WhatsApp sin que se abriera el chat?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. CAMP DE MORVEDRE, 54 · PUERTO DE SAGUNTO",
+    "telefono": "962 674 553",
+    "telefonos": "962 674 553",
+    "direccion": "Av. Camp de Morvedre, 54, bajo · 46520 Puerto de Sagunto (Valencia)",
+    "marca": "SONIA HERNÁNDEZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PUERTO DE SAGUNTO",
+    "heroTitulo": "Tu sonrisa,",
+    "heroDestacado": "en buenas manos.",
+    "heroTexto": "Tratamientos dentales personalizados, tecnología avanzada y un trato cercano. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Una visión centrada en el paciente.",
+    "nota": "Cercana, honesta y de calidad.",
+    "fotoEtiqueta": "CLÍNICA SONIA HERNÁNDEZ",
+    "fotoTitulo": "Una clínica luminosa en Puerto de Sagunto.",
+    "cifra": "9",
+    "cifraEtiqueta": "ESPECIALIDADES EN UN MISMO LUGAR",
+    "equipoTitulo": "La Dra. Sonia Hernández.",
+    "equipoTexto": "Especialista en odontología con amplia experiencia en el cuidado integral de la salud bucodental, con un enfoque basado en la prevención y el trato cercano.",
+    "valores": [
+      [
+        "Estética dental.",
+        "A tu medida."
+      ],
+      [
+        "Implantes.",
+        "Y ortodoncia."
+      ],
+      [
+        "Para niños.",
+        "Odontopediatría."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Puerto",
+    "galeriaDestacado": "de Sagunto.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Odontología estética",
+      "Ortodoncia",
+      "Implantología",
+      "Periodoncia",
+      "Endodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Camp de Morvedre, 54, bajo, en Puerto de Sagunto."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, también odontopediatría."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 962 674 553 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Puerto de Sagunto",
+    "notaDiseno": "El azul de la Dra. Hernández, su recepción blanca y un WhatsApp que por fin abre.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 37
+    }
+  }
+}
