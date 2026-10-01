@@ -1,0 +1,169 @@
+{
+  "slug": "roberto-freund",
+  "numero": 693,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Clínica Dental Dr. Roberto Freund",
+    "nombreCorto": "Dr. Roberto Freund",
+    "dominio": "robertofreund.com",
+    "web": "https://www.robertofreund.com/",
+    "contacto": "https://robertofreund.com/contacto",
+    "decisor": "Dr. Roberto Freund"
+  },
+  "colores": {
+    "acento": "#2d3e50",
+    "tinta": "#18212a",
+    "profundo": "#212e3b",
+    "suave": "#f0f1f3",
+    "borde": "#dbdee1",
+    "calido": "#3a8f5c",
+    "calidoSuave": "#ebf4ef"
+  },
+  "fotos": {
+    "principal": "https://robertofreund.com/wp-content/uploads/2015/10/clinica-dental-torrevieja-freund6.jpg",
+    "clinica1": "https://robertofreund.com/wp-content/uploads/2015/08/slider-clinica-dentista-torrevieja-roberto-freund3.jpg",
+    "clinica2": "https://robertofreund.com/wp-content/uploads/2015/08/DENTISTA-EN-TORREVIEJA-500x300.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ RAMÓN GALLUD, 15 · TORREVIEJA",
+    "titulo": [
+      "Vuestro formulario de «Pida su cita ahora» pide nombre,",
+      "teléfono y correo: ni día, ni hora."
+    ],
+    "intro": "Más de 25 años de experiencia, profesionalidad y tecnología en Torrevieja, con el Dr. Roberto Freund, implantes, periodoncia, bruxismo y apnea del sueño, y un 4,8 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario «¡No espere más! Pida su cita ahora» solo pide nombre, teléfono y correo: no se puede elegir día ni hora, así que cada solicitud acaba en una llamada para cerrar la cita.",
+      "El teléfono 965 71 37 60 aparece escrito en la cabecera, sin enlace para llamar ni botón de WhatsApp: desde el móvil hay que copiar el número a mano.",
+      "Según Google Maps cerráis el viernes a las 20:30 y no abrís hasta el lunes a las 10:00: 61,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno para que «Pedir cita» la deje reservada, con día y hora. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dr. Roberto Freund."
+    },
+    "pregunta": "¿Cuántas personas habrán querido llamaros desde el móvil y no han podido?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ RAMÓN GALLUD, 15 · TORREVIEJA",
+    "telefono": "965 713 760",
+    "telefonos": "965 713 760 · WhatsApp",
+    "direccion": "C/ Ramón Gallud, 15 · 03181 Torrevieja (Alicante)",
+    "marca": "DR. ROBERTO FREUND",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN TORREVIEJA",
+    "heroTitulo": "Experiencia",
+    "heroDestacado": "y tecnología.",
+    "heroTexto": "Más de 25 años de profesionalidad en Torrevieja. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "¿Por qué el Dr. Roberto Freund?",
+    "nota": "Más de 25 años en Torrevieja.",
+    "fotoEtiqueta": "DR. ROBERTO FREUND",
+    "fotoTitulo": "Una clínica luminosa en Torrevieja.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Roberto Freund y su equipo.",
+    "equipoTexto": "Un equipo con odontología general, implantes, periodoncia, rayos X, apnea y antirronquidos, y bruxismo.",
+    "valores": [
+      [
+        "25 años.",
+        "De experiencia."
+      ],
+      [
+        "Tecnología.",
+        "Y profesionalidad."
+      ],
+      [
+        "Implantes.",
+        "Y periodoncia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Torrevieja.",
+    "pies": [
+      "La recepción",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Implantes",
+      "Periodoncia",
+      "Apnea y antirronquidos",
+      "Bruxismo",
+      "Reparación de prótesis"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Ramón Gallud, 15, en Torrevieja."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 965 71 37 60 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Torrevieja",
+    "notaDiseno": "El azul oscuro y el verde de Freund, su sala de espera y un teléfono que se toca y llama.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00 a 14:00 y 17:00 a 20:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 65
+    }
+  }
+}

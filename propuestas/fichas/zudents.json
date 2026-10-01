@@ -1,0 +1,169 @@
+{
+  "slug": "zudents",
+  "numero": 692,
+  "tanda": 5,
+  "clinica": {
+    "nombre": "Zudents Clinic",
+    "nombreCorto": "Zudents",
+    "dominio": "zudents.es",
+    "web": "http://zudents.es/",
+    "contacto": "https://zudents.es/contact",
+    "decisor": "Dr. Pérez Mateos"
+  },
+  "colores": {
+    "acento": "#7a8a3a",
+    "tinta": "#282d16",
+    "profundo": "#39411b",
+    "suave": "#f6f7f1",
+    "borde": "#e8ebde",
+    "calido": "#c9b8c0",
+    "calidoSuave": "#faf8f9"
+  },
+  "fotos": {
+    "principal": "https://zudents.es/wp-content/uploads/2024/01/MG_0330-scaled.jpg",
+    "clinica1": "https://zudents.es/wp-content/uploads/2025/03/Clinica1-1.jpg",
+    "clinica2": "https://zudents.es/wp-content/uploads/2025/03/Clinica3-edited.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ DR. PÉREZ MATEOS, 1 · SANT JOAN D'ALACANT",
+    "titulo": [
+      "Vuestra web dice que abrís de lunes a viernes de 9 a 20 h.",
+      "Google Maps dice que el viernes cerráis a las 14:00 y el lunes abrís a las 16:00."
+    ],
+    "intro": "Una clínica dental en San Juan con odontología integral y fisioterapia ATM, con la web también en inglés y en ruso, planes de financiación sin comisión de apertura y sin intereses, y un 4,6 en Google. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El horario de la web es «De lunes a viernes. De 9 h. a 13.30 h. y de 16 h a 20 h.», pero Google Maps cierra el viernes a las 14:00 y no abre el lunes hasta las 16:00: el paciente no sabe cuál de las dos horas es la buena.",
+      "El formulario de contacto pide nombre, apellidos, correo, teléfono (obligatorio) y mensaje, con captcha, sin elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 16:00: 74 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve de verdad.",
+      "texto": "Ya tenéis un botón flotante de WhatsApp en la web: proponemos que deje la cita reservada, con día y hora, en tres idiomas. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Zudents."
+    },
+    "pregunta": "¿Cuántos pacientes llegan un viernes por la tarde y se encuentran la clínica cerrada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ DR. PÉREZ MATEOS, 1 · SANT JOAN D'ALACANT",
+    "telefono": "661 386 730",
+    "telefonos": "661 386 730 · WhatsApp",
+    "direccion": "C/ Dr. Pérez Mateos, 1, local 15 · 03550 Sant Joan d'Alacant (Alicante)",
+    "marca": "ZUDENTS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN SAN JUAN",
+    "heroTitulo": "Recupera tu",
+    "heroDestacado": "salud dental.",
+    "heroTexto": "Deja tu sonrisa en nuestras manos: odontología y fisioterapia ATM en San Juan. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Planes de financiación sin comisión de apertura.",
+    "nota": "San Juan, Alicante.",
+    "fotoEtiqueta": "ZUDENTS",
+    "fotoTitulo": "Una clínica luminosa en San Juan.",
+    "cifra": "4,6",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "El Dr. Pérez Mateos y su equipo.",
+    "equipoTexto": "Un equipo de odontología integral con fisioterapia ATM, en una clínica luminosa de San Juan.",
+    "valores": [
+      [
+        "Tres idiomas.",
+        "Español, inglés y ruso."
+      ],
+      [
+        "Financiación.",
+        "Sin intereses."
+      ],
+      [
+        "Fisioterapia.",
+        "Y ATM."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En San Juan,",
+    "galeriaDestacado": "Alicante.",
+    "pies": [
+      "La recepción",
+      "El equipo"
+    ],
+    "servicios": [
+      "Odontología integral",
+      "Blanqueamiento dental",
+      "Fisioterapia y ATM",
+      "Ortodoncia",
+      "Implantes",
+      "Casos clínicos"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Dr. Pérez Mateos, 1, local 15, en San Juan de Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 661 38 67 30 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Sant Joan d'Alacant",
+    "notaDiseno": "El verde oliva y el lila de Zudents, su recepción y un viernes con una sola hora de cierre.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00 a 13:30 y 16:00 a 20:00"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 65
+    }
+  }
+}
