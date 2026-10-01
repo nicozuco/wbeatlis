@@ -1,0 +1,163 @@
+{
+  "slug": "clinica-cervantes",
+  "numero": 331,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Cervantes · Dra. Ester Martínez",
+    "nombreCorto": "Clínica Cervantes",
+    "dominio": "estermartinez.com",
+    "web": "http://www.estermartinez.com/",
+    "contacto": "http://www.estermartinez.com/",
+    "decisor": "Dra. Ester Martínez"
+  },
+  "colores": {
+    "acento": "#3d7a1f",
+    "tinta": "#1d2d16",
+    "profundo": "#274319",
+    "suave": "#f1f6ef",
+    "borde": "#dee8d9",
+    "calido": "#1b2f6b",
+    "calidoSuave": "#e8eaf0"
+  },
+  "fotos": {
+    "principal": "https://estermartinez.com/wp-content/uploads/clinica_cervantes_006-1.jpg",
+    "clinica1": "https://estermartinez.com/wp-content/uploads/home_02.jpg",
+    "clinica2": "https://estermartinez.com/wp-content/uploads/home_0.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. CERVANTES, 12 · LA POBLA DE VALLBONA",
+    "titulo": [
+      "«Solicita tu cita», dice la web.",
+      "Y la cita es llamar a uno de dos teléfonos."
+    ],
+    "intro": "Más de 20 años de atención dental personalizada en La Pobla de Vallbona, con la Dra. Ester Martínez al frente de un equipo con odontología, ortodoncia, implantología y endodoncia. Proponemos que «Solicita tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "La web no tiene ningún formulario ni botón de cita: «Solicita tu cita» es una frase seguida de dos números de teléfono, el 96 166 18 65 y el 601 28 48 02.",
+      "En el código de la cabecera, los enlaces de los teléfonos y del correo terminan en una llave «}» (tel:96 166 18 65}, mailto:info@estermartinez.com}): errata de plantilla.",
+      "Según Google Maps cerráis el viernes a las 21:00 y no abrís hasta el lunes a las 9:00: 60 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Solicita tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el teléfono 961 661 865 en la web. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Martínez y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas se pierden mientras estáis en consulta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. CERVANTES, 12 · LA POBLA DE VALLBONA",
+    "telefono": "961 661 865",
+    "telefonos": "961 661 865 · 601 284 802",
+    "direccion": "Av. Cervantes, 12 · 46185 La Pobla de Vallbona (Valencia)",
+    "marca": "CERVANTES",
+    "submarca": "DRA. ESTER MARTÍNEZ",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN LA POBLA DE VALLBONA",
+    "heroTitulo": "Un buen día empieza",
+    "heroDestacado": "con una sonrisa.",
+    "heroTexto": "Atención dental personalizada con las técnicas de diagnóstico y tratamiento más avanzadas. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Solicita tu cita",
+    "frase": "Trato personalizado, directo y cercano.",
+    "nota": "Viernes por la tarde, solo con cita previa.",
+    "fotoEtiqueta": "CLÍNICA CERVANTES",
+    "fotoTitulo": "La sala de espera.",
+    "cifra": "20",
+    "cifraEtiqueta": "AÑOS DE ATENCIÓN PERSONALIZADA",
+    "equipoTitulo": "Un equipo altamente cualificado.",
+    "equipoTexto": "La Dra. Ester Martínez en odontología, la Dra. Paula Fructuoso en ortopedia, la Dra. Mónica Mahiques en implantología y la Dra. Lucía Martín en endodoncia.",
+    "valores": [
+      [
+        "Más de 20 años.",
+        "Atención personalizada."
+      ],
+      [
+        "Diagnóstico avanzado.",
+        "Técnicas actuales."
+      ],
+      [
+        "Para niños.",
+        "Odontopediatría."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En La Pobla,",
+    "galeriaDestacado": "con cercanía.",
+    "pies": [
+      "El pasillo",
+      "La clínica"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Implantología",
+      "Endodoncia",
+      "Ortodoncia invisible",
+      "Odontopediatría",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Cervantes, 12, en La Pobla de Vallbona."
+      ],
+      [
+        "¿Abrís el viernes por la tarde?",
+        "Solo con cita previa."
+      ],
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Escríbenos en la web y la dejamos reservada, con día y hora, en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en La Pobla de Vallbona",
+    "notaDiseno": "El verde y el azul de Clínica Cervantes y una cita que se reserva sin descolgar el teléfono.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "20:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "12:30",
+        "15:30",
+        "17:00",
+        "20:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes 9–14 h y 15–21 h · viernes por la tarde, solo con cita previa"
+    ]
+  }
+}

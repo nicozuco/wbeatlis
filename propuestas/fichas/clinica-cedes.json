@@ -1,0 +1,168 @@
+{
+  "slug": "clinica-cedes",
+  "numero": 320,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Cedes",
+    "nombreCorto": "Clínica Cedes",
+    "dominio": "clinicacedes.es",
+    "web": "https://clinicacedes.es/",
+    "contacto": "https://clinicacedes.es/#contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#2451e6",
+    "tinta": "#161b2d",
+    "profundo": "#192343",
+    "suave": "#f0f3fd",
+    "borde": "#dae1fb",
+    "calido": "#cc3366",
+    "calidoSuave": "#faebf0"
+  },
+  "fotos": {
+    "principal": "https://clinicacedes.es/wp-content/uploads/2022/07/Clinica-Cedes-12-1024x683.jpg",
+    "clinica1": "https://clinicacedes.es/wp-content/uploads/2022/07/Clinica-Cedes-20-2048x1365.jpg",
+    "clinica2": "https://clinicacedes.es/wp-content/uploads/2022/07/Clinica-Cedes-34-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRETERA DE VALÈNCIA, 18 · RIBA-ROJA DE TÚRIA",
+    "titulo": [
+      "Vuestro horario dice que el viernes abrís de 10 a 20:30.",
+      "Y, en la misma línea, que abrís de 10 a 16."
+    ],
+    "intro": "Más de 20 años de odontología avanzada para todos en Riba-roja de Túria, con escáner intraoral Medit i700 y TAC dental CBCT, y atención continua por WhatsApp. Proponemos que «Reserva ya» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El horario de la web se contradice: «Lunes a viernes: 10:00–13:30 y 16:00–20:30», y debajo «Viernes: 10:00–16:00» y «Miércoles: 14:30–20:30». El paciente no sabe cuándo abrís en realidad.",
+      "El formulario de «Reserva tu cita» pide nombre, apellidos, correo, teléfono y mensaje, pero ni día ni hora: la cita se concierta después, por teléfono o por correo.",
+      "Según Google Maps cerráis el viernes a las 20:30 y no abrís hasta el lunes a las 10:00: 61,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reserva ya» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 615 85 41 09 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento con el horario correcto, también fuera de horario, y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Cedes."
+    },
+    "pregunta": "¿Cuántos pacientes os preguntan a qué hora abrís el viernes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRETERA DE VALÈNCIA, 18 · RIBA-ROJA DE TÚRIA",
+    "telefono": "962 779 839",
+    "telefonos": "962 779 839 · WhatsApp 615 854 109",
+    "direccion": "Carretera de València, 18, A · 46190 Riba-roja de Túria (Valencia)",
+    "marca": "CEDES",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN RIBA-ROJA DE TÚRIA",
+    "heroTitulo": "Creamos",
+    "heroDestacado": "tu mejor sonrisa.",
+    "heroTexto": "Odontología avanzada para todos, con atención continua por WhatsApp. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva ya",
+    "frase": "Nuestro mayor valor son nuestros pacientes.",
+    "nota": "Horarios adaptados al paciente.",
+    "fotoEtiqueta": "EQUIPO CEDES",
+    "fotoTitulo": "Un equipo a tu servicio.",
+    "cifra": "20",
+    "cifraEtiqueta": "AÑOS A TU SERVICIO",
+    "equipoTitulo": "Tu salud, nuestra prioridad.",
+    "equipoTexto": "Implantes de última generación, sonrisas armónicas que respetan tu personalidad y tecnología 3D: escáner intraoral y TAC dental.",
+    "valores": [
+      [
+        "Escáner intraoral.",
+        "Medit i700."
+      ],
+      [
+        "TAC dental 3D.",
+        "CBCT."
+      ],
+      [
+        "WhatsApp.",
+        "Atención continua."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Riba-roja,",
+    "galeriaDestacado": "con tecnología.",
+    "pies": [
+      "La sala de espera",
+      "La fachada"
+    ],
+    "servicios": [
+      "Implantes",
+      "Ortodoncia",
+      "Estética dental",
+      "Odontología general",
+      "Urgencias",
+      "Diagnóstico 3D"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Carretera de València, 18, A, en Riba-roja de Túria."
+      ],
+      [
+        "¿Atendéis urgencias?",
+        "Sí, la web tiene un apartado de urgencias y atención continua por WhatsApp."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 615 85 41 09 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Riba-roja de Túria",
+    "notaDiseno": "El azul de Cedes, su clínica y un WhatsApp que siempre da el horario correcto.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "15:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves 10–13:30 y 16–20:30 · viernes 10–16 h"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 70
+    }
+  }
+}

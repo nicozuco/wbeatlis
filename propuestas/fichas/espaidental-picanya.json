@@ -1,0 +1,169 @@
+{
+  "slug": "espaidental-picanya",
+  "numero": 310,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental EspaiDental Picanya",
+    "nombreCorto": "EspaiDental Picanya",
+    "dominio": "clinicaespaidental.com",
+    "web": "https://clinicaespaidental.com/",
+    "contacto": "https://clinicaespaidental.com/contacto/",
+    "decisor": "Dr. Aleixandre Sanchis"
+  },
+  "colores": {
+    "acento": "#1e4b75",
+    "tinta": "#16222d",
+    "profundo": "#192f43",
+    "suave": "#eff2f5",
+    "borde": "#d9e0e8",
+    "calido": "#2aa6d6",
+    "calidoSuave": "#eaf6fb"
+  },
+  "fotos": {
+    "principal": "https://clinicaespaidental.com/wp-content/uploads/2016/06/exterior2.jpg",
+    "clinica1": "https://clinicaespaidental.com/wp-content/uploads/2016/06/pasillo.jpg",
+    "clinica2": "https://clinicaespaidental.com/wp-content/uploads/2016/06/interior1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ VERGE DEL PILAR, 1 · PICANYA",
+    "titulo": [
+      "Dos teléfonos en la cabecera, y ninguno se puede pulsar.",
+      "Y el formulario no pide el teléfono."
+    ],
+    "intro": "Un centro de alta especialización dental en Picanya con trato familiar: implantes sin cirugía invasiva, endodoncias con microscopio y láser, y un 4,8 en Google. Proponemos que pedir cita sea escribir y recibir día y hora.",
+    "hallazgos": [
+      "La cabecera de toda la web dice «Teléfonos de la clínica: 961 18 17 82 / 601 18 19 59 · Móvil para urgencias: 601 18 19 59», pero ninguno de los tres números es un enlace: desde el móvil hay que copiarlos a mano.",
+      "El formulario de contacto pide nombre, email y mensaje, sin teléfono, día ni hora: para dar cita hay que contestar por correo.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 9:00: 61 horas seguidas sin nadie que conteste, urgencias incluidas."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que pedir cita sea escribiros por WhatsApp.",
+      "texto": "Ya tenéis un móvil de urgencias, el 601 18 19 59. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, distingue urgencia de cita y deja la visita reservada, también el fin de semana. Lo clínico sigue siendo cosa de el Dr. Sanchis y su equipo."
+    },
+    "pregunta": "¿Cuántas urgencias os llegan el fin de semana al móvil 601 18 19 59?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ VERGE DEL PILAR, 1 · PICANYA",
+    "telefono": "961 181 782",
+    "telefonos": "961 181 782 · Urgencias 601 181 959",
+    "direccion": "C/ Verge del Pilar, 1 · 46210 Picanya (Valencia)",
+    "marca": "ESPAIDENTAL",
+    "submarca": "ALEIXANDRE SANCHIS",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PICANYA",
+    "heroTitulo": "Somos expertos",
+    "heroDestacado": "en buscar soluciones.",
+    "heroTexto": "Alta especialización dental con el trato más familiar. Escríbenos, elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "La visita al dentista, un juego.",
+    "nota": "Móvil para urgencias odontológicas: 601 18 19 59.",
+    "fotoEtiqueta": "ESPAIDENTAL PICANYA",
+    "fotoTitulo": "En el centro de Picanya.",
+    "cifra": "11",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "Un trato cercano y familiar.",
+    "equipoTexto": "El Dr. Aleixandre Sanchis, el Dr. Daniel Jaramillo y la Dra. Icíar Sanz, con implantes, ortodoncia, endodoncia, bruxismo y odontopediatría.",
+    "valores": [
+      [
+        "Flapless.",
+        "Implantes sin cirugía invasiva."
+      ],
+      [
+        "Endodoncia.",
+        "Con microscopio y láser."
+      ],
+      [
+        "Niños.",
+        "Una visita que es un juego."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Un centro",
+    "galeriaDestacado": "luminoso.",
+    "pies": [
+      "El pasillo",
+      "El interior"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Endodoncia",
+      "Bruxismo",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Verge del Pilar, 1, en Picanya."
+      ],
+      [
+        "¿Tenéis teléfono de urgencias?",
+        "Sí: 601 18 19 59."
+      ],
+      [
+        "¿Hacéis implantes sin cirugía invasiva?",
+        "Sí, con la técnica Flapless."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Endodoncia",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Picanya",
+    "notaDiseno": "El azul de EspaiDental, su centro y un WhatsApp que atiende también cuando la clínica está cerrada.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 76
+    }
+  }
+}

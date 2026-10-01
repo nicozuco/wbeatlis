@@ -1,0 +1,168 @@
+{
+  "slug": "covadonga-balaguer",
+  "numero": 337,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Covadonga Balaguer Ortodoncia",
+    "nombreCorto": "Covadonga Balaguer",
+    "dominio": "covadongabalaguer.es",
+    "web": "http://www.covadongabalaguer.es/",
+    "contacto": "http://www.covadongabalaguer.es/contacto/",
+    "decisor": "Dra. Covadonga Balaguer"
+  },
+  "colores": {
+    "acento": "#5a5a5a",
+    "tinta": "#212121",
+    "profundo": "#2e2e2e",
+    "suave": "#f3f3f3",
+    "borde": "#e3e3e3",
+    "calido": "#c9a24a",
+    "calidoSuave": "#faf6ed"
+  },
+  "fotos": {
+    "principal": "https://www.covadongabalaguer.es/wp-content/uploads/2022/10/unnamed-9.jpg",
+    "clinica1": "https://www.covadongabalaguer.es/wp-content/uploads/2022/10/unnamed-11.jpg",
+    "clinica2": "https://www.covadongabalaguer.es/wp-content/uploads/2022/10/unnamed-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE ARAGÓN, 38 · VALENCIA",
+    "titulo": [
+      "«Solicitar cita», dice el botón.",
+      "Y el formulario no pide el teléfono."
+    ],
+    "intro": "Una clínica de ortodoncia para niños y adultos en la Avenida de Aragón, con Covadonga Balaguer como «cara visible» y miles de sonrisas devueltas. Proponemos que «Solicitar cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, email y mensaje, sin teléfono, día ni hora: para dar cita hay que contestar por correo y esperar a que el paciente lo lea.",
+      "Uno de los botones «Solicitar cita» llama directamente al 618 40 86 26: si estáis en gabinete, la solicitud se queda en una llamada perdida.",
+      "Según Google Maps cerráis el viernes a las 19:00 y no abrís hasta el lunes a las 10:00: 63 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Solicitar cita» reserve de verdad.",
+      "texto": "Ya tenéis el móvil 618 40 86 26 en la web. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta si es para niños o adultos, resuelve las dudas de ortodoncia y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Balaguer y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas perdidas os deja el botón de solicitar cita cada semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE ARAGÓN, 38 · VALENCIA",
+    "telefono": "963 697 676",
+    "telefonos": "963 697 676 · 618 408 626",
+    "direccion": "Av. d’Aragó, 38 · 46021 Valencia",
+    "marca": "COVADONGA BALAGUER",
+    "submarca": "ORTODONCIA",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "ORTODONCIA PARA NIÑOS Y ADULTOS EN VALENCIA",
+    "heroTitulo": "El camino hacia",
+    "heroDestacado": "la sonrisa que quieres.",
+    "heroTexto": "Especialistas en ortodoncia con tecnología avanzada y un trato personalizado. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Solicitar cita",
+    "frase": "Personalización y trato, en cada tratamiento.",
+    "nota": "Con consulta online.",
+    "fotoEtiqueta": "CLÍNICA COVADONGA BALAGUER",
+    "fotoTitulo": "La entrada.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Especialistas en ortodoncia.",
+    "equipoTexto": "Covadonga Balaguer, la cara visible tras la clínica, y un equipo volcado en resolver dudas y necesidades desde el primer momento.",
+    "valores": [
+      [
+        "Ortodoncia.",
+        "Niños y adultos."
+      ],
+      [
+        "Tecnología avanzada.",
+        "A tu disposición."
+      ],
+      [
+        "Resultados.",
+        "Eficaces y duraderos."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En la Avenida",
+    "galeriaDestacado": "de Aragón.",
+    "pies": [
+      "La entrada",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Ortodoncia con brackets",
+      "Ortodoncia infantil",
+      "Ortodoncia en adultos",
+      "Consulta online"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. d’Aragó, 38, en Valencia."
+      ],
+      [
+        "¿Hacéis ortodoncia a niños y adultos?",
+        "Sí, somos especialistas en ortodoncia para niños y adultos."
+      ],
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Escríbenos en la web y la dejamos reservada, con día y hora, en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Ortodoncia en Valencia",
+    "notaDiseno": "El gris y el dorado de Covadonga Balaguer, su clínica y una cita que se reserva sin llamada perdida.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 64
+    }
+  }
+}

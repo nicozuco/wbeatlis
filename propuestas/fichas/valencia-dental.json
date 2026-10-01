@@ -1,0 +1,167 @@
+{
+  "slug": "valencia-dental",
+  "numero": 347,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Valencia Dental · Centro Odontológico",
+    "nombreCorto": "Valencia Dental",
+    "dominio": "valenciadental.es",
+    "web": "https://www.valenciadental.es/",
+    "contacto": "https://www.valenciadental.es/pide-cita",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1f6bb5",
+    "tinta": "#16212d",
+    "profundo": "#192e43",
+    "suave": "#eff5fa",
+    "borde": "#d9e6f2",
+    "calido": "#00a99d",
+    "calidoSuave": "#e6f6f5"
+  },
+  "fotos": {
+    "principal": "https://www.valenciadental.es/wp-content/uploads/2022/11/Clinica-Dental-Valencia-49.jpg",
+    "clinica1": "https://www.valenciadental.es/wp-content/uploads/2022/11/Clinica-Dental-Valencia-45-e1667647283778.jpg",
+    "clinica2": "https://www.valenciadental.es/wp-content/uploads/2022/11/Clinica-Dental-Valencia-35.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MARTÍ L’HUMÀ, 25 · VALENCIA",
+    "titulo": [
+      "«Pide tu cita aquí», dice el formulario.",
+      "Y la cita sigue sin tener día ni hora."
+    ],
+    "intro": "Un centro odontológico en Extramurs con todas las especialidades para todos los pacientes: odontología familiar, implantes, ortodoncia, periodoncia, endodoncia y blanqueamiento. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "«Pide cita» abre un formulario (¿eres paciente?, nombre, teléfono, email y motivo de la consulta), pero no pregunta cuándo: la cita se concierta después, por teléfono.",
+      "El pie de la web todavía dice «Copyright ©2022»: a primera vista, una web sin actualizar desde hace años.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:30: 67,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pide cita» reserve de verdad.",
+      "texto": "Ya tenéis el teléfono 96 385 31 47 en la web. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. El agente web responde las dudas sobre implantes, ortodoncia o blanqueamiento, enseña los huecos libres y deja la cita reservada. Lo clínico sigue siendo cosa de el equipo de Valencia Dental."
+    },
+    "pregunta": "¿Cuántos pacientes dejan el formulario porque quieren ver los huecos libres?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MARTÍ L’HUMÀ, 25 · VALENCIA",
+    "telefono": "963 853 147",
+    "telefonos": "963 853 147",
+    "direccion": "C/ Martí l’Humà, 25, bajo · 46008 Valencia",
+    "marca": "VALENCIA DENTAL",
+    "submarca": "CENTRO ODONTOLÓGICO",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "CENTRO ODONTOLÓGICO EN VALENCIA",
+    "heroTitulo": "Todas las especialidades,",
+    "heroDestacado": "para todos los pacientes.",
+    "heroTexto": "Odontología familiar, implantes, ortodoncia, periodoncia, endodoncia y blanqueamiento dental. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Cuidamos de todos.",
+    "nota": "Con cita previa.",
+    "fotoEtiqueta": "VALENCIA DENTAL",
+    "fotoTitulo": "El centro, en Extramurs.",
+    "cifra": "4,6",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Odontología integral.",
+    "equipoTexto": "Ofrecemos todas las especialidades para todos los pacientes, con odontología familiar, implantes dentales, ortodoncia y periodoncia.",
+    "valores": [
+      [
+        "Familiar.",
+        "Para todas las edades."
+      ],
+      [
+        "Implantes.",
+        "Con experiencia."
+      ],
+      [
+        "Integral.",
+        "Todas las especialidades."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Valencia.",
+    "pies": [
+      "El gabinete",
+      "El pasillo"
+    ],
+    "servicios": [
+      "Odontología familiar",
+      "Implantes dentales",
+      "Ortodoncia",
+      "Periodoncia",
+      "Endodoncia",
+      "Blanqueamiento dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Martí l’Humà, 25, bajo, en Valencia."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:30 a 14:00 y de 16:00 a 20:30, y los viernes de 9:30 a 14:00."
+      ],
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Escríbenos en la web y la dejamos reservada, con día y hora, en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Centro odontológico en Valencia",
+    "notaDiseno": "El azul y el verde de Valencia Dental, su centro luminoso y un agente que enseña los huecos libres.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "L–J 9:30–14:00 y 16:00–20:30 · V 9:30–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 60
+    }
+  }
+}

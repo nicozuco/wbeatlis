@@ -1,0 +1,166 @@
+{
+  "slug": "dentoliva",
+  "numero": 339,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Oliva · Dentoliva",
+    "nombreCorto": "Dentoliva",
+    "dominio": "dentoliva.es",
+    "web": "https://www.dentoliva.es/",
+    "contacto": "https://www.dentoliva.es/contacto/#pide-cita",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#2f6db0",
+    "tinta": "#16212d",
+    "profundo": "#192d43",
+    "suave": "#f0f5f9",
+    "borde": "#dce6f2",
+    "calido": "#e6a817",
+    "calidoSuave": "#fcf6e8"
+  },
+  "fotos": {
+    "principal": "https://dentoliva.es/wp-content/uploads/2021/08/dentistas-clinica-dentoliva-equipo-PEQ-1.jpg",
+    "clinica1": "https://dentoliva.es/wp-content/uploads/2021/08/doctor-atiende-a-paciente-tendido-mirando-radiografia-dental-1.jpg",
+    "clinica2": "https://dentoliva.es/wp-content/uploads/2021/08/dentistas-clinica-dentoliva-equipo-2-.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. LOYGORRI, 1 · OLIVA",
+    "titulo": [
+      "Vuestro botón de WhatsApp escribe, por el paciente:",
+      "«¡Bienvenido/a a Dentoliva!»"
+    ],
+    "intro": "Dentistas en Oliva desde 1990, especializados en implantología, salud dental y odontología estética, con un 4,9 en Google. Proponemos que el WhatsApp reserve la cita, con día y hora, en lugar de iniciar una conversación.",
+    "hallazgos": [
+      "El botón de WhatsApp prepara este mensaje para el paciente: «¡Hola! ¡Bienvenido/a a Dentoliva! ¿En qué te podemos ayudar?». Es vuestro saludo, no el del paciente: quien lo envíe os estará escribiendo vuestra propia bienvenida.",
+      "El horario publicado cierra el martes a las 15:00, el miércoles a las 16:00 y el viernes a las 16:00: hay tardes enteras sin nadie al teléfono, y tampoco hay fin de semana.",
+      "Según Google Maps cerráis el viernes a las 16:00 y no abrís hasta el lunes a las 10:00: 66 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 638 08 85 19 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también por la tarde y el fin de semana, y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dentoliva."
+    },
+    "pregunta": "¿Cuántos pacientes os responden «¿en qué te podemos ayudar?» a vuestro propio saludo?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. LOYGORRI, 1 · OLIVA",
+    "telefono": "960 707 670",
+    "telefonos": "960 707 670 · WhatsApp 638 088 519",
+    "direccion": "Avda. Loygorri, 1 · 46780 Oliva (Valencia)",
+    "marca": "DENTOLIVA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "DENTISTAS EN OLIVA DESDE 1990",
+    "heroTitulo": "Somos dentistas",
+    "heroDestacado": "en Oliva.",
+    "heroTexto": "Especializados en implantología, salud dental y odontología estética. Solicita tu primera consulta: elige día y hora y queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "La prioridad son los pacientes.",
+    "nota": "Dentistas desde 1990.",
+    "fotoEtiqueta": "DENTOLIVA",
+    "fotoTitulo": "El equipo, en la recepción.",
+    "cifra": "1990",
+    "cifraEtiqueta": "DENTISTAS EN OLIVA",
+    "equipoTitulo": "Un equipo implicado al 100%.",
+    "equipoTexto": "Los doctores Ricardo, Laura, Ignacio Colombo y Carmen Gemelli, con cirugía e implantes, ortodoncia, estética y blanqueamientos.",
+    "valores": [
+      [
+        "Implantes.",
+        "Cirugía avanzada."
+      ],
+      [
+        "Ortodoncia.",
+        "Todas las edades."
+      ],
+      [
+        "Estética dental.",
+        "Y blanqueamientos."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Oliva,",
+    "galeriaDestacado": "desde 1990.",
+    "pies": [
+      "La consulta",
+      "El equipo"
+    ],
+    "servicios": [
+      "Cirugía e implantes",
+      "Ortodoncia",
+      "Odontología estética",
+      "Blanqueamientos dentales",
+      "Ácido hialurónico",
+      "Endodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Avda. Loygorri, 1, en Oliva."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "Lunes y jueves de 10 a 19, martes de 10 a 15, miércoles de 10 a 16 y viernes de 9 a 16 h."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 638 08 85 19 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Oliva",
+    "notaDiseno": "El azul y el ámbar de Dentoliva, su equipo y un WhatsApp que ya no empieza con vuestro propio saludo.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "13:30",
+        "15:00"
+      ]
+    },
+    "horario": [
+      "L y J 10–19 · M 10–15 · X 10–16 · V 9–16 h"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 64
+    }
+  }
+}

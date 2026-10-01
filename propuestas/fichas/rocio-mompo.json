@@ -1,0 +1,167 @@
+{
+  "slug": "rocio-mompo",
+  "numero": 308,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Rocío Mompó Clínica Dental",
+    "nombreCorto": "Rocío Mompó",
+    "dominio": "rociomompo.com",
+    "web": "https://rociomompo.com/",
+    "contacto": "https://rociomompo.com/",
+    "decisor": "Dra. Rocío Mompó"
+  },
+  "colores": {
+    "acento": "#b3305c",
+    "tinta": "#2d161d",
+    "profundo": "#431927",
+    "suave": "#faf1f4",
+    "borde": "#f2dce3",
+    "calido": "#8c8f94",
+    "calidoSuave": "#f4f4f4"
+  },
+  "fotos": {
+    "principal": "https://rociomompo.com/wp-content/uploads/2026/05/Portada-Rocio-.webp",
+    "clinica1": "https://rociomompo.com/wp-content/uploads/2024/10/11.webp",
+    "clinica2": "https://rociomompo.com/wp-content/uploads/2024/10/10.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ REVERENDO JOSÉ MARÍA PINAZO, 3 · BENIMACLET",
+    "titulo": [
+      "«No solo tratamos dientes. ¡Cuidamos personas!»",
+      "Y en la web, el teléfono fijo abre un WhatsApp."
+    ],
+    "intro": "Odontología integrativa en Benimaclet: sonrisas funcionales en cuerpos y mentes sanas, con un equipo que incluye osteópata, posturólogo y logopeda, y un 4,9 en Google. Proponemos que pedir cita sea escribir y recibir día y hora.",
+    "hallazgos": [
+      "El teléfono +34 960 01 70 33 del pie de la web, al pulsarlo, no llama: abre un chat de WhatsApp con el 637 871 798.",
+      "El formulario de contacto pide nombre, email y mensaje, sin teléfono, día ni hora: para dar cita hay que contestar por correo y esperar a que el paciente lo lea.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que el WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 637 87 17 98 en toda la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, pregunta si es para odontología, ortodoncia o medicina del sueño y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. Mompó y su equipo."
+    },
+    "pregunta": "¿Cuántas personas os llaman al fijo cuando lo que hace es abrir un WhatsApp?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ REVERENDO JOSÉ MARÍA PINAZO, 3 · BENIMACLET",
+    "telefono": "637 871 798",
+    "telefonos": "960 017 033 · WhatsApp 637 871 798",
+    "direccion": "C/ del Reverend José María Pinazo, 3 · 46020 Valencia (Benimaclet)",
+    "marca": "ROCÍO MOMPÓ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "ODONTOLOGÍA INTEGRATIVA EN BENIMACLET",
+    "heroTitulo": "No solo tratamos dientes.",
+    "heroDestacado": "Cuidamos personas.",
+    "heroTexto": "Sonrisas funcionales en cuerpos y mentes sanas. Escríbenos, elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Nuestros dientes son el reflejo de nuestra salud general.",
+    "nota": "Odontología deportiva y biológica.",
+    "fotoEtiqueta": "ROCÍO MOMPÓ CLÍNICA DENTAL",
+    "fotoTitulo": "Un equipo de las mejores personas.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo profesional, multidisciplinar.",
+    "equipoTexto": "Implantología y periodoncia, ortodoncia, endodoncia, odontopediatría, medicina del sueño, osteopatía, posturología y logopedia en el mismo equipo.",
+    "valores": [
+      [
+        "Integrativa.",
+        "Salud general y oral."
+      ],
+      [
+        "Multidisciplinar.",
+        "Un mismo equipo."
+      ],
+      [
+        "Funcional.",
+        "Sonrisas que duran."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Benimaclet,",
+    "galeriaDestacado": "con luz.",
+    "pies": [
+      "El gabinete",
+      "Digital"
+    ],
+    "servicios": [
+      "Odontología integrativa",
+      "Implantes y periodoncia",
+      "Ortodoncia",
+      "Endodoncia",
+      "Odontopediatría",
+      "Medicina del sueño"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ del Reverend José María Pinazo, 3, en Benimaclet (Valencia)."
+      ],
+      [
+        "¿Qué es la odontología integrativa?",
+        "Considera al paciente como un ser complejo e indivisible: la salud de la boca y la del resto del cuerpo van juntas."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 637 87 17 98 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Odontología integrativa",
+      "Ortodoncia",
+      "Medicina del sueño",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Benimaclet",
+    "notaDiseno": "El frambuesa de Rocío Mompó, su equipo y un WhatsApp que por fin es el único teléfono que hace falta.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 76
+    }
+  }
+}

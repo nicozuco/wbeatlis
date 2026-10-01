@@ -1,0 +1,167 @@
+{
+  "slug": "garcia-frexes",
+  "numero": 338,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental García Frexes",
+    "nombreCorto": "García Frexes",
+    "dominio": "clinicagarciafrexes.com",
+    "web": "http://www.clinicagarciafrexes.com/",
+    "contacto": "http://www.clinicagarciafrexes.com/#contacto",
+    "decisor": "Dr. Enrique Frexes"
+  },
+  "colores": {
+    "acento": "#1e73be",
+    "tinta": "#16222d",
+    "profundo": "#192f43",
+    "suave": "#eff5fa",
+    "borde": "#d9e7f4",
+    "calido": "#8abb85",
+    "calidoSuave": "#f3f8f3"
+  },
+  "fotos": {
+    "principal": "https://clinicagarciafrexes.com/wp-content/uploads/2024/11/ACX9900-scaled.jpg",
+    "clinica1": "https://clinicagarciafrexes.com/wp-content/uploads/2024/11/ACX9437-2048x1365.jpg",
+    "clinica2": "https://clinicagarciafrexes.com/wp-content/uploads/2024/11/ACX9722-2048x1365.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MAGISTRAT CATALÀ, 7 · GANDIA",
+    "titulo": [
+      "Uno de vuestros botones «Pide tu cita»",
+      "escribe a hello@themenectar.com."
+    ],
+    "intro": "Una clínica en Gandia con un 5,0 en Google, un ambiente cercano y profesional, y una zona de juegos para los más pequeños. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Uno de los botones «Pide tu cita» de la web abre un correo a hello@themenectar.com, la dirección de ejemplo de la plantilla de la web, no la vuestra.",
+      "En la web no aparece ningún teléfono para llamar: solo un WhatsApp y un formulario con «Mañanas» o «Tardes» como única preferencia horaria.",
+      "Según Google Maps cerráis el viernes a las 14:30 y no abrís hasta el lunes a las 9:30: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 658 28 34 65 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, ofrece los huecos libres y deja la cita reservada con día y hora, en lugar de «mañanas» o «tardes». Lo clínico sigue siendo cosa de el equipo de García Frexes."
+    },
+    "pregunta": "¿Habéis recibido alguna vez un correo de un paciente que se perdió en hello@themenectar.com?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MAGISTRAT CATALÀ, 7 · GANDIA",
+    "telefono": "962 043 147",
+    "telefonos": "962 043 147 · WhatsApp 658 283 465",
+    "direccion": "Bajo, C/ Magistrat Català, 7 · 46701 Gandia (Valencia)",
+    "marca": "GARCÍA FREXES",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo médico",
+    "heroEtiqueta": "CLÍNICA DENTAL EN GANDIA",
+    "heroTitulo": "Innovación técnica,",
+    "heroDestacado": "ambiente cercano.",
+    "heroTexto": "Odontología general, ortodoncia, endodoncia, prótesis y odontopediatría en un ambiente cercano y profesional. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Tu sonrisa, en un ambiente cercano.",
+    "nota": "Con zona de juegos para los más pequeños.",
+    "fotoEtiqueta": "CLÍNICA GARCÍA FREXES",
+    "fotoTitulo": "Un gabinete luminoso.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo médico.",
+    "equipoTexto": "El Dr. Enrique Frexes, la Dra. Belén Esparza en odontopediatría, la Dra. Verónica García en ortodoncia y la Dra. Roser Garcia.",
+    "valores": [
+      [
+        "Innovación técnica.",
+        "Tratamientos actuales."
+      ],
+      [
+        "Ambiente cercano.",
+        "Y profesional."
+      ],
+      [
+        "Niños.",
+        "Con zona de juegos."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Gandia,",
+    "galeriaDestacado": "con luz.",
+    "pies": [
+      "La sala de espera",
+      "La recepción"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Odontopediatría",
+      "Ortodoncia",
+      "Periodoncia",
+      "Blanqueamiento dental",
+      "Endodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Magistrat Català, 7, bajo, en Gandia."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, con odontopediatría y una zona de juegos."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 658 28 34 65 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Gandia",
+    "notaDiseno": "El azul y el verde suave de García Frexes, su clínica y un botón de cita que por fin escribe a la clínica.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 64
+    }
+  }
+}

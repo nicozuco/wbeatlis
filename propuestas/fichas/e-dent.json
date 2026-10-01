@@ -1,0 +1,169 @@
+{
+  "slug": "e-dent",
+  "numero": 294,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "e·dent Odontología",
+    "nombreCorto": "e·dent",
+    "dominio": "edentodontologia.es",
+    "web": "https://edentodontologia.es/",
+    "contacto": "https://edentodontologia.es/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#0f8fa0",
+    "tinta": "#162a2d",
+    "profundo": "#193e43",
+    "suave": "#eef7f8",
+    "borde": "#d6ecef",
+    "calido": "#f57e57",
+    "calidoSuave": "#fef2ee"
+  },
+  "fotos": {
+    "principal": "https://edentodontologia.es/wp-content/uploads/2023/01/slider_n2.jpg",
+    "clinica1": "https://edentodontologia.es/wp-content/uploads/2021/02/amistat_espera.jpg",
+    "clinica2": "https://edentodontologia.es/wp-content/uploads/2021/02/slider_0.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MAXIMILIÀ THOUS, 35 · VALENCIA",
+    "titulo": [
+      "En vuestra portada, el COVID sigue ahí.",
+      "Y la cita, solo por teléfono o por correo."
+    ],
+    "intro": "Una clínica de La Saïdia con un equipo muy unido: odontología general, ortodoncia familiar, implantes y estética. Proponemos que pedir cita sea escribir un mensaje y recibir día y hora.",
+    "hallazgos": [
+      "La portada todavía incluye un apartado de «Medidas COVID» que pide cita previa y ofrece solicitar el «pasaporte COVID»: un texto de otra época.",
+      "La web no tiene ningún formulario ni botón de cita: solo «Llama ahora» y «Envíenos un correo», que abre el programa de correo del paciente.",
+      "Uno de vuestros botones de «Whatsapp» abre web.whatsapp.com, la versión de escritorio, que desde el móvil no funciona igual que wa.me."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que pedir cita sea escribiros por WhatsApp.",
+      "texto": "Ya tenéis el WhatsApp 605 63 91 41 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, y deja la cita reservada sin llamadas ni correos. Lo clínico sigue siendo cosa de el equipo de e·dent."
+    },
+    "pregunta": "¿Cuántas llamadas fuera de horario se os quedan sin contestar?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MAXIMILIÀ THOUS, 35 · VALENCIA",
+    "telefono": "963 321 910",
+    "telefonos": "963 321 910 · WhatsApp 605 639 141",
+    "direccion": "C/ Maximilià Thous, 35 · 46009 Valencia",
+    "marca": "E·DENT",
+    "submarca": "ODONTOLOGÍA",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "ODONTOLOGÍA ESTÉTICA EN VALENCIA",
+    "heroTitulo": "Pide ya",
+    "heroDestacado": "tu cita.",
+    "heroTexto": "Odontología general y ortodoncia familiar actualizada. Escríbenos y tu cita queda reservada, sin esperar a que cojan el teléfono.",
+    "ctaHero": "Pedir cita",
+    "frase": "Compromiso, pasión y esfuerzo.",
+    "nota": "En La Saïdia, Valencia.",
+    "fotoEtiqueta": "E·DENT ODONTOLOGÍA",
+    "fotoTitulo": "Un equipo muy unido.",
+    "cifra": "4,6",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de profesionales.",
+    "equipoTexto": "Odontología general y ortodoncia familiar, con implantes, bruxismo, blanqueamiento y estética dental.",
+    "valores": [
+      [
+        "Implantes.",
+        "Funcionales y estéticos."
+      ],
+      [
+        "Bruxismo.",
+        "Diagnóstico preciso."
+      ],
+      [
+        "Blanqueamiento.",
+        "Varios tonos más."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "La sala de espera,",
+    "galeriaDestacado": "sin esperas.",
+    "pies": [
+      "La sala de espera",
+      "La clínica"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Bruxismo",
+      "Blanqueamiento dental",
+      "Ortodoncia familiar",
+      "Odontología estética",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Maximilià Thous, 35, en Valencia."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes, de 9:30 a 14:00 y de 16:00 a 20:30."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 605 63 91 41 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Blanqueamiento",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El turquesa de e·dent, su equipo y un WhatsApp que sustituye al correo y a la llamada perdida.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:30–14:00 y 16:00–20:30"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 82
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "miralles-benavent",
+  "numero": 366,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Dra. Mª Dolores Miralles Benavent",
+    "nombreCorto": "Clínica Miralles Benavent",
+    "dominio": "ortodoncialingualmiralles.es",
+    "web": "https://ortodoncialingualmiralles.es/",
+    "contacto": "https://ortodoncialingualmiralles.es/contacto",
+    "decisor": "Dra. Miralles Benavent"
+  },
+  "colores": {
+    "acento": "#8a6d2a",
+    "tinta": "#2d2616",
+    "profundo": "#433619",
+    "suave": "#f7f5f0",
+    "borde": "#ebe6db",
+    "calido": "#2a2a2a",
+    "calidoSuave": "#eaeaea"
+  },
+  "fotos": {
+    "principal": "https://ortodoncialingualmiralles.es/wp-content/uploads/2018/04/clinica.jpg",
+    "clinica1": "https://ortodoncialingualmiralles.es/wp-content/uploads/2018/05/clinica-2-img.jpg",
+    "clinica2": "https://ortodoncialingualmiralles.es/wp-content/uploads/2023/03/fullsizeoutput_1fac-1200x1200.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ VICENTE LERMA, 10 · PATERNA",
+    "titulo": [
+      "Para pedir cita en vuestra web hay que responder:",
+      "«¿Capital de España?»"
+    ],
+    "intro": "Alta estética facial y dental en Paterna desde 1998, con la Dra. María Dolores Miralles Benavent: ortodoncia lingual, Invisalign, implantología y periodoncia. Proponemos que «Concertar una visita» deje la visita reservada, con día y hora.",
+    "hallazgos": [
+      "En «Concertar una visita», antes de enviar el formulario hay que responder a una pregunta de comprobación: «¿Capital de España?». El formulario, además, pide nombre, correo, materia y mensaje, sin teléfono, día ni hora.",
+      "En la página de contacto, el WhatsApp aparece como «699270923», pero el enlace marca «6999270923»: tiene un 9 de más y no es un número válido.",
+      "Según Google Maps cerráis el viernes a las 20:30 y no abrís hasta el lunes a las 10:00: 61,5 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Concertar una visita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 699 27 09 23 en la página de contacto. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Miralles y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes habrán dejado el formulario a medias por la pregunta de comprobación?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ VICENTE LERMA, 10 · PATERNA",
+    "telefono": "961 386 831",
+    "telefonos": "961 386 831 · WhatsApp 699 270 923",
+    "direccion": "C/ Vicente Lerma, 10, bajos · 46980 Paterna (Valencia)",
+    "marca": "MIRALLES BENAVENT",
+    "submarca": "ORTODONCIA Y ESTÉTICA",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "ALTA ESTÉTICA FACIAL Y DENTAL EN PATERNA",
+    "heroTitulo": "Tratamientos de alta",
+    "heroDestacado": "estética facial y dental.",
+    "heroTexto": "Una clínica de especialidades dentales en Paterna desde 1998. Elige día y hora y tu visita queda reservada, sin preguntas de comprobación.",
+    "ctaHero": "Concertar una visita",
+    "frase": "Ortodoncia lingual, invisible y de precisión.",
+    "nota": "Miembros de Topdoctors.",
+    "fotoEtiqueta": "CLÍNICA MIRALLES BENAVENT",
+    "fotoTitulo": "La clínica, en Paterna.",
+    "cifra": "1998",
+    "cifraEtiqueta": "ATENDIENDO EN PATERNA",
+    "equipoTitulo": "La Dra. María Dolores Miralles Benavent.",
+    "equipoTexto": "Ortodoncia lingual, Invisalign e Insignia, implantología y periodoncia, con casos clínicos y una experiencia de más de 25 años.",
+    "valores": [
+      [
+        "Ortodoncia lingual.",
+        "Invisible por dentro."
+      ],
+      [
+        "Invisalign.",
+        "Alineadores."
+      ],
+      [
+        "Implantología.",
+        "Y periodoncia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Paterna,",
+    "galeriaDestacado": "con estética.",
+    "pies": [
+      "La clínica",
+      "La doctora"
+    ],
+    "servicios": [
+      "Ortodoncia lingual",
+      "Invisalign",
+      "Ortodoncia Insignia",
+      "Implantología",
+      "Periodoncia",
+      "Estética facial"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Vicente Lerma, 10, bajos, en Paterna."
+      ],
+      [
+        "¿Hacéis ortodoncia lingual?",
+        "Sí, es una de nuestras especialidades, junto con Invisalign e Insignia."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 699 27 09 23 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Paterna",
+    "notaDiseno": "El dorado y el negro de la Dra. Miralles, su clínica y una cita sin preguntas de comprobación.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 55
+    }
+  }
+}

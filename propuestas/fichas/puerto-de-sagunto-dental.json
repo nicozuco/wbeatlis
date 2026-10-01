@@ -1,0 +1,167 @@
+{
+  "slug": "puerto-de-sagunto-dental",
+  "numero": 328,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Puerto de Sagunto",
+    "nombreCorto": "Clínica Dental Puerto de Sagunto",
+    "dominio": "clinicadentalpuertodesagunto.com",
+    "web": "http://clinicadentalpuertodesagunto.com/",
+    "contacto": "http://clinicadentalpuertodesagunto.com/schedule",
+    "decisor": "Dra. Ana Callau"
+  },
+  "colores": {
+    "acento": "#2e3a46",
+    "tinta": "#1a2128",
+    "profundo": "#242e37",
+    "suave": "#f0f1f2",
+    "borde": "#dbdee0",
+    "calido": "#c9a24a",
+    "calidoSuave": "#faf6ed"
+  },
+  "fotos": {
+    "principal": "https://images.squarespace-cdn.com/content/v1/669f7c9b587ff173236e9d01/5856c308-d344-4de1-86b0-710a39d023f8/Recepcion+Clinica+dental+puerto+de+sagunto.jpg?format=2500w",
+    "clinica1": "https://images.squarespace-cdn.com/content/v1/669f7c9b587ff173236e9d01/9c58d246-df4a-4c3d-a1c8-fcc186789b82/Sillon+dental.jpg?format=2500w",
+    "clinica2": "https://images.squarespace-cdn.com/content/v1/669f7c9b587ff173236e9d01/f0b601eb-9e12-4833-87a4-7e51f8d8d321/Sala+de+Juegos+Clinica+Dental+Puerto+de+Sagunto.jpg?format=2500w"
+  },
+  "propuesta": {
+    "etiqueta": "AV. CAMP MORVEDRE, 125 · PUERTO DE SAGUNTO",
+    "titulo": [
+      "«Escríbenos por WhatsApp», dice vuestra página de cita.",
+      "Y el enlace abre un número sin el prefijo 34."
+    ],
+    "intro": "Más de 20 años de experiencia en el centro de Puerto de Sagunto, con más de 90 m² de clínica, sala de juegos para los más pequeños y la Dra. Ana Callau al frente. Proponemos que «Pide tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En «Pide tu cita», el botón de WhatsApp abre wa.me/649147778, sin el prefijo 34: WhatsApp necesita el número en formato internacional, así que puede no abrir la conversación.",
+      "La página de cita publica el horario con el viernes de 9:30 a 14:00, pero Google Maps os da por cerrados desde el jueves a las 20:00: según qué se lea, el viernes por la mañana hay clínica o no.",
+      "Según Google Maps cerráis el jueves a las 20:00 y no abrís hasta el lunes a las 10:00: 86 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 649 14 77 78 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de la Dra. Callau y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes se quedan sin respuesta al pulsar el WhatsApp de la web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. CAMP MORVEDRE, 125 · PUERTO DE SAGUNTO",
+    "telefono": "649 147 778",
+    "telefonos": "649 147 778",
+    "direccion": "Av. Camp Morvedre, 125 · 46520 Puerto de Sagunto (Valencia)",
+    "marca": "PUERTO DE SAGUNTO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Información",
+    "heroEtiqueta": "TU DENTISTA DE CONFIANZA EN PUERTO DE SAGUNTO",
+    "heroTitulo": "Más de 20 años",
+    "heroDestacado": "resolviendo casos.",
+    "heroTexto": "Instalaciones avanzadas en pleno centro de Puerto de Sagunto, con todo lo necesario para que tu estancia sea agradable. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "La humanización de nuestro equipo nos diferencia.",
+    "nota": "Más de 90 m² en el centro de Puerto de Sagunto.",
+    "fotoEtiqueta": "LA CLÍNICA",
+    "fotoTitulo": "La recepción, en el centro de Puerto de Sagunto.",
+    "cifra": "20",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "La Dra. Ana Callau y su equipo.",
+    "equipoTexto": "Un equipo médico multidisciplinar en continuo aprendizaje, que resuelve tanto casos de gran dificultad como situaciones sencillas.",
+    "valores": [
+      [
+        "Instalaciones avanzadas.",
+        "Más de 90 m²."
+      ],
+      [
+        "Para niños.",
+        "Con sala de juegos."
+      ],
+      [
+        "Multidisciplinar.",
+        "Un mismo equipo."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Puerto de Sagunto,",
+    "galeriaDestacado": "con sala de juegos.",
+    "pies": [
+      "El sillón",
+      "La sala de juegos"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Implantes",
+      "Ortodoncia",
+      "Estética dental",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Camp Morvedre, 125, en Puerto de Sagunto."
+      ],
+      [
+        "¿Tenéis sala de juegos?",
+        "Sí, para que los más pequeños esperen y vengan con ganas."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 649 14 77 78 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Puerto de Sagunto",
+    "notaDiseno": "El carbón y el dorado de la clínica, su recepción y un WhatsApp con el número correcto.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "L, M y J 10:00–14:00 y 15:00–20:00 · X 10:00–14:00 y 15:30–18:30 · V 9:30–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 66
+    }
+  }
+}
