@@ -1,0 +1,167 @@
+{
+  "slug": "insari-dental",
+  "numero": 219,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "INSARI Odontología Estética Avanzada",
+    "nombreCorto": "INSARI",
+    "dominio": "insaridental.com",
+    "web": "https://insaridental.com/",
+    "contacto": "https://insaridental.com/contacto/",
+    "decisor": "Dra. Marta Masiá"
+  },
+  "colores": {
+    "acento": "#0f8fb0",
+    "tinta": "#16282d",
+    "profundo": "#193a43",
+    "suave": "#eef7f9",
+    "borde": "#d6ecf2",
+    "calido": "#2b2b33",
+    "calidoSuave": "#eaeaeb"
+  },
+  "fotos": {
+    "principal": "https://insaridental.com/wp-content/uploads/2026/06/DSC9103-scaled.jpg",
+    "clinica1": "https://insaridental.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-08-a-las-12.50.28.png",
+    "clinica2": "https://insaridental.com/wp-content/uploads/2026/06/CLINICA-DENTAL-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ ILLA CABRERA, 67 · VALENCIA",
+    "titulo": [
+      "El formulario de contacto",
+      "no pregunta el teléfono."
+    ],
+    "intro": "Odontología estética avanzada en Quatre Carreres, con un 5 de 5 en Google, la Dra. Marta Masiá certificada en Invisalign y valoración gratuita. Proponemos que esa valoración quede reservada en el momento.",
+    "hallazgos": [
+      "El formulario de contacto pide nombre, apellido, email, tratamiento de interés y mensaje, pero no el teléfono: para dar la cita tenéis que contestar por correo.",
+      "Los teléfonos 962 460 631 y 620 483 400 aparecen como texto: desde el móvil no se pueden pulsar para llamar.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 10:00 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la valoración.",
+      "texto": "Ya tenéis el botón de WhatsApp en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta el tratamiento de interés, igual que vuestro formulario, y deja la valoración gratuita reservada; si es de Invisalign, con la Dra. Masiá. Lo clínico sigue siendo cosa de la Dra. Masiá y su equipo."
+    },
+    "pregunta": "¿Cuántas consultas os llegan por email sin un teléfono al que llamar?",
+    "tema": "valoración gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ ILLA CABRERA, 67 · VALENCIA",
+    "telefono": "962 460 631",
+    "telefonos": "962 460 631 · 620 483 400",
+    "direccion": "C/ de l'Illa Cabrera, 67, bajo dcha. · 46026 Valencia",
+    "marca": "INSARI",
+    "submarca": "ODONTOLOGÍA ESTÉTICA AVANZADA",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Odontología estética",
+    "heroDestacado": "avanzada.",
+    "heroTexto": "Implantes, ortodoncia invisible, carillas y periodoncia con especialistas. Elige día y hora y tu valoración gratuita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Una sonrisa equilibrada, más confianza.",
+    "nota": "Valoración gratuita.",
+    "fotoEtiqueta": "INSARI DENTAL",
+    "fotoTitulo": "Estética avanzada en Quatre Carreres.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Especialistas certificadas.",
+    "equipoTexto": "La Dra. Marta Masiá, ortodoncista certificada en Invisalign y formada en Estados Unidos, con la Dra. Cristina Sarriá en implantología.",
+    "valores": [
+      [
+        "Invisalign.",
+        "Certificación oficial."
+      ],
+      [
+        "Implantes.",
+        "Con especialista."
+      ],
+      [
+        "Estética.",
+        "Resultados naturales."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y diseño.",
+    "galeriaDestacado": "En Quatre Carreres.",
+    "pies": [
+      "La fachada",
+      "La clínica"
+    ],
+    "servicios": [
+      "Implantes",
+      "Ortodoncia invisible",
+      "Periodoncia",
+      "Endodoncia",
+      "Carillas",
+      "Blanqueamiento dental"
+    ],
+    "faq": [
+      [
+        "¿La valoración es gratis?",
+        "Sí. Pide tu valoración gratuita."
+      ],
+      [
+        "¿Hacéis Invisalign?",
+        "Sí, con la Dra. Marta Masiá, certificada en Invisalign."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ de l'Illa Cabrera, 67, en Quatre Carreres."
+      ]
+    ],
+    "motivos": [
+      "Valoración gratuita",
+      "Revisión",
+      "Invisalign",
+      "Implantes",
+      "Carillas"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El turquesa de INSARI, su clínica y un WhatsApp que reserva la valoración gratuita.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 120
+    }
+  }
+}

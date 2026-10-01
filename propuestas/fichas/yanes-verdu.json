@@ -1,0 +1,168 @@
+{
+  "slug": "yanes-verdu",
+  "numero": 248,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Yanes Verdú",
+    "nombreCorto": "Clínica Yanes Verdú",
+    "dominio": "clinicayanesverdu.com",
+    "web": "https://clinicayanesverdu.com/",
+    "contacto": "https://clinicayanesverdu.com/contacto/",
+    "decisor": "Dr. Vicente Yanes"
+  },
+  "colores": {
+    "acento": "#2b2b2b",
+    "tinta": "#212121",
+    "profundo": "#2e2e2e",
+    "suave": "#f0f0f0",
+    "borde": "#dbdbdb",
+    "calido": "#9a8a78",
+    "calidoSuave": "#f5f3f2"
+  },
+  "fotos": {
+    "principal": "https://clinicayanesverdu.com/wp-content/uploads/2021/07/dentista-de-confianza-en-sagunto.jpg",
+    "clinica1": "https://clinicayanesverdu.com/wp-content/uploads/2021/07/clinica-dental-yanes-verdu03.jpg",
+    "clinica2": "https://clinicayanesverdu.com/wp-content/uploads/2023/03/clinica-dental-yanes-verdu_02.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ BENAVITES, 6 · SAGUNTO",
+    "titulo": [
+      "«Pide cita», dice el botón de vuestra página de contacto.",
+      "Y llama a un número de Córdoba."
+    ],
+    "intro": "Odontología Slow en Sagunto: la Dra. Amparo Verdú y el Dr. Vicente Yanes, un equipo que empieza por escuchar y un 4,9 en Google. Proponemos que «Pide tu cita» deje la cita reservada, con día y hora.",
+    "hallazgos": [
+      "En la página de contacto, los dos botones «Pide cita» marcan el 957 13 20 20, un prefijo de Córdoba, en lugar de vuestro 962 650 847.",
+      "El título de vuestra web en Google y en la pestaña del navegador es «Tu dentista en Sagunto | Clínica Dental Ana Roig»: el nombre de otra clínica.",
+      "La web dice lunes a viernes de 10 a 14 y de 16 a 19:30, el cartel de la clínica dice de 10 a 20, y Google Maps os da por cerrados desde el jueves a las 19:30 hasta el lunes a las 10:00."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 691 524 130 en la cabecera de la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento con vuestro horario real, escucha qué necesita el paciente y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. Verdú, el Dr. Yanes y su equipo."
+    },
+    "pregunta": "¿Os ha comentado algún paciente que al pedir cita le salía un número de Córdoba?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ BENAVITES, 6 · SAGUNTO",
+    "telefono": "962 650 847",
+    "telefonos": "962 650 847 · WhatsApp 691 524 130",
+    "direccion": "C/ Benavites, 6 · 46500 Sagunto (Valencia)",
+    "marca": "YANES VERDÚ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "TU DENTISTA EN SAGUNTO PARA TODA LA VIDA",
+    "heroTitulo": "Cómplices",
+    "heroDestacado": "de tus sueños.",
+    "heroTexto": "Si tienes unos minutos para conocernos, nosotros también los tenemos para ti. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Te escuchamos. Tan sencillo como eso.",
+    "nota": "Odontología Slow: confianza, escucha y bienestar.",
+    "fotoEtiqueta": "EQUIPO YANES VERDÚ",
+    "fotoTitulo": "Una visita al dentista que es una experiencia positiva.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Amparo Verdú y el Dr. Vicente Yanes.",
+    "equipoTexto": "Lo primero que haremos será escucharte: darte el tiempo que necesitas para contar lo que te preocupa es la base de una relación de confianza.",
+    "valores": [
+      [
+        "Visión integral.",
+        "Prevención y ahorro."
+      ],
+      [
+        "Respeto por el diente.",
+        "Odontología preventiva."
+      ],
+      [
+        "Odontología Slow.",
+        "Sin prisas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tu dentista",
+    "galeriaDestacado": "en Sagunto.",
+    "pies": [
+      "En consulta",
+      "Dra. Verdú y Dr. Yanes"
+    ],
+    "servicios": [
+      "Odontología preventiva",
+      "Ortodoncia",
+      "Estética dental",
+      "Implantes dentales",
+      "Plan W"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Benavites, 6, en Sagunto."
+      ],
+      [
+        "¿Qué es la Odontología Slow?",
+        "Una forma de trabajar centrada en tu experiencia, la confianza y el bienestar, sin prisas."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 691 524 130 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Estética dental",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Sagunto",
+    "notaDiseno": "El negro y el gris cálido de Yanes Verdú, su equipo y un WhatsApp que siempre da el número correcto.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 16:00–19:30"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 101
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "bayodental",
+  "numero": 197,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "BayoDental",
+    "nombreCorto": "BayoDental",
+    "dominio": "bayodental.com",
+    "web": "https://bayodental.com/",
+    "contacto": "https://bayodental.com/cita/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#4b5a3c",
+    "tinta": "#21281b",
+    "profundo": "#2e3725",
+    "suave": "#f2f3f1",
+    "borde": "#e0e3de",
+    "calido": "#c9b08a",
+    "calidoSuave": "#faf7f3"
+  },
+  "fotos": {
+    "principal": "https://bayodental.com/wp-content/uploads/2026/08/Equipo-Bayo-Dental-La-Casa-Indiscreta-2026_009-scaled.jpg",
+    "clinica1": "https://bayodental.com/wp-content/uploads/2026/08/Espacios-Bayo-Dental-La-Casa-Indiscreta-2026_003-scaled.jpg",
+    "clinica2": "https://bayodental.com/wp-content/uploads/2026/09/Espacios-Bayo-Dental-La-Casa-Indiscreta-2026_020-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PASEO GERMANÍAS, 5 · GANDIA",
+    "titulo": [
+      "Vuestra web tiene escondidos",
+      "textos y enlaces de casinos online."
+    ],
+    "intro": "Una clínica recién estrenada en el centro de Gandia, con espacios preciosos y un 4,9 en Google. Proponemos limpiar la web y que el paciente pueda reservar su cita en el momento, sin tener que llamar.",
+    "hallazgos": [
+      "En el código de vuestras páginas hay párrafos sobre «mejores casinos online sin depósito mínimo» con enlaces a páginas como bayodental.com/mejores-casinos-online-sin-deposito-minimo-en-espana-2026-guia-completa/. El paciente no los ve, pero Google sí, y es una señal típica de una web manipulada.",
+      "La página «Cita» no permite pedir cita: solo muestra los teléfonos, el WhatsApp, el email y el horario.",
+      "Según vuestro horario, el viernes cerráis a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Limpiar la web y que «Cita» dé la cita.",
+      "texto": "Quitar esos textos y poner un asistente en vuestra página de cita que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Resuelve las dudas sobre blanqueamiento, ortodoncia o implantes y deja la cita reservada. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Sabíais que vuestra web tiene textos de casinos escondidos?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PASEO GERMANÍAS, 5 · GANDIA",
+    "telefono": "960 70 14 72",
+    "telefonos": "960 70 14 72 · WhatsApp 622 72 52 19",
+    "direccion": "Paseo Germanías, 5 · 46701 Gandia (Valencia)",
+    "marca": "BAYODENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN EL CENTRO DE GANDIA",
+    "heroTitulo": "Estrenamos",
+    "heroDestacado": "clínica.",
+    "heroTexto": "Un espacio nuevo, luminoso y pensado para ti, en pleno Paseo Germanías. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Un espacio pensado para que estés a gusto.",
+    "nota": "Colaboramos con las principales aseguradoras.",
+    "fotoEtiqueta": "EL EQUIPO DE BAYODENTAL",
+    "fotoTitulo": "Un equipo cercano.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Una clínica nueva, un equipo de confianza.",
+    "equipoTexto": "Un equipo cercano en una clínica recién estrenada, con tecnología digital y espacios diseñados para que cada visita sea tranquila.",
+    "valores": [
+      [
+        "Nueva.",
+        "Recién estrenada."
+      ],
+      [
+        "Céntrica.",
+        "En el Paseo Germanías."
+      ],
+      [
+        "Tranquila.",
+        "Espacios pensados para ti."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Recién estrenada.",
+    "galeriaDestacado": "En el centro de Gandia.",
+    "pies": [
+      "La sala de espera",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Blanqueamiento dental",
+      "Ortodoncia",
+      "Implantes",
+      "Estética dental",
+      "Odontología general",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 14:00 y de 16:00 a 19:00; viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Trabajáis con aseguradoras?",
+        "Sí, colaboramos con varias aseguradoras."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En el Paseo Germanías, 5, en el centro de Gandia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Blanqueamiento",
+      "Ortodoncia",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Gandia",
+    "notaDiseno": "El verde oliva de BayoDental, su clínica recién estrenada y una página de cita que por fin da la cita.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–14:00 y 16:00–19:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 135
+    }
+  }
+}

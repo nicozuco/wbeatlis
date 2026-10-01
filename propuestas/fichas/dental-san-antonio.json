@@ -1,0 +1,170 @@
+{
+  "slug": "dental-san-antonio",
+  "numero": 194,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Centro Odontológico San Antonio",
+    "nombreCorto": "Centro San Antonio",
+    "dominio": "centrodentalsanantonio.com",
+    "web": "http://centrodentalsanantonio.com/",
+    "contacto": "http://centrodentalsanantonio.com/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#2a8fb5",
+    "tinta": "#16262d",
+    "profundo": "#193743",
+    "suave": "#f0f7fa",
+    "borde": "#dbecf2",
+    "calido": "#e08a3c",
+    "calidoSuave": "#fcf3ec"
+  },
+  "fotos": {
+    "principal": "http://centrodentalsanantonio.com/wp-content/uploads/2019/05/IMG_8895.jpg",
+    "clinica1": "http://centrodentalsanantonio.com/wp-content/uploads/2019/05/IMG_8906.jpg",
+    "clinica2": "http://centrodentalsanantonio.com/wp-content/uploads/2019/05/IMG_8919.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ TURIA, 6 · SAN ANTONIO DE BENAGÉBER",
+    "titulo": [
+      "«Whatssap: 628 703 437»,",
+      "escrito así, y sin enlace."
+    ],
+    "intro": "20 años llenos de sonrisas en San Antonio de Benagéber, con primera consulta gratuita y un club con limpieza anual incluida. Proponemos que la primera consulta quede reservada en el momento, sin tener que llamar.",
+    "hallazgos": [
+      "En la web aparece «Whatssap: 628 703 437», con la errata y sin enlace: para escribiros hay que guardar el número en el móvil.",
+      "Vuestra web no tiene formulario ni botón de cita, y los teléfonos aparecen como texto: la única forma de pedir la primera consulta gratuita es llamar en horario.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 9:00 pasan 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera consulta.",
+      "texto": "Ya tenéis el WhatsApp 628 703 437. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Explica que la primera consulta es gratuita (excepto odontopediatría) y las ventajas del club, y deja la cita reservada. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas personas os llaman solo para pedir la primera consulta?",
+    "tema": "primera consulta gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ TURIA, 6 · SAN ANTONIO DE BENAGÉBER",
+    "telefono": "961 35 14 45",
+    "telefonos": "961 35 14 45 · WhatsApp 628 703 437",
+    "direccion": "C/ Turia, 6, pta. 2 · 46184 San Antonio de Benagéber (Valencia)",
+    "marca": "SAN ANTONIO",
+    "submarca": "CENTRO ODONTOLÓGICO",
+    "menuEquipo": "Clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN SAN ANTONIO DE BENAGÉBER",
+    "heroTitulo": "20 años llenos",
+    "heroDestacado": "de sonrisas.",
+    "heroTexto": "Especialistas en sonrisas bonitas, con primera consulta gratuita. Elige día y hora y queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Especialistas en sonrisas bonitas.",
+    "nota": "Primera consulta gratuita (excepto odontopediatría).",
+    "fotoEtiqueta": "CENTRO ODONTOLÓGICO SAN ANTONIO",
+    "fotoTitulo": "Un equipo cercano.",
+    "cifra": "20",
+    "cifraEtiqueta": "AÑOS LLENOS DE SONRISAS",
+    "equipoTitulo": "Tu clínica, cerca de casa.",
+    "equipoTexto": "Un equipo que cuida la salud, la estética y la funcionalidad de tu boca, con un club de pacientes que incluye limpieza anual gratuita.",
+    "valores": [
+      [
+        "Gratis.",
+        "Primera consulta."
+      ],
+      [
+        "Club.",
+        "Limpieza anual incluida."
+      ],
+      [
+        "Cercanía.",
+        "En el pueblo."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Color y luz.",
+    "galeriaDestacado": "En San Antonio de Benagéber.",
+    "pies": [
+      "La recepción",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Implantología",
+      "Prótesis estética",
+      "Medicina oral",
+      "Odontopediatría",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes, martes, jueves y viernes de 9:00 a 14:00 y de 16:00 a 20:00; miércoles de 9:00 a 13:00 y de 15:00 a 19:00."
+      ],
+      [
+        "¿La primera consulta es gratis?",
+        "Sí, excepto en odontopediatría."
+      ],
+      [
+        "¿Qué es el club?",
+        "Un plan para pacientes con ventajas como la limpieza anual gratuita."
+      ]
+    ],
+    "motivos": [
+      "Primera consulta gratuita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia",
+      "Implantes"
+    ],
+    "pieMarca": "Clínica dental en San Antonio de Benagéber",
+    "notaDiseno": "Los colores de la clínica de San Antonio, su equipo y un WhatsApp que reserva la primera consulta.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "jueves": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes, martes, jueves y viernes: 9:00–14:00 y 16:00–20:00",
+      "Miércoles: 9:00–13:00 y 15:00–19:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 139
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "hc-clinica-dental",
+  "numero": 255,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "HC Clínica Dental",
+    "nombreCorto": "HC Clínica Dental",
+    "dominio": "dentistashc.com",
+    "web": "https://www.dentistashc.com/",
+    "contacto": "https://www.dentistashc.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#0497e6",
+    "tinta": "#16252d",
+    "profundo": "#193443",
+    "suave": "#edf8fd",
+    "borde": "#d4edfb",
+    "calido": "#334155",
+    "calidoSuave": "#ebecee"
+  },
+  "fotos": {
+    "principal": "https://www.dentistashc.com/wp-content/uploads/2022/04/equipo-1024x683.jpg",
+    "clinica1": "https://www.dentistashc.com/wp-content/uploads/elementor/thumbs/DSC02490_VSCO-scaled-rnt2fsocu0ugkto280f55g0jcx7pnrpw8m5n7o39tw.jpg",
+    "clinica2": "https://www.dentistashc.com/wp-content/uploads/elementor/thumbs/DSC00837_VSCO-scaled-rnt2fuk17ox181lbx18eafjgjoyg35xcwvgm680hhg.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ AGUSTÍN OLIVER, 6 · CULLERA",
+    "titulo": [
+      "Dos botones de WhatsApp en vuestra web.",
+      "Y cada uno abre un número distinto."
+    ],
+    "intro": "Una clínica en Cullera especializada en implantes, que atiende en español, francés, inglés, ruso y armenio. Proponemos que «Consigue tu primera cita gratuita» la deje reservada, sin llamadas.",
+    "hallazgos": [
+      "El botón «Whatsapp» abre wa.me/692057444, sin el prefijo 34, y otro icono de WhatsApp abre un chat con el 601 32 23 64, un número que no aparece en ninguna otra parte de la web.",
+      "«Llámanos y consigue tu primera cita gratuita» lleva a la página de contacto, con tres teléfonos y un formulario que pide nombre, email, asunto y mensaje: ni teléfono, ni día, ni hora.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 9:30: 67 horas y media seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Un solo WhatsApp, que reserva.",
+      "texto": "Ya tenéis el WhatsApp 692 05 74 44 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento en el idioma del paciente, sea español, francés, inglés o ruso, y deja la primera cita gratuita reservada. Lo clínico sigue siendo cosa de el equipo de HC."
+    },
+    "pregunta": "¿Quién contesta los mensajes que llegan al 601 32 23 64?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ AGUSTÍN OLIVER, 6 · CULLERA",
+    "telefono": "692 057 444",
+    "telefonos": "692 057 444 · 699 808 079 · 635 050 344",
+    "direccion": "C/ Agustín Oliver, 6 · 46400 Cullera (Valencia)",
+    "marca": "HC",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "DENTISTAS EN CULLERA",
+    "heroTitulo": "Haz que tu sonrisa",
+    "heroDestacado": "cambie el mundo.",
+    "heroTexto": "Implantología, ortodoncia, estética dental y odontología general en Cullera. Tu primera cita es gratuita: elige día y hora y queda reservada.",
+    "ctaHero": "Consigue tu primera cita gratuita",
+    "frase": "Hablamos español, français, English, русский y հայերեն.",
+    "nota": "Financiación para tu tratamiento.",
+    "fotoEtiqueta": "EQUIPO HC",
+    "fotoTitulo": "Especialistas en implantes dentales.",
+    "cifra": "5",
+    "cifraEtiqueta": "IDIOMAS EN CONSULTA",
+    "equipoTitulo": "Un equipo especializado.",
+    "equipoTexto": "Cada caso se estudia de forma personalizada, con diagnóstico previo y planificación precisa, valorando hueso, encía y necesidades antes de empezar.",
+    "valores": [
+      [
+        "Implantes.",
+        "Planificados a medida."
+      ],
+      [
+        "Primera cita.",
+        "Gratuita."
+      ],
+      [
+        "Cinco idiomas.",
+        "En consulta."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tu dentista",
+    "galeriaDestacado": "en Cullera.",
+    "pies": [
+      "El gabinete",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Brackets",
+      "Ortodoncia invisible",
+      "Blanqueamiento dental",
+      "Estética dental",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿La primera cita es gratis?",
+        "Sí, la primera cita es gratuita."
+      ],
+      [
+        "¿Atendéis en otros idiomas?",
+        "Sí: francés, inglés, ruso y armenio, además de español."
+      ],
+      [
+        "¿Hacéis ortodoncia invisible?",
+        "Sí, con sistemas como Invisalign y QuickSmile."
+      ]
+    ],
+    "motivos": [
+      "Primera cita gratuita",
+      "Implantes",
+      "Ortodoncia",
+      "Blanqueamiento",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Cullera",
+    "notaDiseno": "El azul de HC, su equipo y un único WhatsApp que reserva la primera cita.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30–19:00",
+      "Viernes: 9:30–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 99
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "eva-matoses",
+  "numero": 220,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Eva Matoses",
+    "nombreCorto": "Eva Matoses",
+    "dominio": "clinicadentalevamatoses.com",
+    "web": "https://clinicadentalevamatoses.com/",
+    "contacto": "https://clinicadentalevamatoses.com/contacto/",
+    "decisor": "Dra. Eva Matoses"
+  },
+  "colores": {
+    "acento": "#3a3a3a",
+    "tinta": "#212121",
+    "profundo": "#2e2e2e",
+    "suave": "#f1f1f1",
+    "borde": "#dedede",
+    "calido": "#b8977a",
+    "calidoSuave": "#f8f5f2"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalevamatoses.com/wp-content/uploads/2024/09/Diseno-sin-titulo-93-scaled.jpg",
+    "clinica1": "https://clinicadentalevamatoses.com/wp-content/uploads/2024/09/Diseno-sin-titulo-97.jpg",
+    "clinica2": "https://clinicadentalevamatoses.com/wp-content/uploads/2024/09/4.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. AUSIÀS MARCH, 42 · BURJASSOT",
+    "titulo": [
+      "«Reserva tu cita ahora», dice el botón.",
+      "Y abre un WhatsApp sin el prefijo 34."
+    ],
+    "intro": "Una clínica en Burjassot donde cada paciente se siente como en casa, con la Dra. Eva Matoses al frente de un gran equipo. Proponemos que «Reserva tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón «Reserva tu cita ahora» abre wa.me/673574105, sin el prefijo 34: WhatsApp necesita el número en formato internacional, así que puede no abrir la conversación.",
+      "Los otros dos botones «Reserva tu cita» solo llaman al móvil, y el formulario pide nombre, teléfono y mensaje, sin día ni hora.",
+      "El título de vuestra web en Google y en la pestaña del navegador es «clinicadentalevamatoses.com», sin el nombre de la clínica ni de Burjassot."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reserva tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 673 574 105 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Con el enlace bien puesto, contesta al momento y deja la cita reservada con el especialista que toca. Lo clínico sigue siendo cosa de la Dra. Matoses y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes os han dicho que no les abría el WhatsApp?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. AUSIÀS MARCH, 42 · BURJASSOT",
+    "telefono": "963 902 333",
+    "telefonos": "963 902 333 · WhatsApp 673 574 105",
+    "direccion": "Av. d'Ausiàs March, 42, bajo · 46100 Burjassot (Valencia)",
+    "marca": "EVA MATOSES",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN BURJASSOT",
+    "heroTitulo": "Tu sonrisa,",
+    "heroDestacado": "nuestra pasión.",
+    "heroTexto": "Queremos que cada paciente se sienta como en su propia casa. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "Como en tu propia casa.",
+    "nota": "Fácil de llegar desde cualquier punto de Valencia.",
+    "fotoEtiqueta": "CLÍNICA EVA MATOSES",
+    "fotoTitulo": "Un gran equipo.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Encabezado por la Dra. Eva Matoses.",
+    "equipoTexto": "Un gran equipo de especialistas colegiados, encabezado por la Dra. Eva Matoses, con ortodoncia, implantes, odontopediatría y estética.",
+    "valores": [
+      [
+        "Como en casa.",
+        "Trato cercano."
+      ],
+      [
+        "Especialistas.",
+        "Cada área, su experto."
+      ],
+      [
+        "Familia.",
+        "Para todas las edades."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Burjassot.",
+    "galeriaDestacado": "Cerca de Valencia.",
+    "pies": [
+      "La clínica",
+      "Odontopediatría"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Implantes",
+      "Odontopediatría",
+      "Estética dental",
+      "Endodoncia",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. d'Ausiàs March, 42, en Burjassot."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, tenemos odontopediatría."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 673 574 105 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Burjassot",
+    "notaDiseno": "Los tonos cálidos de Eva Matoses, su equipo y un WhatsApp que siempre abre y reserva.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 119
+    }
+  }
+}

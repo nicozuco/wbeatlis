@@ -1,0 +1,175 @@
+{
+  "slug": "nicolas-collado",
+  "numero": 191,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Odontológica Nicolás Collado",
+    "nombreCorto": "Nicolás Collado",
+    "dominio": "clinicanicolascollado.com",
+    "web": "https://clinicanicolascollado.com/",
+    "contacto": "https://clinicanicolascollado.com/contacto/",
+    "decisor": "Dr. Nicolás Collado"
+  },
+  "colores": {
+    "acento": "#3a3a3a",
+    "tinta": "#212121",
+    "profundo": "#2e2e2e",
+    "suave": "#f1f1f1",
+    "borde": "#dedede",
+    "calido": "#b89a76",
+    "calidoSuave": "#f8f5f1"
+  },
+  "fotos": {
+    "principal": "https://clinicanicolascollado.com/wp-content/uploads/2016/07/Filosofia.png",
+    "clinica1": "https://clinicanicolascollado.com/wp-content/uploads/2016/07/Imagen-2-7-18-a-las-0.15-5.jpg",
+    "clinica2": "https://clinicanicolascollado.com/wp-content/uploads/2016/07/Imagen-2-7-18-a-las-0.15-7.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE LA CONSTITUCIÓ, 115 · VALENCIA",
+    "titulo": [
+      "En vuestra portada",
+      "no hay ningún botón para pedir cita."
+    ],
+    "intro": "Un gran equipo humano, preparado y profesional, con un 5 de 5 en Google y abierto también los sábados por la mañana. Proponemos que quien llega a vuestra web pueda reservar su cita en el momento, con día y hora.",
+    "hallazgos": [
+      "La portada no tiene un botón de «Pedir cita»: para pedirla hay que encontrar la página de contacto, donde hay un formulario de nombre, teléfono, email y mensaje, sin día ni hora.",
+      "Los teléfonos 96 193 44 75 y 688 99 44 75 aparecen como texto, y no hay WhatsApp ni email visible: desde el móvil no se puede llamar ni escribir con un toque.",
+      "Vuestro horario cambia según el día (el lunes de 9:30 a 18:30 seguido, el resto con descanso a mediodía, y el sábado con cita previa): es justo lo que un paciente no sabe cuando escribe."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Un botón de cita que dé la cita.",
+      "texto": "Un asistente en vuestra web, con su botón de pedir cita, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Conoce vuestro horario de cada día, también el del sábado, y solo ofrece huecos reales. Y el mismo asistente puede atender en el WhatsApp del 688 99 44 75. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas personas os llaman solo para preguntar si tenéis hueco el sábado?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE LA CONSTITUCIÓ, 115 · VALENCIA",
+    "telefono": "961 93 44 75",
+    "telefonos": "961 93 44 75 · 688 99 44 75",
+    "direccion": "Av. de la Constitució, 115 · 46009 Valencia",
+    "marca": "NICOLÁS COLLADO",
+    "submarca": "CLÍNICA ODONTOLÓGICA",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA ODONTOLÓGICA EN VALENCIA",
+    "heroTitulo": "En buenas manos,",
+    "heroDestacado": "tu mejor sonrisa.",
+    "heroTexto": "Un gran equipo humano, preparado y profesional. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Dispuestos a sacar siempre tu mejor sonrisa.",
+    "nota": "Sábados por la mañana, con cita previa.",
+    "fotoEtiqueta": "CLÍNICA NICOLÁS COLLADO",
+    "fotoTitulo": "Un gran equipo humano.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La técnica más conservadora y cómoda.",
+    "equipoTexto": "Implantes, coronas, tratamiento periodontal, endodoncia, ortodoncia y blanqueamiento, con un equipo que cuida la estética, la función y la autoestima de cada paciente.",
+    "valores": [
+      [
+        "Conservadora.",
+        "Cuidar lo natural."
+      ],
+      [
+        "Cómoda.",
+        "Sin prisas."
+      ],
+      [
+        "Sábados.",
+        "Con cita previa."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Madera y luz.",
+    "galeriaDestacado": "En la Av. de la Constitució.",
+    "pies": [
+      "La sala de espera",
+      "La clínica"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Coronas",
+      "Tratamiento periodontal",
+      "Endodoncia",
+      "Ortodoncia",
+      "Blanqueamiento"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes de 9:30 a 18:30; martes a viernes de 9:30 a 13:30 y de 15:30 a 19:30; sábados de 10:00 a 13:00 con cita previa."
+      ],
+      [
+        "¿Abrís los sábados?",
+        "Sí, de 10:00 a 13:00, con cita previa."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Av. de la Constitució, 115, en Valencia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica odontológica en Valencia",
+    "notaDiseno": "Los tonos sobrios de Nicolás Collado, su clínica de madera y luz y, por fin, un botón de pedir cita.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "sabado": [
+        "10:00",
+        "11:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 9:30–18:30",
+      "Martes a viernes: 9:30–13:30 y 15:30–19:30",
+      "Sábado: 10:00–13:00, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 143
+    }
+  }
+}

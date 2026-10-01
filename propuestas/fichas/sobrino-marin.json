@@ -1,0 +1,169 @@
+{
+  "slug": "sobrino-marin",
+  "numero": 195,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Sobrino y Marín",
+    "nombreCorto": "Sobrino & Marín",
+    "dominio": "clinicasobrinoymarin.com",
+    "web": "https://clinicasobrinoymarin.com/",
+    "contacto": "https://clinicasobrinoymarin.com/contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#3a6e8f",
+    "tinta": "#16242d",
+    "profundo": "#1a3241",
+    "suave": "#f1f5f7",
+    "borde": "#dee6ec",
+    "calido": "#c9a77c",
+    "calidoSuave": "#faf6f2"
+  },
+  "fotos": {
+    "principal": "https://clinicasobrinoymarin.com/wp-content/uploads/2024/10/odontopediatria-valencia.jpeg",
+    "clinica1": "https://clinicasobrinoymarin.com/wp-content/uploads/2024/10/Clinica-Dental-Valencia-Recepcion-05.jpeg",
+    "clinica2": "https://clinicasobrinoymarin.com/wp-content/uploads/2024/10/Clinica-Dental-Valencia-recepcion.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ ILLA FORMENTERA, 48 · VALENCIA",
+    "titulo": [
+      "El formulario pide la fecha",
+      "en formato «mm/dd/aaaa», el americano."
+    ],
+    "intro": "Junto al hospital La Nueva Fe, con un 5 de 5 en Google, financiación hasta 24 meses sin intereses y un equipo que cuida tu sonrisa y tu salud. Proponemos que la cita quede reservada en el momento, con día y hora.",
+    "hallazgos": [
+      "El campo «¿En qué fecha prefieres la visita?» indica «mm/dd/aaaa», el formato de Estados Unidos: quien escribe el 3 de abril como 03/04 os está pidiendo el 4 de marzo.",
+      "Y después de elegir fecha y franja, el formulario avisa: «Te llamaremos para darte cita». El paciente se va sin cita confirmada.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 10:00 pasan 63 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp confirme la cita.",
+      "texto": "Ya tenéis el WhatsApp flotante en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Ofrece huecos reales de mañana o de tarde, sin formatos de fecha que confundan, y deja la cita confirmada. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas fechas del formulario tenéis que aclarar por teléfono?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ ILLA FORMENTERA, 48 · VALENCIA",
+    "telefono": "683 27 44 57",
+    "telefonos": "683 27 44 57",
+    "direccion": "C/ de l'Illa Formentera, 48, bajo · 46026 Valencia",
+    "marca": "SOBRINO & MARÍN",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA, JUNTO A LA NUEVA FE",
+    "heroTitulo": "Cuidamos tu sonrisa,",
+    "heroDestacado": "cuidamos tu salud.",
+    "heroTexto": "Atención dental de máxima calidad en un entorno cómodo y accesible. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Tratamientos personalizados, de la odontología general a la estética.",
+    "nota": "Financiamos tu tratamiento hasta 24 meses sin intereses.",
+    "fotoEtiqueta": "CLÍNICA SOBRINO & MARÍN",
+    "fotoTitulo": "Cómoda y accesible.",
+    "cifra": "24",
+    "cifraEtiqueta": "MESES DE FINANCIACIÓN SIN INTERESES",
+    "equipoTitulo": "Profesionales altamente cualificados.",
+    "equipoTexto": "Un equipo con años de experiencia en odontología general, estética dental, ortodoncia, implantología y odontopediatría.",
+    "valores": [
+      [
+        "Calidad.",
+        "Máxima atención."
+      ],
+      [
+        "Accesible.",
+        "Junto a La Fe."
+      ],
+      [
+        "Sin intereses.",
+        "Hasta 24 meses."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y calma.",
+    "galeriaDestacado": "En Quatre Carreres.",
+    "pies": [
+      "La recepción",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Estética dental",
+      "Ortodoncia",
+      "Implantología",
+      "Odontopediatría",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 10:00 a 14:00 y de 15:00 a 19:00."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí, hasta 24 meses sin intereses."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ de l'Illa Formentera, 48, junto al hospital La Nueva Fe."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "Los tonos serenos de Sobrino & Marín, su clínica luminosa y una cita que se confirma sin malentendidos.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 15:00–19:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 137
+    }
+  }
+}

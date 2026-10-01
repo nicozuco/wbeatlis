@@ -1,0 +1,168 @@
+{
+  "slug": "alvarado-dental",
+  "numero": 172,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Alvarado Dental Clinic",
+    "nombreCorto": "Alvarado",
+    "dominio": "alvaradodentalclinic.com",
+    "web": "https://alvaradodentalclinic.com/",
+    "contacto": "https://alvaradodentalclinic.com/contacto/",
+    "decisor": "Dr. Miguel Alvarado"
+  },
+  "colores": {
+    "acento": "#1f5a3c",
+    "tinta": "#162d21",
+    "profundo": "#19432e",
+    "suave": "#eff3f1",
+    "borde": "#d9e3de",
+    "calido": "#b8955a",
+    "calidoSuave": "#f8f4ee"
+  },
+  "fotos": {
+    "principal": "https://alvaradodentalclinic.com/img/hero-home.webp",
+    "clinica1": "https://alvaradodentalclinic.com/img/hero-contacto-1440.webp",
+    "clinica2": "https://alvaradodentalclinic.com/img/miguel-cirugia.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ COLÓN, 58 · VALENCIA",
+    "titulo": [
+      "Vuestro formulario hace las preguntas buenas.",
+      "Y termina preguntando cómo queréis que os contactemos."
+    ],
+    "intro": "Más de 30 años de trayectoria y más de 1.000 implantes al año, con el Dr. Miguel Alvarado y su ABIL System®. Proponemos que, después de esas preguntas tan bien pensadas, el paciente salga con la cita reservada.",
+    "hallazgos": [
+      "El formulario «Pide tu cita o resuelve tu duda» pregunta la situación del paciente y lo que le preocupa, y termina con «¿WhatsApp o llamada?»: el paciente se va sin fecha, esperando vuestra respuesta.",
+      "Los botones de WhatsApp abren el chat con «me gustaría pedir cita o hacer una consulta»: la conversación empieza bien, pero alguien tiene que contestarla a mano.",
+      "Según vuestro horario, el viernes cerráis a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp conteste y reserve.",
+      "texto": "Ya tenéis el WhatsApp 601 465 925 con el mensaje preparado. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Hace las mismas preguntas que vuestro formulario (si le han dicho que no tiene hueso, si quiere dientes fijos pronto) y deja la primera visita reservada con el Dr. Alvarado. Lo clínico sigue siendo cosa de el Dr. Alvarado y su equipo."
+    },
+    "pregunta": "¿Cuántas consultas de «no tengo hueso» os llegan el fin de semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ COLÓN, 58 · VALENCIA",
+    "telefono": "963 034 838",
+    "telefonos": "963 034 838 · WhatsApp 601 465 925",
+    "direccion": "C/ Colón, 58, pta. 1 · 46004 Valencia",
+    "marca": "ALVARADO",
+    "submarca": "DENTAL CLINIC",
+    "menuEquipo": "Dr. Alvarado",
+    "heroEtiqueta": "IMPLANTOLOGÍA AVANZADA EN VALENCIA",
+    "heroTitulo": "Implantología avanzada",
+    "heroDestacado": "con el Dr. Miguel Alvarado.",
+    "heroTexto": "Implantes incluso sin hueso, dientes fijos sin esperar meses y una experiencia sin dolor. Elige día y hora y tu primera visita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Dientes fijos, sin esperar meses.",
+    "nota": "Junto a la estación de metro Colón.",
+    "fotoEtiqueta": "DR. MIGUEL ALVARADO",
+    "fotoTitulo": "Creador de ABIL System®.",
+    "cifra": "+1.000",
+    "cifraEtiqueta": "IMPLANTES AL AÑO DESDE 2002",
+    "equipoTitulo": "Más de 30 años de trayectoria.",
+    "equipoTexto": "El Dr. Miguel Alvarado, CEO y director médico, profesor de la International Implant Foundation y socio fundador de SIBASI, coloca más de 1.000 implantes al año desde 2002.",
+    "valores": [
+      [
+        "Sin hueso.",
+        "También hay solución."
+      ],
+      [
+        "Sin esperas.",
+        "Dientes fijos pronto."
+      ],
+      [
+        "Sin dolor.",
+        "Una experiencia tranquila."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En pleno centro.",
+    "galeriaDestacado": "Calle Colón, 58.",
+    "pies": [
+      "La clínica",
+      "El Dr. Alvarado en cirugía"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Implantes sin hueso",
+      "Dientes fijos sin esperar",
+      "ABIL System®",
+      "Prótesis de zirconio",
+      "Segunda opinión"
+    ],
+    "faq": [
+      [
+        "Me han dicho que no tengo hueso. ¿Podéis ayudarme?",
+        "Muy probablemente. En la primera visita estudiamos tu caso y te decimos si eres candidato."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 15:00 y de 16:00 a 20:00; viernes de 10:00 a 14:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 601 465 925 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "No tengo hueso",
+      "Dientes fijos pronto",
+      "Problemas con implantes",
+      "Segunda opinión"
+    ],
+    "pieMarca": "Implantología avanzada en Valencia",
+    "notaDiseno": "El verde profundo de Alvarado, el doctor en su clínica y un WhatsApp que reserva la primera visita.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–15:00 y 16:00–20:00",
+      "Viernes: 10:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 164
+    }
+  }
+}

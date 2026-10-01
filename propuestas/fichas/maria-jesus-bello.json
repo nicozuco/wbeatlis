@@ -1,0 +1,167 @@
+{
+  "slug": "maria-jesus-bello",
+  "numero": 242,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "María Jesús Bello · Dental Suite",
+    "nombreCorto": "Dental Suite María Jesús Bello",
+    "dominio": "mariajesusbello.com",
+    "web": "https://mariajesusbello.com/",
+    "contacto": "https://mariajesusbello.com/formulario-pacientes-o-valoracion-online/",
+    "decisor": "María Jesús Bello"
+  },
+  "colores": {
+    "acento": "#8a6f5a",
+    "tinta": "#28201a",
+    "profundo": "#382d24",
+    "suave": "#f7f5f3",
+    "borde": "#ebe7e3",
+    "calido": "#b13f3f",
+    "calidoSuave": "#f7ecec"
+  },
+  "fotos": {
+    "principal": "https://mariajesusbello.com/wp-content/uploads/2026/01/DSC_0350-scaled-e1772059119292.jpg",
+    "clinica1": "https://mariajesusbello.com/wp-content/uploads/2026/01/DSC_0478.jpg",
+    "clinica2": "https://mariajesusbello.com/wp-content/uploads/2026/01/DSC_0594-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. MAESTRO RODRIGO, 85 · VALENCIA",
+    "titulo": [
+      "«Solicita tu cita», dice el botón.",
+      "Y lo que se envía es una solicitud de valoración."
+    ],
+    "intro": "Casi 15 años dedicada en exclusiva a las carillas de composite, hechas a mano, diente a diente, y un 5,0 en Google con 105 opiniones. Proponemos que «Solicita tu cita» deje la primera consulta reservada, con día y hora.",
+    "hallazgos": [
+      "«Solicita tu cita» lleva a un formulario de valoración: tratamiento de interés, cómo prefieres que te contactéis, presencial u online y un archivo opcional. Ningún día ni hora: después hay que escribir o llamar para cerrarla.",
+      "En el móvil, el icono de teléfono de la portada marca «34722400476», sin el + delante: así el teléfono lo trata como un número nacional de 11 cifras y la llamada no sale.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste, con los sábados solo bajo cita concertada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que la primera consulta se reserve por WhatsApp.",
+      "texto": "Vuestro propio formulario ya ofrece el WhatsApp como forma de contacto, y tenéis el 722 40 04 76 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si es primera consulta presencial o valoración online, recibe las fotos y deja la cita reservada. Lo clínico sigue siendo cosa de María Jesús y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes de valoración os llegan que luego no contestan al WhatsApp?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. MAESTRO RODRIGO, 85 · VALENCIA",
+    "telefono": "722 400 476",
+    "telefonos": "722 400 476 · 963 192 895",
+    "direccion": "Av. Maestro Rodrigo, 85, bajo derecha · 46015 Valencia",
+    "marca": "MARÍA JESÚS BELLO",
+    "submarca": "DENTAL SUITE",
+    "menuEquipo": "Sobre mí",
+    "heroEtiqueta": "ESTÉTICA DENTAL EN VALENCIA",
+    "heroTitulo": "Diseñamos sonrisas",
+    "heroDestacado": "que inspiran.",
+    "heroTexto": "Con alma, arte y precisión: carillas de composite hechas a mano, diente a diente. Elige día y hora y tu primera consulta queda reservada.",
+    "ctaHero": "Solicita tu cita",
+    "frase": "El verdadero lujo es cómo te hacemos sentir.",
+    "nota": "Sábados, bajo cita concertada.",
+    "fotoEtiqueta": "MARÍA JESÚS BELLO",
+    "fotoTitulo": "Especialista en estética dental.",
+    "cifra": "15",
+    "cifraEtiqueta": "AÑOS CON CARILLAS DE COMPOSITE",
+    "equipoTitulo": "Detrás de cada sonrisa, hay una historia.",
+    "equipoTexto": "María Jesús Bello, odontóloga especializada en estética dental, dedicada en exclusiva a perfeccionar las carillas de composite con las manos, el ojo clínico y el corazón.",
+    "valores": [
+      [
+        "Sin tallado.",
+        "Natural y reversible."
+      ],
+      [
+        "Hecho a mano.",
+        "Diente a diente."
+      ],
+      [
+        "Valoración online.",
+        "Desde casa."
+      ]
+    ],
+    "galeriaEtiqueta": "DENTAL SUITE",
+    "galeriaTitulo": "Un refugio",
+    "galeriaDestacado": "para tu sonrisa.",
+    "pies": [
+      "El gabinete",
+      "La entrada"
+    ],
+    "servicios": [
+      "Carillas de composite",
+      "Blanqueamiento dental",
+      "Rehabilitación oral",
+      "Diseño de sonrisa",
+      "Valoración online"
+    ],
+    "faq": [
+      [
+        "¿Las carillas de composite necesitan tallar el diente?",
+        "No. Se aplican sin tallado, por eso son naturales y reversibles."
+      ],
+      [
+        "¿Puedo hacer una valoración online?",
+        "Sí. Envíanos una foto o un informe y valoramos tu caso."
+      ],
+      [
+        "¿Abrís los sábados?",
+        "Solo bajo cita concertada."
+      ]
+    ],
+    "motivos": [
+      "Primera consulta presencial",
+      "Valoración online",
+      "Carillas de composite",
+      "Blanqueamiento",
+      "Rehabilitación"
+    ],
+    "pieMarca": "Estética dental en Valencia",
+    "notaDiseno": "Los tonos cálidos de la Dental Suite, el retrato de María Jesús y una primera consulta que se reserva por WhatsApp.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 16:00–20:00",
+      "Viernes: 10:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 105
+    }
+  }
+}

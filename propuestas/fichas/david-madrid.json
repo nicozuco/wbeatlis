@@ -1,0 +1,169 @@
+{
+  "slug": "david-madrid",
+  "numero": 227,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental David Madrid",
+    "nombreCorto": "David Madrid",
+    "dominio": "davidmadrid.es",
+    "web": "https://davidmadrid.es/",
+    "contacto": "https://davidmadrid.es/contacto/",
+    "decisor": "Laura Elisa Molina"
+  },
+  "colores": {
+    "acento": "#2e5446",
+    "tinta": "#172b24",
+    "profundo": "#203b31",
+    "suave": "#f0f3f2",
+    "borde": "#dbe2e0",
+    "calido": "#b89a6a",
+    "calidoSuave": "#f8f5f0"
+  },
+  "fotos": {
+    "principal": "https://davidmadrid.es/wp-content/uploads/2024/05/DAVID-MADRID-CLINICA-DENTAL.jpg",
+    "clinica1": "https://davidmadrid.es/wp-content/uploads/2024/05/Clinica-Dental-Valencia-1.jpg",
+    "clinica2": "https://davidmadrid.es/wp-content/uploads/2024/05/ORTODONCIA-INVISIBLE.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ D'ALMASSORA, 51 · VALENCIA",
+    "titulo": [
+      "En vuestro formulario, nombre y teléfono",
+      "comparten el mismo identificador."
+    ],
+    "intro": "Una clínica de vocación familiar en Valencia, con el Dr. David Madrid en cirugía e implantes y un equipo que los pacientes nombran uno a uno en sus reseñas. Proponemos que «Pedir cita» deje la cita reservada, con día y hora.",
+    "hallazgos": [
+      "En el formulario de contacto, los campos de nombre y de teléfono usan el mismo identificador interno (form_fields[name]): al enviarlo, uno puede pisar al otro y llegaros la solicitud sin nombre o sin teléfono.",
+      "Los cuatro botones «Pedir cita» de la portada llevan a ese formulario, que pide nombre, teléfono, email y mensaje, sin día ni hora: después alguien tiene que llamar para cerrar la cita.",
+      "Según Google Maps cerráis el viernes a las 19:00 y no abrís hasta el lunes a las 9:30: 62 horas y media seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pedir cita» reserve de verdad.",
+      "texto": "Ya tenéis cuatro botones «Pedir cita» en la portada. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. El agente web resuelve las dudas sobre implantes, injertos o muelas del juicio y deja la cita reservada, sin formularios que se pierdan. Lo clínico sigue siendo cosa de Laura, el Dr. Madrid y su equipo."
+    },
+    "pregunta": "¿Os ha llegado alguna solicitud del formulario sin nombre o sin teléfono?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ D'ALMASSORA, 51 · VALENCIA",
+    "telefono": "611 103 989",
+    "telefonos": "611 103 989",
+    "direccion": "C/ d'Almassora, 51, bajo · 46009 Valencia",
+    "marca": "DAVID MADRID",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Vocación familiar,",
+    "heroDestacado": "la mejor calidad.",
+    "heroTexto": "Más de 15 años de experiencia y un trato amable y cercano. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Te hacemos sentir como en casa.",
+    "nota": "Metro líneas 4 y 6 (Pont de Fusta) e Interparking Tierno Galván a un paso.",
+    "fotoEtiqueta": "EQUIPO DAVID MADRID",
+    "fotoTitulo": "Un equipo profesional y cercano.",
+    "cifra": "15",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "La clínica es el equipo que la compone.",
+    "equipoTexto": "Laura Elisa Molina en la dirección, el Dr. David Madrid López en cirugía e implantología, higiene y ortodoncia: cada paso explicado con calma.",
+    "valores": [
+      [
+        "Cirugía e implantes.",
+        "Paso a paso."
+      ],
+      [
+        "Trato cercano.",
+        "Sin miedo al dentista."
+      ],
+      [
+        "Familia.",
+        "Ortodoncia para niños."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Un local",
+    "galeriaDestacado": "pensado para ti.",
+    "pies": [
+      "Gabinete",
+      "Ortodoncia invisible"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Injertos y regeneración ósea",
+      "Muelas del juicio",
+      "Ortodoncia invisible",
+      "Ortodoncia niños",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ d'Almassora, 51, bajo, en Valencia."
+      ],
+      [
+        "¿Cómo llego en metro?",
+        "Líneas 4 y 6, paradas Pont de Fusta, Calle Sagunto o Benimaclet."
+      ],
+      [
+        "¿Hacéis cirugía de muelas del juicio?",
+        "Sí, el Dr. David Madrid es cirujano e implantólogo."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Muelas del juicio",
+      "Ortodoncia",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El verde oscuro de David Madrid, su equipo y un «Pedir cita» que reserva de verdad.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 114
+    }
+  }
+}

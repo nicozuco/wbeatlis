@@ -1,0 +1,162 @@
+{
+  "slug": "incilex",
+  "numero": 188,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental InciLex",
+    "nombreCorto": "InciLex",
+    "dominio": "incilex.com",
+    "web": "https://incilex.com/",
+    "contacto": "https://incilex.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#2b4f9e",
+    "tinta": "#161d2d",
+    "profundo": "#192643",
+    "suave": "#f0f3f8",
+    "borde": "#dbe1ef",
+    "calido": "#b89a6a",
+    "calidoSuave": "#f8f5f0"
+  },
+  "fotos": {
+    "principal": "https://incilex.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-02-at-19.09.26-4.jpeg",
+    "clinica1": "https://incilex.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-02-at-19.09.27-3.jpeg",
+    "clinica2": "https://incilex.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-02-at-19.09.27-5.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ D'ALCÀSSER, 30 · VALENCIA",
+    "titulo": [
+      "«Cita Online», dice el botón.",
+      "Y abre un chat de WhatsApp."
+    ],
+    "intro": "Especialistas en implantología de carga inmediata: entrar por la mañana sin dientes y salir por la tarde con una sonrisa fija. Proponemos que la cita sea igual de inmediata: reservada en el momento, con día y hora.",
+    "hallazgos": [
+      "Los botones «Cita Online», «Pedir Cita» y «Reserva tu diagnóstico gratuito» abren vuestro WhatsApp: la cita queda en manos de quien pueda contestar el chat.",
+      "Vuestra web da dos horarios distintos para el viernes: el pie de la portada dice de 10:00 a 14:00, y la página de contacto, cerrado.",
+      "La página de contacto promete «Respondemos en menos de 24 horas»: lo que llega el jueves por la tarde puede esperar hasta el lunes."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Cita Online» sea una cita online.",
+      "texto": "Todos vuestros botones de cita ya llevan al WhatsApp 642 81 56 57. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Explica el diagnóstico gratuito y la carga inmediata, y deja la cita reservada con el horario real del viernes. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp de «Cita Online» contestáis cada lunes?",
+    "tema": "diagnóstico gratuito"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ D'ALCÀSSER, 30 · VALENCIA",
+    "telefono": "962 14 07 41",
+    "telefonos": "962 14 07 41 · WhatsApp 642 81 56 57",
+    "direccion": "C/ d'Alcàsser, 30 · 46014 Valencia",
+    "marca": "INCILEX",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "EXCELENCIA DENTAL EN VALENCIA",
+    "heroTitulo": "Recupera tu sonrisa",
+    "heroDestacado": "en solo 24 horas.",
+    "heroTexto": "Especialistas en implantología de carga inmediata: una sonrisa fija, natural y definitiva. Elige día y hora y tu diagnóstico gratuito queda reservado.",
+    "ctaHero": "Reserva tu diagnóstico",
+    "frase": "Entrar por la mañana sin dientes y salir por la tarde con una sonrisa fija.",
+    "nota": "Diagnóstico gratuito.",
+    "fotoEtiqueta": "CLÍNICA DENTAL INCILEX",
+    "fotoTitulo": "Excelencia dental en Valencia.",
+    "cifra": "24 h",
+    "cifraEtiqueta": "PARA RECUPERAR TU SONRISA",
+    "equipoTitulo": "Implantología de carga inmediata.",
+    "equipoTexto": "Un equipo especializado en transformar vidas con implantes de carga inmediata, junto a odontología general, estética y dermoestética.",
+    "valores": [
+      [
+        "Inmediata.",
+        "Sonrisa fija en el día."
+      ],
+      [
+        "Natural.",
+        "Resultado definitivo."
+      ],
+      [
+        "Gratis.",
+        "Diagnóstico sin coste."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En la calle Alcàsser.",
+    "galeriaDestacado": "Valencia.",
+    "pies": [
+      "Uno de los gabinetes",
+      "La entrada"
+    ],
+    "servicios": [
+      "Implantes de carga inmediata",
+      "Prótesis fija",
+      "Estética dental",
+      "Odontología general",
+      "Endodoncia",
+      "Dermoestética"
+    ],
+    "faq": [
+      [
+        "¿De verdad se puede salir con dientes fijos en el día?",
+        "En muchos casos sí, con carga inmediata. Te lo confirmamos en el diagnóstico gratuito."
+      ],
+      [
+        "¿El diagnóstico es gratis?",
+        "Sí. El diagnóstico es gratuito."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 642 81 56 57 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Diagnóstico gratuito",
+      "Carga inmediata",
+      "Revisión",
+      "Estética dental",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul de InciLex, su clínica y un «Cita Online» que deja la cita reservada de verdad.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 15:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 145
+    }
+  }
+}

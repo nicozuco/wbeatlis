@@ -1,0 +1,158 @@
+{
+  "slug": "dental-blanch",
+  "numero": 164,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Blanch",
+    "nombreCorto": "Dental Blanch",
+    "dominio": "dentalblanch.es",
+    "web": "https://dentalblanch.es/",
+    "contacto": "https://dentalblanch.es/contacto/",
+    "decisor": "Dra. María José Pérez Blanch"
+  },
+  "colores": {
+    "acento": "#c2459f",
+    "tinta": "#2d1626",
+    "profundo": "#431937",
+    "suave": "#fbf2f8",
+    "borde": "#f5dfef",
+    "calido": "#4f7fd9",
+    "calidoSuave": "#edf2fb"
+  },
+  "fotos": {
+    "principal": "https://dentalblanch.es/wp-content/uploads/2025/03/Dra-Maria-Jose-perez-Blanch-clinica-dental-Blanch-Valencia-1024x1024.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PLAZA MARIANO BENLLIURE, 5 · VALENCIA",
+    "titulo": [
+      "«info @ dentalblanch.es»,",
+      "con espacios: así aparece vuestro email en la web."
+    ],
+    "intro": "Desde 1951 en el centro de Valencia, con tres generaciones de dentistas y la Dra. María José Pérez Blanch al frente. Proponemos que la cita quede reservada en el momento, sin depender de un email ni de una llamada.",
+    "hallazgos": [
+      "En vuestra web, el email aparece como «info @ dentalblanch.es», con espacios y sin enlace: quien lo copia tal cual, no os llega.",
+      "Los botones «Pedir cita» llevan a un formulario de nombre, email, teléfono y «cita, tratamiento o información»: en ningún momento se elige día ni hora.",
+      "Según vuestro horario, el viernes cerráis a las 13:00 y no abrís hasta el lunes a las 9:30: 68 horas y media con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el botón «Pedir cita WhatsApp» con «Hola quiero pedir cita en Dental Blanch» preparado. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Si es una urgencia, avisa al equipo al momento; si es por odontofobia, lo indica para que el equipo la prepare con calma. Lo clínico sigue siendo cosa de la Dra. Pérez Blanch y su equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp de «quiero pedir cita» contestáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PLAZA MARIANO BENLLIURE, 5 · VALENCIA",
+    "telefono": "963 523 505",
+    "telefonos": "963 523 505 · WhatsApp 666 547 392",
+    "direccion": "Plaza Mariano Benlliure, 5, 2.º, pta. 16 · 46002 Valencia",
+    "marca": "DENTAL BLANCH",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN EL CENTRO DE VALENCIA",
+    "heroTitulo": "Tu aliado en salud bucodental,",
+    "heroDestacado": "por experiencia y confianza.",
+    "heroTexto": "Tres generaciones de dentistas, con experiencia, innovación y un trato cercano. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Tres generaciones cuidando de tu salud bucodental.",
+    "nota": "Metro Colón y Xàtiva, a pocos minutos.",
+    "fotoEtiqueta": "DRA. MARÍA JOSÉ PÉREZ BLANCH",
+    "fotoTitulo": "Más de 25 años de experiencia.",
+    "cifra": "1951",
+    "cifraEtiqueta": "CUIDANDO SONRISAS EN VALENCIA",
+    "equipoTitulo": "Experiencia de tres generaciones.",
+    "equipoTexto": "La Dra. María José Pérez Blanch, experta en cirugía oral, implantología, ATM y ortodoncia invisible, dirige la clínica con un equipo especializado también en odontofobia.",
+    "valores": [
+      [
+        "Experiencia.",
+        "Desde 1951."
+      ],
+      [
+        "Sin miedo.",
+        "Odontofobia adultos e infantil."
+      ],
+      [
+        "Urgencias.",
+        "Atendidas con rapidez."
+      ]
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia invisible",
+      "Cirugía oral",
+      "ATM",
+      "Odontofobia",
+      "Urgencias dentales"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:30 a 19:00 y los viernes de 9:30 a 13:00."
+      ],
+      [
+        "¿Atendéis urgencias?",
+        "Sí, en horario de consulta las atendemos con rapidez."
+      ],
+      [
+        "¿Y si tengo miedo al dentista?",
+        "Trabajamos la odontofobia en adultos y en niños, con calma y explicándolo todo."
+      ]
+    ],
+    "motivos": [
+      "1.ª visita",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Odontofobia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El magenta de Dental Blanch, su directora y un WhatsApp que deja la cita reservada.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30–19:00",
+      "Viernes: 9:30–13:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 171
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "ana-ortola",
+  "numero": 236,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Ana Ortolá",
+    "nombreCorto": "Clínica Ana Ortolá",
+    "dominio": "clinicaanaortola.com",
+    "web": "https://clinicaanaortola.com/",
+    "contacto": "https://clinicaanaortola.com/#contacta",
+    "decisor": "Dra. Ana Ortolá"
+  },
+  "colores": {
+    "acento": "#0c4da2",
+    "tinta": "#16202d",
+    "profundo": "#192b43",
+    "suave": "#eef3f8",
+    "borde": "#d6e1ef",
+    "calido": "#cc3366",
+    "calidoSuave": "#faebf0"
+  },
+  "fotos": {
+    "principal": "https://clinicaanaortola.com/wp-content/uploads/2024/05/Foto-con-paciente-1.jpg",
+    "clinica1": "https://clinicaanaortola.com/wp-content/uploads/2026/04/IMG_9508_Equipo-scaled-e1777557381507.jpeg",
+    "clinica2": "https://clinicaanaortola.com/wp-content/uploads/2024/05/Foto-higieneOK.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ ALCALDE JUAN SANCHO, 15 · OLIVA",
+    "titulo": [
+      "«Pide tu cita ahora», dice el botón.",
+      "Y antes hay que sumar 6 + 8."
+    ],
+    "intro": "Desde 1993 en Oliva, con la Dra. Ana Ortolá al frente de un equipo especializado en implantes, estética y ortodoncia. Proponemos que «Pide tu cita ahora» la deje reservada de verdad, con día y hora.",
+    "hallazgos": [
+      "«Pide tu cita ahora» lleva a un formulario de seis campos (nombre, apellidos, tratamiento, teléfono, correo y mensaje), con un cálculo que resolver, y al final «nos pondremos en contacto contigo»: ni día ni hora.",
+      "Lunes, jueves y viernes cerráis a las 17:00 y el martes a las 18:00: quien sale de trabajar a esa hora solo puede llamaros el miércoles por la tarde. Según Google Maps, del viernes a las 17:00 al lunes a las 9:00 son 64 horas seguidas cerrados.",
+      "El sello de Google de vuestra portada dice «Excelente, a base de 31 reseñas» y las opiniones que enseña son de 2023; en Google ya tenéis 109, con un 5,0."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide tu cita ahora» reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 601 275 307 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, también por la tarde y en fin de semana, pregunta qué tratamiento le interesa y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. Ortolá y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes os piden cita para después de las cinco?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ ALCALDE JUAN SANCHO, 15 · OLIVA",
+    "telefono": "962 853 732",
+    "telefonos": "962 853 732 · WhatsApp 601 275 307",
+    "direccion": "C/ Alcalde Juan Sancho, 15, entlo. C · 46780 Oliva (Valencia)",
+    "marca": "ANA ORTOLÁ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU DENTISTA EN OLIVA",
+    "heroTitulo": "Más de 30 años",
+    "heroDestacado": "cuidando de ti.",
+    "heroTexto": "Te escuchamos y dedicamos tiempo y conocimientos a encontrar la mejor solución para ti. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita ahora",
+    "frase": "Tu sonrisa y tu salud son lo más importante.",
+    "nota": "Enamoradas de nuestro trabajo desde 1993.",
+    "fotoEtiqueta": "CLÍNICA ANA ORTOLÁ",
+    "fotoTitulo": "Excelencia y trato cercano.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "EN GOOGLE, 109 OPINIONES",
+    "equipoTitulo": "Lideradas por la Dra. Ana Ortolá.",
+    "equipoTexto": "Un gran equipo, humano, comprometido y bien formado, que combina la calidad de los tratamientos con una atención personalizada y una experiencia positiva.",
+    "valores": [
+      [
+        "Implantes.",
+        "De una pieza a una arcada."
+      ],
+      [
+        "Estética dental.",
+        "Cuidando cada detalle."
+      ],
+      [
+        "Tecnología.",
+        "Y formación continua."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tu clínica",
+    "galeriaDestacado": "de confianza.",
+    "pies": [
+      "El equipo",
+      "Higiene dental"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Estética dental",
+      "Ortodoncia",
+      "Periodoncia",
+      "Prótesis dentales",
+      "Odontología rehabilitadora"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Alcalde Juan Sancho, 15, entresuelo C, en Oliva."
+      ],
+      [
+        "¿Abrís por la tarde?",
+        "El miércoles, de 15:00 a 21:00. Y por WhatsApp puedes pedir cita a cualquier hora."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 601 275 307 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Estética dental",
+      "Ortodoncia",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Oliva",
+    "notaDiseno": "El azul y el frambuesa de Ana Ortolá, su equipo y un WhatsApp que reserva a cualquier hora.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "15:00",
+        "16:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "15:00",
+        "16:30"
+      ],
+      "miercoles": [
+        "15:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "14:00",
+        "15:30"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "15:00",
+        "16:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 9:00–17:00",
+      "Martes: 10:00–18:00",
+      "Miércoles: 15:00–21:00",
+      "Jueves y viernes: 9:00–17:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 109
+    }
+  }
+}

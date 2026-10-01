@@ -1,0 +1,169 @@
+{
+  "slug": "laura-daros",
+  "numero": 282,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Dra. Laura Darós",
+    "nombreCorto": "Clínica Laura Darós",
+    "dominio": "clinicadentalpuzol.com",
+    "web": "https://clinicadentalpuzol.com/",
+    "contacto": "https://clinicadentalpuzol.com/pedir-cita/",
+    "decisor": "Dra. Laura Darós"
+  },
+  "colores": {
+    "acento": "#3f6f9e",
+    "tinta": "#16212d",
+    "profundo": "#1a2e42",
+    "suave": "#f2f5f8",
+    "borde": "#dee7ef",
+    "calido": "#e0733a",
+    "calidoSuave": "#fcf1eb"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalpuzol.com/wp-content/uploads/2022/03/GR_20220218_463-316.jpg",
+    "clinica1": "https://clinicadentalpuzol.com/wp-content/uploads/2022/03/GR_20220218_463-600-HDR.jpg",
+    "clinica2": "https://clinicadentalpuzol.com/wp-content/uploads/2022/03/GR_20220218_463-639-HDR.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ SANCHIS GUARNER, 2 · PUÇOL",
+    "titulo": [
+      "«1ª cita sin coste», dice vuestra portada.",
+      "Y el formulario no pregunta cuándo."
+    ],
+    "intro": "Una clínica de Puçol cuidada hasta el último detalle, con la Dra. Laura Darós al frente y un 4,8 en Google. Proponemos que «1ª cita sin coste» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "«Pedir cita» lleva a un formulario de nombre, correo, teléfono, tratamiento y mensaje: sin día ni hora, y después alguien tiene que llamar para cerrar la cita.",
+      "El pie de la web dice «L. V. 9:30 a 13:30 – 16:00 a 20:00», pero Google Maps os da por cerrados el viernes a las 17:00: según qué se lea, el viernes por la tarde hay o no hay clínica.",
+      "Según Google Maps cerráis el viernes a las 17:00 y no abrís hasta el lunes a las 9:30: 64 horas y media seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que la primera cita sin coste se reserve por WhatsApp.",
+      "texto": "Ya tenéis el WhatsApp 684 472 113 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento con vuestro horario real, también el fin de semana, y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. Darós y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes os preguntan si el viernes por la tarde hay clínica?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ SANCHIS GUARNER, 2 · PUÇOL",
+    "telefono": "961 464 587",
+    "telefonos": "961 464 587 · WhatsApp 684 472 113",
+    "direccion": "C/ Sanchis Guarner, 2 · 46530 Puçol (Valencia)",
+    "marca": "DRA. LAURA DARÓS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "DENTISTAS EN PUÇOL",
+    "heroTitulo": "Cada paciente",
+    "heroDestacado": "es único y especial.",
+    "heroTexto": "Máxima cercanía y profesionalidad, con tecnología a la vanguardia. Tu primera cita es sin coste: elige día y hora y queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Bien atendido en todo momento.",
+    "nota": "En el centro de Puçol.",
+    "fotoEtiqueta": "CLÍNICA DRA. LAURA DARÓS",
+    "fotoTitulo": "La clínica, en la esquina.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Laura Darós y su equipo.",
+    "equipoTexto": "Un equipo profesional con formación continua en prevención, ortodoncia, odontopediatría, implantología, cirugía oral, periodoncia y estética dental.",
+    "valores": [
+      [
+        "Primera cita.",
+        "Sin coste."
+      ],
+      [
+        "Tecnología.",
+        "A la vanguardia."
+      ],
+      [
+        "Cercanía.",
+        "Máxima."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Un espacio",
+    "galeriaDestacado": "luminoso.",
+    "pies": [
+      "Gabinete",
+      "Gabinete"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Cirugía oral",
+      "Periodoncia",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿La primera cita tiene coste?",
+        "No, la primera cita es sin coste."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ Sanchis Guarner, 2, en Puçol."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 684 472 113 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Puçol",
+    "notaDiseno": "El azul y el naranja de la Clínica Laura Darós, su esquina luminosa y un WhatsApp que reserva con el horario real.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:30–13:30 y 16:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 88
+    }
+  }
+}

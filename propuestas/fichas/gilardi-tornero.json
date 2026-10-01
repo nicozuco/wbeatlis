@@ -1,0 +1,160 @@
+{
+  "slug": "gilardi-tornero",
+  "numero": 176,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Dres. Gilardi-Tornero",
+    "nombreCorto": "Gilardi-Tornero",
+    "dominio": "cdgilarditornero.com",
+    "web": "https://cdgilarditornero.com/",
+    "contacto": "https://cdgilarditornero.com/contacto/",
+    "decisor": "Dr. Gerardo y Dra. M.ª del Carmen"
+  },
+  "colores": {
+    "acento": "#2e9a5a",
+    "tinta": "#162d1f",
+    "profundo": "#19432a",
+    "suave": "#f0f8f3",
+    "borde": "#dbeee3",
+    "calido": "#3a3f45",
+    "calidoSuave": "#ebecec"
+  },
+  "fotos": {
+    "principal": "https://cdgilarditornero.com/wp-content/uploads/2023/02/Slider-dentistas-gilardi-tornero.png"
+  },
+  "propuesta": {
+    "etiqueta": "TORRENT · DOS CLÍNICAS",
+    "titulo": [
+      "«Pide cita», dice el botón.",
+      "Y la página de contacto no tiene formulario."
+    ],
+    "intro": "Una familia de dentistas que empezó en Montevideo en 1989 y lleva más de 20 años en Torrent, con dos clínicas y un equipo de hijos, hijas y yerno odontólogos. Proponemos que el paciente elija clínica, día y hora y salga con la cita reservada.",
+    "hallazgos": [
+      "El botón «Pide cita» lleva a la página de contacto, donde solo hay teléfonos, dos emails de Hotmail y botones de WhatsApp: no hay formulario, y los teléfonos no se pueden pulsar para llamar desde el móvil.",
+      "El mensaje que se envía por WhatsApp desde vuestra web termina en «Enviado desde cdgilarditorero.com», sin la «n» de Tornero.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 9:00 pasan 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve en la clínica que toca.",
+      "texto": "Ya tenéis un WhatsApp para cada clínica en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si es para la C/ Azorín o para la Av. Juan Carlos I y lleva la cita a la agenda de esa clínica. Lo clínico sigue siendo cosa de los doctores Gilardi-Tornero y su equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp de «necesito información» contestáis cada lunes?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "TORRENT · DOS CLÍNICAS",
+    "telefono": "685 136 651",
+    "telefonos": "Torrent 685 136 651 · Torrent II 611 100 297",
+    "direccion": "C/ Azorín, 32, bajo · 46900 Torrent (Valencia)",
+    "marca": "GILARDI-TORNERO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nuestra historia",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN TORRENT",
+    "heroTitulo": "Bienvenido a",
+    "heroDestacado": "nuestra gran familia.",
+    "heroTexto": "Dos clínicas en Torrent y un amplio horario para que vengas cuando mejor te venga. Elige clínica, día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Odontólogos vocacionales, en constante formación.",
+    "nota": "Desde 1989, primero en Montevideo y hoy en Torrent.",
+    "fotoEtiqueta": "DRES. GILARDI-TORNERO",
+    "fotoTitulo": "Una familia de dentistas.",
+    "cifra": "1989",
+    "cifraEtiqueta": "UNA FAMILIA DEDICADA A LA ODONTOLOGÍA",
+    "equipoTitulo": "Un equipo multidisciplinar y familiar.",
+    "equipoTexto": "El Dr. Gerardo y la Dra. M.ª del Carmen fundaron su primera clínica en Uruguay en 1989. Hoy, con sus hijas, hijo y yerno, cada uno especializado en un área, cuidan de Torrent desde hace más de 20 años.",
+    "valores": [
+      [
+        "Familia.",
+        "Dos generaciones."
+      ],
+      [
+        "Dos clínicas.",
+        "En Torrent."
+      ],
+      [
+        "Formación.",
+        "Constante y rigurosa."
+      ]
+    ],
+    "servicios": [
+      "Implantes",
+      "Ortodoncia",
+      "Tratamientos dentales",
+      "Tratamientos estéticos",
+      "Financiación",
+      "Tarjeta de fidelización"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En Torrent: C/ Azorín, 32 y Av. Juan Carlos I, 7 B. Elige la que te venga mejor al reservar."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí. Consulta nuestras opciones de financiación."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al WhatsApp de tu clínica y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita · Azorín",
+      "Primera visita · Juan Carlos I",
+      "Revisión",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínicas dentales en Torrent",
+    "notaDiseno": "El verde de Gilardi-Tornero, los doctores fundadores y un WhatsApp que reserva en la clínica que toca.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 158
+    }
+  }
+}

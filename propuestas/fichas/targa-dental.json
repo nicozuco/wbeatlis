@@ -1,0 +1,167 @@
+{
+  "slug": "targa-dental",
+  "numero": 284,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Targa Dental Clinic",
+    "nombreCorto": "Targa Dental",
+    "dominio": "targadentalclinic.com",
+    "web": "https://targadentalclinic.com/",
+    "contacto": "https://targadentalclinic.com/contacto/",
+    "decisor": "Pablo Garrido Targa"
+  },
+  "colores": {
+    "acento": "#3d6f78",
+    "tinta": "#16292c",
+    "profundo": "#1f383d",
+    "suave": "#f1f5f6",
+    "borde": "#dee7e8",
+    "calido": "#9cc7cd",
+    "calidoSuave": "#f5f9fa"
+  },
+  "fotos": {
+    "principal": "https://targadentalclinic.com/wp-content/uploads/2025/10/IMG_0484.jpg",
+    "clinica1": "https://targadentalclinic.com/wp-content/uploads/2025/10/IMG_7313-1.jpeg",
+    "clinica2": "https://targadentalclinic.com/wp-content/uploads/2025/10/IMG_2349.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ RAMIRO DE MAEZTU, 43 · VALENCIA",
+    "titulo": [
+      "«Reservar cita», dice el botón.",
+      "Y lo único que hace es llamar."
+    ],
+    "intro": "Una clínica en el barrio de Ayora especializada en prótesis fijas y removibles e implantes de carga inmediata, con un 4,9 en Google. Proponemos que «Reservar cita» la deje reservada, a cualquier hora.",
+    "hallazgos": [
+      "«Reservar cita» y «Reserva tu cita aquí» llaman al 605 46 69 83, y en toda la web no hay ningún formulario: si nadie coge el teléfono, la cita se queda en el aire.",
+      "Vuestro horario no aparece en ninguna página de la web: el paciente no sabe cuándo llamar.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reservar cita» reserve por WhatsApp.",
+      "texto": "Ya tenéis el WhatsApp 605 46 69 83 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento con vuestro horario, resuelve las dudas sobre prótesis o carga inmediata y deja la cita reservada. Lo clínico sigue siendo cosa de Pablo, Andrea y el equipo de Targa."
+    },
+    "pregunta": "¿Cuántas llamadas al 605 46 69 83 se quedan sin contestar mientras estáis en consulta?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ RAMIRO DE MAEZTU, 43 · VALENCIA",
+    "telefono": "605 466 983",
+    "telefonos": "605 466 983 · WhatsApp",
+    "direccion": "C/ Ramiro de Maeztu, 43 · 46022 Valencia (Camins al Grau)",
+    "marca": "TARGA",
+    "submarca": "DENTAL CLINIC",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN EL BARRIO DE AYORA",
+    "heroTitulo": "Soluciones dentales",
+    "heroDestacado": "de calidad.",
+    "heroTexto": "Un enfoque profesional, cercano y personalizado para una sonrisa sana y estética. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reservar cita",
+    "frase": "Odontología de calidad, cercana y transparente.",
+    "nota": "A pocos minutos del metro y de varias líneas de autobús.",
+    "fotoEtiqueta": "TARGA DENTAL CLINIC",
+    "fotoTitulo": "Instalaciones modernas y acogedoras.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo coordinado.",
+    "equipoTexto": "Pablo Garrido Targa en prótesis y rehabilitación, Andrea Beltrán en ortodoncia: buen diagnóstico, tratamientos de calidad y salud oral a largo plazo.",
+    "valores": [
+      [
+        "Carga inmediata.",
+        "Dientes en un día."
+      ],
+      [
+        "Prótesis.",
+        "Fijas y removibles."
+      ],
+      [
+        "Financiación.",
+        "Para tu tratamiento."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el barrio",
+    "galeriaDestacado": "de Ayora.",
+    "pies": [
+      "La sala de espera",
+      "En consulta"
+    ],
+    "servicios": [
+      "Implantes de carga inmediata",
+      "Prótesis fijas y removibles",
+      "Ortodoncia invisible",
+      "Endodoncia",
+      "Rehabilitación estética",
+      "Ácido hialurónico"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Ramiro de Maeztu, 43, en el barrio de Ayora (Valencia)."
+      ],
+      [
+        "¿Puedo salir con dientes el mismo día?",
+        "Si tu caso lo permite, colocamos los implantes y una prótesis provisional atornillada el mismo día."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 605 46 69 83 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Prótesis",
+      "Ortodoncia",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul agua de Targa, su clínica y una cita que se reserva aunque nadie coja el teléfono.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 86
+    }
+  }
+}

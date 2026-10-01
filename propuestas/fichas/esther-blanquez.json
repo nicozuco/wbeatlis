@@ -1,0 +1,169 @@
+{
+  "slug": "esther-blanquez",
+  "numero": 209,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Esther Blánquez",
+    "nombreCorto": "Esther Blánquez",
+    "dominio": "clinicadentalmislata.com",
+    "web": "https://clinicadentalmislata.com/",
+    "contacto": "https://clinicadentalmislata.com/",
+    "decisor": "Dra. María Esther Blánquez"
+  },
+  "colores": {
+    "acento": "#7a9c3a",
+    "tinta": "#252d16",
+    "profundo": "#344319",
+    "suave": "#f6f8f1",
+    "borde": "#e8eede",
+    "calido": "#a8754a",
+    "calidoSuave": "#f6f1ed"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalmislata.com/wp-content/uploads/2024/12/Quienes-somos-en-la-Home-scaled.jpg",
+    "clinica1": "https://clinicadentalmislata.com/wp-content/uploads/2025/01/0911_clinica_dental_3799.jpg",
+    "clinica2": "https://clinicadentalmislata.com/wp-content/uploads/2025/01/0911_clinica_dental_3818.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. BUENOS AIRES, 9 · MISLATA",
+    "titulo": [
+      "27 años en Mislata.",
+      "Y en vuestra web no hay forma de pedir cita."
+    ],
+    "intro": "Un centro odontológico familiar con más de 27 años en Mislata, todas las especialidades y la Dra. María Esther Blánquez al frente. Proponemos que quien llega a vuestra web pueda reservar su cita en el momento.",
+    "hallazgos": [
+      "Vuestra web no tiene botón de «Pedir cita» ni formulario: solo el teléfono, el email y el WhatsApp flotante.",
+      "El móvil 691 661 021 aparece como texto, sin enlace: desde el móvil hay que copiarlo para llamar.",
+      "Según vuestro horario en Google, del viernes a las 20:15 al lunes a las 9:00 pasan casi 61 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Un botón de cita que dé la cita.",
+      "texto": "Un asistente en vuestra web, con su botón de pedir cita, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Si es para un niño, lo lleva a la agenda de odontopediatría; si es de cirugía, a la del especialista. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de la Dra. Blánquez y su equipo."
+    },
+    "pregunta": "¿Cuántas personas os escriben por WhatsApp solo para pedir cita?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. BUENOS AIRES, 9 · MISLATA",
+    "telefono": "963 709 997",
+    "telefonos": "963 709 997 · WhatsApp 691 661 021",
+    "direccion": "Av. Buenos Aires, 9, bajo · 46920 Mislata (Valencia)",
+    "marca": "ESTHER BLÁNQUEZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN MISLATA",
+    "heroTitulo": "Tu clínica familiar",
+    "heroDestacado": "en Mislata.",
+    "heroTexto": "Más de 27 años con un servicio integral que abarca todas las especialidades dentales. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Un firme compromiso con la excelencia.",
+    "nota": "Opciones de financiación para cada tratamiento.",
+    "fotoEtiqueta": "EL EQUIPO DE ESTHER BLÁNQUEZ",
+    "fotoTitulo": "Comprometidos con la excelencia.",
+    "cifra": "27",
+    "cifraEtiqueta": "AÑOS EN MISLATA",
+    "equipoTitulo": "Todas las especialidades.",
+    "equipoTexto": "La Dra. María Esther Blánquez dirige un equipo de profesionales altamente capacitados en odontología general, cirugía, odontopediatría y estética.",
+    "valores": [
+      [
+        "Familiar.",
+        "Desde hace 27 años."
+      ],
+      [
+        "Integral.",
+        "Todas las especialidades."
+      ],
+      [
+        "Accesible.",
+        "Financiación a medida."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y madera.",
+    "galeriaDestacado": "En Mislata.",
+    "pies": [
+      "La recepción",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Cirugía oral",
+      "Implantes",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Buenos Aires, 9, en Mislata."
+      ],
+      [
+        "¿Tenéis financiación?",
+        "Sí, te facilitamos opciones de financiación."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 691 661 021 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Mislata",
+    "notaDiseno": "Los tonos de madera y verde de la clínica, su equipo y por fin un botón de pedir cita.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 126
+    }
+  }
+}

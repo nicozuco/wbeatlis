@@ -1,0 +1,170 @@
+{
+  "slug": "centro-dental-pavia",
+  "numero": 230,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Centro Dental Pavía",
+    "nombreCorto": "Centro Dental Pavía",
+    "dominio": "centrodentalpavia.com",
+    "web": "https://www.centrodentalpavia.com/",
+    "contacto": "https://www.centrodentalpavia.com/contacto",
+    "decisor": "Dr. Arturo Pavía"
+  },
+  "colores": {
+    "acento": "#272443",
+    "tinta": "#19172b",
+    "profundo": "#23203c",
+    "suave": "#f0f0f2",
+    "borde": "#dadadf",
+    "calido": "#e9b11b",
+    "calidoSuave": "#fdf7e8"
+  },
+  "fotos": {
+    "principal": "https://static.wixstatic.com/media/e07cf5_973be9173d034503b5f15141517c2b10~mv2.jpg",
+    "clinica1": "https://static.wixstatic.com/media/e07cf5_d0924058891746809f0f3d2795210c01~mv2.jpg",
+    "clinica2": "https://static.wixstatic.com/media/e07cf5_71fd1c53c539498ca498f2af762670cc~mv2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CULLERA · SUECA",
+    "titulo": [
+      "«Pedir cita», dice el botón amarillo.",
+      "Y al pulsarlo, no pasa nada."
+    ],
+    "intro": "Más de 40 años de experiencia en Cullera y Sueca, con el Dr. Arturo Pavía al frente y un 4,9 en Google. Proponemos que «Pedir cita» deje la cita reservada, en el centro que prefiera el paciente.",
+    "hallazgos": [
+      "El botón «Pedir cita» de la cabecera no lleva a ninguna parte: no tiene enlace, y al pulsarlo la página se queda igual.",
+      "«Pide cita de forma sencilla en nuestros teléfonos», dice la portada, pero ni el 96 172 21 94 ni el 96 170 22 91 se pueden pulsar para llamar desde el móvil, y el formulario de contacto solo pide nombre, email y mensaje.",
+      "En Sueca atendéis el lunes de 16 a 20, el miércoles de 9 a 13 y el jueves de 16 a 20: el resto de la semana, ese centro no tiene a nadie para dar cita."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pedir cita» reserve, en Cullera o en Sueca.",
+      "texto": "Ya tenéis el WhatsApp 622 784 446 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta qué centro le viene mejor y deja la cita reservada en esa agenda, también cuando Sueca está cerrado. Lo clínico sigue siendo cosa de el Dr. Pavía y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes os han dicho que el botón de pedir cita no les funcionaba?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CULLERA · SUECA",
+    "telefono": "961 722 194",
+    "telefonos": "Cullera 961 722 194 · Sueca 961 702 291 · WhatsApp 622 784 446",
+    "direccion": "Av. Dr. Alemany, 47 · Cullera | C/ Sequial, 27 · Sueca (Valencia)",
+    "marca": "PAVÍA",
+    "submarca": "CENTRO DENTAL",
+    "menuEquipo": "El equipo",
+    "heroEtiqueta": "TU DENTISTA EN CULLERA Y SUECA",
+    "heroTitulo": "Tu sonrisa",
+    "heroDestacado": "es nuestra prioridad.",
+    "heroTexto": "Cuidamos la salud de tus dientes con todas las facilidades que necesitas. Elige centro, día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Tu bienestar es nuestra mayor recompensa.",
+    "nota": "Dos centros: Cullera y Sueca.",
+    "fotoEtiqueta": "CENTRO DENTAL PAVÍA",
+    "fotoTitulo": "Modernas instalaciones.",
+    "cifra": "40",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "Con el Dr. Arturo Pavía al frente.",
+    "equipoTexto": "Licenciado en Odontología en 2001, especializado en implantología y ortodoncia invisible, con un equipo en constante formación y todas las especialidades en un mismo espacio.",
+    "valores": [
+      [
+        "Todas las especialidades.",
+        "En un mismo espacio."
+      ],
+      [
+        "Implantes y ortodoncia.",
+        "Con experiencia."
+      ],
+      [
+        "Formación.",
+        "Constante."
+      ]
+    ],
+    "galeriaEtiqueta": "LOS CENTROS",
+    "galeriaTitulo": "Cullera",
+    "galeriaDestacado": "y Sueca.",
+    "pies": [
+      "Centro Dental Pavía",
+      "Dr. Arturo Pavía"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Periodoncia",
+      "Bruxismo y ATM",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. Dr. Alemany, 47 de Cullera y en la C/ Sequial, 27 de Sueca."
+      ],
+      [
+        "¿Qué horario tiene Sueca?",
+        "Lunes y jueves de 16:00 a 20:00 y miércoles de 9:00 a 13:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 622 784 446 y la dejamos reservada en el centro que prefieras."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Revisión y limpieza",
+      "Urgencia"
+    ],
+    "pieMarca": "Centro dental en Cullera y Sueca",
+    "notaDiseno": "El azul noche y el dorado de Pavía, sus dos centros y un «Pedir cita» que por fin reserva.",
+    "huecos": {
+      "lunes": [
+        "8:30",
+        "11:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "miercoles": [
+        "8:30",
+        "11:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:30",
+        "18:30"
+      ],
+      "viernes": [
+        "8:30",
+        "11:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Cullera: lunes a viernes 8:30–14:00 y 15:00–20:00",
+      "Sueca: lunes y jueves 16:00–20:00 · miércoles 9:00–13:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 114
+    }
+  }
+}

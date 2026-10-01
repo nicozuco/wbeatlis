@@ -1,0 +1,169 @@
+{
+  "slug": "dentaval",
+  "numero": 250,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Dentaval",
+    "nombreCorto": "Dentaval",
+    "dominio": "dentaval.es",
+    "web": "https://dentaval.es/",
+    "contacto": "https://dentaval.es/cita-previa/",
+    "decisor": "Dra. Lorena Sánchez Arenas"
+  },
+  "colores": {
+    "acento": "#1e7fb1",
+    "tinta": "#16252d",
+    "profundo": "#193543",
+    "suave": "#eff6fa",
+    "borde": "#d9e9f2",
+    "calido": "#c2185b",
+    "calidoSuave": "#f9e8ef"
+  },
+  "fotos": {
+    "principal": "https://dentaval.es/wp-content/uploads/2022/03/dentaval-tratamientos.jpg",
+    "clinica1": "https://dentaval.es/wp-content/uploads/2022/04/recepcion-dentaval01.jpg",
+    "clinica2": "https://dentaval.es/wp-content/uploads/2022/04/saladeespera-dentaval01.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PASEO DE LA PECHINA, 48 · VALENCIA",
+    "titulo": [
+      "En el móvil, vuestro botón de llamar",
+      "marca un número que no es el vuestro."
+    ],
+    "intro": "Primera visita y revisión gratuitas, financiación a medida y la Dra. Lorena Sánchez Arenas al frente de un equipo multidisciplinar en el Paseo de la Pechina. Proponemos que «Pide cita online» la deje reservada de verdad.",
+    "hallazgos": [
+      "En el móvil, el icono de teléfono de la portada marca el 963 861 644. El número que publicáis en la web es el 963 831 644.",
+      "El enlace «Primera visita gratuita, presupuesto personalizado y financiación a medida» de la portada lleva a /pide-cita-online/, una página que da error 404.",
+      "«Pide cita online» abre un formulario (nombre, teléfono, tratamiento y detalles) que avisa de que es el «teléfono de contacto donde confirmaremos su cita»: la cita no queda reservada hasta que alguien llama."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pide cita online» reserve online.",
+      "texto": "Ya ofrecéis la primera visita gratuita en toda la web. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. El agente web responde las dudas sobre tratamientos o financiación y deja la primera visita reservada, sin llamada de confirmación. Lo clínico sigue siendo cosa de la Dra. Sánchez y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas de confirmación hacéis cada semana por el formulario de la web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PASEO DE LA PECHINA, 48 · VALENCIA",
+    "telefono": "963 831 644",
+    "telefonos": "963 831 644 · Urgencias 24 h 648 488 825",
+    "direccion": "Paseo de la Pechina, 48, 1º-1ª · 46008 Valencia",
+    "marca": "DENTAVAL",
+    "submarca": "CLÍNICAS DENTALES",
+    "menuEquipo": "El equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN VALENCIA",
+    "heroTitulo": "Queremos",
+    "heroDestacado": "verte sonreír.",
+    "heroTexto": "Tu primera visita y revisión son gratuitas. Elige día y hora y queda reservada al momento.",
+    "ctaHero": "Pide cita online",
+    "frase": "Nuestra garantía está basada en tu bienestar.",
+    "nota": "Urgencias 24 horas: 648 488 825.",
+    "fotoEtiqueta": "EQUIPO DENTAVAL",
+    "fotoTitulo": "Trato cercano, profesional y responsable.",
+    "cifra": "0 €",
+    "cifraEtiqueta": "PRIMERA VISITA Y REVISIÓN",
+    "equipoTitulo": "Dirigida por la Dra. Lorena Sánchez Arenas.",
+    "equipoTexto": "Odontóloga e implantóloga, máster en Implantología y Cirugía Oral, al frente de un equipo multidisciplinar que hace el seguimiento de cada tratamiento.",
+    "valores": [
+      [
+        "Primera visita.",
+        "Gratuita."
+      ],
+      [
+        "Financiación.",
+        "A medida."
+      ],
+      [
+        "Urgencias.",
+        "24 horas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el Paseo",
+    "galeriaDestacado": "de la Pechina.",
+    "pies": [
+      "La recepción",
+      "Sala de espera"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Periodoncia",
+      "Odontopediatría",
+      "Fisioterapia del bruxismo"
+    ],
+    "faq": [
+      [
+        "¿La primera visita es gratis?",
+        "Sí, la primera visita y la revisión son gratuitas, con presupuesto personalizado."
+      ],
+      [
+        "¿Atendéis urgencias?",
+        "Sí, 24 horas en el 648 488 825."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En el Paseo de la Pechina, 48, 1º-1ª, en Valencia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita gratuita",
+      "Implantes",
+      "Ortodoncia",
+      "Revisión y limpieza",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul y el fucsia de Dentaval, su clínica luminosa y una primera visita que se reserva sola.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,5",
+      "resenas": 100
+    }
+  }
+}

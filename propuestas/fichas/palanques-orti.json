@@ -1,0 +1,167 @@
+{
+  "slug": "palanques-orti",
+  "numero": 167,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Palanques Ortí",
+    "nombreCorto": "Palanques Ortí",
+    "dominio": "clinicadentalpalanques.com",
+    "web": "https://clinicadentalpalanques.com/",
+    "contacto": "https://clinicadentalpalanques.com/contacto/",
+    "decisor": "Dra. Isabel Palanques"
+  },
+  "colores": {
+    "acento": "#256179",
+    "tinta": "#16262d",
+    "profundo": "#193743",
+    "suave": "#f0f4f6",
+    "borde": "#dae4e8",
+    "calido": "#e8743b",
+    "calidoSuave": "#fdf1eb"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalpalanques.com/wp-content/uploads/MG_0102.jpg",
+    "clinica1": "https://clinicadentalpalanques.com/wp-content/uploads/elementor/thumbs/MG_0091-scaled-rlnt1x8krsi6s1kgy3y89g0vy372zkbjb9lyvmopbk.jpg",
+    "clinica2": "https://clinicadentalpalanques.com/wp-content/uploads/MG_0033-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PL. GENERALITAT, 1 · ALZIRA",
+    "titulo": [
+      "Uno de vuestros enlaces de WhatsApp",
+      "no lleva el prefijo 34."
+    ],
+    "intro": "Una clínica en Alzira donde la odontología nace de la vocación, con Isabel Palanques presente cada día y especialistas en implantes, ortodoncia invisible y estética. Proponemos que la primera consulta quede reservada en el momento.",
+    "hallazgos": [
+      "Vuestra web tiene dos enlaces de WhatsApp: uno va bien, pero el otro apunta a wa.me/686283542, sin el prefijo 34. WhatsApp necesita el número en formato internacional, así que ese puede no abrir la conversación.",
+      "Los botones «Agenda tu cita» llevan a un formulario de nombre, apellido, email, teléfono y mensaje: en ningún momento se elige día ni hora.",
+      "Vuestra web no publica el horario ni un email de contacto, y según Google, del viernes a las 13:30 al lunes a las 9:30 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp agende la cita.",
+      "texto": "Ya tenéis el WhatsApp 686 28 35 42 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Si es de implantes u ortodoncia invisible, explica la primera consulta y la deja agendada. Lo clínico sigue siendo cosa de Isabel y su equipo."
+    },
+    "pregunta": "¿Cuántos «Agenda tu cita» os llegan el fin de semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PL. GENERALITAT, 1 · ALZIRA",
+    "telefono": "962 41 96 12",
+    "telefonos": "962 41 96 12 · WhatsApp 686 28 35 42",
+    "direccion": "Pl. Generalitat, 1 · 46600 Alzira (Valencia)",
+    "marca": "PALANQUES ORTÍ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "CLÍNICA DENTAL EN ALZIRA",
+    "heroTitulo": "Tu nueva sonrisa",
+    "heroDestacado": "comienza con una primera consulta.",
+    "heroTexto": "Una odontología que nace de la vocación y la implicación personal. Elige día y hora y tu cita queda agendada.",
+    "ctaHero": "Agenda tu cita",
+    "frase": "Alguien que se implica de verdad en tu caso.",
+    "nota": "Isabel está presente cada día en la clínica.",
+    "fotoEtiqueta": "CLÍNICA DENTAL PALANQUES ORTÍ",
+    "fotoTitulo": "Más que una clínica dental.",
+    "cifra": "4",
+    "cifraEtiqueta": "ESPECIALIDADES: IMPLANTES, ORTODONCIA, ESTÉTICA Y PERIODONCIA",
+    "equipoTitulo": "Isabel Palanques Ortí, el corazón de la clínica.",
+    "equipoTexto": "Desde muy joven tuvo claro que quería ayudar a las personas a sentirse mejor. Hoy está presente cada día en la clínica, para que ante cualquier duda siempre haya una respuesta cercana.",
+    "valores": [
+      [
+        "Vocación.",
+        "Implicación personal."
+      ],
+      [
+        "Tranquilidad.",
+        "Acompañados en cada paso."
+      ],
+      [
+        "Tecnología.",
+        "Escáner y diagnóstico digital."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Cercana y luminosa.",
+    "galeriaDestacado": "En el centro de Alzira.",
+    "pies": [
+      "Escáner intraoral",
+      "El equipo"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Periodoncia",
+      "Odontología general",
+      "Higiene dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Plaza Generalitat, 1, en Alzira."
+      ],
+      [
+        "¿Hacéis ortodoncia invisible?",
+        "Sí. Te lo explicamos todo en la primera consulta."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 686 28 35 42 y la dejamos agendada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera consulta",
+      "Revisión y limpieza",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alzira",
+    "notaDiseno": "El azul petróleo de Palanques Ortí, su clínica luminosa y un WhatsApp que siempre abre y agenda.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 168
+    }
+  }
+}

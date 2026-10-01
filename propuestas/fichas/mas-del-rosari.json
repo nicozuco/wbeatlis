@@ -1,0 +1,166 @@
+{
+  "slug": "mas-del-rosari",
+  "numero": 254,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Mas del Rosari",
+    "nombreCorto": "Mas del Rosari",
+    "dominio": "clinicamasdelrosari.com",
+    "web": "https://clinicamasdelrosari.com/",
+    "contacto": "https://clinicamasdelrosari.com/contacta/",
+    "decisor": "Dra. Cata Lavigne"
+  },
+  "colores": {
+    "acento": "#5f7a73",
+    "tinta": "#1d2523",
+    "profundo": "#283431",
+    "suave": "#f4f6f5",
+    "borde": "#e4e8e7",
+    "calido": "#a0527e",
+    "calidoSuave": "#f6eef2"
+  },
+  "fotos": {
+    "principal": "https://clinicamasdelrosari.com/wp-content/uploads/2023/03/contacto-masdelrosari-1920x1280.jpg",
+    "clinica1": "https://clinicamasdelrosari.com/wp-content/uploads/2023/04/18.jpg",
+    "clinica2": "https://clinicamasdelrosari.com/wp-content/uploads/2021/02/PERIODONCIA-900x675.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "CARRER EL PUIG, 37 · PATERNA",
+    "titulo": [
+      "Vuestro botón de WhatsApp no abre un chat con la clínica.",
+      "Abre la invitación a un grupo."
+    ],
+    "intro": "Una clínica en Mas del Rosari donde «todos nuestros pacientes acaban siendo nuestros amigos», con la Dra. Cata Lavigne al frente, un 5,0 en Google y atención en inglés, francés, portugués y valenciano. Proponemos que ese WhatsApp reserve citas.",
+    "hallazgos": [
+      "El botón de WhatsApp de la web enlaza a chat.whatsapp.com, que es una invitación a un grupo: el paciente que quiere pedir cita acaba entrando en un grupo en lugar de escribiros a vosotros.",
+      "El 962 65 28 28 de la cabecera no se puede pulsar para llamar desde el móvil, y el icono de Facebook lleva a «http://Facebook», que no es ninguna página.",
+      "No hay ningún botón de pedir cita en la web: la página de contacto dice «Pide cita previa» y debajo solo hay un formulario (nombre, email, teléfono y consulta), sin día ni hora."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que el WhatsApp sea vuestro, y reserve.",
+      "texto": "Ya tenéis un botón de WhatsApp en la web, y vuestros pacientes lo usan. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Con un chat directo con la clínica, contesta en castellano, valenciano, inglés, francés o portugués y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. Lavigne y su equipo."
+    },
+    "pregunta": "¿Sabíais que el botón de WhatsApp de la web lleva a un grupo?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "CARRER EL PUIG, 37 · PATERNA",
+    "telefono": "962 652 828",
+    "telefonos": "962 652 828",
+    "direccion": "Carrer el Puig, 37 · 46980 Paterna (Valencia)",
+    "marca": "MAS DEL ROSARI",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PATERNA",
+    "heroTitulo": "Tu sonrisa",
+    "heroDestacado": "nos importa.",
+    "heroTexto": "La sonrisa es el lenguaje de la confianza y del bienestar. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Nuestros pacientes acaban siendo nuestros amigos.",
+    "nota": "Te atendemos en inglés, francés, portugués y valenciano.",
+    "fotoEtiqueta": "CLÍNICA MAS DEL ROSARI",
+    "fotoTitulo": "Sin prisas, cuidando cada detalle.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo consolidado, con la Dra. Cata Lavigne.",
+    "equipoTexto": "Dedicamos el tiempo necesario a cada tratamiento, informando, planificando y haciendo un seguimiento estrecho, buscando siempre la excelencia.",
+    "valores": [
+      [
+        "Calidad.",
+        "En cada tratamiento."
+      ],
+      [
+        "Equipo humano.",
+        "Y profesional."
+      ],
+      [
+        "Cercanía.",
+        "En cinco idiomas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Mas del Rosari,",
+    "galeriaDestacado": "Paterna.",
+    "pies": [
+      "El equipo",
+      "En consulta"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Ortodoncia",
+      "Periodoncia",
+      "Odontopediatría",
+      "Estética dental",
+      "Estética facial"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En el Carrer el Puig, 37, en Mas del Rosari (Paterna)."
+      ],
+      [
+        "¿Atendéis en otros idiomas?",
+        "Sí: inglés, francés, portugués y valenciano."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, tratamos a toda la familia."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Periodoncia",
+      "Estética",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Paterna",
+    "notaDiseno": "El verde salvia y el ciruela de Mas del Rosari, su equipo y un WhatsApp que por fin reserva.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 99
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "dental-sulyhan",
+  "numero": 207,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Dental Clinic Sulyhan",
+    "nombreCorto": "Sulyhan",
+    "dominio": "dentalsulyhan.com",
+    "web": "https://dentalsulyhan.com/",
+    "contacto": "https://dentalsulyhan.com/",
+    "decisor": "Dra. Kristina"
+  },
+  "colores": {
+    "acento": "#3a3a3a",
+    "tinta": "#212121",
+    "profundo": "#2e2e2e",
+    "suave": "#f1f1f1",
+    "borde": "#dedede",
+    "calido": "#c9a27a",
+    "calidoSuave": "#faf6f2"
+  },
+  "fotos": {
+    "principal": "https://dentalsulyhan.com/wp-content/themes/WP_SulyhanDC/assets/photo/galery/galery_1.jpg",
+    "clinica1": "https://dentalsulyhan.com/wp-content/themes/WP_SulyhanDC/assets/photo/offers.jpg",
+    "clinica2": "https://dentalsulyhan.com/wp-content/themes/WP_SulyhanDC/assets/photo/about_us_2_2o.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ JUAN DE GARAY, 30 · PATRAIX",
+    "titulo": [
+      "«¿Cómo nos has conocido?», pregunta el formulario.",
+      "Y una opción dice «Family, friend»."
+    ],
+    "intro": "Una clínica en Patraix con un 5 de 5 en Google, fundada por la Dra. Kristina y con un equipo de especialistas en cirugía, estética y odontopediatría. Proponemos que pedir cita sea directo: con día y hora, en el momento.",
+    "hallazgos": [
+      "Los botones «Pide tu cita» llevan a un formulario que pregunta si eres paciente nuevo y cómo nos has conocido, con opciones en inglés como «Family, friend»; pero no deja elegir día ni hora.",
+      "Uno de los enlaces de teléfono de la web marca el 34665399280, sin el «+» delante, y desde el móvil la llamada puede no llegar.",
+      "Según vuestro horario en Google, del viernes a las 19:30 al lunes a las 9:30 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 665 399 280 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si es paciente nuevo, igual que vuestro formulario, y si es para un niño lo lleva a la agenda de la Dra. Lilian. Lo clínico sigue siendo cosa de la Dra. Kristina y su equipo."
+    },
+    "pregunta": "¿Cuántas personas os escriben por WhatsApp solo para pedir cita?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ JUAN DE GARAY, 30 · PATRAIX",
+    "telefono": "665 399 280",
+    "telefonos": "665 399 280",
+    "direccion": "C/ de Juan de Garay, 30 · 46017 Valencia",
+    "marca": "SULYHAN",
+    "submarca": "DENTAL CLINIC",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PATRAIX",
+    "heroTitulo": "Da el primer paso",
+    "heroDestacado": "hacia una sonrisa sana.",
+    "heroTexto": "Cirugía, implantología, estética y odontopediatría con un equipo cercano. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Altos estándares de calidad y confianza.",
+    "nota": "En el corazón de Patraix.",
+    "fotoEtiqueta": "EL EQUIPO DE SULYHAN",
+    "fotoTitulo": "Nuestro súper equipo.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un súper equipo.",
+    "equipoTexto": "La Dra. Kristina, fundadora, especializada en cirugía, implantología y rehabilitación estética, con especialistas en odontología restauradora, armonización facial y odontopediatría.",
+    "valores": [
+      [
+        "Calidad.",
+        "Altos estándares."
+      ],
+      [
+        "Mínimamente invasiva.",
+        "Prevención primero."
+      ],
+      [
+        "Para niños.",
+        "Odontopediatría."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Blanca y luminosa.",
+    "galeriaDestacado": "En Patraix.",
+    "pies": [
+      "La clínica",
+      "En el gabinete"
+    ],
+    "servicios": [
+      "Implantología",
+      "Rehabilitación estética",
+      "Odontología conservadora",
+      "Odontopediatría",
+      "Armonización facial",
+      "Higiene dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ de Juan de Garay, 30, en Patraix."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, con nuestra odontopediatra, la Dra. Lilian."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 665 399 280 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Implantes",
+      "Estética",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Patraix",
+    "notaDiseno": "Los tonos sobrios de Sulyhan, su súper equipo y un WhatsApp que reserva la cita.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 126
+    }
+  }
+}

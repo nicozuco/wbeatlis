@@ -1,0 +1,165 @@
+{
+  "slug": "joan-bernardo",
+  "numero": 183,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Joan Bernardo",
+    "nombreCorto": "Joan Bernardo",
+    "dominio": "dentaljoanbernardo.com",
+    "web": "https://dentaljoanbernardo.com/",
+    "contacto": "https://dentaljoanbernardo.com/contacto-clinica-dental/",
+    "decisor": "Dr. Joan Bernardo"
+  },
+  "colores": {
+    "acento": "#5f9a8a",
+    "tinta": "#192925",
+    "profundo": "#233933",
+    "suave": "#f4f8f7",
+    "borde": "#e4eeeb",
+    "calido": "#b89b7a",
+    "calidoSuave": "#f8f5f2"
+  },
+  "fotos": {
+    "principal": "https://dentaljoanbernardo.com/wp-content/uploads/2021/05/b1.jpg",
+    "clinica1": "https://dentaljoanbernardo.com/wp-content/uploads/2021/09/bg-clinica-dental-carcaixent.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PJE. SORIANO, 1 · CARCAIXENT",
+    "titulo": [
+      "«Pide cita», dice el botón.",
+      "Y lo único que hace es llamar."
+    ],
+    "intro": "Una clínica en Carcaixent con un 5 de 5 en Google, dirigida por Joan Bernardo, profesor del Máster de Odontología Restauradora y Endodoncia de la Universitat de València. Proponemos que pedir cita no dependa de que alguien pueda coger el teléfono.",
+    "hallazgos": [
+      "El botón «Pide cita» de la portada marca el 962 43 08 13: si el equipo está en el gabinete y nadie puede contestar, el paciente se queda sin cita.",
+      "La otra opción es un formulario de nombre, teléfono y motivo: en ningún momento se elige día ni hora.",
+      "Según vuestro horario en Google, del viernes a las 13:30 al lunes a las 9:30 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp flotante en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Si es de Invisalign, la lleva a la agenda de Arantxa; si es de endodoncia o implantes, a la de Joan. Lo clínico sigue siendo cosa de Joan y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas de «quiero pedir cita» se quedan sin contestar mientras estáis en el gabinete?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PJE. SORIANO, 1 · CARCAIXENT",
+    "telefono": "962 43 08 13",
+    "telefonos": "962 43 08 13",
+    "direccion": "Pje. de Soriano, 1 · 46740 Carcaixent (Valencia)",
+    "marca": "JOAN BERNARDO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CARCAIXENT",
+    "heroTitulo": "Tu clínica dental",
+    "heroDestacado": "en Carcaixent.",
+    "heroTexto": "Estética dental, Invisalign, implantes, endodoncia y radiología 3D en la propia clínica. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Formación universitaria, al servicio de cada paciente.",
+    "nota": "Tratamientos con sedación para quien lo necesita.",
+    "fotoEtiqueta": "CLÍNICA DENTAL JOAN BERNARDO",
+    "fotoTitulo": "Luz, madera y calma.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo formado en la Universitat de València.",
+    "equipoTexto": "Joan Bernardo Clari, máster en Odontología Restauradora y Endodoncia y profesor del mismo máster, y Arantxa Pallardó, máster en Ortodoncia Avanzada e Invisalign, junto a su equipo de higiene.",
+    "valores": [
+      [
+        "Endodoncia.",
+        "Salvar tus dientes."
+      ],
+      [
+        "Invisalign.",
+        "Ortodoncia invisible."
+      ],
+      [
+        "3D.",
+        "Radiología en la clínica."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Carcaixent.",
+    "galeriaDestacado": "Pensada para ti.",
+    "pies": [
+      "La recepción"
+    ],
+    "servicios": [
+      "Estética dental",
+      "Ortodoncia Invisalign",
+      "Implantes dentales",
+      "Endodoncia",
+      "Odontopediatría",
+      "Tratamientos con sedación"
+    ],
+    "faq": [
+      [
+        "¿Hacéis Invisalign?",
+        "Sí, con Arantxa Pallardó, especialista en ortodoncia avanzada e invisible."
+      ],
+      [
+        "¿Tenéis radiología 3D?",
+        "Sí, en la propia clínica."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Invisalign",
+      "Endodoncia"
+    ],
+    "pieMarca": "Clínica dental en Carcaixent",
+    "notaDiseno": "Los tonos verdes y madera de la clínica de Joan Bernardo y un WhatsApp que reserva aunque estéis en el gabinete.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 152
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "horta-nord",
+  "numero": 205,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Horta Nord · Dental y Estética",
+    "nombreCorto": "Horta Nord",
+    "dominio": "clinicahortanord.es",
+    "web": "https://www.clinicahortanord.es/",
+    "contacto": "https://www.clinicahortanord.es/clinica-dental-estetica-pobla-de-farnals-massamagrell/",
+    "decisor": "Dr. Miguel Ángel Santamaría"
+  },
+  "colores": {
+    "acento": "#8a6a3f",
+    "tinta": "#2d2316",
+    "profundo": "#3f301d",
+    "suave": "#f7f5f2",
+    "borde": "#ebe6de",
+    "calido": "#2f3a40",
+    "calidoSuave": "#eaebec"
+  },
+  "fotos": {
+    "principal": "https://www.clinicahortanord.es/wp-content/uploads/2022/12/Clinica_HortaNord_0016.jpg",
+    "clinica1": "https://www.clinicahortanord.es/wp-content/uploads/2022/12/Clinica_HortaNord_0052.jpg",
+    "clinica2": "https://www.clinicahortanord.es/wp-content/uploads/2023/01/Clinica_HortaNord_0068.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ JOSEP RENAU, 5 · LA POBLA DE FARNALS",
+    "titulo": [
+      "«Pide tu cita online",
+      "y nosotros te llamamos»."
+    ],
+    "intro": "Especialistas en cirugía dental y casos complejos en La Pobla de Farnals, con el Dr. Miguel Ángel Santamaría al frente y primeras consultas gratuitas. Proponemos que la cita online sea una cita de verdad: reservada en el momento.",
+    "hallazgos": [
+      "Los botones «Pedir cita» llevan a una página que dice «¡Pide tu cita online y nosotros te llamamos!», con un formulario que pregunta a qué hora queréis llamar al paciente: se va sin cita.",
+      "La web da dos emails distintos: direccion@clinicahortanord.es y direccion@clinicadentalhortanord.es.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 9:00 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera consulta.",
+      "texto": "Ya tenéis el WhatsApp 681 607 467 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si es para dental o para estética, explica que la primera consulta es gratuita y la deja reservada en la agenda que toca. Lo clínico sigue siendo cosa de el Dr. Santamaría y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas hacéis cada día a quien pidió cita online?",
+    "tema": "primera consulta gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ JOSEP RENAU, 5 · LA POBLA DE FARNALS",
+    "telefono": "960 093 859",
+    "telefonos": "960 093 859 · WhatsApp 681 607 467",
+    "direccion": "C/ Josep Renau i Berenguer, 5 · 46139 La Pobla de Farnals (Valencia)",
+    "marca": "HORTA NORD",
+    "submarca": "DENTAL Y ESTÉTICA",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN LA POBLA DE FARNALS",
+    "heroTitulo": "Especialistas en cirugía dental",
+    "heroDestacado": "y casos complejos.",
+    "heroTexto": "Implantes sin cirugía, elevación de seno, injertos y regeneración ósea. Elige día y hora y tu primera consulta gratuita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Casos complejos, en buenas manos.",
+    "nota": "Primeras consultas gratuitas.",
+    "fotoEtiqueta": "CLÍNICA HORTA NORD",
+    "fotoTitulo": "Una clínica renovada.",
+    "cifra": "30",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA EN EL EQUIPO",
+    "equipoTitulo": "Liderados por el Dr. Santamaría.",
+    "equipoTexto": "Un equipo especializado en implantología compleja, con anestesiólogo propio, odontología estética y una unidad de medicina estética renovada.",
+    "valores": [
+      [
+        "Complejos.",
+        "Implantes en zonas difíciles."
+      ],
+      [
+        "Seguridad.",
+        "Anestesiólogo en el equipo."
+      ],
+      [
+        "Estética.",
+        "Dental y facial."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Madera y calma.",
+    "galeriaDestacado": "Renovada por completo.",
+    "pies": [
+      "La entrada",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Implantes sin cirugía",
+      "Elevación de seno",
+      "Regeneración ósea",
+      "Estética dental",
+      "Ortodoncia",
+      "Medicina estética"
+    ],
+    "faq": [
+      [
+        "¿La primera consulta es gratis?",
+        "Sí. Las primeras consultas son gratuitas, de dental y de estética."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 9:00 a 14:00 y de 15:00 a 19:00."
+      ],
+      [
+        "¿Hacéis implantes si me falta hueso?",
+        "Sí. Somos especialistas en regeneración ósea, injertos y elevación de seno."
+      ]
+    ],
+    "motivos": [
+      "Primera consulta gratuita",
+      "Revisión",
+      "Implantes",
+      "Estética dental",
+      "Medicina estética"
+    ],
+    "pieMarca": "Clínica dental en La Pobla de Farnals",
+    "notaDiseno": "Los tonos madera de Horta Nord, su clínica renovada y una cita online que es una cita de verdad.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 9:00–14:00 y 15:00–19:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 129
+    }
+  }
+}

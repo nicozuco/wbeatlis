@@ -1,0 +1,167 @@
+{
+  "slug": "alvarino-dental",
+  "numero": 217,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Alvariño Clínica Dental",
+    "nombreCorto": "Alvariño",
+    "dominio": "alvarinodental.com",
+    "web": "https://alvarinodental.com/",
+    "contacto": "https://alvarinodental.com/contacto/",
+    "decisor": "Dr. Carlos Alvariño"
+  },
+  "colores": {
+    "acento": "#2f7fb5",
+    "tinta": "#16232d",
+    "profundo": "#193243",
+    "suave": "#f0f6fa",
+    "borde": "#dce9f2",
+    "calido": "#6a7f8f",
+    "calidoSuave": "#f0f2f4"
+  },
+  "fotos": {
+    "principal": "https://alvarinodental.com/wp-content/uploads/2024/09/alvarino-equipo-33.jpg",
+    "clinica1": "https://alvarinodental.com/wp-content/uploads/2024/09/alvarino-clinica-2.jpg",
+    "clinica2": "https://alvarinodental.com/wp-content/uploads/2024/09/alvarino-clinica-5.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "PLAÇA ESPANYA, 4 · PICANYA",
+    "titulo": [
+      "El formulario de contacto",
+      "no pregunta el teléfono."
+    ],
+    "intro": "Vuestra clínica familiar en Picanya, con un 5 de 5 en Google, el Dr. Carlos Alvariño y especialistas en ortodoncia, odontopediatría e implantes. Proponemos que pedir cita sea igual de cercano: con día y hora, en el momento.",
+    "hallazgos": [
+      "El formulario de la página de contacto pide nombre, email y mensaje, pero no el teléfono: para dar la cita tenéis que contestar por correo.",
+      "El botón «Pedir cita» abre una ventana emergente y no deja elegir día ni hora: el paciente se va esperando vuestra respuesta.",
+      "Según vuestro horario en Google, del viernes a las 14:00 al lunes a las 10:00 pasan 68 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 601 43 01 29 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Si es para un niño, lo lleva a odontopediatría; si es de ortodoncia, a la agenda del Dr. Alvariño. Lo clínico sigue siendo cosa de el Dr. Alvariño y su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes de la web os llegan sin un teléfono al que llamar?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "PLAÇA ESPANYA, 4 · PICANYA",
+    "telefono": "963 76 81 26",
+    "telefonos": "963 76 81 26 · WhatsApp 601 43 01 29",
+    "direccion": "Plaça Espanya, 4 · 46210 Picanya (Valencia)",
+    "marca": "ALVARIÑO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PICANYA",
+    "heroTitulo": "Tu familia,",
+    "heroDestacado": "nuestro compromiso.",
+    "heroTexto": "Ortodoncia, odontopediatría, implantes y estética para toda la familia. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Un trato profesional y amable con toda la familia.",
+    "nota": "1 hora de parking gratis.",
+    "fotoEtiqueta": "EL EQUIPO DE ALVARIÑO",
+    "fotoTitulo": "Especialistas para toda la familia.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Especialistas en cada área.",
+    "equipoTexto": "El Dr. Carlos Alvariño dirige un equipo de especialistas en ortodoncia, odontopediatría, implantología y estética dental.",
+    "valores": [
+      [
+        "Familia.",
+        "Para todas las edades."
+      ],
+      [
+        "Niños.",
+        "Odontopediatría."
+      ],
+      [
+        "Cómodo.",
+        "Parking gratis."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y color.",
+    "galeriaDestacado": "En la Plaça Espanya.",
+    "pies": [
+      "La sala de espera",
+      "El gabinete infantil"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Odontopediatría",
+      "Implantología",
+      "Estética dental",
+      "Odontología general",
+      "Seguros dentales"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 10:00 a 14:00 y de 15:00 a 20:00."
+      ],
+      [
+        "¿Hay parking?",
+        "Sí, una hora de parking gratis."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 601 43 01 29 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Picanya",
+    "notaDiseno": "El azul de Alvariño, su clínica familiar y un WhatsApp que reserva la cita.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 122
+    }
+  }
+}

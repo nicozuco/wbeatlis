@@ -1,0 +1,171 @@
+{
+  "slug": "clinica-del-rio",
+  "numero": 283,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental del Río",
+    "nombreCorto": "Clínica del Río",
+    "dominio": "ortodonciadelrio.es",
+    "web": "https://ortodonciadelrio.es/",
+    "contacto": "https://ortodonciadelrio.es/contacto/",
+    "decisor": "Dra. María Jesús del Río"
+  },
+  "colores": {
+    "acento": "#06577a",
+    "tinta": "#16262d",
+    "profundo": "#193643",
+    "suave": "#eef3f6",
+    "borde": "#d5e2e8",
+    "calido": "#a1692b",
+    "calidoSuave": "#f6f0ea"
+  },
+  "fotos": {
+    "principal": "https://ortodonciadelrio.es/wp-content/uploads/2024/07/clinica-dental-del-rio-fondo-home.jpg",
+    "clinica1": "https://ortodonciadelrio.es/wp-content/uploads/2026/07/clinica-dental-del-rio-dentista-ontinyent-image-object.webp",
+    "clinica2": "https://ortodonciadelrio.es/wp-content/uploads/2024/07/ortodoncia-adultos-ontinyent-clinica-dental-del-rio.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PINTOR SEGRELLES, 13 · ONTINYENT",
+    "titulo": [
+      "«Formulario de cita», dice vuestra página de contacto.",
+      "Y el teléfono se pide como «Campo numérico»."
+    ],
+    "intro": "Más de 25 años cuidando sonrisas en Ontinyent, con la Dra. María Jesús del Río y un equipo coordinado de ortodoncia, odontopediatría y prevención. Proponemos que «Reserva una cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de cita conserva las etiquetas por defecto: «Nombre», «Campo numérico», «Correo electrónico» y «Caja de texto». El paciente tiene que adivinar que el campo numérico es su teléfono, y no puede elegir día ni hora.",
+      "La cabecera de la web dice «L-X: 16h a 20h / M-J: 15h a 19h»: martes y miércoles caen en los dos tramos, con horarios de tarde distintos. En la página de contacto, en cambio, es lunes y miércoles por un lado, martes y jueves por otro.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Reserva una cita» reserve por WhatsApp.",
+      "texto": "Ya tenéis el WhatsApp 684 419 953 en la cabecera de la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento con vuestro horario correcto, pregunta si es para ortodoncia, niños o revisión y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. del Río y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes os preguntan a qué hora abrís por la tarde?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PINTOR SEGRELLES, 13 · ONTINYENT",
+    "telefono": "962 910 997",
+    "telefonos": "962 910 997 · WhatsApp 684 419 953",
+    "direccion": "C/ Pintor Josep Segrelles, 13 · 46870 Ontinyent (Valencia)",
+    "marca": "DEL RÍO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU DENTISTA EN ONTINYENT",
+    "heroTitulo": "La mayor galería",
+    "heroDestacado": "de sonrisas.",
+    "heroTexto": "Prevención, ortodoncia y odontopediatría en un mismo lugar, con un equipo que trabaja de forma coordinada. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva una cita",
+    "frase": "¡Hola! Bienvenidos a la clínica.",
+    "nota": "Más de 25 años en Ontinyent.",
+    "fotoEtiqueta": "CLÍNICA DENTAL DEL RÍO",
+    "fotoTitulo": "Todo lo que necesitas, en un mismo lugar.",
+    "cifra": "25",
+    "cifraEtiqueta": "AÑOS CUIDANDO SONRISAS",
+    "equipoTitulo": "Con la Dra. María Jesús del Río.",
+    "equipoTexto": "Un equipo que trabaja de forma coordinada desde la primera visita, con especial dedicación a la ortodoncia de niños y adultos.",
+    "valores": [
+      [
+        "Ortodoncia.",
+        "Niños y adultos."
+      ],
+      [
+        "Prevención.",
+        "Desde la primera visita."
+      ],
+      [
+        "Coordinados.",
+        "Un mismo lugar."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Ontinyent.",
+    "pies": [
+      "La recepción",
+      "Ortodoncia adultos"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Ortodoncia invisible",
+      "Odontopediatría",
+      "Prevención",
+      "Estética dental",
+      "Implantes"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Pintor Josep Segrelles, 13, en Ontinyent."
+      ],
+      [
+        "¿Hacéis ortodoncia a niños?",
+        "Sí, ortodoncia infantil y de adultos."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 684 419 953 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Revisión y limpieza",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Ontinyent",
+    "notaDiseno": "El azul petróleo y el ocre de la Clínica del Río, su recepción luminosa y un WhatsApp que reserva con el horario correcto.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes: 10:00–14:00 y 16:00–20:00",
+      "Martes: 10:00–14:00 y 15:00–19:00",
+      "Miércoles: 10:00–14:00 y 16:00–20:00",
+      "Jueves: 10:00–14:00 y 15:00–19:00",
+      "Viernes: 10:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 87
+    }
+  }
+}

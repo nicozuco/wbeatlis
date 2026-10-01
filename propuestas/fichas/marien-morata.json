@@ -1,0 +1,168 @@
+{
+  "slug": "marien-morata",
+  "numero": 170,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Marien Morata Roig",
+    "nombreCorto": "Marien Morata",
+    "dominio": "marienmorata.es",
+    "web": "https://marienmorata.es/",
+    "contacto": "https://marienmorata.es/contacto/",
+    "decisor": "Dra. Marien Morata"
+  },
+  "colores": {
+    "acento": "#5d7a6a",
+    "tinta": "#1d2621",
+    "profundo": "#28342d",
+    "suave": "#f4f6f5",
+    "borde": "#e3e8e6",
+    "calido": "#b89a7a",
+    "calidoSuave": "#f8f5f2"
+  },
+  "fotos": {
+    "principal": "https://marienmorata.es/wp-content/uploads/2026/02/Diseno-sin-titulo.jpg",
+    "clinica1": "https://marienmorata.es/wp-content/uploads/2024/05/slider2.jpg",
+    "clinica2": "https://marienmorata.es/wp-content/uploads/2024/05/slider3.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ DE LAS COMEDIAS, 15 · VALENCIA",
+    "titulo": [
+      "«Primera cita gratuita», dice vuestra cabecera.",
+      "Y el formulario es el de vuestra lista de correo."
+    ],
+    "intro": "Desde 1997 en el centro de Valencia, líderes en odontología emocional y estética con la Dra. Marien Morata y un equipo de especialistas. Proponemos que la primera cita gratuita quede reservada en el momento, con día y hora.",
+    "hallazgos": [
+      "Los botones «Primera cita gratuita» y «Pide cita» llevan a un formulario hecho con el plugin de Mailchimp, el de las listas de correo, con casillas de intereses: la petición de cita entra como una suscripción.",
+      "La página lo explica: «Puedes concertar una cita llamándonos o, si lo prefieres, te llamamos nosotros». El paciente se va sin fecha.",
+      "Según vuestro horario, el viernes cerráis a las 14:00 y no abrís hasta el lunes a las 9:00: 67 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera cita.",
+      "texto": "Ya tenéis el WhatsApp 610 282 327 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Explica que la primera cita es gratuita y, si es de estética o implantes, la lleva a la agenda del especialista. Lo clínico sigue siendo cosa de la Dra. Morata y su equipo."
+    },
+    "pregunta": "¿Sabéis dónde acaban las peticiones de cita de vuestro formulario?",
+    "tema": "primera cita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ DE LAS COMEDIAS, 15 · VALENCIA",
+    "telefono": "963 744 797",
+    "telefonos": "963 744 797 · WhatsApp 610 282 327",
+    "direccion": "C/ de las Comedias, 15 · 46003 Valencia",
+    "marca": "MARIEN MORATA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "El equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN EL CENTRO DE VALENCIA",
+    "heroTitulo": "Odontología",
+    "heroDestacado": "emocional.",
+    "heroTexto": "Estética dental, implantología y tratamientos multidisciplinares con especialistas en cada área. Elige día y hora y tu primera cita gratuita queda reservada.",
+    "ctaHero": "Primera cita gratuita",
+    "frase": "Cada tratamiento, de manera especializada y pormenorizada.",
+    "nota": "Abierto a mediodía.",
+    "fotoEtiqueta": "EL EQUIPO DE MARIEN MORATA",
+    "fotoTitulo": "Especialistas en cada área.",
+    "cifra": "1997",
+    "cifraEtiqueta": "CUIDANDO SONRISAS EN VALENCIA",
+    "equipoTitulo": "Un equipo multidisciplinar.",
+    "equipoTexto": "La Dra. Marien Morata dirige un equipo de especialistas altamente formados en cada área de la odontología, del diseño de sonrisa a la implantología.",
+    "valores": [
+      [
+        "Emocional.",
+        "Tu experiencia, primero."
+      ],
+      [
+        "Estética.",
+        "Diseño de sonrisa."
+      ],
+      [
+        "Especialistas.",
+        "En cada área."
+      ]
+    ],
+    "galeriaEtiqueta": "NUESTRO ESPACIO",
+    "galeriaTitulo": "Luz y naturaleza.",
+    "galeriaDestacado": "En el centro de Valencia.",
+    "pies": [
+      "Uno de los gabinetes",
+      "La recepción"
+    ],
+    "servicios": [
+      "Diseño de sonrisas",
+      "Carillas dentales",
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Blanqueamiento",
+      "Tratamientos multidisciplinares"
+    ],
+    "faq": [
+      [
+        "¿La primera cita es gratis?",
+        "Sí. La primera cita es gratuita."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:00 a 19:00, abierto a mediodía, y los viernes de 9:00 a 14:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 610 282 327 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera cita gratuita",
+      "Revisión",
+      "Estética dental",
+      "Implantes",
+      "Ortodoncia invisible"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "Los verdes suaves de Marien Morata, su equipo y una primera cita gratuita que se reserva en el momento.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ],
+      "martes": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "13:30",
+        "15:00",
+        "18:00"
+      ],
+      "jueves": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:00–19:00",
+      "Viernes: 9:00–14:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 165
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "sofia-cortes",
+  "numero": 174,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Sofía Cortés Clínica Dental",
+    "nombreCorto": "Sofía Cortés",
+    "dominio": "sofiacortes.dental",
+    "web": "https://sofiacortes.dental/",
+    "contacto": "https://sofiacortes.dental/contacto/",
+    "decisor": "Dra. Sofía Cortés"
+  },
+  "colores": {
+    "acento": "#8a6f52",
+    "tinta": "#2a2119",
+    "profundo": "#3a2e22",
+    "suave": "#f7f5f3",
+    "borde": "#ebe7e2",
+    "calido": "#3b3b3b",
+    "calidoSuave": "#ebebeb"
+  },
+  "fotos": {
+    "principal": "https://sofiacortes.dental/wp-content/uploads/2025/07/Fondo-equipo.webp",
+    "clinica1": "https://sofiacortes.dental/wp-content/uploads/2025/07/Fondo-home-Sofia-scaled-1.jpg",
+    "clinica2": "https://sofiacortes.dental/wp-content/uploads/2025/07/Clinica-Sofia.webp"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE PIUS XII, 27 · VALENCIA",
+    "titulo": [
+      "«Pedir cita ahora», dice el botón.",
+      "Y el formulario pide «tus inquietudes»."
+    ],
+    "intro": "Estética dental en Valencia con la Dra. Sofía Cortés: carillas, Smile Studio, ortodoncia invisible y láser Fotona, en una clínica cálida pensada para sentirse como en casa. Proponemos que la cita quede reservada en el momento, con día y hora.",
+    "hallazgos": [
+      "Los botones «Pedir cita ahora» llevan a un formulario de nombre, email, teléfono, tratamiento y «Escríbenos brevemente tus inquietudes»: en ningún momento se elige día ni hora.",
+      "Vuestro WhatsApp abre con «quiero solicitar información y/o reservar una cita»: la conversación empieza bien, pero alguien tiene que contestarla a mano.",
+      "Según vuestro horario en Google, del viernes a las 16:00 al lunes a las 10:00 pasan 66 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp conteste y reserve.",
+      "texto": "Ya tenéis el WhatsApp 628 474 013 con el mensaje preparado. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si es para carillas, ortodoncia invisible, blanqueamiento o láser, resuelve las dudas típicas y deja la primera visita reservada. Lo clínico sigue siendo cosa de la Dra. Cortés y su equipo."
+    },
+    "pregunta": "¿Cuántas consultas de carillas os llegan el fin de semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE PIUS XII, 27 · VALENCIA",
+    "telefono": "960 214 003",
+    "telefonos": "960 214 003 · WhatsApp 628 474 013",
+    "direccion": "Av. de Pius XII, 27 · 46015 Valencia",
+    "marca": "SOFÍA CORTÉS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Clínica",
+    "heroEtiqueta": "ESTÉTICA DENTAL EN VALENCIA",
+    "heroTitulo": "Una nueva forma",
+    "heroDestacado": "de sonreír.",
+    "heroTexto": "Más que una clínica de estética dental: confianza, seguridad y resultados naturales. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Como en casa, pero de verdad.",
+    "nota": "El olivo, la luz y la calma de nuestra clínica.",
+    "fotoEtiqueta": "EL EQUIPO DE SOFÍA CORTÉS",
+    "fotoTitulo": "Confianza y seguridad.",
+    "cifra": "Smile",
+    "cifraEtiqueta": "STUDIO: DISEÑO DE TU NUEVA SONRISA",
+    "equipoTitulo": "Especialistas en estética dental.",
+    "equipoTexto": "La Dra. Sofía Cortés y su equipo trabajan carillas de porcelana y composite, microcarillas, ortodoncia invisible y láser dental Fotona, con resultados naturales.",
+    "valores": [
+      [
+        "Natural.",
+        "Sonrisas que parecen tuyas."
+      ],
+      [
+        "Seguridad.",
+        "Planificación de cada caso."
+      ],
+      [
+        "Calma.",
+        "Un espacio para sentirse bien."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Trazos de naturaleza.",
+    "galeriaDestacado": "En Pius XII.",
+    "pies": [
+      "La recepción",
+      "La sala de espera"
+    ],
+    "servicios": [
+      "Smile Studio",
+      "Carillas de porcelana",
+      "Carillas de composite",
+      "Microcarillas",
+      "Ortodoncia invisible",
+      "Láser dental Fotona"
+    ],
+    "faq": [
+      [
+        "¿Qué diferencia hay entre carillas de porcelana y de composite?",
+        "Te lo explicamos en la primera visita, según tu caso y lo que buscas."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la Av. de Pius XII, 27, en Valencia."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 628 474 013 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Carillas",
+      "Ortodoncia invisible",
+      "Blanqueamiento",
+      "Láser dental"
+    ],
+    "pieMarca": "Estética dental en Valencia",
+    "notaDiseno": "Los tonos cálidos de Sofía Cortés, su clínica con el olivo y un WhatsApp que reserva la primera visita.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "15:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 160
+    }
+  }
+}

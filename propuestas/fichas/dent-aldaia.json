@@ -1,0 +1,169 @@
+{
+  "slug": "dent-aldaia",
+  "numero": 267,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Dent Aldaia",
+    "nombreCorto": "Dent Aldaia",
+    "dominio": "dentaldaia.com",
+    "web": "https://dentaldaia.com/",
+    "contacto": "https://dentaldaia.com/pedir-cita/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#2f3a6b",
+    "tinta": "#161a2d",
+    "profundo": "#1c2340",
+    "suave": "#f0f1f5",
+    "borde": "#dcdee6",
+    "calido": "#00ad99",
+    "calidoSuave": "#e6f7f5"
+  },
+  "fotos": {
+    "principal": "https://dentaldaia.com/wp-content/uploads/2021/09/FOTO-1-1-scaled.jpg",
+    "clinica1": "https://dentaldaia.com/wp-content/uploads/2022/02/FOTO-1024x683-1.webp",
+    "clinica2": "https://dentaldaia.com/wp-content/uploads/2022/02/FOTO-PEQUENA-1024x683-1.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MAJOR, 6 · ALDAIA",
+    "titulo": [
+      "En vuestra página «Pide cita», el teléfono y el WhatsApp",
+      "se marcan sin el 34."
+    ],
+    "intro": "Una clínica de Aldaia que no es franquicia, con un equipo fijo de odontólogos colegiados, sedación consciente para quien tiene miedo y un 4,9 en Google. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "En el móvil, en la página «Pide cita», el 96 064 25 72 marca «+960642572» y el icono de WhatsApp abre «+640504863»: los dos sin el 34, así que la llamada no sale y el chat no abre.",
+      "El formulario de esa misma página pide nombre, correo, asunto y mensaje: ni teléfono, ni día, ni hora.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 10:00: 62 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve por WhatsApp.",
+      "texto": "Ya tenéis el WhatsApp 640 50 48 63 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Con el enlace bien puesto, contesta al momento, tranquiliza a quien tiene miedo y deja la cita reservada. Lo clínico sigue siendo cosa de el equipo de Dent Aldaia."
+    },
+    "pregunta": "¿Cuántas citas os llegan por el formulario de la web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MAJOR, 6 · ALDAIA",
+    "telefono": "960 642 572",
+    "telefonos": "960 642 572 · WhatsApp 640 504 863",
+    "direccion": "C/ Major, 6, bajo (frente a la iglesia) · 46960 Aldaia (Valencia)",
+    "marca": "DENT ALDAIA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo médico",
+    "heroEtiqueta": "TU DENTISTA EN ALDAIA",
+    "heroTitulo": "Tus dentistas de confianza,",
+    "heroDestacado": "muy cerca de ti.",
+    "heroTexto": "Todas las especialidades de la odontología moderna, con un equipo fijo de odontólogos colegiados. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "No somos franquicia.",
+    "nota": "Frente a la iglesia de Aldaia.",
+    "fotoEtiqueta": "DENT ALDAIA",
+    "fotoTitulo": "Un ambiente familiar y tranquilo.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo fijo de odontólogos colegiados.",
+    "equipoTexto": "Tratamientos no invasivos, implantes sin dolor y sedación consciente para niños y mayores que tienen miedo de acudir al dentista.",
+    "valores": [
+      [
+        "Sin miedo.",
+        "Sedación consciente."
+      ],
+      [
+        "Equipo fijo.",
+        "No somos franquicia."
+      ],
+      [
+        "Niños.",
+        "Odontopediatría."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Aldaia.",
+    "pies": [
+      "El equipo",
+      "En consulta"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Sedación consciente",
+      "Odontopediatría",
+      "Periodoncia",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Major, 6, bajo, frente a la iglesia de Aldaia."
+      ],
+      [
+        "Me da miedo el dentista, ¿podéis ayudarme?",
+        "Sí. Aplicamos sedación consciente para que vengas tranquilo."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 640 50 48 63 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Odontopediatría",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Aldaia",
+    "notaDiseno": "El azul marino y el turquesa de Dent Aldaia, su equipo y un WhatsApp que siempre abre y reserva.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 96
+    }
+  }
+}

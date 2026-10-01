@@ -1,0 +1,169 @@
+{
+  "slug": "gil-gomez-dental",
+  "numero": 162,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Gil+Gómez Dental",
+    "nombreCorto": "Gil+Gómez Dental",
+    "dominio": "gilgomezdental.com",
+    "web": "https://gilgomezdental.com/",
+    "contacto": "https://gilgomezdental.com/contacto-clinica-dental-valencia/",
+    "decisor": "Dra. Lucía Gil y Dra. María Dolores Gómez"
+  },
+  "colores": {
+    "acento": "#1b4f7a",
+    "tinta": "#16222d",
+    "profundo": "#193043",
+    "suave": "#eff3f6",
+    "borde": "#d8e1e8",
+    "calido": "#b88a5a",
+    "calidoSuave": "#f8f3ee"
+  },
+  "fotos": {
+    "principal": "https://gilgomezdental.com/wp-content/uploads/2025/07/gilgomezdental-clinica-dental-campanar-valencia-presentacion-de-las-doctoras-lucia-gil-y-maria-dolores-gomez.jpg",
+    "clinica1": "https://gilgomezdental.com/wp-content/uploads/2025/09/gilgomezdental-clinica-dental-campanar-valencia-clinica-instalaciones-3-768x512.jpg",
+    "clinica2": "https://gilgomezdental.com/wp-content/uploads/2025/07/gilgomezdental-clinica-dental-campanar-valencia-clinica-box-3-768x576.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ VALL DE LA BALLESTERA, 46 · CAMPANAR",
+    "titulo": [
+      "Vuestra portada pesa 25 MB.",
+      "Desde el móvil, eso es esperar antes de ver nada."
+    ],
+    "intro": "Una clínica luminosa en Campanar, dirigida por la Dra. Lucía Gil y la Dra. María Dolores Gómez, con un 5 de 5 en Google. Proponemos que la web cargue rápido y que la cita quede reservada en el momento, con día y hora.",
+    "hallazgos": [
+      "Vuestra portada descarga más de 25 MB solo de página, sin contar el resto: en un móvil con datos, el paciente espera varios segundos con la pantalla en blanco, y muchos se van.",
+      "El formulario «Pide cita» pide escribir la «disponibilidad horaria» en el mensaje, y la web lo explica: «Te responderemos lo antes posible para concretar fecha y hora». El paciente se va sin cita.",
+      "Vuestra web no publica el horario de la clínica, y los teléfonos aparecen como texto: desde el móvil no se pueden pulsar para llamar."
+    ],
+    "recomendacion": {
+      "vista": "landing",
+      "titulo": "Una web ligera que reserve la cita.",
+      "texto": "Una web nueva, rápida, con vuestras fotos de Campanar y vuestra identidad, que explica cómo empezar y deja la cita reservada con día y hora. Y el mismo asistente puede atender en vuestro WhatsApp. Lo clínico sigue siendo cosa de la Dra. Gil, la Dra. Gómez y su equipo."
+    },
+    "pregunta": "¿Habéis probado a abrir vuestra web desde el móvil, con datos?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ VALL DE LA BALLESTERA, 46 · CAMPANAR",
+    "telefono": "961 93 72 75",
+    "telefonos": "961 93 72 75 · 664 30 80 72",
+    "direccion": "C/ Vall de la Ballestera, 46 · 46015 Valencia",
+    "marca": "GIL+GÓMEZ",
+    "submarca": "DENTAL",
+    "menuEquipo": "Clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CAMPANAR",
+    "heroTitulo": "Sin complicaciones,",
+    "heroDestacado": "sin esperas.",
+    "heroTexto": "Te recibimos en un entorno tranquilo y sin prisas, con toda la atención que mereces. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Queremos conocerte.",
+    "nota": "Nos adaptamos a tus horarios y necesidades.",
+    "fotoEtiqueta": "DRA. LUCÍA GIL · DRA. MARÍA DOLORES GÓMEZ",
+    "fotoTitulo": "Bienvenida y escucha.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo de especialistas.",
+    "equipoTexto": "La Dra. Lucía Gil y la Dra. María Dolores Gómez dirigen un equipo de especialistas en implantología, ortodoncia, estética y odontología conservadora.",
+    "valores": [
+      [
+        "Escucha.",
+        "Sin prisas."
+      ],
+      [
+        "Conservadora.",
+        "Preservar lo natural."
+      ],
+      [
+        "Estética.",
+        "Diseño de sonrisa."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Madera y luz.",
+    "galeriaDestacado": "En Campanar.",
+    "pies": [
+      "La recepción",
+      "Uno de los boxes"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia",
+      "Diseño de sonrisa",
+      "Carillas dentales",
+      "Odontología conservadora",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Vall de la Ballestera, 46, en Campanar."
+      ],
+      [
+        "¿Cómo es la primera visita?",
+        "Te recibimos sin prisas, escuchamos lo que necesitas y te explicamos las opciones."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Implantes",
+      "Ortodoncia",
+      "Estética"
+    ],
+    "pieMarca": "Clínica dental en Campanar",
+    "notaDiseno": "El azul de Gil+Gómez, sus doctoras y una web que carga al momento y deja la cita reservada.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 174
+    }
+  }
+}

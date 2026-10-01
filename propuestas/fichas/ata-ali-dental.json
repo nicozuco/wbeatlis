@@ -1,0 +1,169 @@
+{
+  "slug": "ata-ali-dental",
+  "numero": 165,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Ata-Ali Dental Clinic",
+    "nombreCorto": "Ata-Ali",
+    "dominio": "ata-alidentalclinic.com",
+    "web": "https://ata-alidentalclinic.com/",
+    "contacto": "https://ata-alidentalclinic.com/pide-tu-cita/",
+    "decisor": "Dr. Fadi Ata-Ali y Dr. Javier Ata-Ali"
+  },
+  "colores": {
+    "acento": "#1f6fb2",
+    "tinta": "#16222d",
+    "profundo": "#193043",
+    "suave": "#eff5fa",
+    "borde": "#d9e7f2",
+    "calido": "#2b2b2b",
+    "calidoSuave": "#eaeaea"
+  },
+  "fotos": {
+    "principal": "https://ata-alidentalclinic.com/wp-content/uploads/2024/10/Hermanos-ata-ali.jpg",
+    "clinica1": "https://ata-alidentalclinic.com/wp-content/uploads/2024/10/Sala-de-espera.jpg",
+    "clinica2": "https://ata-alidentalclinic.com/wp-content/uploads/2024/09/Gavinete-clinica.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE CAMPANAR, 12 · VALENCIA",
+    "titulo": [
+      "El enlace «Llámanos» de vuestra web",
+      "abre WhatsApp, no una llamada."
+    ],
+    "intro": "Más de 20 años especializados en implantología y ortodoncia invisible en Campanar, con el Dr. Fadi Ata-Ali y el Dr. Javier Ata-Ali como directores médicos. Proponemos que la primera visita gratuita quede reservada en el momento.",
+    "hallazgos": [
+      "El enlace «Llámanos» y el teléfono fijo de la cabecera llevan a WhatsApp en lugar de llamar: quien quiere hablar con vosotros acaba en un chat que alguien tiene que contestar a mano.",
+      "Los botones «Pide tu cita» llevan a un formulario de nombre, email, teléfono y mensaje: aunque la primera visita es gratuita, el paciente se va sin fecha.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 10:00 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera visita.",
+      "texto": "Todos los caminos de vuestra web ya llevan al WhatsApp 696 693 368. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Explica que la primera visita es gratuita y, si es de ortodoncia o implantes, la lleva a la agenda del especialista. Lo clínico sigue siendo cosa de los doctores Ata-Ali y su equipo."
+    },
+    "pregunta": "¿Cuántos WhatsApp contestáis cada día de gente que quería llamaros?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE CAMPANAR, 12 · VALENCIA",
+    "telefono": "963 702 162",
+    "telefonos": "963 702 162 · WhatsApp 696 693 368",
+    "direccion": "Av. de Campanar, 12 · 46015 Valencia",
+    "marca": "ATA-ALI",
+    "submarca": "DENTAL CLINIC",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN CAMPANAR",
+    "heroTitulo": "Un equipo profesional",
+    "heroDestacado": "dedicado a ti.",
+    "heroTexto": "Ortodoncia invisible, implantes, estética dental y facial, con diagnósticos completos y personalizados. Elige día y hora y tu primera visita gratuita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Queremos que te sientas en confianza desde el primer día.",
+    "nota": "La primera visita es gratuita.",
+    "fotoEtiqueta": "DR. FADI ATA-ALI · DR. JAVIER ATA-ALI",
+    "fotoTitulo": "Directores médicos.",
+    "cifra": "20",
+    "cifraEtiqueta": "AÑOS ESPECIALIZADOS EN IMPLANTOLOGÍA",
+    "equipoTitulo": "Docencia, investigación y clínica.",
+    "equipoTexto": "El Dr. Fadi Ata-Ali, especialista en ortodoncia y profesor acreditado, y el Dr. Javier Ata-Ali, doctores en odontología por la Universidad de Valencia y autores de decenas de publicaciones científicas.",
+    "valores": [
+      [
+        "Invisible.",
+        "Especialistas en ortodoncia invisible."
+      ],
+      [
+        "Implantes.",
+        "Más de 20 años."
+      ],
+      [
+        "Facial.",
+        "Estética dental y facial."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y calma.",
+    "galeriaDestacado": "En la Av. de Campanar.",
+    "pies": [
+      "La sala de espera",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Ortodoncia con brackets",
+      "Ortodoncia en niños",
+      "Implantes dentales",
+      "Estética dental",
+      "Medicina facial"
+    ],
+    "faq": [
+      [
+        "¿La primera visita es gratis?",
+        "Sí. La primera toma de contacto es totalmente gratuita."
+      ],
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 10:00 a 14:00 y de 16:00 a 20:00."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 696 693 368 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita gratuita",
+      "Revisión",
+      "Ortodoncia invisible",
+      "Implantes",
+      "Estética facial"
+    ],
+    "pieMarca": "Clínica dental en Campanar",
+    "notaDiseno": "El azul de Ata-Ali, sus directores médicos y un WhatsApp que deja la primera visita reservada.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–14:00 y 16:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 170
+    }
+  }
+}

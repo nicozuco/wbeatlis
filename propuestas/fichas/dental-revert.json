@@ -1,0 +1,169 @@
+{
+  "slug": "dental-revert",
+  "numero": 163,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Revert",
+    "nombreCorto": "Dental Revert",
+    "dominio": "clinicadentalrevert.com",
+    "web": "https://clinicadentalrevert.com/",
+    "contacto": "https://clinicadentalrevert.com/pedir-cita/",
+    "decisor": "Dr. José Julián Revert y Dra. Sandra Revert"
+  },
+  "colores": {
+    "acento": "#0e2470",
+    "tinta": "#161b2d",
+    "profundo": "#192343",
+    "suave": "#eef0f5",
+    "borde": "#d6dae7",
+    "calido": "#c43a6b",
+    "calidoSuave": "#f9ebf0"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalrevert.com/wp-content/uploads/2026/08/Dentista-en-Puerto-de-Sagunto-Clinica-dental-Revert-scaled.webp",
+    "clinica1": "https://clinicadentalrevert.com/wp-content/uploads/elementor/thumbs/Clinica-Dental-Revert-scaled-rqopgha5lf79vkvqgawxwirvfjza2k8f72cs9g6w6o.webp",
+    "clinica2": "https://clinicadentalrevert.com/wp-content/uploads/elementor/thumbs/Tecnologia-Clinica-Dental-Revert-rq1vphunvubrozteaw8lvon4y2qrmdu58vzeab6df4.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ LLIBERTAT, 130 · PORT DE SAGUNT",
+    "titulo": [
+      "«Pedir cita ahora», dice el botón.",
+      "Y el formulario termina en «Message»."
+    ],
+    "intro": "30 años cuidando de Port de Sagunt, con la segunda generación de doctores Revert y un equipo multidisciplinar. Proponemos que «Pedir cita ahora» deje la cita reservada ahora, con día y hora.",
+    "hallazgos": [
+      "Los botones «Pedir cita» llevan a un formulario de nombre, email, teléfono, tratamiento y un último campo que dice «Message», en inglés: en ningún momento se elige día ni hora.",
+      "En esa misma página hay un segundo formulario más corto, con nombre, teléfono y tratamiento: dos caminos distintos que acaban igual, esperando vuestra llamada.",
+      "Según vuestro horario en Google, del viernes a las 20:00 al lunes a las 10:00 pasan 62 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pedir cita ahora» la dé ahora.",
+      "texto": "Un asistente en vuestra web, en lugar de los dos formularios, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta el tratamiento, igual que vuestro formulario, y lleva la cita a la agenda de ortodoncia, implantes, estética u odontopediatría. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de los doctores Revert y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes de «Pedir cita» llamáis cada semana para dar hora?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ LLIBERTAT, 130 · PORT DE SAGUNT",
+    "telefono": "962 673 866",
+    "telefonos": "962 673 866 · 607 268 033",
+    "direccion": "C/ de la Llibertat, 130, bajo · 46520 Port de Sagunt (Valencia)",
+    "marca": "REVERT",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Sobre nosotros",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN PORT DE SAGUNT",
+    "heroTitulo": "30 años",
+    "heroDestacado": "cuidando de ti.",
+    "heroTexto": "La segunda generación de doctores Revert y un equipo multidisciplinar para una odontología integral. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita ahora",
+    "frase": "Una odontología integral, de la mano de dos generaciones.",
+    "nota": "Analgesia y sedación para quien lo necesita.",
+    "fotoEtiqueta": "EL EQUIPO DE DENTAL REVERT",
+    "fotoTitulo": "Un equipo multidisciplinar.",
+    "cifra": "30",
+    "cifraEtiqueta": "AÑOS EN PORT DE SAGUNT",
+    "equipoTitulo": "Dos generaciones, un equipo.",
+    "equipoTexto": "El Dr. José Julián Revert, en implantología y cirugía oral, y la Dra. Sandra Revert, en ortodoncia, junto a especialistas en periodoncia, odontopediatría, estética y endodoncia.",
+    "valores": [
+      [
+        "Integral.",
+        "Todas las especialidades."
+      ],
+      [
+        "Familiar.",
+        "Dos generaciones."
+      ],
+      [
+        "Sin dolor.",
+        "Analgesia y sedación."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tecnología y experiencia.",
+    "galeriaDestacado": "En Port de Sagunt.",
+    "pies": [
+      "En el gabinete",
+      "Tecnología de la clínica"
+    ],
+    "servicios": [
+      "Ortodoncia invisible",
+      "Ortodoncia infantil",
+      "Implantes dentales",
+      "Regeneración ósea",
+      "Carillas dentales",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 10:00 a 13:30 y de 16:00 a 20:00."
+      ],
+      [
+        "¿Hacéis sedación?",
+        "Sí, con analgesia y sedación para quien lo necesita."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, con la Dra. María Teresa Chofré, nuestra odontopediatra."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Ortodoncia",
+      "Implantes",
+      "Odontopediatría"
+    ],
+    "pieMarca": "Clínica dental en Port de Sagunt",
+    "notaDiseno": "El azul marino de Dental Revert, su equipo de dos generaciones y una cita que se reserva ahora.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes: 10:00–13:30 y 16:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 173
+    }
+  }
+}

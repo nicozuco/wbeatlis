@@ -1,0 +1,166 @@
+{
+  "slug": "drs-devis",
+  "numero": 193,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Drs. Devís",
+    "nombreCorto": "Drs. Devís",
+    "dominio": "oclusionlab.com",
+    "web": "http://www.oclusionlab.com/inicio/",
+    "contacto": "http://www.oclusionlab.com/contacto/",
+    "decisor": "Dr. Francisco Devís"
+  },
+  "colores": {
+    "acento": "#1f6aa6",
+    "tinta": "#16222d",
+    "profundo": "#193043",
+    "suave": "#eff5f9",
+    "borde": "#d9e6f0",
+    "calido": "#5bb0c9",
+    "calidoSuave": "#eff7fa"
+  },
+  "fotos": {
+    "principal": "http://www.oclusionlab.com/image/1200x700/1200:700/Equipo_OclusionLab1.jpg",
+    "clinica1": "http://www.oclusionlab.com/image/600x400/600:400/DSC4368.jpg",
+    "clinica2": "http://www.oclusionlab.com/image/600x400/600:400/DSC4448.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ SAN ANTONIO, 52 · PATERNA",
+    "titulo": [
+      "«Pedir cita online», dice el botón.",
+      "Y lleva a un formulario con «Asunto»."
+    ],
+    "intro": "Expertos en oclusión dental en Paterna, con el Dr. Francisco Devís, especialista en prótesis y rehabilitación neuroclusal, y un trato cercano y personalizado. Proponemos que «Pedir cita online» deje la cita reservada de verdad.",
+    "hallazgos": [
+      "El botón «Pedir cita online» lleva a un formulario de nombre, email, asunto y mensaje: el teléfono es opcional y en ningún momento se elige día ni hora.",
+      "Vuestra web no tiene WhatsApp: fuera de horario, a quien quiere pedir cita solo le queda ese formulario.",
+      "Según vuestro horario en Google, del viernes a las 13:00 al lunes a las 10:00 pasan 69 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Pedir cita online» la dé online.",
+      "texto": "Un asistente en vuestra web, detrás del botón de cita online, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta si hay dolor de mandíbula, chasquidos o bruxismo, y deja la primera visita reservada con quien corresponde. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de los Drs. Devís y su equipo."
+    },
+    "pregunta": "¿Cuántas peticiones de «cita online» os llegan sin teléfono?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ SAN ANTONIO, 52 · PATERNA",
+    "telefono": "961 388 773",
+    "telefonos": "961 388 773 · 663 231 071",
+    "direccion": "C/ San Antonio, 52 · 46980 Paterna (Valencia)",
+    "marca": "DRS. DEVÍS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN PATERNA",
+    "heroTitulo": "Expertos",
+    "heroDestacado": "en oclusión dental.",
+    "heroTexto": "Un trato cercano y personalizado para que te sientas cómodo y relajado en cada visita. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita online",
+    "frase": "Prevención, educación y salud dental.",
+    "nota": "Especialistas en oclusión y rehabilitación neuroclusal.",
+    "fotoEtiqueta": "EL EQUIPO DE DRS. DEVÍS",
+    "fotoTitulo": "Cercanos y personalizados.",
+    "cifra": "ATM",
+    "cifraEtiqueta": "OCLUSIÓN Y REHABILITACIÓN NEUROCLUSAL",
+    "equipoTitulo": "Conocimiento y experiencia.",
+    "equipoTexto": "El Dr. Francisco Devís, experto en prótesis, rehabilitación oral y neuroclusal, y un equipo con la experiencia necesaria para resolver cualquier problema bucodental.",
+    "valores": [
+      [
+        "Oclusión.",
+        "Mandíbula y mordida."
+      ],
+      [
+        "Prevención.",
+        "Educación en salud oral."
+      ],
+      [
+        "Cercanía.",
+        "Cómodo y relajado."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Paterna.",
+    "galeriaDestacado": "Luz y calma.",
+    "pies": [
+      "En el gabinete",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Oclusión y ATM",
+      "Prótesis",
+      "Rehabilitación oral",
+      "Periodoncia",
+      "Implantes",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿Qué es la oclusión?",
+        "Cómo encajan tus dientes al cerrar la boca. Un mal ajuste puede causar dolor de mandíbula, desgaste o bruxismo."
+      ],
+      [
+        "¿Dónde estáis?",
+        "En la C/ San Antonio, 52, en Paterna."
+      ],
+      [
+        "¿Tengo que dejar mi teléfono?",
+        "Con el asistente reservas la cita al momento, con día y hora."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión",
+      "Dolor de mandíbula",
+      "Prótesis",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Paterna",
+    "notaDiseno": "Los azules de Drs. Devís, su equipo y una cita online que se reserva de verdad.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 141
+    }
+  }
+}

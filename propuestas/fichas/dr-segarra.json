@@ -1,0 +1,169 @@
+{
+  "slug": "dr-segarra",
+  "numero": 218,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Dr. Segarra",
+    "nombreCorto": "Dr. Segarra",
+    "dominio": "drsegarraclinicadental.es",
+    "web": "https://drsegarraclinicadental.es/",
+    "contacto": "https://drsegarraclinicadental.es/contacto/",
+    "decisor": "Dr. Segarra"
+  },
+  "colores": {
+    "acento": "#2a6fa8",
+    "tinta": "#16222d",
+    "profundo": "#193043",
+    "suave": "#f0f5f9",
+    "borde": "#dbe7f0",
+    "calido": "#9aa7b0",
+    "calidoSuave": "#f5f6f7"
+  },
+  "fotos": {
+    "principal": "https://test.drsegarraclinicadental.es/wp-content/uploads/2022/03/clinica-dental-dr-segarra-slider.jpg",
+    "clinica1": "https://test.drsegarraclinicadental.es/wp-content/uploads/2022/03/tratamientos-dentales-clinica-dental-slider2.jpg",
+    "clinica2": "https://test.drsegarraclinicadental.es/wp-content/uploads/2022/03/clinica-dental-dr-segarra-slider2.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ UNIVERSIDAD, 1 · VALENCIA",
+    "titulo": [
+      "Las fotos de vuestra web se cargan",
+      "desde «test.drsegarraclinicadental.es»."
+    ],
+    "intro": "Más de 50 años en el centro de Valencia con toda clase de tratamientos, de la odontopediatría a la implantología. Proponemos que «¡Reserva tu cita!» la deje reservada de verdad, con día y hora.",
+    "hallazgos": [
+      "Las imágenes de vuestra web se cargan desde una copia de pruebas, test.drsegarraclinicadental.es: si esa copia se borra o caduca, la web se queda sin fotos.",
+      "Los botones «Pide cita» y «¡Reserva tu cita!» llevan a un formulario de nombre, teléfono, email y mensaje: en ningún momento se elige día ni hora.",
+      "Vuestra web no tiene WhatsApp, y según Google, del viernes a las 17:30 al lunes a las 9:30 pasan 64 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «¡Reserva tu cita!» la reserve.",
+      "texto": "Un asistente en vuestra web, detrás del botón de reservar, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Pregunta qué necesitas, igual que vuestra portada, y lleva la cita a la agenda que toca. Y el mismo asistente puede atender en el WhatsApp del 722 359 657. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Sabíais que vuestra web depende de la copia de pruebas?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ UNIVERSIDAD, 1 · VALENCIA",
+    "telefono": "963 527 932",
+    "telefonos": "963 527 932 · 722 359 657",
+    "direccion": "C/ de la Universitat, 1, 4.º, pta. 11 · 46003 Valencia",
+    "marca": "DR. SEGARRA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN EL CENTRO DE VALENCIA",
+    "heroTitulo": "Tu clínica dental",
+    "heroDestacado": "de confianza.",
+    "heroTexto": "Más de 50 años en toda clase de tratamientos, de la odontopediatría a la implantología. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "¡Reserva tu cita!",
+    "frase": "Te asesoramos sobre los tratamientos existentes.",
+    "nota": "Junto a la Universidad, en pleno centro.",
+    "fotoEtiqueta": "CLÍNICA DENTAL DR. SEGARRA",
+    "fotoTitulo": "Más de 50 años a tu lado.",
+    "cifra": "50",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "Toda clase de tratamientos.",
+    "equipoTexto": "Un equipo con más de 50 años de experiencia en Valencia, de la odontopediatría a la implantología, con asesoramiento personalizado en cada caso.",
+    "valores": [
+      [
+        "Experiencia.",
+        "Más de 50 años."
+      ],
+      [
+        "Integral.",
+        "Todos los tratamientos."
+      ],
+      [
+        "Céntrica.",
+        "Ciutat Vella."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y tecnología.",
+    "galeriaDestacado": "En el centro.",
+    "pies": [
+      "En el gabinete",
+      "La clínica"
+    ],
+    "servicios": [
+      "Ortodoncia",
+      "Estética dental",
+      "Implantología",
+      "Odontopediatría",
+      "Endodoncia",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ de la Universitat, 1, 4.º, en el centro de Valencia."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí. Tratamos desde la odontopediatría hasta la implantología."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Elige día y hora en la web o escríbenos por WhatsApp al 722 359 657."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Ortodoncia",
+      "Implantes"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "Los azules del Dr. Segarra, su clínica en el centro y un botón de reservar que reserva.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "15:30",
+        "17:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,6",
+      "resenas": 121
+    }
+  }
+}

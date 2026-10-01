@@ -1,0 +1,170 @@
+{
+  "slug": "dental-marin",
+  "numero": 241,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Marín Clínica Dental",
+    "nombreCorto": "Dental Marín",
+    "dominio": "dentalmarin.com",
+    "web": "https://dentalmarin.com/",
+    "contacto": "https://dentalmarin.com/contacta/",
+    "decisor": "Dr. Umberto Marín"
+  },
+  "colores": {
+    "acento": "#1032cf",
+    "tinta": "#161a2d",
+    "profundo": "#192143",
+    "suave": "#eef1fc",
+    "borde": "#d6dcf7",
+    "calido": "#3c5a6e",
+    "calidoSuave": "#eceef0"
+  },
+  "fotos": {
+    "principal": "https://dentalmarin.com/wp-content/uploads/2023/09/la-clinica-marin-dental-header-4.jpg",
+    "clinica1": "https://dentalmarin.com/wp-content/uploads/2025/04/DSC09660-1536x1024.jpg",
+    "clinica2": "https://dentalmarin.com/wp-content/uploads/2025/04/DSC09673-1536x1024.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "VALENCIA · TORRENT",
+    "titulo": [
+      "En vuestra web, el teléfono de Torrent",
+      "abre una búsqueda de Google."
+    ],
+    "intro": "Dos clínicas, en Valencia y en Torrent, con el Dr. Umberto Marín en implantología avanzada y un 4,8 en Google. Proponemos que «Pide cita» deje la cita reservada en la clínica que elija el paciente.",
+    "hallazgos": [
+      "En la página de contacto, el 961 35 72 62 de Torrent no llama: abre una búsqueda de Google de «Dental Marín Torrent». Y el móvil 628 67 91 00 de esa clínica no se puede pulsar.",
+      "«Pide cita» abre un formulario que pide clínica, nombre, teléfono y email, sin día ni hora: después alguien tiene que llamar para cerrar la cita.",
+      "Según Google Maps cerráis el viernes a las 20:00 y no abrís hasta el lunes a las 10:00: 62 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve en la clínica que toca.",
+      "texto": "Ya tenéis el WhatsApp 697 10 26 18 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si prefiere Valencia o Torrent, igual que vuestro formulario, y deja la cita reservada en esa agenda. Lo clínico sigue siendo cosa de el Dr. Marín y su equipo."
+    },
+    "pregunta": "¿Cuántos pacientes de Torrent os llaman al número de Valencia?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "VALENCIA · TORRENT",
+    "telefono": "697 102 618",
+    "telefonos": "Valencia 960 916 694 · Torrent 961 357 262 · WhatsApp 697 102 618",
+    "direccion": "Plaza Jesús, 6 · 46007 Valencia | C/ San Cristóbal, 13 · 46900 Torrent",
+    "marca": "MARÍN",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICAS DENTALES EN VALENCIA Y TORRENT",
+    "heroTitulo": "Otra forma de hacer",
+    "heroDestacado": "odontología.",
+    "heroTexto": "Conocemos tus necesidades antes de proponerte el tratamiento que de verdad necesitas. Elige clínica, día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Tu sonrisa, nuestra mayor motivación.",
+    "nota": "Dos clínicas: Plaza Jesús (Valencia) y Torrent.",
+    "fotoEtiqueta": "MARÍN CLÍNICA DENTAL",
+    "fotoTitulo": "Una sonrisa a medida.",
+    "cifra": "4,8",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Con el Dr. Umberto Marín.",
+    "equipoTexto": "Experto en implantología avanzada, carga inmediata y regeneración ósea, con un equipo de odontología general, ortodoncia, estética y odontopediatría.",
+    "valores": [
+      [
+        "Carga inmediata.",
+        "Implantes avanzados."
+      ],
+      [
+        "Regeneración ósea.",
+        "Casos complejos."
+      ],
+      [
+        "A medida.",
+        "El tratamiento que necesitas."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Valencia",
+    "galeriaDestacado": "y Torrent.",
+    "pies": [
+      "Gabinete",
+      "La clínica"
+    ],
+    "servicios": [
+      "Implantología avanzada",
+      "Ortodoncia invisible",
+      "Endodoncia",
+      "Estética dental",
+      "Periodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Plaza Jesús, 6, en Valencia, y en la C/ San Cristóbal, 13, en Torrent."
+      ],
+      [
+        "¿Hacéis implantes de carga inmediata?",
+        "Sí, el Dr. Umberto Marín los realiza habitualmente."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 697 10 26 18 y la dejamos reservada en la clínica que prefieras."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Revisión y limpieza",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínicas dentales en Valencia y Torrent",
+    "notaDiseno": "El azul de Marín, sus dos clínicas y un WhatsApp que reserva en la que toca.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "13:30",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "16:00",
+        "19:00"
+      ]
+    },
+    "horario": [
+      "Valencia: lunes a viernes, 10:00–20:00",
+      "Torrent: L-J 10:00–14:00 y 16:00–20:00 · V 9:00–17:00"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 105
+    }
+  }
+}

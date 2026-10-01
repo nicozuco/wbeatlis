@@ -1,0 +1,164 @@
+{
+  "slug": "pradentis",
+  "numero": 201,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Pradentis · Dra. Clara Pradel",
+    "nombreCorto": "Pradentis",
+    "dominio": "pradentis.es",
+    "web": "https://www.pradentis.es/",
+    "contacto": "https://www.pradentis.es/solicita-tu-cita-con-clara-pradel/",
+    "decisor": "Dra. Clara Pradel"
+  },
+  "colores": {
+    "acento": "#1f4f8f",
+    "tinta": "#161f2d",
+    "profundo": "#192b43",
+    "suave": "#eff3f7",
+    "borde": "#d9e1ec",
+    "calido": "#e5a823",
+    "calidoSuave": "#fcf6e9"
+  },
+  "fotos": {
+    "principal": "https://www.pradentis.es/wp-content/uploads/2017/12/recepcion_azul.jpg",
+    "clinica1": "https://www.pradentis.es/wp-content/uploads/2017/12/foto_sala_1_op.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ JOAQUÍN COSTA, 9 · VALENCIA",
+    "titulo": [
+      "Vuestro botón de WhatsApp escribe",
+      "«¡Hola! Estoy probando el plugin Social Chat»."
+    ],
+    "intro": "Cuidando la salud bucal del centro de Valencia desde 1991, con la Dra. Clara Pradel y una revisión sin coste. Proponemos que pedir cita sea tan cercano como vuestra atención: con día y hora, en el momento.",
+    "hallazgos": [
+      "El botón de WhatsApp sigue con la configuración de prueba del plugin: el mensaje preparado es «¡Hola! Estoy probando el plugin Social Chat», y en la web se lee «Social Chat is free, download and try it now here!».",
+      "La página «Solicita tu cita» invita a agendarla «llenando nuestro formulario en línea», pero en esa página no hay ningún formulario.",
+      "Según vuestro horario en Google, del viernes a las 19:00 al lunes a las 10:00 pasan 63 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp conteste y reserve.",
+      "texto": "Ya tenéis el WhatsApp 625 251 719. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Con un mensaje de bienvenida de verdad, explica la revisión sin coste y deja la cita reservada. Lo clínico sigue siendo cosa de la Dra. Pradel y su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes de «Estoy probando el plugin» os han llegado?",
+    "tema": "revisión sin coste"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ JOAQUÍN COSTA, 9 · VALENCIA",
+    "telefono": "963 42 10 84",
+    "telefonos": "963 42 10 84 · WhatsApp 625 251 719",
+    "direccion": "C/ Joaquín Costa, 9, bajo · 46005 Valencia",
+    "marca": "PRADENTIS",
+    "submarca": "DRA. CLARA PRADEL",
+    "menuEquipo": "Conócenos",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN EL CENTRO DE VALENCIA",
+    "heroTitulo": "Cuidando tu salud bucal",
+    "heroDestacado": "desde 1991.",
+    "heroTexto": "Una atención personalizada y familiar, sin perder la profesionalidad. Elige día y hora y tu revisión sin coste queda reservada.",
+    "ctaHero": "Solicitar cita",
+    "frase": "Personalizada y familiar, sin perder la profesionalidad.",
+    "nota": "Revisión sin coste.",
+    "fotoEtiqueta": "PRADENTIS",
+    "fotoTitulo": "Clínica privada de la Dra. Clara Pradel.",
+    "cifra": "1991",
+    "cifraEtiqueta": "CUIDANDO SONRISAS EN VALENCIA",
+    "equipoTitulo": "Más de 25 años de experiencia.",
+    "equipoTexto": "Fundada por la Dra. Clara Pradel, especialista en periodoncia, implantes, ortodoncia y estética, con la última tecnología y un ambiente relajado y amigable.",
+    "valores": [
+      [
+        "Familiar.",
+        "Trato personal."
+      ],
+      [
+        "Experiencia.",
+        "Desde 1991."
+      ],
+      [
+        "Sin coste.",
+        "Revisión gratuita."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro.",
+    "galeriaDestacado": "Junto a la Gran Vía.",
+    "pies": [
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Periodoncia",
+      "Implantes",
+      "Ortodoncia",
+      "Estética dental",
+      "Odontopediatría",
+      "Prótesis"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a viernes de 10:00 a 14:00 y de 16:00 a 20:00; los viernes hasta las 19:00."
+      ],
+      [
+        "¿La revisión es gratis?",
+        "Sí. La primera revisión no tiene coste."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 625 251 719 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Revisión sin coste",
+      "Limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en Valencia",
+    "notaDiseno": "El azul de Pradentis, su clínica en el centro y un WhatsApp que saluda de verdad y reserva.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "16:30",
+        "18:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 16:00–20:00",
+      "Viernes: 10:00–14:00 y 16:00–19:00"
+    ]
+  }
+}

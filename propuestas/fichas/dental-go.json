@@ -1,0 +1,167 @@
+{
+  "slug": "dental-go",
+  "numero": 221,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental GO",
+    "nombreCorto": "Dental GO",
+    "dominio": "dentalgo.es",
+    "web": "https://dentalgo.es/",
+    "contacto": "https://dentalgo.es/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1a3fb0",
+    "tinta": "#161b2d",
+    "profundo": "#192343",
+    "suave": "#eff2f9",
+    "borde": "#d8def2",
+    "calido": "#3fc4c4",
+    "calidoSuave": "#ecf9f9"
+  },
+  "fotos": {
+    "principal": "https://dentalgo.es/wp-content/uploads/2026/04/POF3051-WEB.jpg",
+    "clinica1": "https://dentalgo.es/wp-content/uploads/2026/05/OVS8614-copia-WEB.jpg",
+    "clinica2": "https://dentalgo.es/wp-content/uploads/2026/05/clinica-en-torrent.jpeg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PROFESOR IDILIO GIMENO, 4 · TORRENT",
+    "titulo": [
+      "«Pide tu primera cita gratuita», dice cada diapositiva.",
+      "Y cada una solo marca el 660 514 127."
+    ],
+    "intro": "Una clínica en Torrent con un equipo que se nota en las reseñas: 4,7 en Google con 118 opiniones. Proponemos que «Pide tu primera cita gratuita» la deje reservada, a cualquier hora.",
+    "hallazgos": [
+      "Todos los botones «Pide tu primera cita gratuita» de la portada llaman al 660 514 127: fuera de horario, la cita gratuita se queda en un tono de llamada.",
+      "El formulario de contacto pide nombre, email, teléfono y mensaje, sin día ni hora: después alguien tiene que llamar para cerrar la cita.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que la primera cita gratuita se reserve sola.",
+      "texto": "Ya ofrecéis la primera visita gratis en cada botón de la portada. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. El agente web contesta las dudas sobre implantes, ortodoncia o financiación y deja la primera cita reservada, también el fin de semana. Lo clínico sigue siendo cosa de el equipo de Dental GO."
+    },
+    "pregunta": "¿Cuántas llamadas a la primera cita gratuita os entran cuando ya habéis cerrado?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PROFESOR IDILIO GIMENO, 4 · TORRENT",
+    "telefono": "660 514 127",
+    "telefonos": "660 514 127",
+    "direccion": "Carrer del Profesor Idilio Gimeno, 4 · 46900 Torrent (Valencia)",
+    "marca": "DENTAL GO",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nosotros",
+    "heroEtiqueta": "CLÍNICA DENTAL EN TORRENT",
+    "heroTitulo": "La tranquilidad",
+    "heroDestacado": "de una clínica de confianza.",
+    "heroTexto": "Un equipo especializado y la mejor tecnología. Tu primera cita es gratuita: elige día y hora y queda reservada.",
+    "ctaHero": "Pide tu primera cita gratuita",
+    "frase": "¿List@s para sonreír?",
+    "nota": "Parking Juan Carlos I y metro Torrent Avinguda a pocos minutos.",
+    "fotoEtiqueta": "EQUIPO DENTAL GO",
+    "fotoTitulo": "Un equipo especializado.",
+    "cifra": "4,7",
+    "cifraEtiqueta": "EN GOOGLE, 118 OPINIONES",
+    "equipoTitulo": "Nuestra prioridad eres tú.",
+    "equipoTexto": "Atención personalizada para entender lo que necesitas y ofrecerte el tratamiento que mejor se adapta a ti, de los implantes a la ortodoncia invisible.",
+    "valores": [
+      [
+        "Primera cita gratis.",
+        "Sin compromiso."
+      ],
+      [
+        "36 meses.",
+        "Financiación sin intereses."
+      ],
+      [
+        "Tecnología.",
+        "Diagnóstico preciso."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Torrent.",
+    "pies": [
+      "La fachada",
+      "La recepción"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Ortodoncia niños",
+      "Diseño de sonrisa",
+      "Blanqueamiento",
+      "Periodoncia"
+    ],
+    "faq": [
+      [
+        "¿La primera cita es gratis?",
+        "Sí, la primera visita es gratuita y sin compromiso."
+      ],
+      [
+        "¿Puedo financiar el tratamiento?",
+        "Sí, hasta 36 meses sin intereses."
+      ],
+      [
+        "¿Dónde aparco?",
+        "En el Parking Juan Carlos I, a un paso de la clínica."
+      ]
+    ],
+    "motivos": [
+      "Primera cita gratuita",
+      "Implantes",
+      "Ortodoncia",
+      "Limpieza",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Torrent",
+    "notaDiseno": "El azul y el turquesa de Dental GO, su equipo y una primera cita gratuita que se reserva sola.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 118
+    }
+  }
+}

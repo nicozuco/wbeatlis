@@ -1,0 +1,167 @@
+{
+  "slug": "elisa-juarez",
+  "numero": 235,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Elisa Juárez",
+    "nombreCorto": "Clínica Elisa Juárez",
+    "dominio": "clinicadentalejuarez.com",
+    "web": "https://clinicadentalejuarez.com/",
+    "contacto": "https://clinicadentalejuarez.com/contacto/",
+    "decisor": "Dra. Elisa Juárez"
+  },
+  "colores": {
+    "acento": "#006b80",
+    "tinta": "#16292d",
+    "profundo": "#193c43",
+    "suave": "#edf5f6",
+    "borde": "#d4e6e9",
+    "calido": "#00abcd",
+    "calidoSuave": "#e6f7fa"
+  },
+  "fotos": {
+    "principal": "https://clinicadentalejuarez.com/wp-content/uploads/2025/04/paciente-sonriendo-doctora-en-clinica-elisa-juarez.webp",
+    "clinica1": "https://clinicadentalejuarez.com/wp-content/uploads/2025/04/recepcion-clinica-elisa-juarez.webp",
+    "clinica2": "https://clinicadentalejuarez.com/wp-content/uploads/2025/04/gabinete-clinica-elisa-juarez-1.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ FERROCARRIL D'ALCOI, 60 · GANDIA",
+    "titulo": [
+      "«Contáctanos hoy mismo para reservar tu cita».",
+      "Y reservar empieza por esperar una llamada."
+    ],
+    "intro": "Desde 1996 en Gandia, con la Dra. Elisa Juárez al frente de un equipo multidisciplinar y un 5,0 en Google con 109 opiniones. Proponemos que «Pide cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "Los botones «Pedir cita», «Pide cita» y «¡Pide cita!» de la portada llevan todos a la página de contacto: teléfono, WhatsApp, email y un formulario.",
+      "Ese formulario pide nombre, email, teléfono y mensaje, sin día ni hora: después alguien tiene que llamar para cerrar la cita.",
+      "Según Google Maps cerráis el viernes a las 14:30 y no abrís hasta el lunes a las 9:30: 67 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que «Pide cita» reserve por WhatsApp.",
+      "texto": "Ya tenéis el WhatsApp 669 590 005 en toda la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Contesta al momento, pregunta qué tratamiento necesita y deja la cita reservada con la doctora que toca, también el fin de semana. Lo clínico sigue siendo cosa de la Dra. Juárez y su equipo."
+    },
+    "pregunta": "¿Cuántos mensajes de WhatsApp os encontráis el lunes por la mañana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ FERROCARRIL D'ALCOI, 60 · GANDIA",
+    "telefono": "962 876 863",
+    "telefonos": "962 876 863 · WhatsApp 669 590 005",
+    "direccion": "C/ Ferrocarril d'Alcoi, 60 · 46702 Gandia (Valencia)",
+    "marca": "ELISA JUÁREZ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN GANDIA",
+    "heroTitulo": "Recupera tu sonrisa",
+    "heroDestacado": "con un diagnóstico en profundidad.",
+    "heroTexto": "Un servicio cercano, profesional y de calidad desde 1996. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Excelencia en cada paso.",
+    "nota": "En el centro de Gandia.",
+    "fotoEtiqueta": "CLÍNICA ELISA JUÁREZ",
+    "fotoTitulo": "Un trato humano y cercano.",
+    "cifra": "30",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "La Dra. Elisa Juárez y su equipo.",
+    "equipoTexto": "La Dra. Juárez en implantes y periodoncia, el Dr. Mauricio Peretó en endodoncia y estética, la Dra. Eva Montañana en ortodoncia, y un equipo de higienistas y atención al paciente.",
+    "valores": [
+      [
+        "Desde 1996.",
+        "En Gandia."
+      ],
+      [
+        "Mínimamente invasivo.",
+        "Implantes."
+      ],
+      [
+        "Formación continua.",
+        "Siempre al día."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Tu dentista",
+    "galeriaDestacado": "en Gandia.",
+    "pies": [
+      "La recepción",
+      "El gabinete"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Estética dental",
+      "Periodoncia",
+      "Ortodoncia invisible",
+      "Endodoncia",
+      "Blanqueamiento Zoom"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Ferrocarril d'Alcoi, 60, en Gandia."
+      ],
+      [
+        "¿Hacéis ortodoncia invisible?",
+        "Sí, con la Dra. Eva Montañana, y también brackets convencionales."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 669 590 005 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Revisión y limpieza",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Gandia",
+    "notaDiseno": "El azul petróleo de la Clínica Elisa Juárez, su equipo y un WhatsApp que reserva la cita.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 109
+    }
+  }
+}

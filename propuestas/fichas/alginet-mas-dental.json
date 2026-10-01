@@ -1,0 +1,171 @@
+{
+  "slug": "alginet-mas-dental",
+  "numero": 243,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Alginet +Dental",
+    "nombreCorto": "Alginet +Dental",
+    "dominio": "alginetmasdental.com",
+    "web": "https://alginetmasdental.com/",
+    "contacto": "https://alginetmasdental.com/contacto",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#5e9a2e",
+    "tinta": "#202d16",
+    "profundo": "#2c4319",
+    "suave": "#f4f8f0",
+    "borde": "#e4eedb",
+    "calido": "#3a3f45",
+    "calidoSuave": "#ebecec"
+  },
+  "fotos": {
+    "principal": "https://alginetmasdental.com/wp-content/uploads/2025/07/DENTAL-048-scaled.webp",
+    "clinica1": "https://alginetmasdental.com/wp-content/uploads/2025/07/oficina_alginet.webp",
+    "clinica2": "https://alginetmasdental.com/wp-content/uploads/2025/07/fotos-alginet-masdental-15.webp"
+  },
+  "propuesta": {
+    "etiqueta": "C/ SANT ANTONI, 44 · ALGINET",
+    "titulo": [
+      "En vuestra página de contacto, los teléfonos",
+      "se marcan sin el +34."
+    ],
+    "intro": "22 años de odontología en Alginet y más de 13.500 pacientes, con financiación hasta 48 meses sin intereses. Proponemos que «Reserva tu cita» la deje reservada de verdad, con día y hora.",
+    "hallazgos": [
+      "En la página de contacto, el 666 074 002 y el 961 753 366 marcan «34666074002» y «34961753366», sin el + delante, igual que el icono de teléfono de la cabecera: el móvil lo trata como un número de 11 cifras y la llamada no sale.",
+      "«Reserva tu cita» y los dos «Pedir cita» de la portada llevan a un formulario que pide nombre, teléfono, email y mensaje, sin día ni hora: después alguien tiene que llamar para cerrar la cita.",
+      "Según Google Maps cerráis el viernes a las 13:30 y no abrís hasta el lunes a las 9:30: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Reserva tu cita» reserve de verdad.",
+      "texto": "Ya tenéis «Reserva tu cita» y «Pedir cita» por toda la portada. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. El agente web resuelve las dudas sobre implantes, ortodoncia invisible o financiación y deja la cita reservada, sin depender de que la llamada salga. Lo clínico sigue siendo cosa de el equipo de Alginet +Dental."
+    },
+    "pregunta": "¿Cuántos pacientes os dicen que os han intentado llamar desde la web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ SANT ANTONI, 44 · ALGINET",
+    "telefono": "961 753 366",
+    "telefonos": "961 753 366 · 666 074 002",
+    "direccion": "C/ Sant Antoni, 44 · 46230 Alginet (Valencia)",
+    "marca": "ALGINET",
+    "submarca": "+DENTAL",
+    "menuEquipo": "Nuestra clínica",
+    "heroEtiqueta": "PROFESIONALES DE CONFIANZA EN ALGINET",
+    "heroTitulo": "Recupera la salud",
+    "heroDestacado": "y belleza de tu sonrisa.",
+    "heroTexto": "Tratamientos avanzados para prevenir, tratar y mejorar tu salud bucodental, con la máxima comodidad. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "Experiencia, tecnología y trato cercano.",
+    "nota": "Financiación hasta 48 meses sin intereses.",
+    "fotoEtiqueta": "ALGINET +DENTAL",
+    "fotoTitulo": "Tecnología y comodidad.",
+    "cifra": "22",
+    "cifraEtiqueta": "AÑOS DE EXPERIENCIA",
+    "equipoTitulo": "Un equipo experimentado.",
+    "equipoTexto": "Odontólogos altamente cualificados y tratamientos diseñados a medida para cubrir tus necesidades: más de 13.500 pacientes ya han confiado en nosotros.",
+    "valores": [
+      [
+        "48 meses.",
+        "Sin intereses."
+      ],
+      [
+        "A medida.",
+        "Tu tratamiento."
+      ],
+      [
+        "13.500.",
+        "Pacientes satisfechos."
+      ]
+    ],
+    "galeriaEtiqueta": "NUESTRA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alginet.",
+    "pies": [
+      "La consulta",
+      "Higiene dental"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Periodoncia",
+      "Endodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la C/ Sant Antoni, 44, en Alginet."
+      ],
+      [
+        "¿Puedo financiar el tratamiento?",
+        "Sí, hasta 48 meses sin intereses."
+      ],
+      [
+        "¿Abrís por la tarde?",
+        "Lunes y miércoles hasta las 20:00, y martes y jueves hasta las 18:00."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia invisible",
+      "Revisión y limpieza",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alginet",
+    "notaDiseno": "El verde de Alginet +Dental, su clínica y una cita que se reserva sin depender de una llamada.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "12:30",
+        "14:00",
+        "15:30",
+        "18:30"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:00",
+        "17:30"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 9:30–13:30 y 16:00–20:00",
+      "Martes: 9:30–18:00",
+      "Miércoles: 9:30–20:00",
+      "Jueves: 9:30–18:00",
+      "Viernes: 9:30–13:30"
+    ],
+    "valoracion": {
+      "nota": "4,8",
+      "resenas": 104
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "dental-torrefiel",
+  "numero": 179,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Torrefiel",
+    "nombreCorto": "Dental Torrefiel",
+    "dominio": "clinicadentaltorrefiel.com",
+    "web": "https://clinicadentaltorrefiel.com/",
+    "contacto": "https://clinicadentaltorrefiel.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#5a2a86",
+    "tinta": "#22162d",
+    "profundo": "#2f1943",
+    "suave": "#f3f0f7",
+    "borde": "#e3dbea",
+    "calido": "#1e73be",
+    "calidoSuave": "#e8f1f8"
+  },
+  "fotos": {
+    "principal": "https://clinicadentaltorrefiel.com/wp-content/uploads/2025/02/imagen-de-fondo-dentistas.jpg",
+    "clinica1": "https://clinicadentaltorrefiel.com/wp-content/uploads/2021/04/clinica-dental-torrefiel-en-valencia.jpg",
+    "clinica2": "https://clinicadentaltorrefiel.com/wp-content/uploads/2021/04/box-de-clinica-torrefiel.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PEDRO CABANES, 74 · TORREFIEL",
+    "titulo": [
+      "«Escríbenos y te respondemos de inmediato»,",
+      "dice vuestra web. Y el formulario pregunta cuándo llamaros."
+    ],
+    "intro": "30 años de odontología en Torrefiel, expertos en carga inmediata e implantes con poco hueso, y abiertos también los sábados. Proponemos que la consulta quede agendada de inmediato, como promete la web.",
+    "hallazgos": [
+      "Los botones «Agendar consulta» llevan a un formulario que pide nombre, apellidos, email, teléfono, si sientes dolor, el tratamiento y «¿En qué horario te podemos llamar?»: el paciente se va sin fecha.",
+      "En la página de contacto, ese mismo formulario aparece bajo el título «Escríbenos y te respondemos de inmediato»; pero la respuesta es una llamada en la franja que elija.",
+      "Según vuestro horario en Google, del sábado a las 13:00 al lunes a las 10:00 pasan 45 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp agende de inmediato.",
+      "texto": "Ya tenéis el WhatsApp 601 27 62 48 con «me gustaría agendar una revisión gratuita con el especialista». El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta si hay dolor, igual que vuestro formulario: si lo hay, avisa al equipo al momento; si no, deja la revisión gratuita agendada. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cuántas personas os dicen en el formulario que sienten dolor, y a qué hora las llamáis?",
+    "tema": "revisión gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PEDRO CABANES, 74 · TORREFIEL",
+    "telefono": "963 388 602",
+    "telefonos": "963 388 602 · WhatsApp 601 27 62 48",
+    "direccion": "C/ Pedro Cabanes, 74, bajo · 46019 Valencia",
+    "marca": "TORREFIEL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN TORREFIEL, VALENCIA",
+    "heroTitulo": "Expertos en carga inmediata",
+    "heroDestacado": "e implantes con poco hueso.",
+    "heroTexto": "30 años mejorando la salud bucodental de Torrefiel. Elige día y hora y tu revisión gratuita queda agendada.",
+    "ctaHero": "Agendar consulta",
+    "frase": "Tres décadas en la calle Pedro Cabanes.",
+    "nota": "Abiertos también los sábados por la mañana.",
+    "fotoEtiqueta": "LOS DOCTORES DE TORREFIEL",
+    "fotoTitulo": "30 años de odontología.",
+    "cifra": "30",
+    "cifraEtiqueta": "AÑOS EN LA COMUNIDAD VALENCIANA",
+    "equipoTitulo": "Implantes cuando parece que no hay hueso.",
+    "equipoTexto": "Implantes de carga inmediata en 24 horas, prótesis fija sobre implantes e implantes subperiósticos, junto a ortodoncia, estética y urgencias.",
+    "valores": [
+      [
+        "24 h.",
+        "Carga inmediata."
+      ],
+      [
+        "Poco hueso.",
+        "También hay solución."
+      ],
+      [
+        "Sábados.",
+        "Abiertos por la mañana."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En Torrefiel.",
+    "galeriaDestacado": "Desde hace tres décadas.",
+    "pies": [
+      "La recepción",
+      "Uno de los boxes"
+    ],
+    "servicios": [
+      "Implantes de carga inmediata",
+      "Prótesis fija sobre implantes",
+      "Implantes subperiósticos",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Urgencias"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes a jueves de 10:00 a 20:00, viernes de 10:00 a 18:00 y sábados de 9:00 a 13:00."
+      ],
+      [
+        "¿Qué incluye la primera visita?",
+        "Una consulta personalizada con el especialista y una revisión gratuita."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 601 27 62 48 y la dejamos agendada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Revisión gratuita",
+      "Tengo dolor",
+      "Implantes",
+      "Ortodoncia",
+      "Estética dental"
+    ],
+    "pieMarca": "Clínica dental en Torrefiel",
+    "notaDiseno": "El morado de Torrefiel, sus doctores y un WhatsApp que agenda la revisión de inmediato.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "15:30",
+        "17:00"
+      ],
+      "sabado": [
+        "9:00",
+        "10:30",
+        "12:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–20:00",
+      "Viernes: 10:00–18:00",
+      "Sábado: 9:00–13:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 155
+    }
+  }
+}

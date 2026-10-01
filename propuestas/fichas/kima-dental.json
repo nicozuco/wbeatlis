@@ -1,0 +1,168 @@
+{
+  "slug": "kima-dental",
+  "numero": 251,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Kima Clínica Dental",
+    "nombreCorto": "Kima Dental",
+    "dominio": "kimadental.es",
+    "web": "https://kimadental.es/",
+    "contacto": "https://kimadental.es/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#13a3a0",
+    "tinta": "#162d2c",
+    "profundo": "#194342",
+    "suave": "#eef9f8",
+    "borde": "#d7efef",
+    "calido": "#67768e",
+    "calidoSuave": "#f0f1f4"
+  },
+  "fotos": {
+    "principal": "https://kimadental.es/wp-content/uploads/2026/01/INSTALACIONES-KIMA-DENTAL-1.jpg",
+    "clinica1": "https://kimadental.es/wp-content/uploads/2026/01/INSTALACIONES-KIMA-DENTAL-2.jpg",
+    "clinica2": "https://kimadental.es/wp-content/uploads/2026/07/RAQUEL-RECEPCIONISTA-scaled.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AV. DE LA CONSTITUCIÓN, 64 · BÉTERA",
+    "titulo": [
+      "Vuestro botón de WhatsApp abre el 669 943 490",
+      "sin el prefijo 34."
+    ],
+    "intro": "Una clínica de Bétera que colabora con el ayuntamiento y las asociaciones del pueblo, con un 4,9 en Google. Proponemos que «Pedir cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El botón de WhatsApp abre el chat con el número 669943490, sin el prefijo 34: WhatsApp necesita el número en formato internacional, así que puede no abrir la conversación.",
+      "«Pedir cita» abre un formulario de nombre, email y teléfono, y el equipo «se pondrá en contacto contigo para confirmar los detalles»: la cita no queda reservada.",
+      "Debajo de ese formulario, la información de protección de datos dice que la finalidad es el «envío de noticias del blog y nuevas actividades»: un texto de boletín, no de cita."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve de verdad.",
+      "texto": "Ya tenéis el WhatsApp 669 94 34 90 en toda la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Con el enlace bien puesto, contesta al momento, también el fin de semana, y deja la cita reservada. Lo clínico sigue siendo cosa de el equipo de Kima."
+    },
+    "pregunta": "¿Cuántos mensajes os llegan al WhatsApp desde el botón de la web?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AV. DE LA CONSTITUCIÓN, 64 · BÉTERA",
+    "telefono": "961 670 089",
+    "telefonos": "961 670 089 · WhatsApp 669 943 490",
+    "direccion": "Av. de la Constitución, 64 · 46117 Bétera (Valencia)",
+    "marca": "KIMA",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nosotras",
+    "heroEtiqueta": "CLÍNICA DENTAL EN BÉTERA",
+    "heroTitulo": "Tu sonrisa",
+    "heroDestacado": "es nuestra prioridad.",
+    "heroTexto": "Atención odontológica integral, tecnología avanzada y un ambiente acogedor. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Parte de nuestra comunidad en Bétera.",
+    "nota": "Financiación para que el coste no sea una barrera.",
+    "fotoEtiqueta": "KIMA CLÍNICA DENTAL",
+    "fotoTitulo": "Un ambiente acogedor.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo dedicado a tu salud bucal.",
+    "equipoTexto": "Tratamientos personalizados en implantes, ortodoncia, odontopediatría, estética dental y armonización facial, con atención personalizada.",
+    "valores": [
+      [
+        "Bétera.",
+        "Comunidad local."
+      ],
+      [
+        "Financiación.",
+        "Accesible para todos."
+      ],
+      [
+        "Integral.",
+        "Toda la familia."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Nuestras",
+    "galeriaDestacado": "instalaciones.",
+    "pies": [
+      "Gabinete",
+      "Recepción"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Estética dental",
+      "Armonización facial",
+      "Tratamientos dentales"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la Av. de la Constitución, 64, en Bétera."
+      ],
+      [
+        "¿Ofrecéis financiación?",
+        "Sí, con diversas opciones para que el coste no sea una barrera."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 669 94 34 90 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Bétera",
+    "notaDiseno": "El turquesa de Kima, su clínica luminosa y un WhatsApp que siempre abre y reserva.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30–13:30 y 16:00–20:00",
+      "Viernes: 9:30–13:30"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 100
+    }
+  }
+}

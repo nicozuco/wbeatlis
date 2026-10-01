@@ -1,0 +1,167 @@
+{
+  "slug": "dental-mulet",
+  "numero": 199,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Dental Mulet",
+    "nombreCorto": "Dental Mulet",
+    "dominio": "dentalmulet.com",
+    "web": "https://dentalmulet.com/",
+    "contacto": "https://dentalmulet.com/contactar/",
+    "decisor": "Dra. Silvia Mulet"
+  },
+  "colores": {
+    "acento": "#2bb3b1",
+    "tinta": "#162d2c",
+    "profundo": "#194342",
+    "suave": "#f0fafa",
+    "borde": "#dbf2f2",
+    "calido": "#e0569b",
+    "calidoSuave": "#fceef5"
+  },
+  "fotos": {
+    "principal": "https://dentalmulet.com/wp-content/uploads/2025/02/foto-equipo-ultima.png",
+    "clinica1": "https://dentalmulet.com/wp-content/uploads/2023/05/mulet-clinica-4.jpg",
+    "clinica2": "https://dentalmulet.com/wp-content/uploads/2023/05/mulet-clinica-13-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ PADRE CLARET, 5 · XÀTIVA",
+    "titulo": [
+      "«Pide tu cita aquí», dice el botón.",
+      "Y el formulario no pregunta el teléfono."
+    ],
+    "intro": "Más de 30 años y 20.000 pacientes en Xàtiva, con la Dra. Silvia Mulet y primeras visitas y revisiones gratuitas con todas las pruebas diagnósticas. Proponemos que esa primera visita quede reservada en el momento.",
+    "hallazgos": [
+      "Los botones «Pide tu cita aquí» y «Pide tu cita ahora» llevan a un formulario de nombre, email, asunto y mensaje: no pide teléfono ni deja elegir día u hora.",
+      "El menú de la web todavía tiene una sección «Seguridad COVID-19».",
+      "Según vuestro horario, el viernes cerráis a las 13:00 y no abrís hasta el lunes a las 10:00: 69 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la primera visita.",
+      "texto": "Ya tenéis el WhatsApp 644 573 916 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Explica que la primera visita y la revisión son gratuitas, con todas las pruebas, y la deja reservada con la especialista que toca. Lo clínico sigue siendo cosa de la Dra. Mulet y su equipo."
+    },
+    "pregunta": "¿Cuántas peticiones de cita os llegan por email sin un teléfono al que llamar?",
+    "tema": "primera visita gratuita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ PADRE CLARET, 5 · XÀTIVA",
+    "telefono": "962 28 43 45",
+    "telefonos": "962 28 43 45 · WhatsApp 644 573 916",
+    "direccion": "C/ Padre Claret, 5 · 46800 Xàtiva (Valencia)",
+    "marca": "DENTAL MULET",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Nosotr@s",
+    "heroEtiqueta": "TU CLÍNICA DENTAL EN XÀTIVA",
+    "heroTitulo": "Ahora es un buen momento",
+    "heroDestacado": "para la sonrisa que siempre has querido.",
+    "heroTexto": "Primeras visitas y revisiones gratuitas, con todas las pruebas diagnósticas. Elige día y hora y queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Más de 30 años y 20.000 pacientes nos avalan.",
+    "nota": "Primeras visitas y revisiones gratuitas.",
+    "fotoEtiqueta": "EL EQUIPO DE DENTAL MULET",
+    "fotoTitulo": "30 años cuidando sonrisas.",
+    "cifra": "20.000",
+    "cifraEtiqueta": "PACIENTES NOS AVALAN",
+    "equipoTitulo": "Tratamientos de calidad, accesibles.",
+    "equipoTexto": "La Dra. Silvia Mulet dirige un equipo de especialistas con más de 30 años de experiencia en Xàtiva, con programas para pacientes y convenios con colectivos.",
+    "valores": [
+      [
+        "Gratis.",
+        "Primera visita y revisión."
+      ],
+      [
+        "Experiencia.",
+        "Más de 30 años."
+      ],
+      [
+        "Familiar.",
+        "Odontología para todos."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y color.",
+    "galeriaDestacado": "En el centro de Xàtiva.",
+    "pies": [
+      "La recepción",
+      "En el gabinete"
+    ],
+    "servicios": [
+      "Odontología familiar",
+      "Coronas de zirconio",
+      "Carillas de composite",
+      "Implantes",
+      "Ortodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 10:00 a 14:00 y de 15:00 a 20:00; viernes de 10:00 a 13:00."
+      ],
+      [
+        "¿La primera visita es gratis?",
+        "Sí. Las primeras visitas y las revisiones son gratuitas, con todas las pruebas diagnósticas."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 644 573 916 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita gratuita",
+      "Revisión gratuita",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en Xàtiva",
+    "notaDiseno": "El turquesa y el rosa de Dental Mulet, su equipo y una primera visita gratuita que se reserva en el momento.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "16:30",
+        "19:30"
+      ],
+      "jueves": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:30",
+        "12:00"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 10:00–14:00 y 15:00–20:00",
+      "Viernes: 10:00–13:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 132
+    }
+  }
+}

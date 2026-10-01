@@ -1,0 +1,164 @@
+{
+  "slug": "clinica-dental-fuset",
+  "numero": 233,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Dr. Fuset",
+    "nombreCorto": "Clínica Fuset",
+    "dominio": "clinicadentalfuset.com",
+    "web": "https://www.clinicadentalfuset.com/",
+    "contacto": "https://www.clinicadentalfuset.com/solicitar-cita/",
+    "decisor": "Dr. Carlos Fuset"
+  },
+  "colores": {
+    "acento": "#1a457e",
+    "tinta": "#16202d",
+    "profundo": "#192b43",
+    "suave": "#eff2f6",
+    "borde": "#d8dfe9",
+    "calido": "#228cb3",
+    "calidoSuave": "#e9f4f7"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentalfuset.com/wp-content/uploads/clinica-dental-valencia-4-1.jpg",
+    "clinica1": "https://www.clinicadentalfuset.com/wp-content/uploads/clinica-dental-valencia-2-1-1.jpg",
+    "clinica2": "https://www.clinicadentalfuset.com/wp-content/uploads/clinica-dental-valencia-6-1.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "GRAN VÍA GERMANÍAS, 10 · VALENCIA",
+    "titulo": [
+      "«Solicitar cita», dice el botón.",
+      "Y el formulario no pide el teléfono."
+    ],
+    "intro": "Desde 1933 velando por la salud bucodental de Valencia: tradición familiar, TAC 3D y una unidad de dolor orofacial. Proponemos que «Solicitar cita» deje la cita reservada, sin esperar a una respuesta.",
+    "hallazgos": [
+      "El formulario de «Solicitar cita» pide nombre, email, asunto y mensaje, pero no el teléfono: para cerrar la cita hay que contestar por correo y esperar a que el paciente lo lea.",
+      "«Si está interesado en solicitar cita, por favor llámenos», dice la portada. Y la consulta abre de lunes a jueves; los martes y miércoles, desde las 11:00.",
+      "Según Google Maps cerráis el jueves a las 17:00 y no abrís hasta el lunes a las 8:30: 87 horas y media seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Solicitar cita» deje la cita reservada.",
+      "texto": "Ya tenéis el botón «Solicitar cita» en cada página. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. El agente web responde las dudas sobre implantes, ortodoncia o dolor orofacial y reserva la cita en vuestro horario de consulta, también de viernes a domingo. Lo clínico sigue siendo cosa de el Dr. Fuset y su equipo."
+    },
+    "pregunta": "¿Cuántas solicitudes os llegan por la web que luego no contestan al correo?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "GRAN VÍA GERMANÍAS, 10 · VALENCIA",
+    "telefono": "963 419 090",
+    "telefonos": "963 419 090",
+    "direccion": "Gran Vía Germanías, 10, 2º, pta. 3 · 46006 Valencia",
+    "marca": "DR. FUSET",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "SU CLÍNICA DENTAL EN VALENCIA DESDE 1933",
+    "heroTitulo": "Está usted",
+    "heroDestacado": "en buenas manos.",
+    "heroTexto": "Tradición familiar y diagnóstico de vanguardia con TAC 3D. Elija día y hora y su cita queda reservada.",
+    "ctaHero": "Solicitar cita",
+    "frase": "Tradición y sello familiar.",
+    "nota": "We speak English · On parle Français · Parliamo Italiano.",
+    "fotoEtiqueta": "CLÍNICA DENTAL FUSET",
+    "fotoTitulo": "Siempre a la vanguardia.",
+    "cifra": "1933",
+    "cifraEtiqueta": "VELANDO POR SU SALUD BUCODENTAL",
+    "equipoTitulo": "Los doctores Fuset y Vella.",
+    "equipoTexto": "El Dr. Vicente Fuset como asesor, el Dr. Carlos Fuset, especialista en estomatología y dolor orofacial, y el Dr. Giovanni Vella, con endodoncistas, ortodoncistas, periodoncistas e implantólogos.",
+    "valores": [
+      [
+        "TAC 3D.",
+        "Diagnóstico preciso."
+      ],
+      [
+        "Dolor orofacial.",
+        "ATM y boca ardiente."
+      ],
+      [
+        "Desde 1933.",
+        "Tradición familiar."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En la Gran Vía",
+    "galeriaDestacado": "de Valencia.",
+    "pies": [
+      "Sala de espera",
+      "Gabinete"
+    ],
+    "servicios": [
+      "Implantología",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Periodoncia",
+      "Dolor orofacial y ATM",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Dónde están?",
+        "En la Gran Vía Germanías, 10, 2º, puerta 3, en Valencia."
+      ],
+      [
+        "¿Qué días pasan consulta?",
+        "De lunes a jueves, con cita previa."
+      ],
+      [
+        "¿Tratan el síndrome de boca ardiente?",
+        "Sí, con un abordaje multidisciplinar dentro de nuestra unidad de dolor orofacial."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Implantes",
+      "Ortodoncia",
+      "Dolor orofacial / ATM",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Valencia desde 1933",
+    "notaDiseno": "El azul marino de la Clínica Fuset, casi un siglo de historia y una cita que se reserva sin esperar al correo.",
+    "huecos": {
+      "lunes": [
+        "8:30",
+        "10:00",
+        "11:30",
+        "14:00",
+        "15:30"
+      ],
+      "martes": [
+        "11:30",
+        "13:00",
+        "15:00",
+        "16:30",
+        "18:00"
+      ],
+      "miercoles": [
+        "11:00",
+        "12:30",
+        "14:30",
+        "16:00",
+        "17:30"
+      ],
+      "jueves": [
+        "8:30",
+        "10:00",
+        "11:30",
+        "14:00",
+        "15:30"
+      ]
+    },
+    "horario": [
+      "Lunes: 8:30–13:30 y 14:00–17:00",
+      "Martes y miércoles: 11:00–14:00 y 14:30–19:00",
+      "Jueves: 8:30–13:30 y 14:00–17:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 109
+    }
+  }
+}

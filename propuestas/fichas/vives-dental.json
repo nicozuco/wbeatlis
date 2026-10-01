@@ -1,0 +1,169 @@
+{
+  "slug": "vives-dental",
+  "numero": 161,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Vives Dental",
+    "nombreCorto": "Vives Dental",
+    "dominio": "vivesdental.es",
+    "web": "https://vivesdental.es/",
+    "contacto": "https://vivesdental.es/contacto/",
+    "decisor": "Dr. Javier Rotea"
+  },
+  "colores": {
+    "acento": "#4a5a2f",
+    "tinta": "#242c17",
+    "profundo": "#323c1f",
+    "suave": "#f2f3f0",
+    "borde": "#e0e3dc",
+    "calido": "#c9a04a",
+    "calidoSuave": "#faf6ed"
+  },
+  "fotos": {
+    "principal": "https://vivesdental.es/wp-content/uploads/2026/05/VIVES-DENTAL-WEB-2.jpg",
+    "clinica1": "https://vivesdental.es/wp-content/uploads/2026/05/vivesdental.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ FRAY PEDRO VIVES, 8 · ZAIDÍA",
+    "titulo": [
+      "«Pide cita», dice el botón.",
+      "Y el formulario pide siete datos, pero no el día."
+    ],
+    "intro": "Vuestra clínica dental de barrio en la Zaidía, con un equipo que conoce a cada paciente por su nombre: implantes con el Dr. Morell, ortodoncia con la Dra. Sanchís. Proponemos que pedir cita sea igual de cercano: con día y hora, en el momento.",
+    "hallazgos": [
+      "Los botones «Pide cita» llevan a un formulario de nombre, apellidos, teléfono, email, motivo y mensaje: en ningún momento se elige día ni hora, y el paciente se va esperando vuestra respuesta.",
+      "Vuestro horario cambia tres veces a lo largo de la semana (lunes y jueves, martes y miércoles, viernes): es justo lo que un paciente no sabe cuando escribe.",
+      "Según vuestro horario en Google, del viernes a las 18:00 al lunes a las 10:00 pasan 64 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp 699 170 797 en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Conoce vuestro horario de cada día y, si es de implantes u ortodoncia, lleva la cita a la agenda del Dr. Morell o de la Dra. Sanchís. Lo clínico sigue siendo cosa de el Dr. Rotea y su equipo."
+    },
+    "pregunta": "¿Cuántos formularios de «Pide cita» tenéis que llamar cada semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "retrato",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ FRAY PEDRO VIVES, 8 · ZAIDÍA",
+    "telefono": "962 324 444",
+    "telefonos": "962 324 444 · WhatsApp 699 170 797",
+    "direccion": "C/ Fray Pedro Vives, 8 · 46009 Valencia",
+    "marca": "VIVES DENTAL",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN LA ZAIDÍA",
+    "heroTitulo": "Tu clínica dental",
+    "heroDestacado": "de barrio.",
+    "heroTexto": "Implantes, ortodoncia, estética y odontología general con un equipo que te conoce por tu nombre. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide cita",
+    "frase": "Un equipo que te conoce por tu nombre.",
+    "nota": "En la calle Fray Pedro Vives, 8.",
+    "fotoEtiqueta": "VIVES DENTAL",
+    "fotoTitulo": "Cuidado de cerca.",
+    "cifra": "3",
+    "cifraEtiqueta": "ESPECIALISTAS: CIRUGÍA, ORTODONCIA Y ESTÉTICA",
+    "equipoTitulo": "Cada tratamiento, con su especialista.",
+    "equipoTexto": "El Dr. Javier Rotea dirige la clínica, con el Dr. Carlos Morell, cirujano e implantólogo, y la Dra. Blanca Sanchís, ortodoncista.",
+    "valores": [
+      [
+        "Cercanía.",
+        "Tu clínica de barrio."
+      ],
+      [
+        "Implantes.",
+        "Con el cirujano de la clínica."
+      ],
+      [
+        "Alineadores.",
+        "Sin brackets visibles."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En la Zaidía.",
+    "galeriaDestacado": "Cerca de casa.",
+    "pies": [
+      "La recepción"
+    ],
+    "servicios": [
+      "Implantes dentales",
+      "Ortodoncia invisible",
+      "Estética dental",
+      "Blanqueamiento",
+      "Carillas",
+      "Odontología general"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Lunes y jueves de 10:00 a 14:00 y de 16:00 a 20:00; martes y miércoles de 10:00 a 14:00 y de 15:00 a 19:00; viernes de 9:00 a 14:00 y de 15:00 a 18:00."
+      ],
+      [
+        "¿Quién hace los implantes?",
+        "El Dr. Carlos Morell, cirujano e implantólogo de la clínica."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos al 699 170 797 y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en la Zaidía",
+    "notaDiseno": "El verde y el dorado de Vives Dental, su equipo y un WhatsApp que conoce vuestro horario de cada día.",
+    "huecos": {
+      "lunes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:30",
+        "12:00",
+        "13:30",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00"
+      ]
+    },
+    "horario": [
+      "Lunes y jueves: 10:00–14:00 y 16:00–20:00",
+      "Martes y miércoles: 10:00–14:00 y 15:00–19:00",
+      "Viernes: 9:00–14:00 y 15:00–18:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 176
+    }
+  }
+}

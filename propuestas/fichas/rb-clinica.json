@@ -1,0 +1,169 @@
+{
+  "slug": "rb-clinica",
+  "numero": 203,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Rb Clínica Odontológica",
+    "nombreCorto": "Rb Clínica",
+    "dominio": "rbclinicaodontologica.com",
+    "web": "https://www.rbclinicaodontologica.com/",
+    "contacto": "https://www.rbclinicaodontologica.com/#pide-cita",
+    "decisor": "Dr. Javier Rodríguez-Bronchú"
+  },
+  "colores": {
+    "acento": "#2f5d8a",
+    "tinta": "#16212d",
+    "profundo": "#192e43",
+    "suave": "#f0f4f7",
+    "borde": "#dce3eb",
+    "calido": "#8aa0b5",
+    "calidoSuave": "#f3f6f8"
+  },
+  "fotos": {
+    "principal": "https://www.rbclinicaodontologica.com/wp-content/uploads/2023/06/equipo-rbclinicaodontologica.jpg",
+    "clinica1": "https://www.rbclinicaodontologica.com/wp-content/uploads/2025/09/HOME2-FONDO2.jpg",
+    "clinica2": "https://www.rbclinicaodontologica.com/wp-content/uploads/2025/09/HOME.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ VALENCIA, 33 · L'ELIANA",
+    "titulo": [
+      "«Pide tu cita», dice el botón.",
+      "Y el formulario pregunta cuándo te llaman."
+    ],
+    "intro": "Una clínica en L'Eliana con un equipo amplio de especialistas y un 4,9 en Google. Proponemos que pedir cita sea directo: con día y hora, en el momento, sin esperar la llamada.",
+    "hallazgos": [
+      "Los botones «Pide tu cita» llevan a un formulario de nombre, apellidos, email, teléfono, tratamiento, mensaje y «¿Cuándo prefieres que te llamemos?»: el paciente elige cuándo le llamáis, no cuándo viene.",
+      "Según vuestro horario, el viernes cerráis a las 15:00 y no abrís hasta el lunes a las 9:30: 66 horas y media con la clínica cerrada.",
+      "Lo que llega por el formulario el viernes por la tarde se queda sin respuesta hasta el lunes, y entonces empieza la ronda de llamadas."
+    ],
+    "recomendacion": {
+      "vista": "whatsapp",
+      "titulo": "Que vuestro WhatsApp reserve la cita.",
+      "texto": "Ya tenéis el WhatsApp flotante en la web. El asistente responde las dudas del día a día (horarios, cómo llegar, qué incluye la primera visita), reserva, cambia y cancela citas, envía recordatorios y confirma la asistencia, y avisa al equipo si es una urgencia. Pregunta el tratamiento, igual que vuestro formulario, y deja la cita reservada con el especialista que toca. Lo clínico sigue siendo cosa de el Dr. Rodríguez-Bronchú y su equipo."
+    },
+    "pregunta": "¿Cuántas llamadas hacéis cada lunes a quien rellenó el formulario el fin de semana?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ VALENCIA, 33 · L'ELIANA",
+    "telefono": "961 952 037",
+    "telefonos": "961 952 037 · 691 745 132",
+    "direccion": "C/ Valencia, 33, bajo · 46183 L'Eliana (Valencia)",
+    "marca": "RB",
+    "submarca": "CLÍNICA ODONTOLÓGICA",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "CLÍNICA DENTAL EN L'ELIANA",
+    "heroTitulo": "Tu clínica dental",
+    "heroDestacado": "en L'Eliana.",
+    "heroTexto": "Revisiones, estética, implantes, ortodoncia y odontopediatría con un equipo de especialistas. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pide tu cita",
+    "frase": "Un equipo de especialistas, cerca de casa.",
+    "nota": "En el centro de L'Eliana.",
+    "fotoEtiqueta": "EL EQUIPO DE RB",
+    "fotoTitulo": "Especialistas en cada tratamiento.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Un equipo amplio.",
+    "equipoTexto": "El Dr. Javier Rodríguez-Bronchú dirige un equipo con especialistas en estética, implantes, prótesis, ortodoncia, endodoncia y odontopediatría.",
+    "valores": [
+      [
+        "Especialistas.",
+        "Cada área, su experto."
+      ],
+      [
+        "Cercanía.",
+        "En L'Eliana."
+      ],
+      [
+        "Tecnología.",
+        "Diagnóstico digital."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Luz y calma.",
+    "galeriaDestacado": "En L'Eliana.",
+    "pies": [
+      "La sala de espera",
+      "Uno de los gabinetes"
+    ],
+    "servicios": [
+      "Revisión dental",
+      "Estética dental",
+      "Implantes dentales",
+      "Ortodoncia",
+      "Endodoncia",
+      "Odontopediatría"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "De lunes a jueves de 9:30 a 13:30 y de 15:00 a 19:30; viernes de 9:30 a 15:00."
+      ],
+      [
+        "¿Atendéis a niños?",
+        "Sí, tenemos odontopediatría."
+      ],
+      [
+        "¿Puedo pedir cita por WhatsApp?",
+        "Sí. Escríbenos y la dejamos reservada en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión dental",
+      "Implantes",
+      "Ortodoncia",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en L'Eliana",
+    "notaDiseno": "El azul de Rb, su equipo y un WhatsApp que reserva sin esperar la llamada.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "16:30",
+        "18:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "17:00",
+        "18:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30"
+      ]
+    },
+    "horario": [
+      "Lunes a jueves: 9:30–13:30 y 15:00–19:30",
+      "Viernes: 9:30–15:00"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 130
+    }
+  }
+}

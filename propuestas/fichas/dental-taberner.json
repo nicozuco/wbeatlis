@@ -1,0 +1,166 @@
+{
+  "slug": "dental-taberner",
+  "numero": 187,
+  "tanda": 3,
+  "clinica": {
+    "nombre": "Clínica Dental Taberner",
+    "nombreCorto": "Dental Taberner",
+    "dominio": "clinicadentaltaberner.com",
+    "web": "https://www.clinicadentaltaberner.com/",
+    "contacto": "https://www.clinicadentaltaberner.com/contacto/",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#1c8fc9",
+    "tinta": "#16252d",
+    "profundo": "#193543",
+    "suave": "#eff7fb",
+    "borde": "#d8ecf6",
+    "calido": "#5a6f7d",
+    "calidoSuave": "#eef1f2"
+  },
+  "fotos": {
+    "principal": "https://www.clinicadentaltaberner.com/wp-content/uploads/2016/07/Galeri%CC%81a-Cli%CC%81nica-Taberner-5.jpg",
+    "clinica1": "https://www.clinicadentaltaberner.com/wp-content/uploads/2016/07/Galeri%CC%81a-Cli%CC%81nica-Taberner-1.jpg",
+    "clinica2": "https://www.clinicadentaltaberner.com/wp-content/uploads/2016/07/Galeri%CC%81a-Cli%CC%81nica-Taberner-3.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ EMILIO BARÓ, 9 · BENIMACLET",
+    "titulo": [
+      "«Servicio de urgencias 24 horas»,",
+      "dice vuestra web. Y el formulario no pide el teléfono."
+    ],
+    "intro": "Una clínica en Benimaclet con un 5 de 5 en Google, diagnóstico gratuito, atención en castellano, valenciano o inglés y trato de persona a persona. Proponemos que pedir cita sea igual de cercano: con día y hora, en el momento.",
+    "hallazgos": [
+      "El título de vuestra web anuncia «Servicio urgencias 24 horas», pero no hay WhatsApp, y el único formulario pide nombre, email, asunto y mensaje: sin teléfono, una urgencia no tiene cómo avisaros.",
+      "Vuestro horario de mañanas es solo lunes, jueves y viernes: el martes y el miércoles por la mañana, quien llama no encuentra a nadie.",
+      "Según vuestro horario en Google, del viernes a las 17:00 al lunes a las 9:00 pasan 64 horas con la clínica cerrada."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Un asistente que atiende también las urgencias.",
+      "texto": "Un asistente en vuestra web, que no cierra nunca, que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Detecta si es una urgencia y, si lo es, avisa al equipo al momento con el teléfono del paciente. Y el mismo asistente puede atender en WhatsApp. Lo clínico sigue siendo cosa de vuestro equipo."
+    },
+    "pregunta": "¿Cómo os llegan hoy las urgencias de un sábado por la noche?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ EMILIO BARÓ, 9 · BENIMACLET",
+    "telefono": "961 071 797",
+    "telefonos": "961 071 797",
+    "direccion": "C/ Emilio Baró, 9 · 46020 Valencia",
+    "marca": "TABERNER",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "La clínica",
+    "heroEtiqueta": "CLÍNICA DENTAL EN BENIMACLET",
+    "heroTitulo": "Nos preocupamos",
+    "heroDestacado": "por tu sonrisa.",
+    "heroTexto": "Diagnóstico gratuito, presupuestos sin compromiso y trato de persona a persona. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Pedir cita",
+    "frase": "Un horario flexible y sin esperas.",
+    "nota": "Atención en castellano, valenciano o inglés.",
+    "fotoEtiqueta": "CLÍNICA DENTAL TABERNER",
+    "fotoTitulo": "Trato de persona a persona.",
+    "cifra": "5,0",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Especialistas en prótesis sobre implantes.",
+    "equipoTexto": "Un equipo profesional con todas las especialidades, ortopantomografía instantánea en la clínica y financiación a medida para cada tratamiento.",
+    "valores": [
+      [
+        "Gratis.",
+        "Diagnóstico sin coste."
+      ],
+      [
+        "Flexible.",
+        "Horario y financiación."
+      ],
+      [
+        "Cercano.",
+        "De persona a persona."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "Blanca y luminosa.",
+    "galeriaDestacado": "Junto al metro de Benimaclet.",
+    "pies": [
+      "Uno de los gabinetes",
+      "La consulta"
+    ],
+    "servicios": [
+      "Odontología general",
+      "Cirugía e implantes",
+      "Prótesis y ATM",
+      "Ortodoncia",
+      "Odontopediatría",
+      "Estética dental"
+    ],
+    "faq": [
+      [
+        "¿Qué horario tenéis?",
+        "Mañanas: lunes, jueves y viernes de 9:00 a 13:00. Tardes: de lunes a viernes de 16:00 a 20:00."
+      ],
+      [
+        "¿El diagnóstico tiene coste?",
+        "No. El diagnóstico es gratuito y los presupuestos, sin compromiso."
+      ],
+      [
+        "¿Cómo llego?",
+        "En metro, líneas 3, 4, 6 y 9, estación Benimaclet."
+      ]
+    ],
+    "motivos": [
+      "Diagnóstico gratuito",
+      "Revisión",
+      "Urgencia",
+      "Implantes",
+      "Ortodoncia"
+    ],
+    "pieMarca": "Clínica dental en Benimaclet",
+    "notaDiseno": "El azul de Taberner, su clínica luminosa y un asistente que atiende también cuando la clínica está cerrada.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "16:30",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "17:30",
+        "19:00"
+      ],
+      "viernes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "18:00",
+        "19:30"
+      ]
+    },
+    "horario": [
+      "Mañanas: lunes, jueves y viernes, 9:00–13:00",
+      "Tardes: lunes a viernes, 16:00–20:00"
+    ],
+    "valoracion": {
+      "nota": "5,0",
+      "resenas": 146
+    }
+  }
+}
