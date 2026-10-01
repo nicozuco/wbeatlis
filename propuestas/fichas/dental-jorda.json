@@ -1,0 +1,170 @@
+{
+  "slug": "dental-jorda",
+  "numero": 611,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Dental Jordá",
+    "nombreCorto": "Dental Jordá",
+    "dominio": "dentaljorda.com",
+    "web": "http://www.dentaljorda.com/",
+    "contacto": "http://www.dentaljorda.com/presupuestos_dentistas.php",
+    "decisor": ""
+  },
+  "colores": {
+    "acento": "#3b4a8f",
+    "tinta": "#161a2d",
+    "profundo": "#1b2241",
+    "suave": "#f1f2f7",
+    "borde": "#dee0ec",
+    "calido": "#8fb8d8",
+    "calidoSuave": "#f4f8fb"
+  },
+  "fotos": {
+    "principal": "https://dentaljorda.com/images/clinica-dental-jorda-2022-alicante-1-1280.jpg",
+    "clinica1": "https://dentaljorda.com/images/clinica-dental-jorda-2022-alicante-3-1280.jpg",
+    "clinica2": "https://dentaljorda.com/images/clinica-dental-jorda-2022-alicante-4-1280.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "AVINGUDA DE L'ESTACIÓ, 4 · ALICANTE",
+    "titulo": [
+      "Vuestra web dice que el viernes cerráis a las 18:00.",
+      "Google Maps dice que a las 21:00."
+    ],
+    "intro": "Una clínica dental en Alicante con 20 años de experiencia, tu dentista de confianza, con rehabilitación oral, implantes, estética dental y ortodoncia invisible, y un 4,7 en Google. Proponemos que «Concertar cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El horario de la web es «Viernes: 9:00 - 18:00h» (y martes y jueves hasta las 18:00), mientras que Google Maps cierra el viernes a las 21:00: el paciente no sabe cuál de las dos horas es la buena.",
+      "«Concertar cita» lleva a una página de presupuestos con un formulario de nombre, teléfono, correo, ciudad y mensaje, sin elegir día ni hora.",
+      "Según Google Maps cerráis el viernes a las 21:00 y no abrís hasta el lunes a las 9:00: 60 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Concertar cita» reserve de verdad.",
+      "texto": "La web no ofrece WhatsApp. Proponemos uno, para que la cita quede reservada con día y hora en la misma conversación. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dental Jordá."
+    },
+    "pregunta": "¿Cuántos pacientes llegan un viernes por la tarde y se encuentran la clínica cerrada?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "AVINGUDA DE L'ESTACIÓ, 4 · ALICANTE",
+    "telefono": "966 235 885",
+    "telefonos": "966 235 885",
+    "direccion": "Av. de la Estación, 4, entresuelo · 03005 Alicante",
+    "marca": "DENTAL JORDÁ",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU DENTISTA DE CONFIANZA EN ALICANTE",
+    "heroTitulo": "Expertos",
+    "heroDestacado": "odontólogos.",
+    "heroTexto": "Una clínica dental en Alicante con 20 años de experiencia. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Concertar cita",
+    "frase": "Tu dentista de confianza.",
+    "nota": "20 años en Alicante.",
+    "fotoEtiqueta": "DENTAL JORDÁ",
+    "fotoTitulo": "Una clínica luminosa en Alicante.",
+    "cifra": "4,7",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "Expertos odontólogos.",
+    "equipoTexto": "Un equipo con rehabilitación oral, periodoncia, endodoncia, prótesis y cirugía dental, en la avenida de la Estación.",
+    "valores": [
+      [
+        "20 años.",
+        "De experiencia."
+      ],
+      [
+        "Implantes.",
+        "Y rehabilitación oral."
+      ],
+      [
+        "Ortodoncia.",
+        "Invisible."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Alicante.",
+    "pies": [
+      "La recepción",
+      "La clínica"
+    ],
+    "servicios": [
+      "Rehabilitación oral",
+      "Implantes dentales",
+      "Estética dental",
+      "Carillas dentales",
+      "Ortodoncia",
+      "Cirugía dental"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la avenida de la Estación, 4, entresuelo, en Alicante."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Escríbenos en la web y la dejamos reservada, con día y hora, en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Alicante",
+    "notaDiseno": "El azul de Dental Jordá, su recepción de mármol y un viernes con una sola hora de cierre.",
+    "huecos": {
+      "lunes": [
+        "9:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "20:30"
+      ],
+      "martes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00"
+      ],
+      "miercoles": [
+        "9:00",
+        "12:00",
+        "16:00",
+        "17:30",
+        "20:30"
+      ],
+      "jueves": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00"
+      ],
+      "viernes": [
+        "9:00",
+        "10:30",
+        "12:00",
+        "15:00",
+        "16:30"
+      ]
+    },
+    "horario": [
+      "Lunes y miércoles: 9:00 a 14:00 y 16:00 a 21:30",
+      "Martes, jueves y viernes: 9:00 a 18:00"
+    ],
+    "valoracion": {
+      "nota": "4,7",
+      "resenas": 125
+    }
+  }
+}

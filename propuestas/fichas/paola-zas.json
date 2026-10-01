@@ -1,0 +1,167 @@
+{
+  "slug": "paola-zas",
+  "numero": 607,
+  "tanda": 4,
+  "clinica": {
+    "nombre": "Dentista Dra. Paola Zas",
+    "nombreCorto": "Dra. Paola Zas",
+    "dominio": "doctorapaolazas.com",
+    "web": "https://www.doctorapaolazas.com/",
+    "contacto": "https://www.doctorapaolazas.com/#contacto",
+    "decisor": "Dra. Paola Zas"
+  },
+  "colores": {
+    "acento": "#3d7a80",
+    "tinta": "#162b2d",
+    "profundo": "#1e3b3e",
+    "suave": "#f1f6f6",
+    "borde": "#dee8e9",
+    "calido": "#c7a26b",
+    "calidoSuave": "#f9f6f0"
+  },
+  "fotos": {
+    "principal": "https://doctorapaolazas.com/wp-content/uploads/2021/04/fondo-paola-zas00.jpg",
+    "clinica1": "https://doctorapaolazas.com/wp-content/uploads/2021/04/fondo-paola-zas05.jpg",
+    "clinica2": "https://doctorapaolazas.com/wp-content/uploads/2021/04/financiacio%CC%81n_.jpg"
+  },
+  "propuesta": {
+    "etiqueta": "C/ MESTRE ALBÉNIZ, 6 · ELCHE",
+    "titulo": [
+      "«Reserva tu cita» lleva a un formulario",
+      "de tres campos: nombre, correo y mensaje."
+    ],
+    "intro": "Una clínica dental con estilo en Elche, con la Dra. Paola Zas, tratamientos de alta calidad y nuevas tecnologías, y un 4,9 en Google con 130 reseñas. Proponemos que «Reserva tu cita» la deje reservada, con día y hora.",
+    "hallazgos": [
+      "El formulario de «Reserva tu cita» solo pide nombre, correo y mensaje: ni teléfono, ni día, ni hora, así que cada solicitud acaba en un correo que alguien tiene que contestar.",
+      "La web no tiene WhatsApp: el único camino además del formulario es llamar al 966 17 12 90, que en la web se muestra como enlace de llamada.",
+      "Según Google Maps cerráis el viernes a las 14:00 y no abrís hasta el lunes a las 10:00: 68 horas seguidas sin nadie que conteste."
+    ],
+    "recomendacion": {
+      "vista": "web",
+      "titulo": "Que «Reserva tu cita» reserve de verdad.",
+      "texto": "Ya tenéis el teléfono 966 17 12 90 y un formulario en la web. que responde las dudas del día a día, enseña los huecos libres y deja la cita reservada con día y hora, también fuera de horario. Contesta al momento, también fuera de horario, resuelve las dudas y deja la cita reservada con día y hora. Lo clínico sigue siendo cosa de el equipo de Dra. Paola Zas."
+    },
+    "pregunta": "¿Cuántas solicitudes del formulario esperan respuesta hasta el día siguiente?",
+    "tema": "primera visita"
+  },
+  "web": {
+    "estilo": "panoramica",
+    "contactoTitulo": "Pide tu cita.",
+    "contactoTexto": "Elige el motivo, el día y la hora y queda reservada al momento, sin llamadas ni esperas.",
+    "faqTitulo": "Antes de venir.",
+    "topline": "C/ MESTRE ALBÉNIZ, 6 · ELCHE",
+    "telefono": "966 171 290",
+    "telefonos": "966 171 290",
+    "direccion": "C/ Mestre Albéniz, 6 · 03202 Elche (Alicante)",
+    "marca": "DRA. PAOLA ZAS",
+    "submarca": "CLÍNICA DENTAL",
+    "menuEquipo": "Equipo",
+    "heroEtiqueta": "TU DENTISTA EN ELCHE",
+    "heroTitulo": "Creamos",
+    "heroDestacado": "tu sonrisa.",
+    "heroTexto": "Calidad odontológica en un espacio diferente. Elige día y hora y tu cita queda reservada.",
+    "ctaHero": "Reserva tu cita",
+    "frase": "Una clínica dental, pero con estilo.",
+    "nota": "Un espacio cálido en Elche.",
+    "fotoEtiqueta": "DRA. PAOLA ZAS",
+    "fotoTitulo": "Calidad odontológica en un espacio diferente.",
+    "cifra": "4,9",
+    "cifraEtiqueta": "DE VALORACIÓN EN GOOGLE",
+    "equipoTitulo": "La Dra. Paola Zas.",
+    "equipoTexto": "Licenciada y doctorada, la Dra. Paola Zas atiende en un espacio cálido pensado para que te sientas como en casa.",
+    "valores": [
+      [
+        "Alta calidad.",
+        "Y nuevas tecnologías."
+      ],
+      [
+        "Un espacio cálido.",
+        "Una clínica con estilo."
+      ],
+      [
+        "Financiación.",
+        "A medida."
+      ]
+    ],
+    "galeriaEtiqueta": "LA CLÍNICA",
+    "galeriaTitulo": "En el centro",
+    "galeriaDestacado": "de Elche.",
+    "pies": [
+      "La sala de espera",
+      "La recepción"
+    ],
+    "servicios": [
+      "Endodoncia microscópica",
+      "Periodoncia",
+      "Implantología",
+      "Blanqueamiento dental",
+      "Odontopediatría",
+      "Ortodoncia"
+    ],
+    "faq": [
+      [
+        "¿Dónde estáis?",
+        "En la calle Mestre Albéniz, 6, en Elche."
+      ],
+      [
+        "¿Cómo pido cita?",
+        "Eligiendo día y hora aquí mismo: la cita queda reservada en el momento."
+      ],
+      [
+        "¿Puedo pedir cita sin llamar?",
+        "Sí. Escríbenos en la web y la dejamos reservada, con día y hora, en la misma conversación."
+      ]
+    ],
+    "motivos": [
+      "Primera visita",
+      "Revisión y limpieza",
+      "Ortodoncia",
+      "Implantes",
+      "Urgencia"
+    ],
+    "pieMarca": "Clínica dental en Elche",
+    "notaDiseno": "El verde azulado y el dorado de la Dra. Zas, su espacio cálido y una cita con día y hora desde el primer mensaje.",
+    "huecos": {
+      "lunes": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "martes": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "miercoles": [
+        "9:30",
+        "11:00",
+        "12:30",
+        "17:30",
+        "19:00"
+      ],
+      "jueves": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "18:00",
+        "19:30"
+      ],
+      "viernes": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "horario": [
+      "Lunes a viernes, con cita previa"
+    ],
+    "valoracion": {
+      "nota": "4,9",
+      "resenas": 130
+    }
+  }
+}
